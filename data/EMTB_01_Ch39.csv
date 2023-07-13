@@ -1,0 +1,360 @@
+NewQuestion,MC,
+Title,,
+QuestionText,Extrication is defined as:,
+Points,1,
+Difficulty,1,
+Option,0,a) using heavy equipment to access a patient.
+Option,0,b) dismantling an automobile to remove a victim.
+Option,100,c) removal from a dangerous situation or position.
+Option,0,d) immobilizing a patient before moving him or her.
+Hint,"Complexity: Easy			Ahead: Fundamentals of Extrication			Subject:Vehicle Extrication and Special Rescue, Page 1465			Title: Vehicle Extrication and Special Rescue			Feedback: See Fundamentals of Extrication			Taxonomy: Recall			Objective: 39-4 Define the terms extrication and entrapment.",
+NewQuestion,MC,
+Title,,
+QuestionText,Your primary concern when arriving at the scene of a motor vehicle crash is:,
+Points,1,
+Difficulty,1,
+Option,0,a) gaining access to the patient(s).
+Option,0,b) requesting additional resources.
+Option,0,c) immediately beginning triage.
+Option,100,d) surveying the area for hazards.
+Hint,"Complexity: Easy			Ahead: Fundamentals of Extrication			Subject:Vehicle Extrication and Special Rescue, Page 1465			Title: Vehicle Extrication and Special Rescue			Feedback: See Fundamentals of Extrication			Taxonomy: Recall			Objective: 39-1 Explain the responsibilities of an EMT in patient rescue and vehicle extrication.",
+NewQuestion,MC,
+Title,,
+QuestionText,The scene size-up at a motor vehicle crash or other incident:,
+Points,1,
+Difficulty,1,
+Option,100,a) is an ongoing process until the incident is terminated.
+Option,0,b) should be performed by the most experienced EMT.
+Option,0,c) is a quick visual assessment of the scene prior to entry.
+Option,0,d) determines who is allowed to safely enter the hot zone.
+Hint,"Complexity: Easy			Ahead: Fundamentals of Extrication			Subject:Vehicle Extrication and Special Rescue, Page 1467			Title: Vehicle Extrication and Special Rescue			Feedback: See Fundamentals of Extrication			Taxonomy: Recall			Objective: 39-2 Discuss how to ensure safety at the scene of a rescue incident, including scene size-up and the selection of the proper personal protective equipment and additional necessary gear.",
+NewQuestion,MC,
+Title,,
+QuestionText,Situational awareness is most accurately defined as:,
+Points,1,
+Difficulty,1,
+Option,0,a) an ongoing process of information gathering and scene evaluation to determine appropriate strategies and tactics.
+Option,100,b) the ability to recognize any possible issues once you arrive at the scene and act proactively to avoid a negative impact.
+Option,0,c) predicting the presence of certain hazards at the scene after receiving initial information from the dispatcher.
+Option,0,d) performing an initial scan of the scene to identify hazards that will pose an immediate threat to you and your crew.
+Hint,"Complexity: Easy			Ahead: Fundamentals of Extrication			Subject:Vehicle Extrication and Special Rescue, Page 1468			Title: Vehicle Extrication and Special Rescue			Feedback: See Fundamentals of Extrication			Taxonomy: Recall			Objective: 39-2 Discuss how to ensure safety at the scene of a rescue incident, including scene size-up and the selection of the proper personal protective equipment and additional necessary gear.",
+NewQuestion,MC,
+Title,,
+QuestionText,"Upon arriving at the scene of a motor vehicle crash, you can see three patients, one who is entrapped in his car and two who have been ejected from their vehicle. You should:",
+Points,1,
+Difficulty,1,
+Option,0,a) begin triage to determine injury severity.
+Option,0,b) call medical control for further direction.
+Option,100,c) immediately request additional resources.
+Option,0,d) request law enforcement for traffic control.
+Hint,"Complexity: Difficult			Ahead: Fundamentals of Extrication			Subject:Vehicle Extrication and Special Rescue, Page 1468			Title: Vehicle Extrication and Special Rescue			Feedback: See Fundamentals of Extrication			Taxonomy: Application			Objective: 39-2 Discuss how to ensure safety at the scene of a rescue incident, including scene size-up and the selection of the proper personal protective equipment and additional necessary gear.",
+NewQuestion,MC,
+Title,,
+QuestionText,"To evaluate hazards present at the scene and determine the number of patients, you should:",
+Points,1,
+Difficulty,1,
+Option,0,a) request the fire department at all scenes.
+Option,100,b) perform a 360° walkaround of the scene.
+Option,0,c) use the information provided by dispatch.
+Option,0,d) interview bystanders present at the scene.
+Hint,"Complexity: Moderate			Ahead: Fundamentals of Extrication			Subject:Vehicle Extrication and Special Rescue, Page 1468			Title: Vehicle Extrication and Special Rescue			Feedback: See Fundamentals of Extrication			Taxonomy: Application			Objective: 39-6 Discuss the various factors related to ensuring situational safety at the site of a vehicle extrication, including controlling traffic flow, performing a 360° assessment, stabilizing the vehicle, dealing with unique hazards, and evaluating the need for additional resources.",
+NewQuestion,MC,
+Title,,
+QuestionText,"When functioning at the scene of a motor vehicle crash in which a patient will require complex extrication, you should enter the vehicle and provide care to the patient:",
+Points,1,
+Difficulty,1,
+Option,0,a) only if the patient has experienced a major injury.
+Option,0,b) after rescue personnel have cut the battery cables.
+Option,100,c) after receiving approval from the incident commander.
+Option,0,d) only after you believe the vehicle has been stabilized.
+Hint,"Complexity: Moderate			Ahead: Fundamentals of Extrication			Subject:Vehicle Extrication and Special Rescue, Page 1469			Title: Vehicle Extrication and Special Rescue			Feedback: See Fundamentals of Extrication			Taxonomy: Application			Objective: 39-3 Describe examples of vehicle safety components that may be hazardous to both EMTs and patients following a collision and how to mitigate their dangers.",
+NewQuestion,MC,
+Title,,
+QuestionText,_____________ is defined as the ability to reach the patient.,
+Points,1,
+Difficulty,1,
+Option,100,a) Access
+Option,0,b) Rescue
+Option,0,c) Extrication
+Option,0,d) Disentanglement
+Hint,"Complexity: Moderate			Ahead: Fundamentals of Extrication			Subject:Vehicle Extrication and Special Rescue, Page 1470			Title: Vehicle Extrication and Special Rescue			Feedback: See Fundamentals of Extrication			Taxonomy: Recall			Objective: 39-5 Describe the 10 phases of vehicle extrication and the role of the EMT during each one.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following is a typical function of the rescue team?,
+Points,1,
+Difficulty,1,
+Option,0,a) Initial triage and patient prioritization
+Option,0,b) Shutting off power to downed electrical lines
+Option,100,c) Providing safe entry and access to patients
+Option,0,d) Providing emergency care during extrication
+Hint,"Complexity: Easy			Ahead: Fundamentals of Extrication			Subject:Vehicle Extrication and Special Rescue, Page 1469			Title: Vehicle Extrication and Special Rescue			Feedback: See Fundamentals of Extrication			Taxonomy: Recall			Objective: 39-2 Discuss how to ensure safety at the scene of a rescue incident, including scene size-up and the selection of the proper personal protective equipment and additional necessary gear.",
+NewQuestion,MC,
+Title,,
+QuestionText,"Common duties and responsibilities of EMS personnel at the scene of a motor vehicle crash include all of the following, except:",
+Points,1,
+Difficulty,1,
+Option,100,a) keeping bystanders at a safe distance.
+Option,0,b) assigning all patients a triage category.
+Option,0,c) preparing all patients for transportation.
+Option,0,d) ongoing assessment of critical patients.
+Hint,"Complexity: Moderate			Ahead: Fundamentals of Extrication			Subject:Vehicle Extrication and Special Rescue, Page 1466			Title: Vehicle Extrication and Special Rescue			Feedback: See Fundamentals of Extrication			Taxonomy: Application			Objective: 39-1 Explain the responsibilities of an EMT in patient rescue and vehicle extrication.",
+NewQuestion,MC,
+Title,,
+QuestionText,A unique consideration when dealing with a hybrid vehicle is that:,
+Points,1,
+Difficulty,1,
+Option,0,a) you must locate the ignition switch and cut it to prevent a fire.
+Option,0,b) cutting the battery cables often results in an explosion or fire.
+Option,0,c) rescue teams should disconnect the positive battery cable first.
+Option,100,d) the battery has higher voltage than a traditional vehicle battery.
+Hint,"Complexity: Moderate			Ahead: Fundamentals of Extrication			Subject:Vehicle Extrication and Special Rescue, Page 1470			Title: Vehicle Extrication and Special Rescue			Feedback: See Fundamentals of Extrication			Taxonomy: Recall			Objective: 39-6 Discuss the various factors related to ensuring situational safety at the site of a vehicle extrication, including controlling traffic flow, performing a 360° assessment, stabilizing the vehicle, dealing with unique hazards, and evaluating the need for additional resources.",
+NewQuestion,MC,
+Title,,
+QuestionText,"The rescue team is in the process of extricating a 40-year-old male from his truck. The patient’s wife, who was uninjured in the crash, is calmly observing the extrication and asks you if her husband will be all right. You should:",
+Points,1,
+Difficulty,1,
+Option,100,"a) ensure that she is in a safe area, away from the scene."
+Option,0,b) allow her to observe the extrication and keep her calm.
+Option,0,c) ask her follow-up questions about the details of the crash.
+Option,0,d) allow her to talk to her husband during the extrication.
+Hint,"Complexity: Difficult			Ahead: Fundamentals of Extrication			Subject:Vehicle Extrication and Special Rescue, Page 1469			Title: Vehicle Extrication and Special Rescue			Feedback: See Fundamentals of Extrication			Taxonomy: Application			Objective: 39-6 Discuss the various factors related to ensuring situational safety at the site of a vehicle extrication, including controlling traffic flow, performing a 360° assessment, stabilizing the vehicle, dealing with unique hazards, and evaluating the need for additional resources.",
+NewQuestion,MC,
+Title,,
+QuestionText,"When determining the exact location and position of the patient(s) in a wrecked vehicle, you and your team should routinely consider all of the following, except:",
+Points,1,
+Difficulty,1,
+Option,0,a) the position of the crashed vehicle.
+Option,0,b) hazards that pose a risk to rescuers.
+Option,100,c) the make and model of the vehicle.
+Option,0,d) the possibility of vehicle instability.
+Hint,"Complexity: Easy			Ahead: Fundamentals of Extrication			Subject:Vehicle Extrication and Special Rescue, Page 1471			Title: Vehicle Extrication and Special Rescue			Feedback: See Fundamentals of Extrication			Taxonomy: Recall			Objective: 39-6 Discuss the various factors related to ensuring situational safety at the site of a vehicle extrication, including controlling traffic flow, performing a 360° assessment, stabilizing the vehicle, dealing with unique hazards, and evaluating the need for additional resources.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following statements regarding the rapid extrication technique is correct?,
+Points,1,
+Difficulty,1,
+Option,0,a) The only indication for performing a rapid extrication is if the patient is not entrapped and is in cardiac arrest.
+Option,0,b) Rapid extrication involves the use of heavy equipment to disentangle a patient from his or her crashed vehicle.
+Option,0,c) It involves rapidly removing a patient from his or her vehicle after immobilizing him or her with a short backboard.
+Option,100,d) Rapid extrication is indicated if the scene is unsafe and the patient is not entrapped in his or her vehicle.
+Hint,"Complexity: Moderate			Ahead: Fundamentals of Extrication			Subject:Vehicle Extrication and Special Rescue, Page 1474			Title: Vehicle Extrication and Special Rescue			Feedback: See Fundamentals of Extrication			Taxonomy: Recall			Objective: 39-10 Discuss patient care considerations related to assisting with rapid extrication, providing emergency care to a trapped patient, and removing and transferring a patient.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following is the best example of gaining simple access to a patient?,
+Points,1,
+Difficulty,1,
+Option,0,a) Using a pry bar to open a damaged door
+Option,100,b) Entering a vehicle through an open window
+Option,0,c) Breaking glass to gain access to the patient
+Option,0,d) Removing the roof to access a critical patient
+Hint,"Complexity: Easy			Ahead: Fundamentals of Extrication			Subject:Vehicle Extrication and Special Rescue, Page 1472			Title: Vehicle Extrication and Special Rescue			Feedback: See Fundamentals of Extrication			Taxonomy: Application			Objective: 39-9 Explain the difference between simple access and complex access in vehicle extrication.",
+NewQuestion,MC,
+Title,,
+QuestionText,"You are attempting to gain access to a patient who was injured when his truck struck another vehicle from behind. The patient is conscious and alert but is screaming in pain. You try to open the door, but it is locked. You should:",
+Points,1,
+Difficulty,1,
+Option,0,a) break the window and unlock the door.
+Option,100,b) ask the patient if he can unlock the door.
+Option,0,c) request the rescue team to extricate him.
+Option,0,d) use a pry bar to attempt to open the door.
+Hint,"Complexity: Moderate			Ahead: Fundamentals of Extrication			Subject:Vehicle Extrication and Special Rescue, Page 1472			Title: Vehicle Extrication and Special Rescue			Feedback: See Fundamentals of Extrication			Taxonomy: Application			Objective: 39-9 Explain the difference between simple access and complex access in vehicle extrication.",
+NewQuestion,MC,
+Title,,
+QuestionText,"In contrast to simple access, complex access:",
+Points,1,
+Difficulty,1,
+Option,100,a) involves forcible entry into a vehicle.
+Option,0,b) is a skill commonly taught to EMTs.
+Option,0,c) does not involve the breaking of glass.
+Option,0,d) often involves simply unlocking a door.
+Hint,"Complexity: Easy			Ahead: Fundamentals of Extrication			Subject:Vehicle Extrication and Special Rescue, Page 1472			Title: Vehicle Extrication and Special Rescue			Feedback: See Fundamentals of Extrication			Taxonomy: Application			Objective: 39-9 Explain the difference between simple access and complex access in vehicle extrication.",
+NewQuestion,MC,
+Title,,
+QuestionText,"Once entrance and access to the patient have been provided, you should:",
+Points,1,
+Difficulty,1,
+Option,0,a) allow extrication to commence.
+Option,100,b) perform a primary assessment.
+Option,0,c) administer high-flow oxygen.
+Option,0,d) begin treating his or her injuries.
+Hint,"Complexity: Moderate			Ahead: Fundamentals of Extrication			Subject:Vehicle Extrication and Special Rescue, Page 1473			Title: Vehicle Extrication and Special Rescue			Feedback: See Fundamentals of Extrication			Taxonomy: Recall			Objective: 39-5 Describe the 10 phases of vehicle extrication and the role of the EMT during each one.",
+NewQuestion,MC,
+Title,,
+QuestionText,"A 50-year-old female is entrapped in her passenger car after it struck a tree. As the rescue team is preparing to extricate her, you quickly assess her and determine that she is breathing shallowly and her radial pulse is absent. You should:",
+Points,1,
+Difficulty,1,
+Option,100,a) maintain spinal stabilization as she is extricated.
+Option,0,b) secure her with a short backboard or vest device.
+Option,0,c) stabilize her condition before extrication begins.
+Option,0,d) begin CPR as the rescue team begins extrication.
+Hint,"Complexity: Difficult			Ahead: Fundamentals of Extrication			Subject:Vehicle Extrication and Special Rescue, Page 1474			Title: Vehicle Extrication and Special Rescue			Feedback: See Fundamentals of Extrication			Taxonomy: Application			Objective: 39-7 Describe the special precautions the EMT should follow to protect the patient during a vehicle extrication.",
+NewQuestion,MC,
+Title,,
+QuestionText,"A 19-year-old female has just been extricated from her severely damaged car. She is on a long backboard and has been moved to a place of safety. As your partner maintains manual stabilization of her head, you perform a rapid assessment. The patient is unresponsive, has slow and shallow respirations, and has bilateral closed femur deformities. You should:",
+Points,1,
+Difficulty,1,
+Option,0,a) stabilize her legs with long board splints.
+Option,0,b) apply oxygen via a nonrebreathing mask.
+Option,0,c) obtain baseline vital signs and transport at once.
+Option,100,d) direct your partner to begin ventilatory assistance.
+Hint,"Complexity: Moderate			Ahead: Fundamentals of Extrication			Subject:Vehicle Extrication and Special Rescue, Page 1474			Title: Vehicle Extrication and Special Rescue			Feedback: See Fundamentals of Extrication			Taxonomy: Analysis			Objective: 39-7 Describe the special precautions the EMT should follow to protect the patient during a vehicle extrication.",
+NewQuestion,MC,
+Title,,
+QuestionText,Disentanglement involves:,
+Points,1,
+Difficulty,1,
+Option,100,a) removing a patient from a dangerous position.
+Option,0,b) the use of simple access tools such as a pry bar.
+Option,0,c) extrication techniques that EMTs are trained in.
+Option,0,d) gaining access to a patient in a crashed vehicle.
+Hint,"Complexity: Easy			Ahead: Fundamentals of Extrication			Subject:Vehicle Extrication and Special Rescue, Page 1465			Title: Vehicle Extrication and Special Rescue			Feedback: See Fundamentals of Extrication			Taxonomy: Recall			Objective: 39-4 Define the terms extrication and entrapment.",
+NewQuestion,MC,
+Title,,
+QuestionText,"A 33-year-old restrained driver of a motor vehicle crash is awake and alert, complaining only of neck pain and left leg pain. The vehicle is stable, and no hazards are present. When removing this patient from his vehicle, you should:",
+Points,1,
+Difficulty,1,
+Option,0,a) use the rapid extrication technique.
+Option,100,b) immobilize him with a vest-style device.
+Option,0,c) maintain slight traction to his neck area.
+Option,0,d) apply a full leg splint prior to extrication.
+Hint,"Complexity: Difficult			Ahead: Fundamentals of Extrication			Subject:Vehicle Extrication and Special Rescue, Page 1474			Title: Vehicle Extrication and Special Rescue			Feedback: See Fundamentals of Extrication			Taxonomy: Application			Objective: 39-5 Describe the 10 phases of vehicle extrication and the role of the EMT during each one.",
+NewQuestion,MC,
+Title,,
+QuestionText,"As you and your team are removing an unresponsive patient from her wrecked car, you note that she has deformities to both of her legs and a deformity to her left humerus. You should:",
+Points,1,
+Difficulty,1,
+Option,0,a) realign the deformed extremities before continuing.
+Option,0,b) splint the deformities before moving her any further.
+Option,100,c) support the injured extremities and continue removal.
+Option,0,d) assess distal neurovascular functions in her extremities.
+Hint,"Complexity: Difficult			Ahead: Fundamentals of Extrication			Subject:Vehicle Extrication and Special Rescue, Page 1476			Title: Vehicle Extrication and Special Rescue			Feedback: See Fundamentals of Extrication			Taxonomy: Application			Objective: 39-5 Describe the 10 phases of vehicle extrication and the role of the EMT during each one.",
+NewQuestion,MC,
+Title,,
+QuestionText,"When removing a critically injured patient from his or her vehicle, you should:",
+Points,1,
+Difficulty,1,
+Option,0,a) remove him or her using a short backboard.
+Option,0,"b) move him or her in one fast, continuous step."
+Option,100,c) protect the cervical spine during the entire process.
+Option,0,d) release c-spine control to facilitate rapid removal.
+Hint,"Complexity: Easy			Ahead: Fundamentals of Extrication			Subject:Vehicle Extrication and Special Rescue, Page 1473			Title: Vehicle Extrication and Special Rescue			Feedback: See Fundamentals of Extrication			Taxonomy: Application			Objective: 39-10 Discuss patient care considerations related to assisting with rapid extrication, providing emergency care to a trapped patient, and removing and transferring a patient.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following situations would require the use of a specialized rescue team?,
+Points,1,
+Difficulty,1,
+Option,100,a) A patient trapped in a cave or a confined space
+Option,0,"b) A patient in a badly damaged car, not entrapped"
+Option,0,c) An obese patient who must be moved to the ambulance
+Option,0,d) A patient found floating face down in a swimming pool
+Hint,"Complexity: Easy			Ahead: Fundamentals of Extrication			Subject:Vehicle Extrication and Special Rescue, Page 1477			Title: Vehicle Extrication and Special Rescue			Feedback: See Fundamentals of Extrication			Taxonomy: Application			Objective: 39-11 Describe examples of situations that would require special technical rescue teams and the EMT’s role in these situations.",
+NewQuestion,MC,
+Title,,
+QuestionText,"If a technical rescue team is required at the scene but is not present when you arrive, you should:",
+Points,1,
+Difficulty,1,
+Option,0,a) don personal protective equipment and begin the rescue process.
+Option,100,b) check with the incident commander to ensure that the team is en route.
+Option,0,c) remain with your ambulance until the rescue team arrives at the scene.
+Option,0,d) have fire personnel initiate the rescue process if they are at the scene.
+Hint,"Complexity: Easy			Ahead: Specialized Rescue Situations			Subject:Vehicle Extrication and Special Rescue, Page 1476			Title: Vehicle Extrication and Special Rescue			Feedback: See Specialized Rescue Situations			Taxonomy: Recall			Objective: 39-11 Describe examples of situations that would require special technical rescue teams and the EMT’s role in these situations.",
+NewQuestion,MC,
+Title,,
+QuestionText,"A hiker was injured when he fell approximately 20′ from a cliff. When you arrive at the scene, a member of the technical rescue group escorts you to the patient, who is positioned on a steep incline. The most appropriate method of immobilizing and moving the patient to the ambulance is to:",
+Points,1,
+Difficulty,1,
+Option,100,a) immobilize his spine with a long backboard and place him in a basket stretcher.
+Option,0,b) immobilize him to a long backboard and use the four-person carry to move him.
+Option,0,c) apply a vest-style immobilization device and move him using a stair chair device.
+Option,0,d) immobilize him with a short backboard and place him on the ambulance stretcher.
+Hint,"Complexity: Difficult			Ahead: Specialized Rescue Situations			Subject:Vehicle Extrication and Special Rescue, Page 1476			Title: Vehicle Extrication and Special Rescue			Feedback: See Specialized Rescue Situations			Taxonomy: Application			Objective: 39-11 Describe examples of situations that would require special technical rescue teams and the EMT’s role in these situations.",
+NewQuestion,MC,
+Title,,
+QuestionText,The EMT’s role at the scene of a search and rescue attempt is to:,
+Points,1,
+Difficulty,1,
+Option,0,a) accompany search team members and provide care.
+Option,0,b) direct the search effort from a centralized location.
+Option,0,c) report to a location where the patient will be carried.
+Option,100,d) stand by at the command post until the person is located.
+Hint,"Complexity: Moderate			Ahead: Specialized Rescue Situations			Subject:Vehicle Extrication and Special Rescue, Page 1476			Title: Vehicle Extrication and Special Rescue			Feedback: See Specialized Rescue Situations			Taxonomy: Recall			Objective: 39-11 Describe examples of situations that would require special technical rescue teams and the EMT’s role in these situations.",
+NewQuestion,MC,
+Title,,
+QuestionText,Trench collapses usually involve large areas of falling dirt that weigh approximately _______ per cubic foot.,
+Points,1,
+Difficulty,1,
+Option,0,a) 50 lbs
+Option,100,b) 100 lbs
+Option,0,c) 150 lbs
+Option,0,d) 200 lbs
+Hint,"Complexity: Easy			Ahead: Specialized Rescue Situations			Subject:Vehicle Extrication and Special Rescue, Page 1477			Title: Vehicle Extrication and Special Rescue			Feedback: See Specialized Rescue Situations			Taxonomy: Recall			Objective: 39-11 Describe examples of situations that would require special technical rescue teams and the EMT’s role in these situations.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following statements regarding trench rescue is correct?,
+Points,1,
+Difficulty,1,
+Option,0,a) Rescue vehicles should park at least 250′ from the scene.
+Option,100,b) Ground vibration is a primary cause of secondary collapse.
+Option,0,c) A trench less than 15’ deep usually does not require shoring.
+Option,0,d) Most deaths involving cave-ins are caused by head injury.
+Hint,"Complexity: Easy			Ahead: Specialized Rescue Situations			Subject:Vehicle Extrication and Special Rescue, Page 1477			Title: Vehicle Extrication and Special Rescue			Feedback: See Specialized Rescue Situations			Taxonomy: Recall			Objective: 39-11 Describe examples of situations that would require special technical rescue teams and the EMT’s role in these situations.",
+NewQuestion,MC,
+Title,,
+QuestionText,"You are standing by at the scene of a hostage situation when the incident commander advises you that one of his personnel has been shot. The patient is lying supine in an open area and is not moving. As the SWAT team escorts you to the patient, you should:",
+Points,1,
+Difficulty,1,
+Option,0,a) limit your primary assessment to airway and breathing only.
+Option,0,b) treat only critical injuries before moving him to a safe place.
+Option,100,c) grab him by the clothes and immediately move him to safety.
+Option,0,d) perform a rapid assessment and move him to a place of safety.
+Hint,"Complexity: Difficult			Ahead: Specialized Rescue Situations			Subject:Vehicle Extrication and Special Rescue, Page 1477			Title: Vehicle Extrication and Special Rescue			Feedback: See Specialized Rescue Situations			Taxonomy: Application			Objective: 39-11 Describe examples of situations that would require special technical rescue teams and the EMT’s role in these situations.",
+NewQuestion,MC,
+Title,,
+QuestionText,"Upon arriving at the scene of a law enforcement tactical situation, you should ensure your own safety and then:",
+Points,1,
+Difficulty,1,
+Option,0,a) begin immediate triage of any injured personnel.
+Option,100,b) report to the incident commander for instructions.
+Option,0,c) locate all injured personnel and begin treatment.
+Option,0,d) apprise medical control of the tactical situation.
+Hint,"Complexity: Easy			Ahead: Specialized Rescue Situations			Subject:Vehicle Extrication and Special Rescue, Page 1477			Title: Vehicle Extrication and Special Rescue			Feedback: See Specialized Rescue Situations			Taxonomy: Application			Objective: 39-11 Describe examples of situations that would require special technical rescue teams and the EMT’s role in these situations.",
+NewQuestion,MC,
+Title,,
+QuestionText,"The reasons for rescue failure can be recalled by the mnemonic FAILURE. According to this mnemonic, the “U” stands for:",
+Points,1,
+Difficulty,1,
+Option,0,a) underutilizing personnel at the scene.
+Option,0,b) unprepared to effectively manage the scene.
+Option,100,c) underestimating the logistics of the incident.
+Option,0,d) undertrained to correctly utilize equipment.
+Hint,"Complexity: Easy			Ahead: Specialized Rescue Situations			Subject:Vehicle Extrication and Special Rescue, Page 1479			Title: Vehicle Extrication and Special Rescue			Feedback: See Specialized Rescue Situations			Taxonomy: Recall			Objective: 39-11 Describe examples of situations that would require special technical rescue teams and the EMT’s role in these situations.",
+NewQuestion,MC,
+Title,,
+QuestionText,"Your unit has been dispatched to stand by at the scene of a structure fire. There are no injuries of which you are aware. Upon arriving at the scene, you should:",
+Points,1,
+Difficulty,1,
+Option,0,a) contact medical control and apprise him or her of the situation.
+Option,0,b) park your ambulance behind the incident commander’s vehicle.
+Option,0,c) set up a staging area where firefighters can be treated if necessary.
+Option,100,d) ask the incident commander where the ambulance should be staged.
+Hint,"Complexity: Difficult			Ahead: Specialized Rescue Situations			Subject:Vehicle Extrication and Special Rescue, Page 1479			Title: Vehicle Extrication and Special Rescue			Feedback: See Specialized Rescue Situations			Taxonomy: Application			Objective: 39-11 Describe examples of situations that would require special technical rescue teams and the EMT’s role in these situations.",
+NewQuestion,MC,
+Title,,
+QuestionText,"You and your partner are standing by at the scene of a residential fire when you hear the incident commander state, “We have located a victim” over the radio. You should:",
+Points,1,
+Difficulty,1,
+Option,0,a) notify the hospital that you will be transporting a burn patient to their facility.
+Option,100,b) remain with the ambulance and wait for fire personnel to bring the victim to you.
+Option,0,c) immediately locate the incident commander and ask where the victim is located.
+Option,0,d) locate the victim and provide initial care while your partner stays with the ambulance.
+Hint,"Complexity: Difficult			Ahead: Specialized Rescue Situations			Subject:Vehicle Extrication and Special Rescue, Page 1479			Title: Vehicle Extrication and Special Rescue			Feedback: See Specialized Rescue Situations			Taxonomy: Application			Objective: 39-11 Describe examples of situations that would require special technical rescue teams and the EMT’s role in these situations.",
+NewQuestion,MC,
+Title,,
+QuestionText,"Upon arrival at a motor vehicle crash, the EMT should:",
+Points,1,
+Difficulty,1,
+Option,100,a) leave only the essential warning lights activated.
+Option,0,b) turn off the ambulance and set the emergency brake.
+Option,0,c) turn off the emergency flashing lights and headlights.
+Option,0,d) park at least 300 feet away from the accident scene.
+Hint,"Complexity: Difficult			Ahead: Fundamentals of Extrication			Subject:Vehicle Extrication and Special Rescue, Page 1467			Title: Vehicle Extrication and Special Rescue			Feedback: See Fundamentals of Extrication			Taxonomy: Analysis			Objective: 39-5 Describe the 10 phases of vehicle extrication and the role of the EMT during each one.",

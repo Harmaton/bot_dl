@@ -1,0 +1,1270 @@
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following is an example of a symptom?,
+Points,1,
+Difficulty,1,
+Option,0,a) Cyanosis
+Option,100,b) Headache
+Option,0,c) Tachycardia
+Option,0,d) Hypertension
+Hint,"Complexity: Easy			Ahead: Introduction			Subject:Patient Assessment, Page 342			Title: Patient Assessment			Feedback: See Introduction			Taxonomy: Recall			Objective: 10-1 Identify the components of the patient assessment process.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following scenarios does NOT involve the presence of any symptoms?,
+Points,1,
+Difficulty,1,
+Option,0,a) A 44-year-old male with abdominal pain and severe dizziness
+Option,0,b) A 49-year-old female with blurred vision and ringing in the ears
+Option,0,c) A 55-year-old male with a severe headache and 2 days of nausea
+Option,100,d) A 61-year-old female who is unconscious with facial cyanosis
+Hint,"Complexity: Moderate			Ahead: Introduction			Subject:Patient Assessment, Page 342			Title: Patient Assessment			Feedback: See Introduction			Taxonomy: Recall			Objective: 10-1 Identify the components of the patient assessment process.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following actions would NOT be performed during the scene Size-up?,
+Points,1,
+Difficulty,1,
+Option,0,a) Asking a neighbor to secure the patient’s dog
+Option,100,b) Rapidly assessing a patient’s respiratory status
+Option,0,c) Notifying the dispatcher to send fire personnel
+Option,0,d) Noting the position of a crashed motor vehicle
+Hint,"Complexity: Moderate			Ahead: Scene Size-up			Subject:Patient Assessment, Page 343			Title: Patient Assessment			Feedback: See Scene Size-up			Taxonomy: Application			Objective: 10-1 Identify the components of the patient assessment process.",
+NewQuestion,MC,
+Title,,
+QuestionText,"While en route to the scene of a shooting, the dispatcher advises you that the perpetrator has fled the scene. You should:",
+Points,1,
+Difficulty,1,
+Option,0,a) ask the dispatcher if he or she knows the location of the perpetrator.
+Option,100,b) confirm this information with law enforcement personnel at the scene.
+Option,0,c) request law enforcement personnel if the scene is unsafe upon arrival.
+Option,0,d) proceed to the scene as usual but exercise extreme caution upon arrival.
+Hint,"Complexity: Moderate			Ahead: Scene Size-up			Subject:Patient Assessment, Page 343			Title: Patient Assessment			Feedback: See Scene Size-up			Taxonomy: Application			Objective: 10-1 Identify the components of the patient assessment process.",
+NewQuestion,MC,
+Title,,
+QuestionText,"Upon arriving at a potentially unsafe scene, you should first:",
+Points,1,
+Difficulty,1,
+Option,0,a) remove all bystanders.
+Option,0,b) request another ambulance.
+Option,0,c) move the patient to safety.
+Option,100,d) ensure that you are safe.
+Hint,"Complexity: Easy			Ahead: Scene Size-up			Subject:Patient Assessment, Page 344			Title: Patient Assessment			Feedback: See Scene Size-up			Taxonomy: Recall			Objective: 10-3 Discuss some of the possible environmental, chemical, and biologic hazards that may be present at an emergency scene, ways to recognize them, and precautions to protect personal safety.",
+NewQuestion,MC,
+Title,,
+QuestionText,"You are assessing a 72-year-old man with abdominal pain. The patient is sitting in a chair; he is conscious, alert, and calm. As you are talking to the patient, your partner discreetly directs your attention to a handgun, which is located on a nearby table. You should:",
+Points,1,
+Difficulty,1,
+Option,0,"a) immediately cease all patient care, carefully back out of the residence, and request law enforcement assistance."
+Option,0,b) direct your partner to move the gun to a safe area and then advise the patient that his weapon has been secured.
+Option,0,"c) document the presence of the weapon, including its specific location, and continue your assessment of the patient."
+Option,100,d) position yourself in between the patient and the gun and ask your partner to request law enforcement assistance.
+Hint,"Complexity: Difficult			Ahead: Scene Size-up			Subject:Patient Assessment, Page 345			Title: Patient Assessment			Feedback: See Scene Size-up			Taxonomy: Analysis			Objective: 10-3 Discuss some of the possible environmental, chemical, and biologic hazards that may be present at an emergency scene, ways to recognize them, and precautions to protect personal safety.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following statements regarding the mechanism of injury (MOI) is correct?,
+Points,1,
+Difficulty,1,
+Option,0,a) A nonsignificant MOI rules out the possibility of serious trauma.
+Option,100,b) The MOI may allow you to predict the severity of a patient’s injuries.
+Option,0,c) The exact location of a patient’s injuries can be determined by the MOI.
+Option,0,d) A significant MOI usually results in patient death or permanent disability.
+Hint,"Complexity: Easy			Ahead: Scene Size-up			Subject:Patient Assessment, Page 346			Title: Patient Assessment			Feedback: See Scene Size-up			Taxonomy: Recall			Objective: 10-5 Describe how to determine the mechanism of injury (MOI) or nature of illness (NOI) at an emergency and the importance of differentiating trauma patients from medical patients.",
+NewQuestion,MC,
+Title,,
+QuestionText,The MOST effective way to determine whether your patient’s problem is medical or traumatic in origin is to:,
+Points,1,
+Difficulty,1,
+Option,100,a) perform a careful and thorough assessment.
+Option,0,b) establish the patient’s medical history early.
+Option,0,c) take note of the patient’s general appearance.
+Option,0,d) ask if bystanders are familiar with the patient.
+Hint,"Complexity: Moderate			Ahead: Scene Size-up			Subject:Patient Assessment, Page 346			Title: Patient Assessment			Feedback: See Scene Size-up			Taxonomy: Recall			Objective: 10-5 Describe how to determine the mechanism of injury (MOI) or nature of illness (NOI) at an emergency and the importance of differentiating trauma patients from medical patients.",
+NewQuestion,MC,
+Title,,
+QuestionText,When should you take standard precautions during an EMS call?,
+Points,1,
+Difficulty,1,
+Option,0,a) Before you load the patient into the ambulance.
+Option,0,b) After it has been determined that the patient is bleeding.
+Option,0,c) Immediately after completion of your primary assessment.
+Option,100,d) Before exiting the ambulance and before actual patient contact.
+Hint,"Complexity: Moderate			Ahead: Scene Size-up			Subject:Patient Assessment, Page 347			Title: Patient Assessment			Feedback: See Scene Size-up			Taxonomy: Recall			Objective: 10-6 List the minimum standard precautions that should be followed and personal protective equipment (PPE) that should be worn at an emergency scene, including examples of when additional precautions would be appropriate.",
+NewQuestion,MC,
+Title,,
+QuestionText,Treatment and transport priorities at the scene of a mass-casualty incident should be determined after:,
+Points,1,
+Difficulty,1,
+Option,0,a) a physician arrives at the scene.
+Option,0,b) medical control has been contacted.
+Option,100,c) all the patients have been triaged.
+Option,0,d) area hospitals have been notified.
+Hint,"Complexity: Easy			Ahead: Scene Size-up			Subject:Patient Assessment, Page 348			Title: Patient Assessment			Feedback: See Scene Size-up			Taxonomy: Recall			Objective: 10-7 Explain why it is important for EMTs to identify the total number of patients at an emergency scene and how this evaluation relates to determining the need for additional or specialized resources, implementation of the incident command system (ICS), and triage.",
+NewQuestion,MC,
+Title,,
+QuestionText,When is it MOST appropriate to consider requesting additional ambulances at an accident scene?,
+Points,1,
+Difficulty,1,
+Option,0,a) After you have triaged all the critical patients
+Option,100,b) When you determine there are multiple patients
+Option,0,c) After noncritical patients have been identified
+Option,0,d) When all the deceased patients are accounted for
+Hint,"Complexity: Moderate			Ahead: Scene Size-up			Subject:Patient Assessment, Page 348			Title: Patient Assessment			Feedback: See Scene Size-up			Taxonomy: Recall			Objective: 10-7 Explain why it is important for EMTs to identify the total number of patients at an emergency scene and how this evaluation relates to determining the need for additional or specialized resources, implementation of the incident command system (ICS), and triage.",
+NewQuestion,MC,
+Title,,
+QuestionText,The goal of the primary assessment is to:,
+Points,1,
+Difficulty,1,
+Option,0,a) determine if the patient’s problem is medical or traumatic.
+Option,0,b) identify patients that require transport to a trauma center.
+Option,0,c) determine the need to perform a head-to-toe assessment.
+Option,100,d) identify and rapidly treat all life-threatening conditions.
+Hint,"Complexity: Easy			Ahead: Primary Assessment			Subject:Patient Assessment, Page 350			Title: Patient Assessment			Feedback: See Primary Assessment			Taxonomy: Recall			Objective: 10-8 Describe the principal goals of the primary assessment process, including how to identify and treat life threats and determine if immediate transport is required.",
+NewQuestion,MC,
+Title,,
+QuestionText,"Observations made when forming a general impression of a patient would include all of the following, EXCEPT:",
+Points,1,
+Difficulty,1,
+Option,0,a) appearance.
+Option,100,b) pulse strength.
+Option,0,c) race and gender.
+Option,0,d) level of distress.
+Hint,"Complexity: Moderate			Ahead: Primary Assessment			Subject:Patient Assessment, Page 351			Title: Patient Assessment			Feedback: See Primary Assessment			Taxonomy: Recall			Objective: 10-8 Describe the principal goals of the primary assessment process, including how to identify and treat life threats and determine if immediate transport is required.",
+NewQuestion,MC,
+Title,,
+QuestionText,"When approaching a 32-year-old male who is complaining of traumatic neck pain, you should:",
+Points,1,
+Difficulty,1,
+Option,100,a) ensure that the patient can see you approaching him.
+Option,0,b) approach him from behind and ask him not to move.
+Option,0,c) stand behind him and immediately stabilize his head.
+Option,0,d) assess his mental status by having him move his head.
+Hint,"Complexity: Moderate			Ahead: Primary Assessment			Subject:Patient Assessment, Page 351			Title: Patient Assessment			Feedback: See Primary Assessment			Taxonomy: Application			Objective: 10-9 Explain the process of forming a general impression of a patient as part of primary assessment and the reasons why this step is critical to patient management.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following conditions would be LEAST likely to cause an altered level of consciousness?,
+Points,1,
+Difficulty,1,
+Option,0,a) Drug overdose
+Option,0,b) Inadequate perfusion
+Option,100,c) Acute anxiety
+Option,0,d) Poisoning
+Hint,"Complexity: Easy			Ahead: Primary Assessment			Subject:Patient Assessment, Page 353			Title: Patient Assessment			Feedback: See Primary Assessment			Taxonomy: Recall			Objective: 10-10 Explain the importance of assessing a patient’s level of consciousness (LOC) to determine altered mental status and include examples of different methods used to assess alertness, responsiveness, and orientation.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following patients has signs of an altered mental status?,
+Points,1,
+Difficulty,1,
+Option,0,a) A patient with an acute allergic reaction and dizziness
+Option,0,b) A diabetic who has nausea and severe lightheadedness
+Option,100,c) A patient with a head injury who is slow to answer questions
+Option,0,d) A patient who overdosed and tells you he tried to kill himself
+Hint,"Complexity: Moderate			Ahead: Primary Assessment			Subject:Patient Assessment, Page 353			Title: Patient Assessment			Feedback: See Primary Assessment			Taxonomy: Application			Objective: 10-10 Explain the importance of assessing a patient’s level of consciousness (LOC) to determine altered mental status and include examples of different methods used to assess alertness, responsiveness, and orientation.",
+NewQuestion,MC,
+Title,,
+QuestionText,A patient who moves and cries out only when you pinch his or her trapezius muscle is said to be:,
+Points,1,
+Difficulty,1,
+Option,0,a) conscious and alert.
+Option,0,b) completely unresponsive.
+Option,0,c) responsive to verbal stimuli.
+Option,100,d) responsive to painful stimuli.
+Hint,"Complexity: Moderate			Ahead: Primary Assessment			Subject:Patient Assessment, Page 352			Title: Patient Assessment			Feedback: See Primary Assessment			Taxonomy: Recall			Objective: 10-10 Explain the importance of assessing a patient’s level of consciousness (LOC) to determine altered mental status and include examples of different methods used to assess alertness, responsiveness, and orientation.",
+NewQuestion,MC,
+Title,,
+QuestionText,An elderly patient has fallen and hit her head. You assess her level of consciousness as unresponsive using the AVPU scale. Your initial care should focus on:,
+Points,1,
+Difficulty,1,
+Option,0,a) obtaining baseline vital signs.
+Option,0,b) gathering medical history data.
+Option,0,c) providing immediate transport.
+Option,100,"d) airway, breathing, and circulation."
+Hint,"Complexity: Moderate			Ahead: Primary Assessment			Subject:Patient Assessment, Page 352			Title: Patient Assessment			Feedback: See Primary Assessment			Taxonomy: Application			Objective: 10-10 Explain the importance of assessing a patient’s level of consciousness (LOC) to determine altered mental status and include examples of different methods used to assess alertness, responsiveness, and orientation.",
+NewQuestion,MC,
+Title,,
+QuestionText,A patient’s short-term memory is MOST likely intact if they correctly answer questions regarding:,
+Points,1,
+Difficulty,1,
+Option,0,a) time and place.
+Option,100,b) day and event.
+Option,0,c) event and person.
+Option,0,d) person and place.
+Hint,"Complexity: Easy			Ahead: Primary Assessment			Subject:Patient Assessment, Page 353			Title: Patient Assessment			Feedback: See Primary Assessment			Taxonomy: Recall			Objective: 10-10 Explain the importance of assessing a patient’s level of consciousness (LOC) to determine altered mental status and include examples of different methods used to assess alertness, responsiveness, and orientation.",
+NewQuestion,MC,
+Title,,
+QuestionText,"A 29-year-old male with a head injury opens his eyes when you speak to him, is confused as to the time and date, and is able to move all of his extremities on command. His Glasgow Coma Scale (GCS) score is:",
+Points,1,
+Difficulty,1,
+Option,0,a) 10.
+Option,0,b) 12.
+Option,100,c) 13.
+Option,0,d) 14.
+Hint,"Complexity: Easy			Ahead: Secondary Assessment			Subject:Patient Assessment, Page 394			Title: Patient Assessment			Feedback: See Secondary Assessment			Taxonomy: Analysis			Objective: 10-26 Explain situations in which patients may receive a focused assessment, including examples by body system of what each focused assessment should include based on a patient’s chief complaint.",
+NewQuestion,MC,
+Title,,
+QuestionText,"An injured patient is assigned a total score of 9 on the GCS. He is assigned a score of 2 for eye opening, a score of 3 for verbal response, and a score of 4 for motor response. Which of the following clinical findings is consistent with his GCS score?",
+Points,1,
+Difficulty,1,
+Option,0,"a) Opens eyes in response to voice, makes incomprehensible sounds, localizes pain"
+Option,100,"b) Opens eyes in response to pain, uses inappropriate words, withdraws from pain"
+Option,0,"c) Opens eyes spontaneously, is confused when spoken to, exhibits abnormal flexion"
+Option,0,"d) Eyes remain closed, makes incomprehensible sounds, exhibits abnormal extension"
+Hint,"Complexity: Easy			Ahead: Secondary Assessment			Subject:Patient Assessment, Page 394			Title: Patient Assessment			Feedback: See Secondary Assessment			Taxonomy: Analysis			Objective: 10-26 Explain situations in which patients may receive a focused assessment, including examples by body system of what each focused assessment should include based on a patient’s chief complaint.",
+NewQuestion,MC,
+Title,,
+QuestionText,"When you inspect a patient’s pupils with a penlight, the pupils should normally react to the light by:",
+Points,1,
+Difficulty,1,
+Option,100,a) constricting.
+Option,0,b) enlarging.
+Option,0,c) dilating.
+Option,0,d) fluttering.
+Hint,"Complexity: Easy			Ahead: Secondary Assessment			Subject:Patient Assessment, Page 394			Title: Patient Assessment			Feedback: See Secondary Assessment			Taxonomy: Recall			Objective: 10-26 Explain situations in which patients may receive a focused assessment, including examples by body system of what each focused assessment should include based on a patient’s chief complaint.",
+NewQuestion,MC,
+Title,,
+QuestionText,"When you shine a light into one pupil, the normal reaction of the other pupil should be to:",
+Points,1,
+Difficulty,1,
+Option,0,a) dilate.
+Option,0,b) not react.
+Option,0,c) become larger.
+Option,100,d) become smaller.
+Hint,"Complexity: Easy			Ahead: Secondary Assessment			Subject:Patient Assessment, Page 394			Title: Patient Assessment			Feedback: See Secondary Assessment			Taxonomy: Recall			Objective: 10-26 Explain situations in which patients may receive a focused assessment, including examples by body system of what each focused assessment should include based on a patient’s chief complaint.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following pupillary changes would indicate depressed brain function?,
+Points,1,
+Difficulty,1,
+Option,0,a) Both pupils dilate when a bright light is removed.
+Option,0,b) Both pupils constrict when a bright light is introduced.
+Option,0,c) Both pupils react briskly to light instead of sluggishly.
+Option,100,d) Both pupils are sluggish with introduction of a bright light.
+Hint,"Complexity: Easy			Ahead: Secondary Assessment			Subject:Patient Assessment, Page 395			Title: Patient Assessment			Feedback: See Secondary Assessment			Taxonomy: Application			Objective: 10-26 Explain situations in which patients may receive a focused assessment, including examples by body system of what each focused assessment should include based on a patient’s chief complaint.",
+NewQuestion,MC,
+Title,,
+QuestionText,For which of the following patients is spinal immobilization clearly indicated?,
+Points,1,
+Difficulty,1,
+Option,0,a) Woman who fell from a standing position and has a deformed shoulder
+Option,0,b) Man with an arrow impaled in his leg and no pulse distal to the injury
+Option,100,c) Man with altered mental status after being exposed to blunt force trauma
+Option,0,d) Woman in a minor motor-vehicle collision who complains of severe knee pain
+Hint,"Complexity: Moderate			Ahead: Primary Assessment			Subject:Patient Assessment, Page 354			Title: Patient Assessment			Feedback: See Primary Assessment			Taxonomy: Analysis			Objective: 10-21 Discuss the importance of protecting a trauma patient’s spine and identifying fractured extremities during patient packaging for transport.",
+NewQuestion,MC,
+Title,,
+QuestionText,What maneuver should be used to open the airway of an unresponsive patient with suspected trauma?,
+Points,1,
+Difficulty,1,
+Option,0,a) Tongue–jaw lift maneuver
+Option,100,b) Jaw-thrust maneuver
+Option,0,c) Head tilt–chin lift maneuver
+Option,0,d) Head tilt–neck lift maneuver
+Hint,"Complexity: Easy			Ahead: Primary Assessment			Subject:Patient Assessment, Page 355			Title: Patient Assessment			Feedback: See Primary Assessment			Taxonomy: Recall			Objective: 10-11 Describe the assessment of airway status in patients who are both responsive and unresponsive, including examples of possible signs and causes of airway obstruction in each case as well as the appropriate EMT response.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following statements regarding stridor is correct?,
+Points,1,
+Difficulty,1,
+Option,0,a) It is a whistling sound heard in the lower airway.
+Option,0,b) It is caused by incorrect airway positioning.
+Option,100,"c) It is a high-pitched, crowing upper airway sound."
+Option,0,d) It suggests the presence of fluid in the lungs.
+Hint,"Complexity: Easy			Ahead: Secondary Assessment			Subject:Patient Assessment, Page 383			Title: Patient Assessment			Feedback: See Secondary Assessment			Taxonomy: Recall			Objective: 10-11 Describe the assessment of airway status in patients who are both responsive and unresponsive, including examples of possible signs and causes of airway obstruction in each case as well as the appropriate EMT response.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following findings indicates that your patient has a patent airway?,
+Points,1,
+Difficulty,1,
+Option,0,a) Audible breathing
+Option,100,b) Ability to speak
+Option,0,c) Inspiratory stridor
+Option,0,d) Unresponsiveness
+Hint,"Complexity: Easy			Ahead: Primary Assessment			Subject:Patient Assessment, Page 354			Title: Patient Assessment			Feedback: See Primary Assessment			Taxonomy: Recall			Objective: 10-11 Describe the assessment of airway status in patients who are both responsive and unresponsive, including examples of possible signs and causes of airway obstruction in each case as well as the appropriate EMT response.",
+NewQuestion,MC,
+Title,,
+QuestionText,"You respond to a call for a female pedestrian who has been struck by a car. As your partner maintains manual stabilization of her head, you perform a primary assessment. She is unconscious, has ineffective breathing, and has bloody secretions in her mouth. You should:",
+Points,1,
+Difficulty,1,
+Option,0,a) assist her breathing with a bag-valve mask.
+Option,0,b) quickly insert an oropharyngeal airway.
+Option,0,c) assess the rate and quality of her pulse.
+Option,100,d) immediately suction her oropharynx.
+Hint,"Complexity: Difficult			Ahead: Primary Assessment			Subject:Patient Assessment, Page 355			Title: Patient Assessment			Feedback: See Primary Assessment			Taxonomy: Analysis			Objective: 10-11 Describe the assessment of airway status in patients who are both responsive and unresponsive, including examples of possible signs and causes of airway obstruction in each case as well as the appropriate EMT response.",
+NewQuestion,MC,
+Title,,
+QuestionText,"A 40-year-old male crashed his motorcycle into a tree. He is semiconscious, has snoring respirations, and has a laceration to the forearm with minimal bleeding. You should:",
+Points,1,
+Difficulty,1,
+Option,0,a) apply a cervical collar and suction his airway.
+Option,100,b) open his airway with the jaw-thrust maneuver.
+Option,0,c) apply a pressure dressing to the patient’s arm.
+Option,0,d) tilt the patient’s head back and lift up on his chin.
+Hint,"Complexity: Difficult			Ahead: Primary Assessment			Subject:Patient Assessment, Page 356			Title: Patient Assessment			Feedback: See Primary Assessment			Taxonomy: Analysis			Objective: 10-12 Describe the assessment of a patient’s breathing status, including the key information EMTs must obtain during this process and the care required for patients who have adequate and inadequate breathing.",
+NewQuestion,MC,
+Title,,
+QuestionText,"After performing a head tilt–chin lift maneuver to open the airway of an unresponsive patient who has a pulse, you should:",
+Points,1,
+Difficulty,1,
+Option,0,a) place him or her in the recovery position.
+Option,0,b) provide positive-pressure ventilatory assistance.
+Option,0,"c) assess respiratory rate, depth, and regularity."
+Option,100,d) suction as needed and insert an airway adjunct.
+Hint,"Complexity: Moderate			Ahead: Primary Assessment			Subject:Patient Assessment, Page 356			Title: Patient Assessment			Feedback: See Primary Assessment			Taxonomy: Recall			Objective: 10-12 Describe the assessment of a patient’s breathing status, including the key information EMTs must obtain during this process and the care required for patients who have adequate and inadequate breathing.",
+NewQuestion,MC,
+Title,,
+QuestionText,A patient with spontaneous respirations is breathing:,
+Points,1,
+Difficulty,1,
+Option,0,a) at a normal rate.
+Option,0,b) with shallow depth.
+Option,0,c) without difficulty.
+Option,100,d) without assistance.
+Hint,"Complexity: Moderate			Ahead: Primary Assessment			Subject:Patient Assessment, Page 356			Title: Patient Assessment			Feedback: See Primary Assessment			Taxonomy: Recall			Objective: 10-12 Describe the assessment of a patient’s breathing status, including the key information EMTs must obtain during this process and the care required for patients who have adequate and inadequate breathing.",
+NewQuestion,MC,
+Title,,
+QuestionText,The goal of oxygenation for most patients is an oxygen saturation of:,
+Points,1,
+Difficulty,1,
+Option,0,a) 100%
+Option,100,b) 94% to 99%
+Option,0,c) 90% to 94%
+Option,0,d) 88% to 90%
+Hint,"Complexity: Easy			Ahead: Primary Assessment			Subject:Patient Assessment, Page 356			Title: Patient Assessment			Feedback: See Primary Assessment			Taxonomy: Recall			Objective: 10-12 Describe the assessment of a patient’s breathing status, including the key information EMTs must obtain during this process and the care required for patients who have adequate and inadequate breathing.",
+NewQuestion,MC,
+Title,,
+QuestionText,Supplemental oxygen without assisted ventilation would MOST likely be administered to patients:,
+Points,1,
+Difficulty,1,
+Option,0,a) who are semiconscious with shallow respirations.
+Option,0,b) with rapid respirations and a reduced tidal volume.
+Option,0,c) who have accessory muscle use and slow breathing.
+Option,100,d) with difficulty breathing and adequate tidal volume.
+Hint,"Complexity: Moderate			Ahead: Primary Assessment			Subject:Patient Assessment, Page 357			Title: Patient Assessment			Feedback: See Primary Assessment			Taxonomy: Analysis			Objective: 10-12 Describe the assessment of a patient’s breathing status, including the key information EMTs must obtain during this process and the care required for patients who have adequate and inadequate breathing.",
+NewQuestion,MC,
+Title,,
+QuestionText,"You are dispatched to the county jail for an inmate who is “sick.” When you arrive, you find the patient, a 33-year-old male, unresponsive. His airway is patent, and his respirations are rapid and shallow. Your initial action should be to:",
+Points,1,
+Difficulty,1,
+Option,0,a) apply a pulse oximeter.
+Option,0,b) request a paramedic unit.
+Option,100,c) assist his ventilations.
+Option,0,d) assess his blood pressure.
+Hint,"Complexity: Difficult			Ahead: Primary Assessment			Subject:Patient Assessment, Page 356			Title: Patient Assessment			Feedback: See Primary Assessment			Taxonomy: Analysis			Objective: 10-12 Describe the assessment of a patient’s breathing status, including the key information EMTs must obtain during this process and the care required for patients who have adequate and inadequate breathing.",
+NewQuestion,MC,
+Title,,
+QuestionText,"If a patient develops difficulty breathing after your primary assessment, you should immediately:",
+Points,1,
+Difficulty,1,
+Option,0,a) determine his or her respiratory rate.
+Option,0,b) begin assisting his or her breathing.
+Option,100,c) reevaluate his or her airway status.
+Option,0,d) auscultate his or her breath sounds.
+Hint,"Complexity: Easy			Ahead: Primary Assessment			Subject:Patient Assessment, Page 356			Title: Patient Assessment			Feedback: See Primary Assessment			Taxonomy: Application			Objective: 10-12 Describe the assessment of a patient’s breathing status, including the key information EMTs must obtain during this process and the care required for patients who have adequate and inadequate breathing.",
+NewQuestion,MC,
+Title,,
+QuestionText,The normal respiratory rate for an adult should range from:,
+Points,1,
+Difficulty,1,
+Option,0,a) 10 to 12 breaths per minute.
+Option,100,b) 12 to 20 breaths per minute.
+Option,0,c) 18 to 24 breaths per minute.
+Option,0,d) 24 to 28 breaths per minute.
+Hint,"Complexity: Easy			Ahead: Secondary Assessment			Subject:Patient Assessment, Page 385			Title: Patient Assessment			Feedback: See Secondary Assessment			Taxonomy: Recall			Objective: 10-12 Describe the assessment of a patient’s breathing status, including the key information EMTs must obtain during this process and the care required for patients who have adequate and inadequate breathing.",
+NewQuestion,MC,
+Title,,
+QuestionText,Normal respiratory rates should not exceed _______ breaths per minute in toddlers and _______ breaths per minute in infants.,
+Points,1,
+Difficulty,1,
+Option,0,"a) 18, 28"
+Option,0,"b) 20, 30"
+Option,0,"c) 30, 40"
+Option,100,"d) 40, 60"
+Hint,"Complexity: Easy			Ahead: Secondary Assessment			Subject:Patient Assessment, Page 385			Title: Patient Assessment			Feedback: See Secondary Assessment			Taxonomy: Recall			Objective: 10-12 Describe the assessment of a patient’s breathing status, including the key information EMTs must obtain during this process and the care required for patients who have adequate and inadequate breathing.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following is the MOST effective method of assessing the quality of air movement in the lungs?,
+Points,1,
+Difficulty,1,
+Option,0,a) Evaluating the patient’s chest for cyanosis
+Option,0,b) Applying a pulse oximeter and monitoring the SpO2
+Option,100,c) Auscultating breath sounds with a stethoscope
+Option,0,d) Looking for the presence of accessory muscle use
+Hint,"Complexity: Easy			Ahead: Secondary Assessment			Subject:Patient Assessment, Page 378			Title: Patient Assessment			Feedback: See Secondary Assessment			Taxonomy: Application			Objective: 10-12 Describe the assessment of a patient’s breathing status, including the key information EMTs must obtain during this process and the care required for patients who have adequate and inadequate breathing.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following abnormal breath sounds indicates obstruction of the upper airway?,
+Points,1,
+Difficulty,1,
+Option,0,a) Rales
+Option,100,b) Stridor
+Option,0,c) Crackles
+Option,0,d) Rhonchi
+Hint,"Complexity: Easy			Ahead: Secondary Assessment			Subject:Patient Assessment, Page 383			Title: Patient Assessment			Feedback: See Secondary Assessment			Taxonomy: Recall			Objective: 10-12 Describe the assessment of a patient’s breathing status, including the key information EMTs must obtain during this process and the care required for patients who have adequate and inadequate breathing.",
+NewQuestion,MC,
+Title,,
+QuestionText,"Clinical signs of labored breathing include all of the following, EXCEPT:",
+Points,1,
+Difficulty,1,
+Option,100,a) shallow chest movement.
+Option,0,b) use of accessory muscles.
+Option,0,c) supraclavicular retractions.
+Option,0,d) gasping attempts to breathe.
+Hint,"Complexity: Easy			Ahead: Secondary Assessment			Subject:Patient Assessment, Page 387			Title: Patient Assessment			Feedback: See Secondary Assessment			Taxonomy: Recall			Objective: 10-13 List the signs of respiratory distress and respiratory failure.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following occurs when a patient’s respirations are shallow?,
+Points,1,
+Difficulty,1,
+Option,0,a) Chest rise will be easily noticeable.
+Option,100,b) Tidal volume is markedly reduced.
+Option,0,c) Oxygenation occurs more efficiently.
+Option,0,d) Carbon dioxide elimination is increased.
+Hint,"Complexity: Moderate			Ahead: Primary Assessment			Subject:Patient Assessment, Page 356			Title: Patient Assessment			Feedback: See Primary Assessment			Taxonomy: Recall			Objective: 10-12 Describe the assessment of a patient’s breathing status, including the key information EMTs must obtain during this process and the care required for patients who have adequate and inadequate breathing.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following signs of respiratory distress is usually observed only in pediatric patients?,
+Points,1,
+Difficulty,1,
+Option,100,a) Seesaw breathing
+Option,0,b) Rapid respirations
+Option,0,c) Pursed-lip breathing
+Option,0,d) Accessory muscle use
+Hint,"Complexity: Easy			Ahead: Primary Assessment			Subject:Patient Assessment, Page 356			Title: Patient Assessment			Feedback: See Primary Assessment			Taxonomy: Recall			Objective: 10-12 Describe the assessment of a patient’s breathing status, including the key information EMTs must obtain during this process and the care required for patients who have adequate and inadequate breathing.",
+NewQuestion,MC,
+Title,,
+QuestionText,An adult patient who is NOT experiencing difficulty breathing will:,
+Points,1,
+Difficulty,1,
+Option,100,a) be able to speak in complete sentences without unusual pauses.
+Option,0,b) assume a position that will facilitate effective and easy breathing.
+Option,0,c) exhibit an indentation above the clavicles and in between the ribs.
+Option,0,d) have a respiratory rate that is between 20 and 24 breaths/min.
+Hint,"Complexity: Moderate			Ahead: Primary Assessment			Subject:Patient Assessment, Page 356			Title: Patient Assessment			Feedback: See Primary Assessment			Taxonomy: Application			Objective: 10-12 Describe the assessment of a patient’s breathing status, including the key information EMTs must obtain during this process and the care required for patients who have adequate and inadequate breathing.",
+NewQuestion,MC,
+Title,,
+QuestionText,You should suspect that a patient is experiencing respiratory failure if he or she:,
+Points,1,
+Difficulty,1,
+Option,0,a) is restless and is working hard to breathe.
+Option,0,b) has an increased heart rate and retractions.
+Option,100,c) has bradycardia and diminished muscle tone.
+Option,0,"d) is anxious, tachycardic, and leaning forward."
+Hint,"Complexity: Easy			Ahead: Primary Assessment			Subject:Patient Assessment, Page 357			Title: Patient Assessment			Feedback: See Primary Assessment			Taxonomy: Application			Objective: 10-13 List the signs of respiratory distress and respiratory failure.",
+NewQuestion,MC,
+Title,,
+QuestionText,"During the primary assessment, circulation is evaluated by assessing:",
+Points,1,
+Difficulty,1,
+Option,0,"a) skin quality, blood pressure, and capillary refill."
+Option,100,"b) pulse quality, external bleeding, and skin condition."
+Option,0,"c) blood pressure, pulse rate, and external bleeding."
+Option,0,"d) external bleeding, skin condition, and capillary refill."
+Hint,"Complexity: Easy			Ahead: Primary Assessment			Subject:Patient Assessment, Page 357			Title: Patient Assessment			Feedback: See Primary Assessment			Taxonomy: Recall			Objective: 10-14 Describe the assessment of a patient’s circulatory status, including the different methods for obtaining a pulse and appropriate management depending on the patient’s status.",
+NewQuestion,MC,
+Title,,
+QuestionText,A palpable pulse is created by:,
+Points,1,
+Difficulty,1,
+Option,0,a) the pressure of circulating blood against the walls of the veins.
+Option,0,b) the pressure that is caused when venous blood returns to the heart.
+Option,100,c) pressure waves through the arteries caused by cardiac contraction.
+Option,0,d) electrical conduction in the heart producing contraction of the atria.
+Hint,"Complexity: Moderate			Ahead: Primary Assessment			Subject:Patient Assessment, Page 358			Title: Patient Assessment			Feedback: See Primary Assessment			Taxonomy: Recall			Objective: 10-14 Describe the assessment of a patient’s circulatory status, including the different methods for obtaining a pulse and appropriate management depending on the patient’s status.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following is the MOST accurate guide to palpating a pulse?,
+Points,1,
+Difficulty,1,
+Option,0,a) Avoid compressing the artery against a bone or solid structure.
+Option,100,b) Place the tips of your index and long fingers over the pulse point.
+Option,0,c) Use your thumb to increase the surface area that you are palpating.
+Option,0,d) Apply firm pressure to the artery with your ring and little fingers.
+Hint,"Complexity: Easy			Ahead: Primary Assessment			Subject:Patient Assessment, Page 358			Title: Patient Assessment			Feedback: See Primary Assessment			Taxonomy: Recall			Objective: 10-14 Describe the assessment of a patient’s circulatory status, including the different methods for obtaining a pulse and appropriate management depending on the patient’s status.",
+NewQuestion,MC,
+Title,,
+QuestionText,"In responsive patients who are older than 1 year of age, you should palpate the pulse at the ________ artery.",
+Points,1,
+Difficulty,1,
+Option,100,a) radial
+Option,0,b) carotid
+Option,0,c) brachial
+Option,0,d) femoral
+Hint,"Complexity: Easy			Ahead: Primary Assessment			Subject:Patient Assessment, Page 358			Title: Patient Assessment			Feedback: See Primary Assessment			Taxonomy: Recall			Objective: 10-14 Describe the assessment of a patient’s circulatory status, including the different methods for obtaining a pulse and appropriate management depending on the patient’s status.",
+NewQuestion,MC,
+Title,,
+QuestionText,"A patient is sitting in a chair, leaning forward on his outstretched arms. His head and chin are thrust forward. This position indicates that he:",
+Points,1,
+Difficulty,1,
+Option,0,a) has abdominal muscle spasms.
+Option,0,b) is experiencing severe back pain.
+Option,0,c) has a decreased level of consciousness.
+Option,100,d) is experiencing difficulty breathing.
+Hint,"Complexity: Moderate			Ahead: Primary Assessment			Subject:Patient Assessment, Page 356			Title: Patient Assessment			Feedback: See Primary Assessment			Taxonomy: Analysis			Objective: 10-13 List the signs of respiratory distress and respiratory failure.",
+NewQuestion,MC,
+Title,,
+QuestionText,"When palpating the carotid pulse of a responsive patient, you should:",
+Points,1,
+Difficulty,1,
+Option,100,a) avoid compressing both carotid arteries simultaneously.
+Option,0,b) ensure that his or her head is in a hyperextended position.
+Option,0,c) avoid gentle pressure so that weak pulses can be detected.
+Option,0,d) firmly compress the artery because the pulse is often weak.
+Hint,"Complexity: Easy			Ahead: Primary Assessment			Subject:Patient Assessment, Page 358			Title: Patient Assessment			Feedback: See Primary Assessment			Taxonomy: Recall			Objective: 10-14 Describe the assessment of a patient’s circulatory status, including the different methods for obtaining a pulse and appropriate management depending on the patient’s status.",
+NewQuestion,MC,
+Title,,
+QuestionText,"You receive a call to a daycare center for an unresponsive 8-month-old infant. Upon arrival, you perform an assessment and determine that the infant is not breathing. Your next action should be to:",
+Points,1,
+Difficulty,1,
+Option,0,a) open the airway and give two rescue breaths.
+Option,0,b) begin chest compressions and request backup.
+Option,0,c) immediately transport the child to the hospital.
+Option,100,d) assess for a brachial pulse for 5 to 10 seconds.
+Hint,"Complexity: Difficult			Ahead: Primary Assessment			Subject:Patient Assessment, Page 358			Title: Patient Assessment			Feedback: See Primary Assessment			Taxonomy: Analysis			Objective: 10-15 Explain the variations required to obtain a pulse in infant and child patients compared with adult patients.",
+NewQuestion,MC,
+Title,,
+QuestionText,"If you cannot palpate a pulse in an unresponsive patient whose collapse was not witnessed, you should:",
+Points,1,
+Difficulty,1,
+Option,0,a) apply an AED at once.
+Option,100,b) immediately begin CPR.
+Option,0,c) palpate at another pulse site.
+Option,0,d) assess for adequate breathing.
+Hint,"Complexity: Easy			Ahead: Primary Assessment			Subject:Patient Assessment, Page 358			Title: Patient Assessment			Feedback: See Primary Assessment			Taxonomy: Recall			Objective: 10-14 Describe the assessment of a patient’s circulatory status, including the different methods for obtaining a pulse and appropriate management depending on the patient’s status.",
+NewQuestion,MC,
+Title,,
+QuestionText,You respond to the residence of a 62-year-old male who is unresponsive. Your primary assessment reveals that he is apneic and pulseless. You should:,
+Points,1,
+Difficulty,1,
+Option,100,a) start CPR and attach the AED as soon as possible.
+Option,0,b) ask the family if the patient has a terminal disease.
+Option,0,c) perform CPR and transport the patient immediately.
+Option,0,d) notify dispatch and request a paramedic ambulance.
+Hint,"Complexity: Difficult			Ahead: Primary Assessment			Subject:Patient Assessment, Page 358			Title: Patient Assessment			Feedback: See Primary Assessment			Taxonomy: Application			Objective: 10-14 Describe the assessment of a patient’s circulatory status, including the different methods for obtaining a pulse and appropriate management depending on the patient’s status.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following factors would MOST likely cause a patient’s pulse rate to be slower than normal?,
+Points,1,
+Difficulty,1,
+Option,0,a) Anxiety or severe stress
+Option,100,b) Beta blocker medications
+Option,0,c) Internal bleeding from trauma
+Option,0,d) Lack of a regular exercise routine
+Hint,"Complexity: Easy			Ahead: Secondary Assessment			Subject:Patient Assessment, Page 387			Title: Patient Assessment			Feedback: See Secondary Assessment			Taxonomy: Recall			Objective: 10-14 Describe the assessment of a patient’s circulatory status, including the different methods for obtaining a pulse and appropriate management depending on the patient’s status.",
+NewQuestion,MC,
+Title,,
+QuestionText,"When palpating a patient’s pulse, you note that it is grossly irregular. You should:",
+Points,1,
+Difficulty,1,
+Option,0,a) count the pulse rate for at least 30 seconds to ensure accuracy.
+Option,0,b) count the number of pulsations in 15 seconds and multiply by four.
+Option,0,c) count the number of pulsations in 30 seconds and multiply by two.
+Option,100,d) count the pulse rate for a full minute to obtain an accurate reading.
+Hint,"Complexity: Easy			Ahead: Secondary Assessment			Subject:Patient Assessment, Page 387			Title: Patient Assessment			Feedback: See Secondary Assessment			Taxonomy: Recall			Objective: 10-14 Describe the assessment of a patient’s circulatory status, including the different methods for obtaining a pulse and appropriate management depending on the patient’s status.",
+NewQuestion,MC,
+Title,,
+QuestionText,"For an adult, the normal resting pulse should be between:",
+Points,1,
+Difficulty,1,
+Option,0,a) 40 and 50 beats/min.
+Option,0,b) 50 and 60 beats/min.
+Option,100,c) 60 and 100 beats/min.
+Option,0,d) 100 and 110 beats/min.
+Hint,"Complexity: Moderate			Ahead: Secondary Assessment			Subject:Patient Assessment, Page 387			Title: Patient Assessment			Feedback: See Secondary Assessment			Taxonomy: Recall			Objective: 10-14 Describe the assessment of a patient’s circulatory status, including the different methods for obtaining a pulse and appropriate management depending on the patient’s status.",
+NewQuestion,MC,
+Title,,
+QuestionText,"In the adult, bradycardia is defined as a pulse rate less than _______ beats/min, and tachycardia is defined as a heart rate greater than _______ beats/min.",
+Points,1,
+Difficulty,1,
+Option,100,"a) 60, 100"
+Option,0,"b) 50, 110"
+Option,0,"c) 40, 120"
+Option,0,"d) 30, 130"
+Hint,"Complexity: Easy			Ahead: Secondary Assessment			Subject:Patient Assessment, Page 387			Title: Patient Assessment			Feedback: See Secondary Assessment			Taxonomy: Recall			Objective: 10-14 Describe the assessment of a patient’s circulatory status, including the different methods for obtaining a pulse and appropriate management depending on the patient’s status.",
+NewQuestion,MC,
+Title,,
+QuestionText,A pulse with a consistent pattern is considered to be:,
+Points,1,
+Difficulty,1,
+Option,0,a) weak.
+Option,0,b) strong.
+Option,100,c) regular.
+Option,0,d) irregular.
+Hint,"Complexity: Easy			Ahead: Secondary Assessment			Subject:Patient Assessment, Page 387			Title: Patient Assessment			Feedback: See Secondary Assessment			Taxonomy: Recall			Objective: 10-14 Describe the assessment of a patient’s circulatory status, including the different methods for obtaining a pulse and appropriate management depending on the patient’s status.",
+NewQuestion,MC,
+Title,,
+QuestionText,"When palpating a patient’s pulse, you note that there is a short interval between pulsations. This indicates that the pulse is:",
+Points,1,
+Difficulty,1,
+Option,0,a) slow.
+Option,100,b) rapid.
+Option,0,c) irregular.
+Option,0,d) thready.
+Hint,"Complexity: Easy			Ahead: Secondary Assessment			Subject:Patient Assessment, Page 388			Title: Patient Assessment			Feedback: See Secondary Assessment			Taxonomy: Recall			Objective: 10-14 Describe the assessment of a patient’s circulatory status, including the different methods for obtaining a pulse and appropriate management depending on the patient’s status.",
+NewQuestion,MC,
+Title,,
+QuestionText,"When assessing a 62-year-old female with crushing chest pain, you note that her pulse is rapid and irregular. You should administer supplemental oxygen if needed and then:",
+Points,1,
+Difficulty,1,
+Option,0,a) apply the AED and analyze her cardiac rhythm.
+Option,100,b) transport at once and consider requesting a paramedic unit.
+Option,0,c) document your findings and perform a detailed assessment.
+Option,0,d) conclude that the irregular pulse is normal based on her age.
+Hint,"Complexity: Difficult			Ahead: Secondary Assessment			Subject:Patient Assessment, Page 388			Title: Patient Assessment			Feedback: See Secondary Assessment			Taxonomy: Application			Objective: 10-14 Describe the assessment of a patient’s circulatory status, including the different methods for obtaining a pulse and appropriate management depending on the patient’s status.",
+NewQuestion,MC,
+Title,,
+QuestionText,"In patients with deeply pigmented skin, changes in color may be apparent only in certain areas, such as the:",
+Points,1,
+Difficulty,1,
+Option,0,a) back of the neck.
+Option,0,b) forehead and face.
+Option,0,c) dorsum of the hand.
+Option,100,d) lips or oral mucosa.
+Hint,"Complexity: Moderate			Ahead: Primary Assessment			Subject:Patient Assessment, Page 359			Title: Patient Assessment			Feedback: See Primary Assessment			Taxonomy: Recall			Objective: 10-16 Describe the assessment of a patient’s skin color, temperature, and condition, including examples of both normal and abnormal findings and the information this provides related to the patient’s status.",
+NewQuestion,MC,
+Title,,
+QuestionText,"In infants and small children, skin color should be assessed on the:",
+Points,1,
+Difficulty,1,
+Option,0,a) forehead.
+Option,100,b) palms and soles.
+Option,0,c) chest and abdomen.
+Option,0,d) underside of the arms.
+Hint,"Complexity: Easy			Ahead: Primary Assessment			Subject:Patient Assessment, Page 359			Title: Patient Assessment			Feedback: See Primary Assessment			Taxonomy: Recall			Objective: 10-16 Describe the assessment of a patient’s skin color, temperature, and condition, including examples of both normal and abnormal findings and the information this provides related to the patient’s status.",
+NewQuestion,MC,
+Title,,
+QuestionText,Poor peripheral circulation will cause the skin to appear:,
+Points,1,
+Difficulty,1,
+Option,0,a) pink.
+Option,100,b) ashen.
+Option,0,c) flushed.
+Option,0,d) cyanotic.
+Hint,"Complexity: Easy			Ahead: Primary Assessment			Subject:Patient Assessment, Page 359			Title: Patient Assessment			Feedback: See Primary Assessment			Taxonomy: Recall			Objective: 10-16 Describe the assessment of a patient’s skin color, temperature, and condition, including examples of both normal and abnormal findings and the information this provides related to the patient’s status.",
+NewQuestion,MC,
+Title,,
+QuestionText,"When assessing the skin of an unresponsive patient, you note that it has a bluish tint to it. This finding is called:",
+Points,1,
+Difficulty,1,
+Option,0,a) pallor.
+Option,0,b) flushing.
+Option,100,c) cyanosis.
+Option,0,d) mottling.
+Hint,"Complexity: Easy			Ahead: Primary Assessment			Subject:Patient Assessment, Page 359			Title: Patient Assessment			Feedback: See Primary Assessment			Taxonomy: Recall			Objective: 10-16 Describe the assessment of a patient’s skin color, temperature, and condition, including examples of both normal and abnormal findings and the information this provides related to the patient’s status.",
+NewQuestion,MC,
+Title,,
+QuestionText,Cyanosis of the skin is caused by:,
+Points,1,
+Difficulty,1,
+Option,0,a) increased blood oxygen.
+Option,0,b) peripheral vasodilation.
+Option,0,c) venous vasoconstriction.
+Option,100,d) decreased blood oxygen.
+Hint,"Complexity: Easy			Ahead: Primary Assessment			Subject:Patient Assessment, Page 359			Title: Patient Assessment			Feedback: See Primary Assessment			Taxonomy: Recall			Objective: 10-16 Describe the assessment of a patient’s skin color, temperature, and condition, including examples of both normal and abnormal findings and the information this provides related to the patient’s status.",
+NewQuestion,MC,
+Title,,
+QuestionText,"Normal skin color, temperature, and condition should be:",
+Points,1,
+Difficulty,1,
+Option,100,"a) pink, warm, and dry."
+Option,0,"b) pale, cool, and moist."
+Option,0,"c) pink, warm, and moist."
+Option,0,"d) flushed, cool, and dry."
+Hint,"Complexity: Easy			Ahead: Primary Assessment			Subject:Patient Assessment, Page 359			Title: Patient Assessment			Feedback: See Primary Assessment			Taxonomy: Recall			Objective: 10-16 Describe the assessment of a patient’s skin color, temperature, and condition, including examples of both normal and abnormal findings and the information this provides related to the patient’s status.",
+NewQuestion,MC,
+Title,,
+QuestionText,A patient with high blood pressure would be expected to have skin that is:,
+Points,1,
+Difficulty,1,
+Option,100,a) flushed and red.
+Option,0,b) mottled and cool.
+Option,0,c) pale and moist.
+Option,0,d) cyanotic and dry.
+Hint,"Complexity: Easy			Ahead: Primary Assessment			Subject:Patient Assessment, Page 359			Title: Patient Assessment			Feedback: See Primary Assessment			Taxonomy: Recall			Objective: 10-16 Describe the assessment of a patient’s skin color, temperature, and condition, including examples of both normal and abnormal findings and the information this provides related to the patient’s status.",
+NewQuestion,MC,
+Title,,
+QuestionText,"A 40-year-old male presents with pain to the right upper quadrant of his abdomen. He is conscious and alert with stable vital signs. During your assessment, you note that his skin and sclera are jaundiced. You should suspect:",
+Points,1,
+Difficulty,1,
+Option,0,a) acute pancreatitis.
+Option,100,b) liver dysfunction.
+Option,0,c) gallbladder disease.
+Option,0,d) renal insufficiency.
+Hint,"Complexity: Difficult			Ahead: Primary Assessment			Subject:Patient Assessment, Page 359			Title: Patient Assessment			Feedback: See Primary Assessment			Taxonomy: Analysis			Objective: 10-16 Describe the assessment of a patient’s skin color, temperature, and condition, including examples of both normal and abnormal findings and the information this provides related to the patient’s status.",
+NewQuestion,MC,
+Title,,
+QuestionText,A patient with profuse sweating is referred to as being:,
+Points,1,
+Difficulty,1,
+Option,0,a) flushed.
+Option,0,b) plethoric.
+Option,100,c) diaphoretic.
+Option,0,d) edematous.
+Hint,"Complexity: Easy			Ahead: Primary Assessment			Subject:Patient Assessment, Page 360			Title: Patient Assessment			Feedback: See Primary Assessment			Taxonomy: Recall			Objective: 10-16 Describe the assessment of a patient’s skin color, temperature, and condition, including examples of both normal and abnormal findings and the information this provides related to the patient’s status.",
+NewQuestion,MC,
+Title,,
+QuestionText,"When you assess capillary refill time in an infant, normal color to the tested area should return within:",
+Points,1,
+Difficulty,1,
+Option,0,a) 1 second.
+Option,100,b) 2 seconds.
+Option,0,c) 3 seconds.
+Option,0,d) 4 seconds.
+Hint,"Complexity: Easy			Ahead: Primary Assessment			Subject:Patient Assessment, Page 360			Title: Patient Assessment			Feedback: See Primary Assessment			Taxonomy: Recall			Objective: 10-16 Describe the assessment of a patient’s skin color, temperature, and condition, including examples of both normal and abnormal findings and the information this provides related to the patient’s status.",
+NewQuestion,MC,
+Title,,
+QuestionText,"During your assessment of a 6-month-old male with vomiting and diarrhea, you note that his capillary refill time is approximately 4 seconds. From this information, you should conclude that the infant’s:",
+Points,1,
+Difficulty,1,
+Option,0,a) respiratory status is adequate.
+Option,0,b) systolic blood pressure is normal.
+Option,100,c) peripheral circulation is decreased.
+Option,0,d) skin temperature is abnormally cold.
+Hint,"Complexity: Moderate			Ahead: Primary Assessment			Subject:Patient Assessment, Page 360			Title: Patient Assessment			Feedback: See Primary Assessment			Taxonomy: Analysis			Objective: 10-16 Describe the assessment of a patient’s skin color, temperature, and condition, including examples of both normal and abnormal findings and the information this provides related to the patient’s status.",
+NewQuestion,MC,
+Title,,
+QuestionText,"With regard to the assessment of a patient’s cardiovascular status, capillary refill time is MOST reliable in:",
+Points,1,
+Difficulty,1,
+Option,100,a) patients who are younger than 6 years of age.
+Option,0,b) patients who are significantly hypotensive.
+Option,0,c) patients who were exposed to cold temperatures.
+Option,0,d) patients who are older than 70 years of age.
+Hint,"Complexity: Easy			Ahead: Primary Assessment			Subject:Patient Assessment, Page 360			Title: Patient Assessment			Feedback: See Primary Assessment			Taxonomy: Recall			Objective: 10-16 Describe the assessment of a patient’s skin color, temperature, and condition, including examples of both normal and abnormal findings and the information this provides related to the patient’s status.",
+NewQuestion,MC,
+Title,,
+QuestionText,External bleeding from an extremity can usually be controlled initially by:,
+Points,1,
+Difficulty,1,
+Option,100,a) applying direct pressure.
+Option,0,b) elevating the extremity.
+Option,0,c) applying a tourniquet.
+Option,0,d) applying chemical ice packs.
+Hint,"Complexity: Easy			Ahead: Primary Assessment			Subject:Patient Assessment, Page 361			Title: Patient Assessment			Feedback: See Primary Assessment			Taxonomy: Recall			Objective: 10-17 Discuss the process of assessing and methods for controlling external bleeding.",
+NewQuestion,MC,
+Title,,
+QuestionText,"A 39-year-old male sustained a stab wound to the groin during an altercation at a bar. As you approach the patient, you note that he is conscious, is screaming in pain, and is attempting to control the bleeding, which is bright red and spurting from his groin area. You should:",
+Points,1,
+Difficulty,1,
+Option,0,a) ensure that his airway is patent.
+Option,100,b) apply direct pressure to the wound.
+Option,0,c) elevate his legs and keep him warm.
+Option,0,d) administer 100% supplemental oxygen.
+Hint,"Complexity: Difficult			Ahead: Primary Assessment			Subject:Patient Assessment, Page 361			Title: Patient Assessment			Feedback: See Primary Assessment			Taxonomy: Analysis			Objective: 10-17 Discuss the process of assessing and methods for controlling external bleeding.",
+NewQuestion,MC,
+Title,,
+QuestionText,The rapid exam of a patient that occurs following the primary assessment should take no longer than:,
+Points,1,
+Difficulty,1,
+Option,0,a) 30 seconds.
+Option,0,b) 60 seconds.
+Option,100,c) 90 seconds.
+Option,0,d) 120 seconds.
+Hint,"Complexity: Easy			Ahead: Primary Assessment			Subject:Patient Assessment, Page 361			Title: Patient Assessment			Feedback: See Primary Assessment			Taxonomy: Recall			Objective: 10-18 Discuss the steps used to identify and subsequently treat life-threatening conditions that endanger a patient during an emergency.",
+NewQuestion,MC,
+Title,,
+QuestionText,"After performing a primary assessment, a rapid exam of the body should be performed to:",
+Points,1,
+Difficulty,1,
+Option,0,a) determine the need for spinal motion restriction precautions.
+Option,100,b) identify less-obvious injuries that require immediate treatment.
+Option,0,c) look specifically for signs and symptoms of inadequate perfusion.
+Option,0,d) find and treat injuries or conditions that do not pose a threat to life.
+Hint,"Complexity: Easy			Ahead: Primary Assessment			Subject:Patient Assessment, Page 361			Title: Patient Assessment			Feedback: See Primary Assessment			Taxonomy: Recall			Objective: 10-18 Discuss the steps used to identify and subsequently treat life-threatening conditions that endanger a patient during an emergency.",
+NewQuestion,MC,
+Title,,
+QuestionText,You should avoid palpating a patient’s pelvis if:,
+Points,1,
+Difficulty,1,
+Option,0,a) the pelvis does not appear deformed.
+Option,100,b) the patient complains of pelvic pain.
+Option,0,c) the MOI suggests trauma to the pelvis.
+Option,0,d) the patient is older than 50 years of age.
+Hint,"Complexity: Easy			Ahead: Primary Assessment			Subject:Patient Assessment, Page 362			Title: Patient Assessment			Feedback: See Primary Assessment			Taxonomy: Recall			Objective: 10-18 Discuss the steps used to identify and subsequently treat life-threatening conditions that endanger a patient during an emergency.",
+NewQuestion,MC,
+Title,,
+QuestionText,A 71-year-old female slipped on a rug and fell. She is conscious but confused and complains of severe pelvic pain. Her respirations are 22 breaths/min and her heart rate is 120 beats/min. What should you do?,
+Points,1,
+Difficulty,1,
+Option,0,a) Transport her on her left side
+Option,0,b) Transport her in a seated position
+Option,100,c) Treat her for possible shock
+Option,0,d) Gently palpate her pelvis
+Hint,"Complexity: Difficult			Ahead: Primary Assessment			Subject:Patient Assessment, Page 361			Title: Patient Assessment			Feedback: See Primary Assessment			Taxonomy: Application			Objective: 10-18 Discuss the steps used to identify and subsequently treat life-threatening conditions that endanger a patient during an emergency.",
+NewQuestion,MC,
+Title,,
+QuestionText,"When assessing a patient’s abdomen, you will evaluate for all of the following, EXCEPT:",
+Points,1,
+Difficulty,1,
+Option,100,a) subcutaneous emphysema.
+Option,0,b) open wounds or eviscerations.
+Option,0,c) gross bleeding and tenderness.
+Option,0,d) rigidity and obvious bleeding.
+Hint,"Complexity: Easy			Ahead: Primary Assessment			Subject:Patient Assessment, Page 362			Title: Patient Assessment			Feedback: See Primary Assessment			Taxonomy: Recall			Objective: 10-18 Discuss the steps used to identify and subsequently treat life-threatening conditions that endanger a patient during an emergency.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following situations or conditions warrants immediate transport?,
+Points,1,
+Difficulty,1,
+Option,0,a) Mild pain in the lower abdomen
+Option,100,"b) Severe chest pain and cool, pale skin"
+Option,0,c) Decreased ability to move an extremity
+Option,0,d) Ability to follow commands
+Hint,"Complexity: Easy			Ahead: Primary Assessment			Subject:Patient Assessment, Page 364			Title: Patient Assessment			Feedback: See Primary Assessment			Taxonomy: Recall			Objective: 10-20 Explain the process for determining the priority of patient care and transport at an emergency scene and include examples of conditions that necessitate immediate transport.",
+NewQuestion,MC,
+Title,,
+QuestionText,"When performing a rapid exam on a supine patient, what part of the body is typically assessed last?",
+Points,1,
+Difficulty,1,
+Option,0,a) Abdomen
+Option,100,b) Posterior
+Option,0,c) Extremities
+Option,0,d) Anterior chest
+Hint,"Complexity: Easy			Ahead: Primary Assessment			Subject:Patient Assessment, Page 363			Title: Patient Assessment			Feedback: See Primary Assessment			Taxonomy: Recall			Objective: 10-19 List the steps EMTs should follow during the primary assessment of a trauma patient, including examples of abnormal signs and appropriate related actions.",
+NewQuestion,MC,
+Title,,
+QuestionText,"As you assess the head of a patient with a suspected spinal injury, your partner should:",
+Points,1,
+Difficulty,1,
+Option,100,a) maintain stabilization of the head.
+Option,0,b) look in the ears for gross bleeding.
+Option,0,c) prepare the immobilization equipment.
+Option,0,d) assess the rest of the body for bleeding.
+Hint,"Complexity: Easy			Ahead: Primary Assessment			Subject:Patient Assessment, Page 362			Title: Patient Assessment			Feedback: See Primary Assessment			Taxonomy: Recall			Objective: 10-18 Discuss the steps used to identify and subsequently treat life-threatening conditions that endanger a patient during an emergency.",
+NewQuestion,MC,
+Title,,
+QuestionText,"A 50-year-old male presents with altered mental status. His wife tells you that he had a “small stroke” 3 years ago but has otherwise been in good health. The patient is responsive but unable to follow commands. After administering oxygen if needed, you should:",
+Points,1,
+Difficulty,1,
+Option,0,a) repeat the primary assessment.
+Option,0,b) inquire about his family history.
+Option,100,c) prepare for immediate transport.
+Option,0,d) perform a head-to-toe assessment.
+Hint,"Complexity: Difficult			Ahead: Primary Assessment			Subject:Patient Assessment, Page 364			Title: Patient Assessment			Feedback: See Primary Assessment			Taxonomy: Application			Objective: 10-20 Explain the process for determining the priority of patient care and transport at an emergency scene and include examples of conditions that necessitate immediate transport.",
+NewQuestion,MC,
+Title,,
+QuestionText,The “Golden Hour” begins when an injury occurs and ends when:,
+Points,1,
+Difficulty,1,
+Option,100,a) the patient receives definitive care.
+Option,0,b) the patient is admitted to the ICU.
+Option,0,c) you depart the scene for the hospital.
+Option,0,d) you arrive at the emergency department.
+Hint,"Complexity: Easy			Ahead: Primary Assessment			Subject:Patient Assessment, Page 364			Title: Patient Assessment			Feedback: See Primary Assessment			Taxonomy: Recall			Objective: 10-20 Explain the process for determining the priority of patient care and transport at an emergency scene and include examples of conditions that necessitate immediate transport.",
+NewQuestion,MC,
+Title,,
+QuestionText,As time progresses following a significant injury:,
+Points,1,
+Difficulty,1,
+Option,0,a) the patient’s blood pressure elevates significantly.
+Option,0,b) the patient’s injuries will most likely be irreparable.
+Option,0,c) most patients will die secondary to internal bleeding.
+Option,100,d) the body’s ability to compensate for shock decreases.
+Hint,"Complexity: Easy			Ahead: Primary Assessment			Subject:Patient Assessment, Page 364			Title: Patient Assessment			Feedback: See Primary Assessment			Taxonomy: Recall			Objective: 10-20 Explain the process for determining the priority of patient care and transport at an emergency scene and include examples of conditions that necessitate immediate transport.",
+NewQuestion,MC,
+Title,,
+QuestionText,A patient in unstable condition should be reassessed at least every:,
+Points,1,
+Difficulty,1,
+Option,100,a) 5 minutes.
+Option,0,b) 10 minutes.
+Option,0,c) 15 minutes.
+Option,0,d) 20 minutes.
+Hint,"Complexity: Easy			Ahead: Primary Assessment			Subject:Patient Assessment, Page 364			Title: Patient Assessment			Feedback: See Primary Assessment			Taxonomy: Recall			Objective: 10-20 Explain the process for determining the priority of patient care and transport at an emergency scene and include examples of conditions that necessitate immediate transport.",
+NewQuestion,MC,
+Title,,
+QuestionText,"During a 30-minute transport of a stable patient, you should reassess him or her at least ________ times.",
+Points,1,
+Difficulty,1,
+Option,100,a) 2
+Option,0,b) 3
+Option,0,c) 4
+Option,0,d) 6
+Hint,"Complexity: Easy			Ahead: Primary Assessment			Subject:Patient Assessment, Page 364			Title: Patient Assessment			Feedback: See Primary Assessment			Taxonomy: Analysis			Objective: 10-20 Explain the process for determining the priority of patient care and transport at an emergency scene and include examples of conditions that necessitate immediate transport.",
+NewQuestion,MC,
+Title,,
+QuestionText,What part of the patient assessment process focuses on obtaining additional information about the patient’s chief complaint and any medical problems he or she may have?,
+Points,1,
+Difficulty,1,
+Option,100,a) History taking
+Option,0,b) General impression
+Option,0,c) Primary assessment
+Option,0,d) Secondary assessment
+Hint,"Complexity: Easy			Ahead: History Taking			Subject:Patient Assessment, Page 366			Title: Patient Assessment			Feedback: See History Taking			Taxonomy: Recall			Objective: 10-22 Discuss the process of taking a focused history, its key components, and its relationship to the primary assessment process.",
+NewQuestion,MC,
+Title,,
+QuestionText,The chief complaint is MOST accurately defined as the:,
+Points,1,
+Difficulty,1,
+Option,0,a) most life-threatening condition that you discover.
+Option,0,b) condition that exacerbates an underlying problem.
+Option,100,c) most serious thing the patient is concerned about.
+Option,0,d) gross physical signs that you detect on assessment.
+Hint,"Complexity: Easy			Ahead: History Taking			Subject:Patient Assessment, Page 367			Title: Patient Assessment			Feedback: See History Taking			Taxonomy: Recall			Objective: 10-22 Discuss the process of taking a focused history, its key components, and its relationship to the primary assessment process.",
+NewQuestion,MC,
+Title,,
+QuestionText,"Upon arriving at the scene of a patient with difficulty breathing, you determine that the scene is safe. You enter the residence and find the patient sitting in a chair in respiratory distress. Your first action should be to:",
+Points,1,
+Difficulty,1,
+Option,0,a) ask the patient what’s wrong.
+Option,0,b) obtain a set of baseline vital signs.
+Option,0,c) assess the patient’s airway status.
+Option,100,d) introduce yourself to the patient.
+Hint,"Complexity: Moderate			Ahead: History Taking			Subject:Patient Assessment, Page 367			Title: Patient Assessment			Feedback: See History Taking			Taxonomy: Application			Objective: 10-22 Discuss the process of taking a focused history, its key components, and its relationship to the primary assessment process.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following questions is used to determine a patient’s chief complaint?,
+Points,1,
+Difficulty,1,
+Option,100,a) “What seems to be the matter?”
+Option,0,b) “When did the chest pain begin?”
+Option,0,c) “Are you having trouble breathing?”
+Option,0,d) “Do you have a history of diabetes?”
+Hint,"Complexity: Easy			Ahead: History Taking			Subject:Patient Assessment, Page 367			Title: Patient Assessment			Feedback: See History Taking			Taxonomy: Recall			Objective: 10-22 Discuss the process of taking a focused history, its key components, and its relationship to the primary assessment process.",
+NewQuestion,MC,
+Title,,
+QuestionText,"When interviewing a patient, you can show him or her that you understand the situation by:",
+Points,1,
+Difficulty,1,
+Option,100,a) repeating statements back to him or her.
+Option,0,b) using medical terminology whenever possible.
+Option,0,c) maintaining constant eye contact with him or her.
+Option,0,d) interrupting him or her as needed for clarification.
+Hint,"Complexity: Moderate			Ahead: History Taking			Subject:Patient Assessment, Page 367			Title: Patient Assessment			Feedback: See History Taking			Taxonomy: Recall			Objective: 10-22 Discuss the process of taking a focused history, its key components, and its relationship to the primary assessment process.",
+NewQuestion,MC,
+Title,,
+QuestionText,"A 50-year-old male is found unconscious in his car. There were no witnesses to the event. When gathering medical history information for this patient, the EMT should:",
+Points,1,
+Difficulty,1,
+Option,0,a) wait for family members to arrive before asking any questions.
+Option,0,b) defer SAMPLE history questions until you arrive at the hospital.
+Option,100,c) determine if the patient has a medical alert bracelet or wallet card.
+Option,0,d) ask law enforcement officials if they are familiar with the patient.
+Hint,"Complexity: Difficult			Ahead: History Taking			Subject:Patient Assessment, Page 367			Title: Patient Assessment			Feedback: See History Taking			Taxonomy: Analysis			Objective: 10-22 Discuss the process of taking a focused history, its key components, and its relationship to the primary assessment process.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following medical history questions would be of LEAST pertinence in an acute situation?,
+Points,1,
+Difficulty,1,
+Option,0,a) “Does the pain stay in your chest?”
+Option,100,b) “Does your mother have diabetes?”
+Option,0,c) “Has this ever happened to you before?”
+Option,0,d) “Are there medications that you cannot take?”
+Hint,"Complexity: Easy			Ahead: History Taking			Subject:Patient Assessment, Page 367			Title: Patient Assessment			Feedback: See History Taking			Taxonomy: Analysis			Objective: 10-22 Discuss the process of taking a focused history, its key components, and its relationship to the primary assessment process.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following questions would you ask a patient to ascertain the “M” in the SAMPLE history?,
+Points,1,
+Difficulty,1,
+Option,0,a) “Have you ever had any major surgeries?”
+Option,0,b) “How long have you had your chest pain?”
+Option,100,c) “How much Tylenol do you take each day?”
+Option,0,d) “When was the last time you ate a meal?”
+Hint,"Complexity: Moderate			Ahead: History Taking			Subject:Patient Assessment, Page 369			Title: Patient Assessment			Feedback: See History Taking			Taxonomy: Analysis			Objective: 10-23 Describe examples of different techniques EMTs may use to obtain information from patients during the history-taking process.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following patient responses would establish the “E” in the SAMPLE history?,
+Points,1,
+Difficulty,1,
+Option,0,a) “I was in the hospital a week ago.”
+Option,0,b) “I am not having any difficulty breathing.”
+Option,0,c) “The chest pain started about 45 minutes ago.”
+Option,100,d) “I was mowing the lawn when the pain began.”
+Hint,"Complexity: Moderate			Ahead: History Taking			Subject:Patient Assessment, Page 369			Title: Patient Assessment			Feedback: See History Taking			Taxonomy: Analysis			Objective: 10-23 Describe examples of different techniques EMTs may use to obtain information from patients during the history-taking process.",
+NewQuestion,MC,
+Title,,
+QuestionText,Palliating factors regarding a patient’s pain involve those that:,
+Points,1,
+Difficulty,1,
+Option,0,a) worsen the pain.
+Option,100,b) alleviate the pain.
+Option,0,c) initiate the pain.
+Option,0,d) change the pain.
+Hint,"Complexity: Easy			Ahead: History Taking			Subject:Patient Assessment, Page 368			Title: Patient Assessment			Feedback: See History Taking			Taxonomy: Recall			Objective: 10-23 Describe examples of different techniques EMTs may use to obtain information from patients during the history-taking process.",
+NewQuestion,MC,
+Title,,
+QuestionText,Pain that moves from its point of origin to another body location is said to be:,
+Points,1,
+Difficulty,1,
+Option,100,a) radiating.
+Option,0,b) referred.
+Option,0,c) palliating.
+Option,0,d) provoking.
+Hint,"Complexity: Moderate			Ahead: History Taking			Subject:Patient Assessment, Page 368			Title: Patient Assessment			Feedback: See History Taking			Taxonomy: Recall			Objective: 10-23 Describe examples of different techniques EMTs may use to obtain information from patients during the history-taking process.",
+NewQuestion,MC,
+Title,,
+QuestionText,In which of the following situations is a pertinent negative identified?,
+Points,1,
+Difficulty,1,
+Option,0,a) A 50-year-old woman states that nothing makes her chest pain better or worse.
+Option,0,b) A 53-year-old man with dizziness also tells you that he has vomited three times.
+Option,0,c) A 56-year-old woman states that her chest hurts when she takes a deep breath.
+Option,100,d) A 59-year-old man complains of crushing chest pain but denies shortness of breath.
+Hint,"Complexity: Moderate			Ahead: History Taking			Subject:Patient Assessment, Page 369			Title: Patient Assessment			Feedback: See History Taking			Taxonomy: Analysis			Objective: 10-23 Describe examples of different techniques EMTs may use to obtain information from patients during the history-taking process.",
+NewQuestion,MC,
+Title,,
+QuestionText,"When evaluating a patient with multiple complaints, the EMT’s responsibility is to:",
+Points,1,
+Difficulty,1,
+Option,0,a) direct his or her attention to the most obvious signs and symptoms.
+Option,100,b) determine which complaint poses the greatest threat to the patient’s life.
+Option,0,c) definitively rule out serious causes of each of the patient’s complaints.
+Option,0,d) assess each complaint based on the patient’s perception of its seriousness.
+Hint,"Complexity: Moderate			Ahead: History Taking			Subject:Patient Assessment, Page 372			Title: Patient Assessment			Feedback: See History Taking			Taxonomy: Recall			Objective: 10-23 Describe examples of different techniques EMTs may use to obtain information from patients during the history-taking process.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following statements regarding the secondary assessment is correct?,
+Points,1,
+Difficulty,1,
+Option,100,a) The secondary assessment should focus on a certain area or region of the body as determined by the chief complaint.
+Option,0,"b) The secondary assessment should be performed en route to the hospital, regardless of the severity of the patient’s condition."
+Option,0,"c) A secondary assessment should always be performed, even if you must continually manage life threats that were identified in the primary assessment."
+Option,0,"d) During the secondary assessment, the EMT’s primary focus should be on taking the patient’s vital signs and obtaining a SAMPLE history."
+Hint,"Complexity: Moderate			Ahead: Secondary Assessment			Subject:Patient Assessment, Page 377			Title: Patient Assessment			Feedback: See Secondary Assessment			Taxonomy: Recall			Objective: 10-25 Describe the purpose of a secondary assessment and a physical exam; include how to determine which aspects of the physical exam to use, and the steps.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following statements regarding the secondary assessment is correct?,
+Points,1,
+Difficulty,1,
+Option,0,"a) If your general impression of a patient does not reveal any obvious life threats, you should proceed directly to the secondary assessment."
+Option,0,"b) The purpose of the secondary assessment is to systematically examine every patient from head to toe, regardless of the severity of his or her injury."
+Option,100,c) You may not have time to perform a secondary assessment if you must continually manage life threats that were identified during the primary assessment.
+Option,0,d) A focused secondary assessment would be the most appropriate approach for a patient who experienced significant trauma to multiple body systems.
+Hint,"Complexity: Moderate			Ahead: Secondary Assessment			Subject:Patient Assessment, Page 378			Title: Patient Assessment			Feedback: See Secondary Assessment			Taxonomy: Recall			Objective: 10-25 Describe the purpose of a secondary assessment and a physical exam; include how to determine which aspects of the physical exam to use, and the steps.",
+NewQuestion,MC,
+Title,,
+QuestionText,The pulse oximeter is an assessment tool used to evaluate the:,
+Points,1,
+Difficulty,1,
+Option,0,a) quantity of red blood cells.
+Option,0,b) level of carbon dioxide.
+Option,100,c) saturation level of arterial blood.
+Option,0,d) amount of exhaled carbon dioxide.
+Hint,"Complexity: Easy			Ahead: Secondary Assessment			Subject:Patient Assessment, Page 401			Title: Patient Assessment			Feedback: See Secondary Assessment			Taxonomy: Recall			Objective: 10-25 Describe the purpose of a secondary assessment and a physical exam; include how to determine which aspects of the physical exam to use, and the steps.",
+NewQuestion,MC,
+Title,,
+QuestionText,"When using the pulse oximeter as part of your assessment of a patient, it is important to remember that:",
+Points,1,
+Difficulty,1,
+Option,0,a) pulse oximetry is especially useful in patients who have cold extremities because vasoconstriction forces blood to the capillary beds.
+Option,0,b) carbon monoxide has no effect on pulse oximetry readings because the pulse oximeter presumes that oxygen is saturating the hemoglobin.
+Option,0,"c) as long as the patient’s oxygen saturation is greater than 95%, oxygen is usually not necessary, even if the patient is experiencing respiratory distress."
+Option,100,"d) any situation that causes vasoconstriction or loss of red blood cells, such as anemia or bleeding, may result in an inaccurate or misleading value."
+Hint,"Complexity: Moderate			Ahead: Secondary Assessment			Subject:Patient Assessment, Page 401			Title: Patient Assessment			Feedback: See Secondary Assessment			Taxonomy: Recall			Objective: 10-25 Describe the purpose of a secondary assessment and a physical exam; include how to determine which aspects of the physical exam to use, and the steps.",
+NewQuestion,MC,
+Title,,
+QuestionText,Capnography is used to:,
+Points,1,
+Difficulty,1,
+Option,100,a) determine how much carbon dioxide is being exhaled.
+Option,0,b) assess how much oxygen is bound to the hemoglobin.
+Option,0,c) trend a patient’s blood pressure and assess for shock.
+Option,0,d) assess how much oxygen is reaching the body’s tissues.
+Hint,"Complexity: Easy			Ahead: Secondary Assessment			Subject:Patient Assessment, Page 402			Title: Patient Assessment			Feedback: See Secondary Assessment			Taxonomy: Recall			Objective: 10-25 Describe the purpose of a secondary assessment and a physical exam; include how to determine which aspects of the physical exam to use, and the steps.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following assessments would be the MOST useful in determining the possible cause of a patient’s altered mental status?,
+Points,1,
+Difficulty,1,
+Option,0,a) Respiratory rate
+Option,0,b) Blood pressure
+Option,100,c) Blood glucose level
+Option,0,d) Capillary refill time
+Hint,"Complexity: Moderate			Ahead: Secondary Assessment			Subject:Patient Assessment, Page 402			Title: Patient Assessment			Feedback: See Secondary Assessment			Taxonomy: Application			Objective: 10-25 Describe the purpose of a secondary assessment and a physical exam; include how to determine which aspects of the physical exam to use, and the steps.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following would the EMT likely NOT perform on a responsive patient with a headache and no apparent life-threatening conditions?,
+Points,1,
+Difficulty,1,
+Option,0,a) Focused secondary assessment
+Option,0,b) Assessment of oxygen saturation
+Option,100,c) Systematic head-to-toe examination
+Option,0,d) Noninvasive blood pressure monitoring
+Hint,"Complexity: Easy			Ahead: Secondary Assessment			Subject:Patient Assessment, Page 379			Title: Patient Assessment			Feedback: See Secondary Assessment			Taxonomy: Application			Objective: 10-26 Explain situations in which patients may receive a focused assessment, including examples by body system of what each focused assessment should include based on a patient’s chief complaint.",
+NewQuestion,MC,
+Title,,
+QuestionText,The goal of the systematic head-to-toe exam that is performed during the secondary assessment is to:,
+Points,1,
+Difficulty,1,
+Option,0,a) detect and treat all non–life-threatening injuries.
+Option,0,b) assess only the parts of the body that are injured.
+Option,0,c) definitively rule out significant internal injuries.
+Option,100,d) locate injuries not found in the primary assessment.
+Hint,"Complexity: Easy			Ahead: Secondary Assessment			Subject:Patient Assessment, Page 378			Title: Patient Assessment			Feedback: See Secondary Assessment			Taxonomy: Recall			Objective: 10-25 Describe the purpose of a secondary assessment and a physical exam; include how to determine which aspects of the physical exam to use, and the steps.",
+NewQuestion,MC,
+Title,,
+QuestionText,The systematic head-to-toe assessment should be performed on:,
+Points,1,
+Difficulty,1,
+Option,0,a) stable patients who are able to tell you exactly what happened.
+Option,0,b) all patients with traumatic injuries who will require EMS transport.
+Option,0,c) responsive medical patients and patients without a significant MOI.
+Option,100,d) patients with a significant MOI and unresponsive medical patients.
+Hint,"Complexity: Easy			Ahead: Secondary Assessment			Subject:Patient Assessment, Page 378			Title: Patient Assessment			Feedback: See Secondary Assessment			Taxonomy: Recall			Objective: 10-25 Describe the purpose of a secondary assessment and a physical exam; include how to determine which aspects of the physical exam to use, and the steps.",
+NewQuestion,MC,
+Title,,
+QuestionText,"You respond to the scene of a motor vehicle collision. Upon arrival, you find the driver, a young female, sitting on the curb. She is confused; is in obvious respiratory distress; and has pale, moist skin. As your partner manually stabilizes her head, you perform a primary assessment. After performing any immediate life-saving treatment, you should:",
+Points,1,
+Difficulty,1,
+Option,100,a) perform a detailed head-to-toe exam and prepare for immediate transport.
+Option,0,"b) assess her vital signs, secure her to a backboard, and transport her immediately."
+Option,0,"c) fully immobilize her spine, load her into the ambulance, and assess her vital signs."
+Option,0,d) identify the specific areas of her injuries and focus your assessment on those areas.
+Hint,"Complexity: Difficult			Ahead: Secondary Assessment			Subject:Patient Assessment, Page 378			Title: Patient Assessment			Feedback: See Secondary Assessment			Taxonomy: Analysis			Objective: 10-25 Describe the purpose of a secondary assessment and a physical exam; include how to determine which aspects of the physical exam to use, and the steps.",
+NewQuestion,MC,
+Title,,
+QuestionText,"When performing the secondary assessment on a trauma patient, you note the presence of Battle sign. This is defined as:",
+Points,1,
+Difficulty,1,
+Option,0,a) unequal pupils.
+Option,100,b) bruising behind the ear.
+Option,0,c) swelling to the orbital area.
+Option,0,d) fluid drainage from the nose.
+Hint,"Complexity: Easy			Ahead: Secondary Assessment			Subject:Patient Assessment, Page 378			Title: Patient Assessment			Feedback: See Secondary Assessment			Taxonomy: Recall			Objective: 10-25 Describe the purpose of a secondary assessment and a physical exam; include how to determine which aspects of the physical exam to use, and the steps.",
+NewQuestion,MC,
+Title,,
+QuestionText,A decrease in blood pressure may indicate:,
+Points,1,
+Difficulty,1,
+Option,100,a) loss of vascular tone.
+Option,0,b) arterial constriction.
+Option,0,c) increased blood volume.
+Option,0,d) forceful cardiac contraction.
+Hint,"Complexity: Easy			Ahead: Secondary Assessment			Subject:Patient Assessment, Page 388			Title: Patient Assessment			Feedback: See Secondary Assessment			Taxonomy: Recall			Objective: 10-14 Describe the assessment of a patient’s circulatory status, including the different methods for obtaining a pulse and appropriate management depending on the patient’s status.",
+NewQuestion,MC,
+Title,,
+QuestionText,The pressure exerted against the walls of the artery when the left ventricle contracts is called the:,
+Points,1,
+Difficulty,1,
+Option,0,a) apical pulse.
+Option,100,b) systolic pressure.
+Option,0,c) diastolic pressure.
+Option,0,d) pulse pressure.
+Hint,"Complexity: Easy			Ahead: Secondary Assessment			Subject:Patient Assessment, Page 388			Title: Patient Assessment			Feedback: See Secondary Assessment			Taxonomy: Recall			Objective: 10-14 Describe the assessment of a patient’s circulatory status, including the different methods for obtaining a pulse and appropriate management depending on the patient’s status.",
+NewQuestion,MC,
+Title,,
+QuestionText,The diastolic blood pressure represents the:,
+Points,1,
+Difficulty,1,
+Option,0,a) average pressure against the arterial walls during a cardiac cycle.
+Option,100,b) minimum amount of pressure that is always present in the arteries.
+Option,0,c) increased arterial pressure that occurs during ventricular contraction.
+Option,0,d) difference in pressure between ventricular contraction and relaxation.
+Hint,"Complexity: Easy			Ahead: Secondary Assessment			Subject:Patient Assessment, Page 388			Title: Patient Assessment			Feedback: See Secondary Assessment			Taxonomy: Recall			Objective: 10-14 Describe the assessment of a patient’s circulatory status, including the different methods for obtaining a pulse and appropriate management depending on the patient’s status.",
+NewQuestion,MC,
+Title,,
+QuestionText,"While evaluating a patient with chest pain, your partner tells you that the patient’s blood pressure is 140/94 mm Hg. The lower number represents the pressure from the:",
+Points,1,
+Difficulty,1,
+Option,0,a) atria relaxing.
+Option,0,b) atria contracting.
+Option,100,c) ventricles relaxing.
+Option,0,d) ventricles contracting.
+Hint,"Complexity: Difficult			Ahead: Secondary Assessment			Subject:Patient Assessment, Page 388			Title: Patient Assessment			Feedback: See Secondary Assessment			Taxonomy: Application			Objective: 10-14 Describe the assessment of a patient’s circulatory status, including the different methods for obtaining a pulse and appropriate management depending on the patient’s status.",
+NewQuestion,MC,
+Title,,
+QuestionText,A blood pressure cuff that is too small for a patient’s arm will give a:,
+Points,1,
+Difficulty,1,
+Option,0,a) falsely low systolic and diastolic reading.
+Option,0,b) falsely high systolic but low diastolic reading.
+Option,100,c) falsely high systolic and diastolic reading.
+Option,0,d) falsely low systolic but high diastolic reading.
+Hint,"Complexity: Easy			Ahead: Secondary Assessment			Subject:Patient Assessment, Page 389			Title: Patient Assessment			Feedback: See Secondary Assessment			Taxonomy: Recall			Objective: 10-14 Describe the assessment of a patient’s circulatory status, including the different methods for obtaining a pulse and appropriate management depending on the patient’s status.",
+NewQuestion,MC,
+Title,,
+QuestionText,A properly sized blood pressure cuff should cover:,
+Points,1,
+Difficulty,1,
+Option,100,a) two thirds the length from the armpit to the crease at the elbow.
+Option,0,b) one half the length between the armpit and the crease at the elbow.
+Option,0,c) one third the length from the armpit to the crease at the elbow.
+Option,0,d) the entire upper arm between the armpit and the crease at the elbow.
+Hint,"Complexity: Easy			Ahead: Secondary Assessment			Subject:Patient Assessment, Page 389			Title: Patient Assessment			Feedback: See Secondary Assessment			Taxonomy: Recall			Objective: 10-14 Describe the assessment of a patient’s circulatory status, including the different methods for obtaining a pulse and appropriate management depending on the patient’s status.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following statements regarding the blood pressure is correct?,
+Points,1,
+Difficulty,1,
+Option,0,a) The systolic pressure represents ventricular relaxation.
+Option,0,b) Blood pressure falls early in patients with hypoperfusion.
+Option,0,c) Blood pressure is the most reliable indicator of perfusion.
+Option,100,d) Blood pressure is usually not measured in children younger than 3 years of age.
+Hint,"Complexity: Easy			Ahead: Secondary Assessment			Subject:Patient Assessment, Page 390			Title: Patient Assessment			Feedback: See Secondary Assessment			Taxonomy: Recall			Objective: 10-14 Describe the assessment of a patient’s circulatory status, including the different methods for obtaining a pulse and appropriate management depending on the patient’s status.",
+NewQuestion,MC,
+Title,,
+QuestionText,"When auscultating the blood pressure in a patient’s upper extremity, you should place the diaphragm (head) of the stethoscope over the _________ artery.",
+Points,1,
+Difficulty,1,
+Option,0,a) radial
+Option,0,b) apical
+Option,0,c) femoral
+Option,100,d) brachial
+Hint,"Complexity: Easy			Ahead: Secondary Assessment			Subject:Patient Assessment, Page 390			Title: Patient Assessment			Feedback: See Secondary Assessment			Taxonomy: Recall			Objective: 10-14 Describe the assessment of a patient’s circulatory status, including the different methods for obtaining a pulse and appropriate management depending on the patient’s status.",
+NewQuestion,MC,
+Title,,
+QuestionText,"When you use the palpation method to obtain a blood pressure, the measurement you obtain is the:",
+Points,1,
+Difficulty,1,
+Option,0,a) pulse pressure.
+Option,100,b) systolic blood pressure.
+Option,0,c) diastolic blood pressure.
+Option,0,d) cardiac output pressure.
+Hint,"Complexity: Easy			Ahead: Secondary Assessment			Subject:Patient Assessment, Page 390			Title: Patient Assessment			Feedback: See Secondary Assessment			Taxonomy: Recall			Objective: 10-14 Describe the assessment of a patient’s circulatory status, including the different methods for obtaining a pulse and appropriate management depending on the patient’s status.",
+NewQuestion,MC,
+Title,,
+QuestionText,"When assessing motor function in a conscious patient’s lower extremities, you should expect the patient to:",
+Points,1,
+Difficulty,1,
+Option,100,a) wiggle his or her toes on command.
+Option,0,b) feel you touching the extremity.
+Option,0,c) note any changes in temperature.
+Option,0,d) identify different types of stimuli.
+Hint,"Complexity: Easy			Ahead: Secondary Assessment			Subject:Patient Assessment, Page 398			Title: Patient Assessment			Feedback: See Secondary Assessment			Taxonomy: Recall			Objective: 10-26 Explain situations in which patients may receive a focused assessment, including examples by body system of what each focused assessment should include based on a patient’s chief complaint.",
+NewQuestion,MC,
+Title,,
+QuestionText,A crackling sound produced by air bubbles under the skin is called:,
+Points,1,
+Difficulty,1,
+Option,0,a) crepitus
+Option,0,b) rhonchi.
+Option,0,c) Korotkoff sounds.
+Option,100,d) subcutaneous emphysema.
+Hint,"Complexity: Easy			Ahead: Secondary Assessment			Subject:Patient Assessment, Page 398			Title: Patient Assessment			Feedback: See Secondary Assessment			Taxonomy: Recall			Objective: 10-26 Explain situations in which patients may receive a focused assessment, including examples by body system of what each focused assessment should include based on a patient’s chief complaint.",
+NewQuestion,MC,
+Title,,
+QuestionText,Jugular venous distention suggests a problem with blood returning to the heart if the patient is:,
+Points,1,
+Difficulty,1,
+Option,0,a) in a supine position.
+Option,0,b) in a prone position.
+Option,0,c) in a recumbent position.
+Option,100,d) sitting up at a 45° angle.
+Hint,"Complexity: Easy			Ahead: Secondary Assessment			Subject:Patient Assessment, Page 398			Title: Patient Assessment			Feedback: See Secondary Assessment			Taxonomy: Recall			Objective: 10-26 Explain situations in which patients may receive a focused assessment, including examples by body system of what each focused assessment should include based on a patient’s chief complaint.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following MOST accurately describes paradoxical movement of the chest wall?,
+Points,1,
+Difficulty,1,
+Option,0,a) Multiple rib fractures that cause a marked deformity of the chest wall
+Option,0,b) A marked decrease in chest wall movement due to abdominal breathing
+Option,100,"c) Only one section of the chest rises on inspiration, while another area falls"
+Option,0,d) One side of the chest wall moves opposite the direction of the other
+Hint,"Complexity: Easy			Ahead: Secondary Assessment			Subject:Patient Assessment, Page 399			Title: Patient Assessment			Feedback: See Secondary Assessment			Taxonomy: Recall			Objective: 10-26 Explain situations in which patients may receive a focused assessment, including examples by body system of what each focused assessment should include based on a patient’s chief complaint.",
+NewQuestion,MC,
+Title,,
+QuestionText,"Reassessment is performed to determine all of the following, EXCEPT:",
+Points,1,
+Difficulty,1,
+Option,100,a) the reason why the patient called EMS.
+Option,0,b) the patient’s response to your treatment.
+Option,0,c) whether or not the patient is deteriorating.
+Option,0,d) the nature of any newly identified problems.
+Hint,"Complexity: Moderate			Ahead: Reassessment			Subject:Patient Assessment, Page 405			Title: Patient Assessment			Feedback: See Reassessment			Taxonomy: Recall			Objective: 10-28 Explain the importance of performing a reassessment of the patient and the steps in this process.",
+NewQuestion,MC,
+Title,,
+QuestionText,"When performing a reassessment of your patient, you should first:",
+Points,1,
+Difficulty,1,
+Option,0,a) obtain updated vital signs.
+Option,0,b) reassess your interventions.
+Option,100,c) repeat the primary assessment.
+Option,0,d) confirm medical history findings.
+Hint,"Complexity: Easy			Ahead: Reassessment			Subject:Patient Assessment, Page 405			Title: Patient Assessment			Feedback: See Reassessment			Taxonomy: Recall			Objective: 10-28 Explain the importance of performing a reassessment of the patient and the steps in this process.",

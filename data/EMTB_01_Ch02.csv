@@ -1,0 +1,730 @@
+NewQuestion,MC,
+Title,,
+QuestionText,"While providing care to a patient, blood got onto the ambulance stretcher. Because the stretcher was not properly cleaned afterward, a virus was transmitted to another emergency medical technician (EMT) several days later. Which route of transmission does this scenario describe?",
+Points,1,
+Difficulty,1,
+Option,0,a) Direct contact
+Option,100,b) Indirect contact
+Option,0,c) Airborne transmission
+Option,0,d) Vector-borne transmission
+Hint,"Complexity: Moderate			Ahead: Infectious and Communicable Diseases			Subject:Workforce Safety and Wellness			, Page 39			Title: Workforce Safety and Wellness			Feedback: See Infectious and Communicable Diseases			Taxonomy: Application			Objective: 2-4 State the routes of disease transmission.",
+NewQuestion,MC,
+Title,,
+QuestionText,Vector-borne transmission of an infectious organism occurs via:,
+Points,1,
+Difficulty,1,
+Option,100,a) animals or insects.
+Option,0,b) smoke or dust.
+Option,0,c) direct contact.
+Option,0,d) inanimate objects.
+Hint,"Complexity: Easy			Ahead: Infectious and Communicable Diseases			Subject:Workforce Safety and Wellness			, Page 40			Title: Workforce Safety and Wellness			Feedback: See Infectious and Communicable Diseases			Taxonomy: Recall			Objective: 2-4 State the routes of disease transmission.",
+NewQuestion,MC,
+Title,,
+QuestionText,"The simplest, yet most effective method of preventing the spread of an infectious disease is to:",
+Points,1,
+Difficulty,1,
+Option,0,a) undergo an annual physical examination.
+Option,0,b) ensure that your immunizations are up-to-date.
+Option,100,c) wash your hands in between patient contacts.
+Option,0,d) undergo annual testing for tuberculosis and hepatitis.
+Hint,"Complexity: Easy			Ahead: Infectious and Communicable Diseases			Subject:Workforce Safety and Wellness			, Page 41			Title: Workforce Safety and Wellness			Feedback: See Infectious and Communicable Diseases			Taxonomy: Recall			Objective: 2-8 Demonstrate proper handwashing techniques.",
+NewQuestion,MC,
+Title,,
+QuestionText,"If you use a waterless handwashing substitute in the field, it is important to:",
+Points,1,
+Difficulty,1,
+Option,100,a) wash your hands with soap and water at the hospital.
+Option,0,b) immediately dry your hands with a paper towel.
+Option,0,c) wait at least five minutes before touching another patient.
+Option,0,d) avoid donning another pair of gloves for at least 10 minutes.
+Hint,"Complexity: Moderate			Ahead: Infectious and Communicable Diseases			Subject:Workforce Safety and Wellness			, Page 43			Title: Workforce Safety and Wellness			Feedback: See Infectious and Communicable Diseases			Taxonomy: Recall			Objective: 2-8 Demonstrate proper handwashing techniques.",
+NewQuestion,MC,
+Title,,
+QuestionText,"Gloves, a mask, eye protection, and a face shield should be used:",
+Points,1,
+Difficulty,1,
+Option,0,a) whenever you touch non-intact skin.
+Option,0,b) during routine cleaning of the ambulance.
+Option,0,c) while handling needles or other sharps.
+Option,100,d) when performing endotracheal intubation.
+Hint,"Complexity: Moderate			Ahead: Infectious and Communicable Diseases			Subject:Workforce Safety and Wellness			, Page 42			Title: Workforce Safety and Wellness			Feedback: See Infectious and Communicable Diseases			Taxonomy: Application			Objective: 2-7 Explain the steps to take for personal protection from airborne and bloodborne pathogens.",
+NewQuestion,MC,
+Title,,
+QuestionText,Prescription glasses do not provide adequate eye protection because they:,
+Points,1,
+Difficulty,1,
+Option,0,"a) have large, rounded lenses."
+Option,0,b) are not secured with a strap.
+Option,100,c) offer little or no side protection.
+Option,0,d) do not have shatterproof lenses.
+Hint,"Complexity: Easy			Ahead: Infectious and Communicable Diseases			Subject:Workforce Safety and Wellness			, Page 45			Title: Workforce Safety and Wellness			Feedback: See Infectious and Communicable Diseases			Taxonomy: Recall			Objective: 2-7 Explain the steps to take for personal protection from airborne and bloodborne pathogens.",
+NewQuestion,MC,
+Title,,
+QuestionText,You are transporting a 40-year-old male with respiratory distress. The patient tells you that he recently had a positive tuberculosis (TB) skin test and is currently being evaluated for possible TB. You should:,
+Points,1,
+Difficulty,1,
+Option,100,a) apply a nonrebreathing mask on the patient and a high-efficiency particulate air (HEPA) respirator on yourself.
+Option,0,b) remain at least three feet away from the patient and apply a surgical mask on him.
+Option,0,c) apply a sterile surgical mask on yourself and a HEPA respirator on the patient.
+Option,0,d) apply a nasal cannula on the patient and a sterile surgical mask on yourself.
+Hint,"Complexity: Moderate			Ahead: Infectious and Communicable Diseases			Subject:Workforce Safety and Wellness			, Page 45			Title: Workforce Safety and Wellness			Feedback: See Infectious and Communicable Diseases			Taxonomy: Application			Objective: 2-5 Describe the specific routes of transmission and the steps to prevent and/or deal with an exposure to hepatitis, tuberculosis, or human immunodeficiency virus (HIV)/ acquired immunodeficiency syndrome (AIDS).",
+NewQuestion,MC,
+Title,,
+QuestionText,"After assessing a patient’s blood glucose level, you accidentally stick yourself with the contaminated lancet. You should:",
+Points,1,
+Difficulty,1,
+Option,0,a) immerse your wound in an alcohol-based solution.
+Option,100,b) report the incident to your supervisor after the call.
+Option,0,c) get immunized against hepatitis as soon as possible.
+Option,0,d) discontinue patient care and seek medical attention.
+Hint,"Complexity: Difficult			Ahead: Infectious and Communicable Diseases			Subject:Workforce Safety and Wellness			, Page 46			Title: Workforce Safety and Wellness			Feedback: See Infectious and Communicable Diseases			Taxonomy: Application			Objective: 2-7 Explain the steps to take for personal protection from airborne and bloodborne pathogens.",
+NewQuestion,MC,
+Title,,
+QuestionText,The spread of HIV and hepatitis in the healthcare setting can usually be traced to:,
+Points,1,
+Difficulty,1,
+Option,100,a) careless handling of sharps.
+Option,0,b) lack of proper immunizations.
+Option,0,c) excessive blood splashing or splattering.
+Option,0,d) noncompliance with standard precautions.
+Hint,"Complexity: Moderate			Ahead: Infectious and Communicable Diseases			Subject:Workforce Safety and Wellness			, Page 46			Title: Workforce Safety and Wellness			Feedback: See Infectious and Communicable Diseases			Taxonomy: Recall			Objective: 2-5 Describe the specific routes of transmission and the steps to prevent and/or deal with an exposure to hepatitis, tuberculosis, or human immunodeficiency virus (HIV)/ acquired immunodeficiency syndrome (AIDS).",
+NewQuestion,MC,
+Title,,
+QuestionText,"According to Occupational Safety and Health Administration (OSHA) regulations, an employer must:",
+Points,1,
+Difficulty,1,
+Option,0,a) guarantee a 100% risk-free environment prior to employment.
+Option,100,b) offer a workplace environment that reduces the risk of exposure.
+Option,0,c) provide gloves and other personal protective equipment to full-time paid employees only.
+Option,0,d) screen all prospective employees for bloodborne pathogens.
+Hint,"Complexity: Moderate			Ahead: Infectious and Communicable Diseases			Subject:Workforce Safety and Wellness			, Page 41			Title: Workforce Safety and Wellness			Feedback: See Infectious and Communicable Diseases			Taxonomy: Recall			Objective: 2-6 Apply the standard precautions used in treating patients to prevent infection.",
+NewQuestion,MC,
+Title,,
+QuestionText,Determination of exposure is an important component of an infection control plan because it:,
+Points,1,
+Difficulty,1,
+Option,0,a) determines the time of day when most exposures are likely to occur.
+Option,0,b) determines which type of communicable disease might be present in the workplace.
+Option,0,c) defines who is most likely to transmit communicable diseases in the workplace.
+Option,100,d) defines who is at risk for contact with blood and body fluids and which tasks pose a risk of exposure.
+Hint,"Complexity: Moderate			Ahead: Infectious and Communicable Diseases			Subject:Workforce Safety and Wellness			, Page 47			Title: Workforce Safety and Wellness			Feedback: See Infectious and Communicable Diseases			Taxonomy: Application			Objective: 2-6 Apply the standard precautions used in treating patients to prevent infection.",
+NewQuestion,MC,
+Title,,
+QuestionText,"The hepatitis B vaccine program, a component of the infection control plan, addresses all of the following issues, except:",
+Points,1,
+Difficulty,1,
+Option,100,a) family history of hepatitis.
+Option,0,b) postvaccine antibody titers.
+Option,0,c) vaccine safety and efficacy.
+Option,0,d) record keeping and tracking.
+Hint,"Complexity: Moderate			Ahead: Infectious and Communicable Diseases			Subject:Workforce Safety and Wellness			, Page 47			Title: Workforce Safety and Wellness			Feedback: See Infectious and Communicable Diseases			Taxonomy: Recall			Objective: 2-6 Apply the standard precautions used in treating patients to prevent infection.",
+NewQuestion,MC,
+Title,,
+QuestionText,The compliance monitoring component of an infection control plan should:,
+Points,1,
+Difficulty,1,
+Option,100,a) ensure that employees understand what they should do and why it is important.
+Option,0,b) identify who to notify after an exposure and where treatment should be provided.
+Option,0,c) consist of a list of tasks that pose a risk for contact with blood or other body fluids.
+Option,0,"d) address issues such as medical waste collection, storage, and ambulance disinfection."
+Hint,"Complexity: Moderate			Ahead: Infectious and Communicable Diseases			Subject:Workforce Safety and Wellness			, Page 48			Title: Workforce Safety and Wellness			Feedback: See Infectious and Communicable Diseases			Taxonomy: Recall			Objective: 2-6 Apply the standard precautions used in treating patients to prevent infection.",
+NewQuestion,MC,
+Title,,
+QuestionText,"If it is not possible to adequately clean your ambulance at the hospital following a call, you should:",
+Points,1,
+Difficulty,1,
+Option,0,a) quickly wipe down all high-contact surfaces with an antibacterial solution.
+Option,100,b) clean the ambulance at your station in a designated area that is well ventilated.
+Option,0,c) wait until the end of your shift and then disinfect the entire patient compartment.
+Option,0,d) thoroughly wash the back of the ambulance at a local car wash or similar facility.
+Hint,"Complexity: Moderate			Ahead: Infectious and Communicable Diseases			Subject:Workforce Safety and Wellness			, Page 50			Title: Workforce Safety and Wellness			Feedback: See Infectious and Communicable Diseases			Taxonomy: Application			Objective: 2-10 Summarize postexposure management of exposure to patient blood or body fluids, including completing a postexposure report.",
+NewQuestion,MC,
+Title,,
+QuestionText,"When decontaminating the back of your ambulance after a call, you should:",
+Points,1,
+Difficulty,1,
+Option,100,a) allow surfaces to air dry unless otherwise indicated in the product directions.
+Option,0,b) use a bleach and water solution at a 1:2 dilution ratio to thoroughly wipe all surfaces.
+Option,0,c) clean all surfaces and patient contact areas with a mixture of alcohol and water.
+Option,0,d) spray the contaminated areas and then immediately wipe them dry with a towel.
+Hint,"Complexity: Easy			Ahead: Infectious and Communicable Diseases			Subject:Workforce Safety and Wellness			, Page 50			Title: Workforce Safety and Wellness			Feedback: See Infectious and Communicable Diseases			Taxonomy: Recall			Objective: 2-10 Summarize postexposure management of exposure to patient blood or body fluids, including completing a postexposure report.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following is the most significant factor in determining whether a person will become ill from certain germs?,
+Points,1,
+Difficulty,1,
+Option,0,a) Age
+Option,0,b) Race
+Option,0,c) Gender
+Option,100,d) Immunity
+Hint,"Complexity: Easy			Ahead: Infectious and Communicable Diseases			Subject:Workforce Safety and Wellness			, Page 51			Title: Workforce Safety and Wellness			Feedback: See Infectious and Communicable Diseases			Taxonomy: Easy			Objective: 2-9 Explain the ways in which immunity to infectious diseases is acquired.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following statements regarding the hepatitis B vaccine is correct?,
+Points,1,
+Difficulty,1,
+Option,0,a) Vaccination against hepatitis B provides partial immunity for life.
+Option,100,b) OSHA requires that your employer offer you the vaccine free of charge.
+Option,0,c) The hepatitis B vaccine provides protection against the disease for two years.
+Option,0,d) Vaccination with the hepatitis B vaccine confers immunity against hepatitis A.
+Hint,"Complexity: Moderate			Ahead: Infectious and Communicable Diseases			Subject:Workforce Safety and Wellness			, Page 48			Title: Workforce Safety and Wellness			Feedback: See Infectious and Communicable Diseases			Taxonomy: Application			Objective: 2-6 Apply the standard precautions used in treating patients to prevent infection.",
+NewQuestion,MC,
+Title,,
+QuestionText,"According to the Centers for Disease Control and Prevention (CDC), recommended immunizations and tests include a:",
+Points,1,
+Difficulty,1,
+Option,0,a) smallpox vaccine every five years.
+Option,0,b) TB skin test every six months.
+Option,0,c) two-shot hepatitis A vaccination series.
+Option,100,d) tetanus/diphtheria/pertussis booster every 10 years.
+Hint,"Complexity: Moderate			Ahead: Infectious and Communicable Diseases			Subject:Workforce Safety and Wellness			, Page 52			Title: Workforce Safety and Wellness			Feedback: See Infectious and Communicable Diseases			Taxonomy: Recall			Objective: 2-9 Explain the ways in which immunity to infectious diseases is acquired.",
+NewQuestion,MC,
+Title,,
+QuestionText,Vaccination against the hepatitis A virus is unnecessary if you:,
+Points,1,
+Difficulty,1,
+Option,0,a) are older than 35 years of age.
+Option,0,b) have a weak immune system.
+Option,100,c) have been infected with hepatitis A in the past.
+Option,0,d) received a hepatitis B vaccination.
+Hint,"Complexity: Easy			Ahead: Infectious and Communicable Diseases			Subject:Workforce Safety and Wellness			, Page 51			Title: Workforce Safety and Wellness			Feedback: See Infectious and Communicable Diseases			Taxonomy: Recall			Objective: 2-9 Explain the ways in which immunity to infectious diseases is acquired.",
+NewQuestion,MC,
+Title,,
+QuestionText,"If a person is partially immune to a particular disease, he or she:",
+Points,1,
+Difficulty,1,
+Option,0,a) is not protected from a new infection if exposed to another individual.
+Option,0,b) must be revaccinated at least every 18 months to avoid infection.
+Option,100,c) might develop illness from germs that lie dormant from the initial infection.
+Option,0,"d) will not experience future illness, even if his or her immune system is stressed."
+Hint,"Complexity: Moderate			Ahead: Infectious and Communicable Diseases			Subject:Workforce Safety and Wellness			, Page 51			Title: Workforce Safety and Wellness			Feedback: See Infectious and Communicable Diseases			Taxonomy: Application			Objective: 2-9 Explain the ways in which immunity to infectious diseases is acquired.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following infectious diseases confers no protection from reinfection after exposure?,
+Points,1,
+Difficulty,1,
+Option,0,a) Mumps
+Option,0,b) Rubella
+Option,100,c) Syphilis
+Option,0,d) Chickenpox
+Hint,"Complexity: Easy			Ahead: Infectious and Communicable Diseases			Subject:Workforce Safety and Wellness			, Page 52			Title: Workforce Safety and Wellness			Feedback: See Infectious and Communicable Diseases			Taxonomy: Recall			Objective: 2-9 Explain the ways in which immunity to infectious diseases is acquired.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following statements regarding HIV is correct?,
+Points,1,
+Difficulty,1,
+Option,0,a) HIV is far more contagious than hepatitis B.
+Option,0,b) HIV is easily transmittable in the EMS field.
+Option,0,c) HIV is transmitted exclusively via blood.
+Option,100,d) There is no vaccine against HIV infection.
+Hint,"Complexity: Moderate			Ahead: Infectious and Communicable Diseases			Subject:Workforce Safety and Wellness			, Page 52			Title: Workforce Safety and Wellness			Feedback: See Infectious and Communicable Diseases			Taxonomy: Recall			Objective: 2-9 Explain the ways in which immunity to infectious diseases is acquired.",
+NewQuestion,MC,
+Title,,
+QuestionText,A positive TB skin test indicates that:,
+Points,1,
+Difficulty,1,
+Option,0,a) you have never been exposed to TB.
+Option,100,b) you have been exposed to TB.
+Option,0,c) you are actively infected with TB.
+Option,0,d) the TB disease is currently dormant but might later become active.
+Hint,"Complexity: Easy			Ahead: Infectious and Communicable Diseases			Subject:Workforce Safety and Wellness			, Page 53			Title: Workforce Safety and Wellness			Feedback: See Infectious and Communicable Diseases			Taxonomy: Recall			Objective: 2-9 Explain the ways in which immunity to infectious diseases is acquired.",
+NewQuestion,MC,
+Title,,
+QuestionText,"If you are exposed to a patient’s blood or other bodily fluid, your first action should be to:",
+Points,1,
+Difficulty,1,
+Option,0,a) report the incident to the infection control officer.
+Option,0,b) abandon patient care and seek medical attention.
+Option,100,c) transfer care of the patient to another EMS provider.
+Option,0,d) vigorously clean the area with soap and water.
+Hint,"Complexity: Moderate			Ahead: Infectious and Communicable Diseases			Subject:Workforce Safety and Wellness			, Page 53			Title: Workforce Safety and Wellness			Feedback: See Infectious and Communicable Diseases			Taxonomy: Application			Objective: 2-10 Summarize postexposure management of exposure to patient blood or body fluids, including completing a postexposure report.",
+NewQuestion,MC,
+Title,,
+QuestionText,The best way to reduce your risk of contracting a work-related disease following exposure is to:,
+Points,1,
+Difficulty,1,
+Option,0,a) vigorously wash the affected area with an antimicrobial solution.
+Option,0,b) be evaluated by a physician within 72 hours following the exposure.
+Option,0,c) get vaccinated against the disease you think you were exposed to.
+Option,100,d) activate your department’s infection control plan as soon as possible.
+Hint,"Complexity: Moderate			Ahead: Infectious and Communicable Diseases			Subject:Workforce Safety and Wellness			, Page 53			Title: Workforce Safety and Wellness			Feedback: See Infectious and Communicable Diseases			Taxonomy: Application			Objective: 2-10 Summarize postexposure management of exposure to patient blood or body fluids, including completing a postexposure report.",
+NewQuestion,MC,
+Title,,
+QuestionText,General adaptation syndrome is characterized by which of the following phases?,
+Points,1,
+Difficulty,1,
+Option,100,"a) Alarm response, reaction and resistance, and recovery"
+Option,0,"b) Delayed reaction, alarm response, and physical recovery"
+Option,0,"c) Reaction and resistance, euphoria, and physical exhaustion"
+Option,0,"d) Immediate reaction, psychological exhaustion, and recovery"
+Hint,"Complexity: Moderate			Ahead: Stress Management on the Job			Subject:Workforce Safety and Wellness			, Page 69			Title: Workforce Safety and Wellness			Feedback: See Stress Management on the Job			Taxonomy: Recall			Objective: 2-14 Recognize the physiologic, physical, and psychological responses to stress.",
+NewQuestion,MC,
+Title,,
+QuestionText,Physiologic manifestations of stress include:,
+Points,1,
+Difficulty,1,
+Option,0,"a) flushed skin, decreased muscle control, and vomiting."
+Option,0,"b) slow heart rate, low blood pressure, and severe headaches."
+Option,100,"c) perspiration, increased blood glucose levels, and dilated pupils."
+Option,0,"d) increased blood pressure, decreased blood glucose levels, and chest pain."
+Hint,"Complexity: Moderate			Ahead: Stress Management on the Job			Subject:Workforce Safety and Wellness			, Page 69			Title: Workforce Safety and Wellness			Feedback: See Stress Management on the Job			Taxonomy: Recall			Objective: 2-14 Recognize the physiologic, physical, and psychological responses to stress.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which type of stress reaction occurs when an EMT is exposed to many insignificant stressors over a period of several months or years?,
+Points,1,
+Difficulty,1,
+Option,0,a) Acute stress reaction
+Option,100,b) Cumulative stress reaction
+Option,0,c) Posttraumatic stress reaction
+Option,0,d) Critical incident stress reaction
+Hint,"Complexity: Moderate			Ahead: Stress Management on the Job			Subject:Workforce Safety and Wellness			, Page 70			Title: Workforce Safety and Wellness			Feedback: See Stress Management on the Job			Taxonomy: Recall			Objective: 2-14 Recognize the physiologic, physical, and psychological responses to stress.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following scenarios most accurately depicts a posttraumatic stress disorder (PTSD) reaction?,
+Points,1,
+Difficulty,1,
+Option,0,a) An EMT with many years of field experience becomes irritable with her coworkers and experiences headaches and insomnia.
+Option,0,b) A newly certified EMT becomes extremely nauseated and diaphoretic at the scene of an incident involving grotesque injuries.
+Option,0,c) An EMT is emotionally exhausted and depressed after a school bus crash involving critical injuries and the death of several children.
+Option,100,d) An EMT becomes distracted at the scene of a motor vehicle crash involving the same type of car in which a child was previously killed.
+Hint,"Complexity: Difficult			Ahead: Stress Management on the Job			Subject:Workforce Safety and Wellness			, Page 71			Title: Workforce Safety and Wellness			Feedback: See Stress Management on the Job			Taxonomy: Application			Objective: 2-15 Explain posttraumatic stress disorder (PTSD) and steps that can be taken, including critical incident stress management, to decrease the likelihood that PTSD will develop.",
+NewQuestion,MC,
+Title,,
+QuestionText,"Critical incident stress management (CISM) can occur at an ongoing scene in all of the following circumstances, except:",
+Points,1,
+Difficulty,1,
+Option,0,a) when personnel are assessed during periods of rest.
+Option,0,b) before personnel are preparing to reenter the scene.
+Option,100,c) when patients are actively being assessed or treated.
+Option,0,d) before leaving the scene after the incident is resolved.
+Hint,"Complexity: Moderate			Ahead: Stress Management on the Job			Subject:Workforce Safety and Wellness			, Page 71			Title: Workforce Safety and Wellness			Feedback: See Stress Management on the Job			Taxonomy: Application			Objective: 2-15 Explain posttraumatic stress disorder (PTSD) and steps that can be taken, including critical incident stress management, to decrease the likelihood that PTSD will develop.",
+NewQuestion,MC,
+Title,,
+QuestionText,"You have been working at the scene of a major building collapse for eight hours. Many injured people are still being removed, and everyone is becoming frustrated and losing focus. This situation is most effectively managed by:",
+Points,1,
+Difficulty,1,
+Option,0,a) providing large amounts of caffeine to the rescue workers.
+Option,100,b) requesting a CISM team to provide on-scene peer support.
+Option,0,c) conducting a critical incident stress debriefing the next day.
+Option,0,d) allowing each worker to sleep in 15- to 30-minute increments.
+Hint,"Complexity: Difficult			Ahead: Stress Management on the Job			Subject:Workforce Safety and Wellness			, Page 71			Title: Workforce Safety and Wellness			Feedback: See Stress Management on the Job			Taxonomy: Analysis			Objective: 2-15 Explain posttraumatic stress disorder (PTSD) and steps that can be taken, including critical incident stress management, to decrease the likelihood that PTSD will develop.",
+NewQuestion,MC,
+Title,,
+QuestionText,A critical incident stress debriefing should be conducted no longer than ________ hours following the incident.,
+Points,1,
+Difficulty,1,
+Option,0,a) six
+Option,0,b) 12
+Option,0,c) 24
+Option,100,d) 72
+Hint,"Complexity: Easy			Ahead: Stress Management on the Job			Subject:Workforce Safety and Wellness			, Page 71			Title: Workforce Safety and Wellness			Feedback: See Stress Management on the Job			Taxonomy: Recall			Objective: 2-15 Explain posttraumatic stress disorder (PTSD) and steps that can be taken, including critical incident stress management, to decrease the likelihood that PTSD will develop.",
+NewQuestion,MC,
+Title,,
+QuestionText,"As an EMT, it is important to remember that the signs and symptoms of cumulative stress:",
+Points,1,
+Difficulty,1,
+Option,100,a) might not be obvious or present all the time.
+Option,0,b) usually manifest suddenly and without warning.
+Option,0,c) cannot be identified and can cause health problems.
+Option,0,d) are most effectively treated with medications.
+Hint,"Complexity: Moderate			Ahead: Stress Management on the Job			Subject:Workforce Safety and Wellness			, Page 72			Title: Workforce Safety and Wellness			Feedback: See Stress Management on the Job			Taxonomy: Application			Objective: 2-14 Recognize the physiologic, physical, and psychological responses to stress.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following signs would indicate that your partner is experiencing significant stress?,
+Points,1,
+Difficulty,1,
+Option,0,a) Increased interest in daily activities
+Option,100,b) Isolation from the rest of the crew
+Option,0,c) Hyperactivity during an EMS call
+Option,0,d) Acute increase in appetite
+Hint,"Complexity: Moderate			Ahead: Stress Management on the Job			Subject:Workforce Safety and Wellness			, Page 72			Title: Workforce Safety and Wellness			Feedback: See Stress Management on the Job			Taxonomy: Application			Objective: 2-14 Recognize the physiologic, physical, and psychological responses to stress.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following is an effective stress management strategy?,
+Points,1,
+Difficulty,1,
+Option,0,a) Frequently reflecting on troublesome calls
+Option,0,b) Requesting overtime to occupy your mind
+Option,0,c) Modestly increasing caffeine consumption
+Option,100,d) Developing a social network outside of EMS
+Hint,"Complexity: Moderate			Ahead: General Health, Wellness, and Resilience			Subject:Workforce Safety and Wellness			, Page 33			Title: Workforce Safety and Wellness			Feedback: See General Health, Wellness, and Resilience			Taxonomy: Application			Objective: 2-1 Explain the steps that contribute to wellness and resilience and their importance in managing stress.",
+NewQuestion,MC,
+Title,,
+QuestionText,"When considering one’s personal life, it is important for the EMT to realize that:",
+Points,1,
+Difficulty,1,
+Option,0,a) one should not discuss stressful issues with family members.
+Option,0,b) shift work is the least stressful type of an EMS-related work schedule.
+Option,100,c) family or friends might not understand the stress associated with EMS.
+Option,0,d) it is more difficult to effectively relax at home than it is while on duty.
+Hint,"Complexity: Moderate			Ahead: General Health, Wellness, and Resilience			Subject:Workforce Safety and Wellness			, Page 38			Title: Workforce Safety and Wellness			Feedback: See General Health, Wellness, and Resilience			Taxonomy: Application			Objective: 2-1 Explain the steps that contribute to wellness and resilience and their importance in managing stress.",
+NewQuestion,MC,
+Title,,
+QuestionText,"Quid pro quo, a type of sexual harassment, occurs when the harasser:",
+Points,1,
+Difficulty,1,
+Option,100,a) requests sexual favors in exchange for something else.
+Option,0,b) touches another person without his or her consent.
+Option,0,c) stares at certain parts of another person’s anatomy.
+Option,0,d) makes rude remarks about a person’s body parts.
+Hint,"Complexity: Easy			Ahead: Workplace Issues			Subject:Workforce Safety and Wellness			, Page 76			Title: Workforce Safety and Wellness			Feedback: See Workplace Issues			Taxonomy: Recall			Objective: 2-20 Discuss workplace issues such as cultural diversity, sexual harassment, and substance abuse.",
+NewQuestion,MC,
+Title,,
+QuestionText,It is especially important for EMS personnel to develop non-adversarial relationships with their coworkers because they:,
+Points,1,
+Difficulty,1,
+Option,0,a) are highly prone to stress and burnout.
+Option,100,b) depend on one another for their safety.
+Option,0,c) must work together every third day.
+Option,0,d) might have to bunk in the same room.
+Hint,"Complexity: Easy			Ahead: Workplace Issues			Subject:Workforce Safety and Wellness			, Page 76			Title: Workforce Safety and Wellness			Feedback: See Workplace Issues			Taxonomy: Application			Objective: 2-20 Discuss workplace issues such as cultural diversity, sexual harassment, and substance abuse.",
+NewQuestion,MC,
+Title,,
+QuestionText,"While you are on duty, your partner asks you out on a date and touches you in an inappropriate location without your consent. You should:",
+Points,1,
+Difficulty,1,
+Option,0,a) tell your partner to quit kidding around and focus on the job.
+Option,0,b) warn your partner that you will report him or her if it happens again.
+Option,0,c) notify law enforcement personnel and have your partner arrested.
+Option,100,d) tell your partner to stop and report the incident to your supervisor.
+Hint,"Complexity: Moderate			Ahead: Workplace Issues			Subject:Workforce Safety and Wellness			, Page 76			Title: Workforce Safety and Wellness			Feedback: See Workplace Issues			Taxonomy: Analysis			Objective: 2-20 Discuss workplace issues such as cultural diversity, sexual harassment, and substance abuse.",
+NewQuestion,MC,
+Title,,
+QuestionText,The most serious consequence of drug or alcohol abuse among EMS personnel is:,
+Points,1,
+Difficulty,1,
+Option,0,a) punitive action and the loss of a job.
+Option,0,b) low morale and frequently missed shifts.
+Option,0,c) tension among coworkers and supervisors.
+Option,100,d) substandard or inappropriate patient care.
+Hint,"Complexity: Moderate			Ahead: Workplace Issues			Subject:Workforce Safety and Wellness			, Page 77			Title: Workforce Safety and Wellness			Feedback: See Workplace Issues			Taxonomy: Application			Objective: 2-20 Discuss workplace issues such as cultural diversity, sexual harassment, and substance abuse.",
+NewQuestion,MC,
+Title,,
+QuestionText,"Your partner, a veteran EMT with whom you have worked regularly for the past four years, seems unusually agitated during a call involving an elderly patient. Upon arrival back at your station, you note the obvious smell of alcohol on his breath. What should you do?",
+Points,1,
+Difficulty,1,
+Option,0,a) Remain quiet and simply request another partner.
+Option,0,b) Report the incident to your EMS medical director.
+Option,100,c) Discreetly report your suspicions to your supervisor.
+Option,0,d) Tell your partner that he must seek professional help.
+Hint,"Complexity: Difficult			Ahead: Workplace Issues			Subject:Workforce Safety and Wellness			, Page 77			Title: Workforce Safety and Wellness			Feedback: See Workplace Issues			Taxonomy: Analysis			Objective: 2-20 Discuss workplace issues such as cultural diversity, sexual harassment, and substance abuse.",
+NewQuestion,MC,
+Title,,
+QuestionText,"You and your partner respond to the residence of a 66-year-old male with shortness of breath. As you are assessing the patient, his wife tells you that he was recently diagnosed with lung cancer. The patient is verbally abusive and tells you that failure of the healthcare system caused his disease. Which stage of the grieving process is this patient’s behavior consistent with?",
+Points,1,
+Difficulty,1,
+Option,0,a) Denial
+Option,100,b) Anger
+Option,0,c) Bargaining
+Option,0,d) Depression
+Hint,"Complexity: Difficult			Ahead: Death and Dying			Subject:Workforce Safety and Wellness			, Page 68			Title: Workforce Safety and Wellness			Feedback: See Death and Dying			Taxonomy: Application			Objective: 2-13 Differentiate issues concerning care of the dying patient, death, and the grieving process of family members.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following statements is most consistent with the bargaining phase of the grieving process?,
+Points,1,
+Difficulty,1,
+Option,0,a) “It is because of our lousy health care system that I developed this brain tumor.”
+Option,100,b) “I will be compliant with all my medications if I can just see my grandson graduate.”
+Option,0,"c) “I understand that my death is inevitable, and I am ready to die when the time comes.”"
+Option,0,d) “The doctors must be wrong in their diagnosis because I have always been healthy.”
+Hint,"Complexity: Moderate			Ahead: Death and Dying			Subject:Workforce Safety and Wellness			, Page 68			Title: Workforce Safety and Wellness			Feedback: See Death and Dying			Taxonomy: Application			Objective: 2-13 Differentiate issues concerning care of the dying patient, death, and the grieving process of family members.",
+NewQuestion,MC,
+Title,,
+QuestionText,The final stage of death and dying most commonly takes the form of:,
+Points,1,
+Difficulty,1,
+Option,0,a) anger.
+Option,0,b) denial.
+Option,0,c) depression.
+Option,100,d) acceptance.
+Hint,"Complexity: Easy			Ahead: Death and Dying			Subject:Workforce Safety and Wellness			, Page 68			Title: Workforce Safety and Wellness			Feedback: See Death and Dying			Taxonomy: Recall			Objective: 2-13 Differentiate issues concerning care of the dying patient, death, and the grieving process of family members.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following statements regarding the different stages of the grieving process is correct?,
+Points,1,
+Difficulty,1,
+Option,0,a) The grieving process typically begins with severe depression.
+Option,0,b) It is rare that people will jump back and forth between stages of the grieving process.
+Option,100,c) The stages of the grieving process might occur simultaneously.
+Option,0,d) Bargaining is the most unpleasant stage of the grieving process.
+Hint,"Complexity: Moderate			Ahead: Death and Dying			Subject:Workforce Safety and Wellness			, Page 68			Title: Workforce Safety and Wellness			Feedback: See Death and Dying			Taxonomy: Recall			Objective: 2-13 Differentiate issues concerning care of the dying patient, death, and the grieving process of family members.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following statements would not be appropriate to say to the family of a dying patient?,
+Points,1,
+Difficulty,1,
+Option,100,a) “Things will get better in time.”
+Option,0,b) “It is okay to be angry and sad.”
+Option,0,c) “This must be painful for you.”
+Option,0,d) “Tell me how you are feeling.”
+Hint,"Complexity: Moderate			Ahead: Death and Dying			Subject:Workforce Safety and Wellness			, Page 69			Title: Workforce Safety and Wellness			Feedback: See Death and Dying			Taxonomy: Application			Objective: 2-13 Differentiate issues concerning care of the dying patient, death, and the grieving process of family members.",
+NewQuestion,MC,
+Title,,
+QuestionText,"While trying to make a family member feel better after a loved one has died, your partner states, “I know how you are feeling.” The family members might view this as:",
+Points,1,
+Difficulty,1,
+Option,100,a) your partner’s attempt to diminish their grief.
+Option,0,b) a show of respect for the person who has died.
+Option,0,c) coaching them through the grieving process.
+Option,0,d) your partner’s caring and supportive attitude.
+Hint,"Complexity: Moderate			Ahead: Death and Dying			Subject:Workforce Safety and Wellness			, Page 69			Title: Workforce Safety and Wellness			Feedback: See Death and Dying			Taxonomy: Application			Objective: 2-13 Differentiate issues concerning care of the dying patient, death, and the grieving process of family members.",
+NewQuestion,MC,
+Title,,
+QuestionText,"You are summoned to a convalescent center for an 88-year-old female with an altered mental status. A staff nurse advises you that the patient has terminal cancer, and her physician stated that she would probably die within the next few hours; a valid do not resuscitate (DNR) order is presented to you. When caring for this patient, you should:",
+Points,1,
+Difficulty,1,
+Option,0,a) depart the scene and allow her to die with dignity.
+Option,0,b) begin chest compressions if she experiences cardiac arrest.
+Option,0,c) provide no interventions and transport to the hospital.
+Option,100,d) make her comfortable and provide emotional support.
+Hint,"Complexity: Difficult			Ahead: Death and Dying			Subject:Workforce Safety and Wellness			, Page 68			Title: Workforce Safety and Wellness			Feedback: See Death and Dying			Taxonomy: Analysis			Objective: 2-13 Differentiate issues concerning care of the dying patient, death, and the grieving process of family members.",
+NewQuestion,MC,
+Title,,
+QuestionText,"Common questions asked by patients with a serious illness or injury include all of the following, except:",
+Points,1,
+Difficulty,1,
+Option,0,a) “Am I going to die?”
+Option,100,b) “Which hospital am I going to?”
+Option,0,c) “What are you doing to me?”
+Option,0,d) “Will I be permanently disabled?”
+Hint,"Complexity: Moderate			Ahead: Caring for Critically Ill and Injured Patients			Subject:Workforce Safety and Wellness			, Page 65			Title: Workforce Safety and Wellness			Feedback: See Caring for Critically Ill and Injured Patients			Taxonomy: Recall			Objective: 2-13 Differentiate issues concerning care of the dying patient, death, and the grieving process of family members.",
+NewQuestion,MC,
+Title,,
+QuestionText,"You are transporting an elderly woman who has possibly experienced a stroke. She is obviously scared but is unable to talk and cannot move the entire right side of her body. In addition to providing the medical care that she needs, you should:",
+Points,1,
+Difficulty,1,
+Option,0,"a) reassure her that after proper treatment in the hospital, she will regain her speech in time."
+Option,100,b) acknowledge that she is scared and tell her that you will take good care of her.
+Option,0,c) maintain eye contact at all times and tell her that there is no need for her to be scared.
+Option,0,d) tell her that you understand why she is scared and that everything will likely be okay.
+Hint,"Complexity: Difficult			Ahead: Caring for Critically Ill and Injured Patients			Subject:Workforce Safety and Wellness			, Page 65			Title: Workforce Safety and Wellness			Feedback: See Caring for Critically Ill and Injured Patients			Taxonomy: Application			Objective: 2-13 Differentiate issues concerning care of the dying patient, death, and the grieving process of family members.",
+NewQuestion,MC,
+Title,,
+QuestionText,"A 75-year-old male with a terminal illness has died at home. As you and your partner enter the residence, a family member becomes verbally abusive, pushes you, and states that you took too long to get there. You should:",
+Points,1,
+Difficulty,1,
+Option,100,a) retreat and notify law enforcement personnel.
+Option,0,b) tell the family member that it is not your fault.
+Option,0,c) subdue the family member until the police arrive.
+Option,0,d) ignore the family member and assess the patient.
+Hint,"Complexity: Difficult			Ahead: Caring for Critically Ill and Injured Patients			Subject:Workforce Safety and Wellness			, Page 65			Title: Workforce Safety and Wellness			Feedback: See Caring for Critically Ill and Injured Patients			Taxonomy: Analysis			Objective: 2-13 Differentiate issues concerning care of the dying patient, death, and the grieving process of family members.",
+NewQuestion,MC,
+Title,,
+QuestionText,The capacity of an individual to cope with and recover from stress is called:,
+Points,1,
+Difficulty,1,
+Option,0,a) distress.
+Option,0,b) eustress.
+Option,0,c) wellness.
+Option,100,d) resilience.
+Hint,"Complexity: Easy			Ahead: General Health, Wellness, and Resilience			Subject:Workforce Safety and Wellness			, Page 32			Title: Workforce Safety and Wellness			Feedback: See Caring for Critically Ill and Injured Patients			Taxonomy: Recall			Objective: 2-1: Explain the steps that contribute to wellness and resilience and their importance in managing stress.",
+NewQuestion,MC,
+Title,,
+QuestionText,Characteristics of eustress following dispatch to a high-speed motor vehicle collision may include:,
+Points,1,
+Difficulty,1,
+Option,0,"a) the inability to remain focused, because the task at hand is demanding."
+Option,0,b) short term loss of energy due to the high physical demands of the job.
+Option,100,c) increased self-image from performing well under a challenging situation.
+Option,0,d) long-term feelings of being overwhelmed by the nature of the call.
+Hint,"Complexity: Moderate			Ahead: General Health, Wellness, and Resilience			Subject:Workforce Safety and Wellness			, Page 32			Title: Workforce Safety and Wellness			Feedback: See General Health, Wellness, and Resilience			Taxonomy: Recall			Objective: 2-1: Explain the steps that contribute to wellness and resilience and their importance in managing stress.",
+NewQuestion,MC,
+Title,,
+QuestionText,You are assessing a middle-aged man with chest pain that you suspect is caused by a cardiac problem. The patient tells you that he does not want to go to the hospital and insists that you leave him alone. You should:,
+Points,1,
+Difficulty,1,
+Option,0,a) reassure him that he will not receive a bill for the EMS call if he cannot pay.
+Option,0,b) tell him that he is having a heart attack and that he needs to go to the hospital.
+Option,100,"c) explain the seriousness of the situation to him, but avoid causing undue alarm."
+Option,0,d) proceed to treat him because the stress of the situation has impaired his thinking.
+Hint,"Complexity: Difficult			Ahead: Caring for Critically Ill and Injured Patients			Subject:Workforce Safety and Wellness			, Page 65			Title: Workforce Safety and Wellness			Feedback: See Caring for Critically Ill and Injured Patients			Taxonomy: Analysis			Objective: 2-13 Differentiate issues concerning care of the dying patient, death, and the grieving process of family members.",
+NewQuestion,MC,
+Title,,
+QuestionText,"A 15-year-old boy was killed when he was struck by a car while riding his bicycle. He has numerous disfiguring injuries and has been placed in the back of the ambulance to shield him from curious bystanders. When the child’s parents arrive at the scene, they demand to see him. You should:",
+Points,1,
+Difficulty,1,
+Option,100,a) advise them that their son had severely disfiguring injuries and ask them if there is anyone they would like you to contact first.
+Option,0,b) discreetly escort them to the back of the ambulance and allow them to see their child by themselves while you wait outside.
+Option,0,"c) let them know that because of the circumstances of their child’s death, they will not be permitted to see him at this time."
+Option,0,d) express your sincere condolences over their loss and have them escorted away from the scene by a law enforcement officer.
+Hint,"Complexity: Difficult			Ahead: Caring for Critically Ill and Injured Patients			Subject:Workforce Safety and Wellness			, Page 66			Title: Workforce Safety and Wellness			Feedback: See Caring for Critically Ill and Injured Patients			Taxonomy: Analysis			Objective: 2-13 Differentiate issues concerning care of the dying patient, death, and the grieving process of family members.",
+NewQuestion,MC,
+Title,,
+QuestionText,"When caring for the parents of a child who has died of leukemia, the EMT should:",
+Points,1,
+Difficulty,1,
+Option,0,a) immediately refer them to a counselor.
+Option,0,b) tell them that their feelings are understood.
+Option,0,c) refrain from using words such as “died” or “dead.”
+Option,100,d) acknowledge the death of their child in private.
+Hint,"Complexity: Moderate			Ahead: Caring for Critically Ill and Injured Patients			Subject:Workforce Safety and Wellness			, Page 67			Title: Workforce Safety and Wellness			Feedback: See Caring for Critically Ill and Injured Patients			Taxonomy: Application			Objective: 2-13 Differentiate issues concerning care of the dying patient, death, and the grieving process of family members.",
+NewQuestion,MC,
+Title,,
+QuestionText,"Common factors that influence how a patient reacts to the stress of an illness or injury include all of the following, except:",
+Points,1,
+Difficulty,1,
+Option,100,a) distrust of EMTs.
+Option,0,b) mental disorders.
+Option,0,c) history of chronic disease.
+Option,0,d) fear of medical personnel.
+Hint,"Complexity: Moderate			Ahead: Stress Management on the Job			Subject:Workforce Safety and Wellness			, Page 74			Title: Workforce Safety and Wellness			Feedback: See Stress Management on the Job			Taxonomy: Recall			Objective: 2-16 Identify the emotional aspects of emergency care.",
+NewQuestion,MC,
+Title,,
+QuestionText,You are caring for a 35-year-old female with pregnancy-related complications. She is clearly experiencing significant stress and is crying uncontrollably. Your most appropriate action would be to:,
+Points,1,
+Difficulty,1,
+Option,100,a) demonstrate courtesy and speak with a professional tone of voice.
+Option,0,b) discourage her from expressing fears until a counselor is available.
+Option,0,c) tell her that “everything will be all right” to calm her down.
+Option,0,d) restrain her if she is extremely emotional and will not calm down.
+Hint,"Complexity: Difficult			Ahead: Stress Management on the Job			Subject:Workforce Safety and Wellness			, Page 74			Title: Workforce Safety and Wellness			Feedback: See Stress Management on the Job			Taxonomy: Analysis			Objective: 2-16 Identify the emotional aspects of emergency care.",
+NewQuestion,MC,
+Title,,
+QuestionText,"You are caring for a 40-year-old female who was involved in a motor vehicle crash. Her husband, who was driving the vehicle, was killed. When the patient asks you if her husband is all right, you should:",
+Points,1,
+Difficulty,1,
+Option,0,a) tell her that he is being resuscitated by other EMTs.
+Option,0,b) immediately tell her of his death so that she might grieve.
+Option,100,c) let clergy or hospital staff relay the bad news if possible.
+Option,0,d) avoid answering her questions and focus on her injuries.
+Hint,"Complexity: Difficult			Ahead: Stress Management on the Job			Subject:Workforce Safety and Wellness			, Page 74			Title: Workforce Safety and Wellness			Feedback: See Stress Management on the Job			Taxonomy: Analysis			Objective: 2-16 Identify the emotional aspects of emergency care.",
+NewQuestion,MC,
+Title,,
+QuestionText,What should you do before attempting to access a patient trapped in a vehicle?,
+Points,1,
+Difficulty,1,
+Option,0,a) Check for other patients.
+Option,100,b) Ensure the vehicle is stable.
+Option,0,c) Request another ambulance.
+Option,0,d) Contact medical control.
+Hint,"Complexity: Moderate			Ahead: Scene Safety			Subject:Workforce Safety and Wellness			, Page 55			Title: Workforce Safety and Wellness			Feedback: See Scene Safety			Taxonomy: Recall			Objective: 2-11 Discuss the steps necessary to determine scene safety and to prevent work-related injuries at the scene.",
+NewQuestion,MC,
+Title,,
+QuestionText,The most important consideration at the scene of a hazardous materials incident is:,
+Points,1,
+Difficulty,1,
+Option,0,a) identifying the hazardous material.
+Option,0,b) calling the hazardous materials team.
+Option,0,c) evacuating the bystanders.
+Option,100,d) ensuring your personal safety.
+Hint,"Complexity: Moderate			Ahead: Scene Safety			Subject:Workforce Safety and Wellness			, Page 55			Title: Workforce Safety and Wellness			Feedback: See Scene Safety			Taxonomy: Application			Objective: 2-11 Discuss the steps necessary to determine scene safety and to prevent work-related injuries at the scene.",
+NewQuestion,MC,
+Title,,
+QuestionText,"You are dispatched to the scene of a crash involving a large tanker truck. While you are en route, dispatch advises you that there are multiple patients and that the fire department is en route as well. As you approach the scene, you should:",
+Points,1,
+Difficulty,1,
+Option,100,a) maintain a safe distance and try to read the placard with binoculars.
+Option,0,b) cordon off the area and quickly remove all of the injured patients.
+Option,0,c) immediately begin evacuating residents who live near the crash site.
+Option,0,d) don personal protective equipment and quickly triage all patients.
+Hint,"Complexity: Difficult			Ahead: Scene Safety			Subject:Workforce Safety and Wellness			, Page 55			Title: Workforce Safety and Wellness			Feedback: See Scene Safety			Taxonomy: Analysis			Objective: 2-11 Discuss the steps necessary to determine scene safety and to prevent work-related injuries at the scene.",
+NewQuestion,MC,
+Title,,
+QuestionText,"At the scene of an automobile crash, a utility pole has been broken, and power lines are lying across the car. The patients inside the car are conscious. You should:",
+Points,1,
+Difficulty,1,
+Option,0,a) proceed with normal extrication procedures.
+Option,0,b) remove the lines with a nonconductive object.
+Option,0,c) advise the patients to carefully get out of the car.
+Option,100,d) mark off a danger zone around the downed lines.
+Hint,"Complexity: Difficult			Ahead: Scene Safety			Subject:Workforce Safety and Wellness			, Page 57			Title: Workforce Safety and Wellness			Feedback: See Scene Safety			Taxonomy: Analysis			Objective: 2-11 Discuss the steps necessary to determine scene safety and to prevent work-related injuries at the scene.",
+NewQuestion,MC,
+Title,,
+QuestionText,"You are assessing a woman who was thrown from a horse. She is located in a large field and you can see that a thunderstorm is rapidly approaching. Suddenly, you feel your skin begin to tingle and the hair on your arms stands on end. The ambulance is located about 30 yards away. You should:",
+Points,1,
+Difficulty,1,
+Option,100,a) crouch down in a position so that only your feet are touching the ground.
+Option,0,"b) sit down, bend your knees, and hold your crossed arms close to your body."
+Option,0,c) quickly cover the patient with a blanket and then lie down flat on the ground.
+Option,0,d) immediately lie down on your side and draw your knees into your abdomen.
+Hint,"Complexity: Difficult			Ahead: Scene Safety			Subject:Workforce Safety and Wellness			, Page 58			Title: Workforce Safety and Wellness			Feedback: See Scene Safety			Taxonomy: Analysis			Objective: 2-11 Discuss the steps necessary to determine scene safety and to prevent work-related injuries at the scene.",
+NewQuestion,MC,
+Title,,
+QuestionText,"Hazards that are associated with a structural fire include all of the following, except:",
+Points,1,
+Difficulty,1,
+Option,0,a) smoke and toxic gases.
+Option,100,b) carbon dioxide deficiency.
+Option,0,c) high ambient temperatures.
+Option,0,d) risk of building collapse.
+Hint,"Complexity: Moderate			Ahead: Scene Safety			Subject:Workforce Safety and Wellness			, Page 58			Title: Workforce Safety and Wellness			Feedback: See Scene Safety			Taxonomy: Application			Objective: 2-11 Discuss the steps necessary to determine scene safety and to prevent work-related injuries at the scene.",
+NewQuestion,MC,
+Title,,
+QuestionText,Carbon monoxide blocks the ability of the blood to oxygenate the body because it:,
+Points,1,
+Difficulty,1,
+Option,100,a) binds with the hemoglobin in red blood cells.
+Option,0,b) fills the alveoli in the lungs with thick secretions.
+Option,0,c) causes the body to expel too much carbon dioxide.
+Option,0,d) destroys the number of circulating red blood cells.
+Hint,"Complexity: Moderate			Ahead: Scene Safety			Subject:Workforce Safety and Wellness			, Page 58			Title: Workforce Safety and Wellness			Feedback: See Scene Safety			Taxonomy: Recall			Objective: 2-11 Discuss the steps necessary to determine scene safety and to prevent work-related injuries at the scene.",
+NewQuestion,MC,
+Title,,
+QuestionText,"You and your partner are EMTs who have been dispatched to stand by at the scene of a residential fire. While standing next to the ambulance observing the firefighters, you see a woman frantically moving around in her burning house. You should:",
+Points,1,
+Difficulty,1,
+Option,0,a) request permission from the fire chief to enter the structure.
+Option,0,b) don a self-contained breathing apparatus (SCBA) and rescue the woman.
+Option,0,c) stay where you are until firefighters remove her from the house.
+Option,100,d) immediately notify the incident commander or safety officer.
+Hint,"Complexity: Difficult			Ahead: Scene Safety			Subject:Workforce Safety and Wellness			, Page 59			Title: Workforce Safety and Wellness			Feedback: See Scene Safety			Taxonomy: Analysis			Objective: 2-11 Discuss the steps necessary to determine scene safety and to prevent work-related injuries at the scene.",
+NewQuestion,MC,
+Title,,
+QuestionText,"Upon arriving at the scene of a motor vehicle crash, you note that two small cars collided head-on; the occupants are still in their vehicles. The fire department is in the process of stabilizing the vehicles and law enforcement personnel are directing traffic. After parking the ambulance at a safe distance, you and your partner should:",
+Points,1,
+Difficulty,1,
+Option,0,a) quickly begin the triage process.
+Option,0,b) assist with vehicle stabilization.
+Option,0,c) report to the incident commander.
+Option,100,d) put on high-visibility safety vests.
+Hint,"Complexity: Difficult			Ahead: Scene Safety			Subject:Workforce Safety and Wellness			, Page 61			Title: Workforce Safety and Wellness			Feedback: See Scene Safety			Taxonomy: Analysis			Objective: 2-12 Describe the different types of protective clothing worn to prevent injury.",
+NewQuestion,MC,
+Title,,
+QuestionText,"The most effective way to preserve your own body heat when functioning in cold, wet weather is to:",
+Points,1,
+Difficulty,1,
+Option,0,"a) wear a heavy, thick jacket or coat."
+Option,0,b) avoid outer clothing with zippers.
+Option,100,c) wear at least three layers of clothing.
+Option,0,d) wear socks made of heavy-duty cotton.
+Hint,"Complexity: Easy			Ahead: Scene Safety			Subject:Workforce Safety and Wellness			, Page 62			Title: Workforce Safety and Wellness			Feedback: See Scene Safety			Taxonomy: Recall			Objective: 2-12 Describe the different types of protective clothing worn to prevent injury.",
+NewQuestion,MC,
+Title,,
+QuestionText,"When treating a patient who is trapped in a vehicle and covered with broken glass, it is best to wear:",
+Points,1,
+Difficulty,1,
+Option,0,a) latex gloves with thick leather gloves underneath.
+Option,100,b) puncture-proof leather gloves over your latex gloves.
+Option,0,"c) firefighter gloves only, to preserve manual dexterity."
+Option,0,d) thick firefighter gloves over two pairs of latex gloves.
+Hint,"Complexity: Moderate			Ahead: Scene Safety			Subject:Workforce Safety and Wellness			, Page 63			Title: Workforce Safety and Wellness			Feedback: See Scene Safety			Taxonomy: Application			Objective: 2-12 Describe the different types of protective clothing worn to prevent injury.",
+NewQuestion,MC,
+Title,,
+QuestionText,"You arrive at the scene of a domestic violence situation. As you approach the doorway of the apartment, you hear screaming and the statement, “He has a gun!”. Your most appropriate action should be to:",
+Points,1,
+Difficulty,1,
+Option,0,a) continue into the apartment using extreme caution.
+Option,0,b) continue into the apartment and apprehend the gunman.
+Option,0,c) get in your ambulance and leave the scene immediately.
+Option,100,d) seek a safe place and request law enforcement assistance.
+Hint,"Complexity: Difficult			Ahead: Scene Safety			Subject:Workforce Safety and Wellness			, Page 61			Title: Workforce Safety and Wellness			Feedback: See Scene Safety			Taxonomy: Analysis			Objective: 2-18 Recognize the possibility of violent situations and the steps to take to deal with them.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following would provide the EMT with the best cover in a situation involving active gunfire?,
+Points,1,
+Difficulty,1,
+Option,0,a) Behind a car door
+Option,100,b) A concrete barricade
+Option,0,c) A large cluster of shrubs
+Option,0,d) Stacked empty barrels
+Hint,"Complexity: Moderate			Ahead: See Scene Safety			Subject:Workforce Safety and Wellness			, Page 61			Title: Workforce Safety and Wellness			Feedback: Scene Safety			Taxonomy: Application			Objective: 2-18 Recognize the possibility of violent situations and the steps to take to deal with them.",
+NewQuestion,MC,
+Title,,
+QuestionText,"You are transporting a veteran whose legs were amputated in the war. When calling your radio report to the emergency department, which of the following words would be the most appropriate to use when describing the patient?",
+Points,1,
+Difficulty,1,
+Option,0,a) Crippled
+Option,100,b) Disabled
+Option,0,c) Deformed
+Option,0,d) Handicapped
+Hint,"Complexity: Moderate			Ahead: Workplace Issues			Subject:Workforce Safety and Wellness			, Page 76			Title: Workforce Safety and Wellness			Feedback: See Workplace Issues			Taxonomy: Application			Objective: 2-20 Discuss workplace issues such as cultural diversity, sexual harassment, and substance abuse.",

@@ -1,0 +1,620 @@
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following areas of the body has the thinnest skin?,
+Points,1,
+Difficulty,1,
+Option,0,a) Scalp
+Option,0,b) Back
+Option,100,c) Ears
+Option,0,d) Soles of the feet
+Hint,"Complexity: Easy			Ahead: Anatomy and Physiology of the Skin			Subject:Soft-Tissue Injuries, Page 963			Title: Soft-Tissue Injuries			Feedback: See Anatomy and Physiology of the Skin			Taxonomy: Recall			Objective: 27-1 Describe the anatomy of the skin; include the layers of the skin.",
+NewQuestion,MC,
+Title,,
+QuestionText,"What layer of the skin forms a watertight, protective seal for the body?",
+Points,1,
+Difficulty,1,
+Option,0,a) Dermis
+Option,100,b) Epidermis
+Option,0,c) Muscular layer
+Option,0,d) Subcutaneous layer
+Hint,"Complexity: Easy			Ahead: Anatomy and Physiology of the Skin			Subject:Soft-Tissue Injuries, Page 963			Title: Soft-Tissue Injuries			Feedback: See Anatomy and Physiology of the Skin			Taxonomy: Recall			Objective: 27-1 Describe the anatomy of the skin; include the layers of the skin.",
+NewQuestion,MC,
+Title,,
+QuestionText,The germinal layer of the epidermis contains pigment granules that are responsible for skin:,
+Points,1,
+Difficulty,1,
+Option,100,a) color.
+Option,0,b) texture.
+Option,0,c) moisture.
+Option,0,d) temperature.
+Hint,"Complexity: Easy			Ahead: Anatomy and Physiology of the Skin			Subject:Soft-Tissue Injuries, Page 963			Title: Soft-Tissue Injuries			Feedback: See Anatomy and Physiology of the Skin			Taxonomy: Recall			Objective: 27-1 Describe the anatomy of the skin; include the layers of the skin.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following statements regarding the dermis is correct?,
+Points,1,
+Difficulty,1,
+Option,0,a) The dermis produces a substance that provides color to the skin.
+Option,100,"b) The dermis contains hair follicles, sweat glands, and nerve endings."
+Option,0,c) The cells of the dermis are worn away and are constantly replaced.
+Option,0,d) The dermis lies above the germinal layer and provides protection.
+Hint,"Complexity: Easy			Ahead: Anatomy and Physiology of the Skin			Subject:Soft-Tissue Injuries, Pages 963-964			Title: Soft-Tissue Injuries			Feedback: See Anatomy and Physiology of the Skin			Taxonomy: Recall			Objective: 27-1 Describe the anatomy of the skin; include the layers of the skin.",
+NewQuestion,MC,
+Title,,
+QuestionText,"The sebaceous glands produce sebum, a material that:",
+Points,1,
+Difficulty,1,
+Option,0,a) facilitates shedding of the epidermis.
+Option,0,b) pulls the hair erect when you are cold.
+Option,0,c) discharges sweat onto the skin’s surface.
+Option,100,d) waterproofs the skin and keeps it supple.
+Hint,"Complexity: Easy			Ahead: Anatomy and Physiology of the Skin			Subject:Soft-Tissue Injuries, Page 964			Title: Soft-Tissue Injuries			Feedback: See Anatomy and Physiology of the Skin			Taxonomy: Recall			Objective: 27-2 Know the major functions of the skin.",
+NewQuestion,MC,
+Title,,
+QuestionText,"All of the following body structures are lined with mucous membranes, except for the:",
+Points,1,
+Difficulty,1,
+Option,100,a) lips.
+Option,0,b) nose.
+Option,0,c) anus.
+Option,0,d) mouth.
+Hint,"Complexity: Easy			Ahead: Anatomy and Physiology of the Skin			Subject:Soft-Tissue Injuries, Page 964			Title: Soft-Tissue Injuries			Feedback: See Anatomy and Physiology of the Skin			Taxonomy: Recall			Objective: 27-2 Know the major functions of the skin.",
+NewQuestion,MC,
+Title,,
+QuestionText,"Functions of the skin include all of the following, except:",
+Points,1,
+Difficulty,1,
+Option,0,a) maintenance of water balance.
+Option,0,b) regulation of body temperature.
+Option,100,c) the production of key antibodies.
+Option,0,d) sending information to the brain.
+Hint,"Complexity: Easy			Ahead: Anatomy and Physiology of the Skin			Subject:Soft-Tissue Injuries, Page 964			Title: Soft-Tissue Injuries			Feedback: See Anatomy and Physiology of the Skin			Taxonomy: Recall			Objective: 27-2 Know the major functions of the skin.",
+NewQuestion,MC,
+Title,,
+QuestionText,When a person is exposed to a cold environment:,
+Points,1,
+Difficulty,1,
+Option,0,a) sweat is produced and is warmed when the vessels constrict.
+Option,0,b) blood vessels dilate and divert blood to the core of the body.
+Option,0,c) the skin becomes flushed secondary to peripheral vasodilation.
+Option,100,d) peripheral vessels constrict and divert blood away from the skin.
+Hint,"Complexity: Easy			Ahead: Anatomy and Physiology of the Skin			Subject:Soft-Tissue Injuries, Page 964			Title: Soft-Tissue Injuries			Feedback: See Anatomy and Physiology of the Skin			Taxonomy: Recall			Objective: 27-2 Know the major functions of the skin.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following processes occurs during the inflammation phase of the healing process?,
+Points,1,
+Difficulty,1,
+Option,100,"a) The immune system releases histamines, which cause vasodilation and increased capillary permeability, resulting in local redness and swelling."
+Option,0,"b) White blood cells are forced away from the injury site, thus allowing an increase in the flow of red blood cells, resulting in increased blood flow."
+Option,0,"c) The blood vessels in and around the injury site constrict, which forces bacteria and other microorganisms away, thus preventing significant infection."
+Option,0,"d) The veins and arteries at the injury site constrict and platelets aggregate, which stops bleeding and causes a temporary increase in the size of the wound."
+Hint,"Complexity: Moderate			Ahead: Pathophysiology of Closed and Open Injuries			Subject:Soft-Tissue Injuries, Page 964			Title: Soft-Tissue Injuries			Feedback: See Pathophysiology of Closed and Open Injuries			Taxonomy: Analysis			Objective: 27-3 Name the three types of soft-tissue injuries.",
+NewQuestion,MC,
+Title,,
+QuestionText,"During the normal wound-healing process, bleeding might occur from even a minor injury because:",
+Points,1,
+Difficulty,1,
+Option,0,"a) there is a substantial decrease in the number of platelets in and around the wound, which increases the risk of bleeding."
+Option,0,"b) histamines released by the immune system constrict the blood vessels, which increases the pressure within them."
+Option,100,c) new capillaries that stem from intact capillaries are delicate and take time to become as stable as the preexisting capillaries.
+Option,0,"d) bacteria and other microorganisms invade the wound site and damage the capillaries, which makes them more prone to bleeding."
+Hint,"Complexity: Moderate			Ahead: Pathophysiology of Closed and Open Injuries			Subject:Soft-Tissue Injuries, Page 965			Title: Soft-Tissue Injuries			Feedback: See Pathophysiology of Closed and Open Injuries			Taxonomy: Application			Objective: 27-3 Name the three types of soft-tissue injuries.",
+NewQuestion,MC,
+Title,,
+QuestionText,A closed soft-tissue injury characterized by swelling and ecchymosis is called a(n):,
+Points,1,
+Difficulty,1,
+Option,0,a) abrasion.
+Option,100,b) contusion.
+Option,0,c) hematoma.
+Option,0,d) crush injury.
+Hint,"Complexity: Easy			Ahead: Pathophysiology of Closed and Open Injuries			Subject:Soft-Tissue Injuries, Page 965			Title: Soft-Tissue Injuries			Feedback: See Pathophysiology of Closed and Open Injuries			Taxonomy: Application			Objective: 27-4 Describe the types of closed soft-tissue injuries.",
+NewQuestion,MC,
+Title,,
+QuestionText,A hematoma develops when:,
+Points,1,
+Difficulty,1,
+Option,0,a) small amounts of blood leak into the epidermis.
+Option,100,b) large blood vessels beneath the skin are damaged.
+Option,0,c) severe swelling compromises arterial circulation.
+Option,0,d) cells and small vessels in the dermis are damaged.
+Hint,"Complexity: Moderate			Ahead: Pathophysiology of Closed and Open Injuries			Subject:Soft-Tissue Injuries, Pages 965-966			Title: Soft-Tissue Injuries			Feedback: See Pathophysiology of Closed and Open Injuries			Taxonomy: Application			Objective: 27-4 Describe the types of closed soft-tissue injuries.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following statements regarding crush syndrome is correct?,
+Points,1,
+Difficulty,1,
+Option,0,"a) With crush syndrome, massive blood vessel damage occurs following severe soft-tissue injuries, such as amputation of an extremity."
+Option,100,b) Compromised arterial blood flow leads to crush syndrome and can occur when an area of the body is trapped for longer than four hours.
+Option,0,"c) Tissue damage that occurs in crush syndrome is severe, but kidney injury is unlikely because toxins are quickly eliminated from the body."
+Option,0,"d) Provided that a patient with a crush injury is freed from entrapment within six hours, the amount of tissue damaged is generally minimal."
+Hint,"Complexity: Moderate			Ahead: Pathophysiology of Closed and Open Injuries			Subject:Soft-Tissue Injuries, Page 966			Title: Soft-Tissue Injuries			Feedback: See Pathophysiology of Closed and Open Injuries			Taxonomy: Application			Objective: 27-4 Describe the types of closed soft-tissue injuries.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following is a sign of compartment syndrome?,
+Points,1,
+Difficulty,1,
+Option,0,a) Absence of pain at the injury site
+Option,0,b) Extreme redness to the injury site
+Option,0,c) A bounding pulse distal to the injury site
+Option,100,d) Pain upon passive movement of the injury site
+Hint,"Complexity: Moderate			Ahead: Pathophysiology of Closed and Open Injuries			Subject:Soft-Tissue Injuries, Page 966			Title: Soft-Tissue Injuries			Feedback: See Pathophysiology of Closed and Open Injuries			Taxonomy: Application			Objective: 27-4 Describe the types of closed soft-tissue injuries.",
+NewQuestion,MC,
+Title,,
+QuestionText,"A 30-year-old male experienced a crushing injury when his forearm was trapped between the back of a truck and a loading dock. Upon your arrival, the man’s arm has been freed. Your assessment reveals that his arm is obviously deformed and swollen and is cold and pale. Further assessment reveals an absent radial pulse. You should be most concerned that this patient has:",
+Points,1,
+Difficulty,1,
+Option,0,a) internal hemorrhage.
+Option,100,b) compartment syndrome.
+Option,0,c) a severe closed fracture.
+Option,0,d) damage to the radial nerve.
+Hint,"Complexity: Difficult			Ahead: Pathophysiology of Closed and Open Injuries			Subject:Soft-Tissue Injuries, Page 966			Title: Soft-Tissue Injuries			Feedback: See Pathophysiology of Closed and Open Injuries			Taxonomy: Analysis			Objective: 27-6 Explain patient assessment of closed and open injuries.",
+NewQuestion,MC,
+Title,,
+QuestionText,"When assessing a patient with a closed soft-tissue injury, it is most important to:",
+Points,1,
+Difficulty,1,
+Option,0,a) manipulate the injury site for signs of a fracture.
+Option,0,b) assess circulation distal to the site of the injury.
+Option,100,c) remain alert for more severe underlying injuries.
+Option,0,d) recognize that the integrity of the skin is broken.
+Hint,"Complexity: Easy			Ahead: Pathophysiology of Closed and Open Injuries			Subject:Soft-Tissue Injuries, Page 966			Title: Soft-Tissue Injuries			Feedback: See Pathophysiology of Closed and Open Injuries			Taxonomy: Recall			Objective: 27-6 Explain patient assessment of closed and open injuries.",
+NewQuestion,MC,
+Title,,
+QuestionText,"In addition to external bleeding, the most significant risk that an open soft-tissue injury exposes a patient to is:",
+Points,1,
+Difficulty,1,
+Option,100,a) infection.
+Option,0,b) hypothermia.
+Option,0,c) nerve damage.
+Option,0,d) vessel damage.
+Hint,"Complexity: Easy			Ahead: Pathophysiology of Closed and Open Injuries			Subject:Soft-Tissue Injuries, Page 966			Title: Soft-Tissue Injuries			Feedback: See Pathophysiology of Closed and Open Injuries			Taxonomy: Analysis			Objective: 27-6 Explain patient assessment of closed and open injuries.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following open soft-tissue injuries is limited to the superficial layer of the skin and results in the least amount of blood loss?,
+Points,1,
+Difficulty,1,
+Option,0,a) Avulsion
+Option,100,b) Abrasion
+Option,0,c) Incision
+Option,0,d) Laceration
+Hint,"Complexity: Easy			Ahead: Pathophysiology of Closed and Open Injuries			Subject:Soft-Tissue Injuries, Page 967			Title: Soft-Tissue Injuries			Feedback: See Pathophysiology of Closed and Open Injuries			Taxonomy: Analysis			Objective: 27-5 Describe the types of open soft-tissue injuries.",
+NewQuestion,MC,
+Title,,
+QuestionText,A laceration:,
+Points,1,
+Difficulty,1,
+Option,0,a) is an injury that separates various layers of soft tissue.
+Option,0,"b) is a sharp, smooth cut that is made by a surgical scalpel."
+Option,100,c) is a jagged cut caused by a sharp object or blunt force trauma.
+Option,0,d) rarely penetrates through the subcutaneous tissue to the muscle.
+Hint,"Complexity: Easy			Ahead: Pathophysiology of Closed and Open Injuries			Subject:Soft-Tissue Injuries, Page 967			Title: Soft-Tissue Injuries			Feedback: See Pathophysiology of Closed and Open Injuries			Taxonomy: Recall			Objective: 27-5 Describe the types of open soft-tissue injuries.",
+NewQuestion,MC,
+Title,,
+QuestionText,"An injury that separates various layers of soft tissue, resulting in complete detachment or a flap of skin, is called a(n):",
+Points,1,
+Difficulty,1,
+Option,0,a) incision.
+Option,100,b) avulsion.
+Option,0,c) laceration.
+Option,0,d) amputation.
+Hint,"Complexity: Easy			Ahead: Pathophysiology of Closed and Open Injuries			Subject:Soft-Tissue Injuries, Page 967			Title: Soft-Tissue Injuries			Feedback: See Pathophysiology of Closed and Open Injuries			Taxonomy: Analysis			Objective: 27-5 Describe the types of open soft-tissue injuries.",
+NewQuestion,MC,
+Title,,
+QuestionText,"A 56-year-old male has an incomplete avulsion to his right forearm. After controlling any bleeding from the wound, you should:",
+Points,1,
+Difficulty,1,
+Option,0,a) carefully probe the wound to determine if the bleeding is venous or arterial.
+Option,0,"b) carefully remove the avulsed flap and wrap it in a moist, sterile trauma dressing."
+Option,100,c) replace the avulsed flap to its original position and cover it with a sterile dressing.
+Option,0,d) thoroughly irrigate the wound with sterile water and cover it with a sterile dressing.
+Hint,"Complexity: Difficult			Ahead: Pathophysiology of Closed and Open Injuries			Subject:Soft-Tissue Injuries, Page 967			Title: Soft-Tissue Injuries			Feedback: See Pathophysiology of Closed and Open Injuries			Taxonomy: Analysis			Objective: 27-6 Explain patient assessment of closed and open injuries.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following statements regarding penetrating injuries is correct?,
+Points,1,
+Difficulty,1,
+Option,100,"a) External bleeding might be minimal, but internal injuries can be extensive."
+Option,0,b) The degree of internal injury can often be estimated by the external injury.
+Option,0,c) It is important to distinguish between entrance and exit wounds in the field.
+Option,0,d) The depth of a penetrating injury should be thoroughly assessed by the EMT.
+Hint,"Complexity: Moderate			Ahead: Pathophysiology of Closed and Open Injuries			Subject:Soft-Tissue Injuries, Page 968			Title: Soft-Tissue Injuries			Feedback: See Pathophysiology of Closed and Open Injuries			Taxonomy: Analysis			Objective: 27-6 Explain patient assessment of closed and open injuries.",
+NewQuestion,MC,
+Title,,
+QuestionText,"During your assessment of a patient who was shot in the abdomen, you notice a large entrance wound with multiple small puncture wounds surrounding it. This wound pattern is most consistent with a:",
+Points,1,
+Difficulty,1,
+Option,0,a) handgun.
+Option,100,b) shotgun.
+Option,0,c) .22-caliber pistol.
+Option,0,d) .357 magnum.
+Hint,"Complexity: Difficult			Ahead: Pathophysiology of Closed and Open Injuries			Subject:Soft-Tissue Injuries, Page 969			Title: Soft-Tissue Injuries			Feedback: See Pathophysiology of Closed and Open Injuries			Taxonomy: Application			Objective: 27-6 Explain patient assessment of closed and open injuries.",
+NewQuestion,MC,
+Title,,
+QuestionText,"A 39-year-old male was struck in the head by a baseball during a game. He is confused and has slurred speech. He has a large hematoma in the center of his forehead and cannot remember the events preceding the injury. After manually stabilizing his head and assessing his airway, you should:",
+Points,1,
+Difficulty,1,
+Option,0,a) perform a neurologic exam.
+Option,0,b) palpate his radial pulses.
+Option,100,c) administer high-flow oxygen.
+Option,0,d) apply ice to the hematoma.
+Hint,"Complexity: Moderate			Ahead: Patient Assessment of Closed and Open Injuries			Subject:Soft-Tissue Injuries, Page 972			Title: Soft-Tissue Injuries			Feedback: See Patient Assessment of Closed and Open Injuries			Taxonomy: Analysis			Objective: 27-6 Explain patient assessment of closed and open injuries.",
+NewQuestion,MC,
+Title,,
+QuestionText,"During your assessment of a 22-year-old male who was assaulted, you note widespread contusions and abrasions to his face, chest, and abdomen. His pulse is rapid and weak, and his skin is cool and clammy. You should:",
+Points,1,
+Difficulty,1,
+Option,0,a) perform a focused physical exam of his abdomen.
+Option,100,b) administer oxygen and prepare for rapid transport.
+Option,0,c) place him in a sitting position and give him oxygen.
+Option,0,d) conclude that he is experiencing intracranial bleeding.
+Hint,"Complexity: Difficult			Ahead: Patient Assessment of Closed and Open Injuries			Subject:Soft-Tissue Injuries, Page 972			Title: Soft-Tissue Injuries			Feedback: See Patient Assessment of Closed and Open Injuries			Taxonomy: Application			Objective: 27-6 Explain patient assessment of closed and open injuries.",
+NewQuestion,MC,
+Title,,
+QuestionText,"As you approach a young male who was involved in an industrial accident, you note that his eyes are closed and that he is not moving. You can see several large contusions to his arms, a laceration to his forehead with minimal bleeding, and a closed deformity to his right leg. You should:",
+Points,1,
+Difficulty,1,
+Option,100,a) open his airway and assess his breathing status.
+Option,0,b) perform an immediate head-to-toe assessment.
+Option,0,"c) assess his pulse for rate, regularity, and quality."
+Option,0,d) apply high-flow oxygen and assess his injuries.
+Hint,"Complexity: Moderate			Ahead: Patient Assessment of Closed and Open Injuries			Subject:Soft-Tissue Injuries, Page 972			Title: Soft-Tissue Injuries			Feedback: See Patient Assessment of Closed and Open Injuries			Taxonomy: Application			Objective: 27-6 Explain patient assessment of closed and open injuries.",
+NewQuestion,MC,
+Title,,
+QuestionText,"You are assessing a 30-year-old woman with multiple large bruises to her chest and abdomen that she experienced during an assault. She is conscious but restless, and her skin is cool and pale. You should be most concerned with:",
+Points,1,
+Difficulty,1,
+Option,0,a) performing a detailed secondary assessment to locate all of her injuries.
+Option,0,b) assessing the bruises that overlie major organs in the chest and abdomen.
+Option,100,c) the fact that her clinical signs could indicate that she is bleeding internally.
+Option,0,d) obtaining a complete set of vital signs to rule out the possibility of shock.
+Hint,"Complexity: Difficult			Ahead: Emergency Medical Care for Closed Injuries			Subject:Soft-Tissue Injuries, Page 976			Title: Soft-Tissue Injuries			Feedback: See Emergency Medical Care for Closed Injuries			Taxonomy: Application			Objective: 27-8 Explain the emergency medical care for closed and open injuries.",
+NewQuestion,MC,
+Title,,
+QuestionText,"A 17-year-old male was shot in the right anterior chest during an altercation. As your partner is applying oxygen, you perform a rapid assessment and find an open chest wound with a small amount of blood bubbling from it. You should:",
+Points,1,
+Difficulty,1,
+Option,0,a) place a sterile dressing over the wound and apply direct pressure.
+Option,0,b) control the bleeding from the wound and prepare to transport at once.
+Option,100,c) apply an occlusive dressing to the wound and continue your assessment.
+Option,0,d) direct your partner to assist the patient’s ventilations with a bag-mask device.
+Hint,"Complexity: Moderate			Ahead: Emergency Medical Care for Open Injuries			Subject:Soft-Tissue Injuries, Page 976			Title: Soft-Tissue Injuries			Feedback: See Emergency Medical Care for Open Injuries			Taxonomy: Application			Objective: 27-8 Explain the emergency medical care for closed and open injuries.",
+NewQuestion,MC,
+Title,,
+QuestionText,An abdominal evisceration:,
+Points,1,
+Difficulty,1,
+Option,0,a) is most commonly the result of blunt force trauma.
+Option,0,"b) should be covered with bulky dry, sterile dressings."
+Option,0,c) often causes severe hypothermia because of heat loss.
+Option,100,d) occurs when organs protrude through an open wound.
+Hint,"Complexity: Easy			Ahead: Emergency Medical Care for Open Injuries			Subject:Soft-Tissue Injuries, Page 977			Title: Soft-Tissue Injuries			Feedback: See Emergency Medical Care for Open Injuries			Taxonomy: Recall			Objective: 27-8 Explain the emergency medical care for closed and open injuries.",
+NewQuestion,MC,
+Title,,
+QuestionText,"A 33-year-old male sustained an abdominal evisceration to the left lower quadrant of his abdomen after he was cut with a large knife. After appropriately managing his ABCs and assessing him for other life-threatening injuries, how should you care for his wound?",
+Points,1,
+Difficulty,1,
+Option,0,a) Irrigate it with sterile water and cover it with a dry dressing.
+Option,0,b) Cover the exposed bowel and keep his legs in a straight position.
+Option,0,c) Carefully replace the exposed bowel into the abdomen and transport.
+Option,100,"d) Cover it with moist, sterile gauze and secure with an occlusive dressing."
+Hint,"Complexity: Difficult			Ahead: Emergency Medical Care for Open Injuries			Subject:Soft-Tissue Injuries, Pages 977-978			Title: Soft-Tissue Injuries			Feedback: See Emergency Medical Care for Open Injuries			Taxonomy: Application			Objective: 27-9 Explain the emergency medical care for an open wound to the abdomen.",
+NewQuestion,MC,
+Title,,
+QuestionText,In which of the following patients should you remove an impaled object?,
+Points,1,
+Difficulty,1,
+Option,0,a) A semiconscious patient with an ice pick impaled in the chest
+Option,0,b) An apneic patient with a shard of glass impaled in the abdomen
+Option,100,c) A pulseless and apneic patient with a knife impaled in the back
+Option,0,d) A conscious and alert patient with a fishhook impaled in the eye
+Hint,"Complexity: Moderate			Ahead: Emergency Medical Care for Open Injuries			Subject:Soft-Tissue Injuries, Page 978			Title: Soft-Tissue Injuries			Feedback: See Emergency Medical Care for Open Injuries			Taxonomy: Analysis			Objective: 27-10 Explain the emergency medical care for an impaled object.",
+NewQuestion,MC,
+Title,,
+QuestionText,A construction worker fell approximately 30 feet and landed in a pile of steel rods. Your assessment reveals that he is pulseless and apneic and has a 10-foot steel rod impaled in his left leg. You should:,
+Points,1,
+Difficulty,1,
+Option,100,"a) control the bleeding, begin CPR, stabilize the steel rod, immobilize his spine, and transport immediately."
+Option,0,"b) remove the steel rod, control the bleeding, apply an automated external defibrillator, begin CPR, and transport to a trauma center."
+Option,0,"c) stabilize the steel rod, control the bleeding, begin CPR, and rapidly transport to a trauma center."
+Option,0,"d) control the bleeding, carefully remove the steel rod, begin CPR, and transport as soon as possible."
+Hint,"Complexity: Difficult			Ahead: Emergency Medical Care for Open Injuries			Subject:Soft-Tissue Injuries, Pages 978-979			Title: Soft-Tissue Injuries			Feedback: See Emergency Medical Care for Open Injuries			Taxonomy: Application			Objective: 27-10 Explain the emergency medical care for an impaled object.",
+NewQuestion,MC,
+Title,,
+QuestionText,A teenage boy who was involved in a bicycle accident has a puncture wound where the bicycle kickstand impaled his leg. The most appropriate method for treating this injury is to:,
+Points,1,
+Difficulty,1,
+Option,0,"a) remove the kickstand in a circular motion and apply a dry, sterile dressing."
+Option,0,"b) cut the kickstand off just above the skin, and stabilize it with sterile dressings."
+Option,0,c) leave the kickstand attached to the bike until the physician can remove it safely.
+Option,100,d) unbolt the kickstand from the bike frame and stabilize it with bulky dressings.
+Hint,"Complexity: Difficult			Ahead: Emergency Medical Care for Open Injuries			Subject:Soft-Tissue Injuries, Page 976			Title: Soft-Tissue Injuries			Feedback: See Emergency Medical Care for Open Injuries			Taxonomy: Application			Objective: 27-10 Explain the emergency medical care for an impaled object.",
+NewQuestion,MC,
+Title,,
+QuestionText,"In addition to severe bleeding, the most life-threatening complication associated with an open neck injury is:",
+Points,1,
+Difficulty,1,
+Option,100,a) an air embolism.
+Option,0,b) a spinal fracture.
+Option,0,c) an ischemic stroke.
+Option,0,d) nerve fiber damage.
+Hint,"Complexity: Easy			Ahead: Emergency Medical Care for Open Injuries			Subject:Soft-Tissue Injuries, Page 979			Title: Soft-Tissue Injuries			Feedback: See Emergency Medical Care for Open Injuries			Taxonomy: Recall			Objective: 27-11 Explain the emergency medical care for neck injuries.",
+NewQuestion,MC,
+Title,,
+QuestionText,"An 8-year-old male was bitten by a stray dog. He has a large laceration to the back of his left hand, which your partner covered with a sterile dressing and bandage. In addition to transporting the child to the hospital, you should:",
+Points,1,
+Difficulty,1,
+Option,0,a) administer oxygen via a nonrebreathing mask.
+Option,0,b) ask the child’s father to try to locate the dog.
+Option,0,c) advise the child that he will need rabies shots.
+Option,100,d) report the incident to the appropriate authorities.
+Hint,"Complexity: Difficult			Ahead: Emergency Medical Care for Open Injuries			Subject:Soft-Tissue Injuries, Page 980			Title: Soft-Tissue Injuries			Feedback: See Emergency Medical Care for Open Injuries			Taxonomy: Recall			Objective: 27-12 Describe the steps of the emergency treatment of small animal bites, human bites, and rabies.",
+NewQuestion,MC,
+Title,,
+QuestionText,"In contrast to animal bites, the bite of a human:",
+Points,1,
+Difficulty,1,
+Option,0,a) is usually less severe because the human mouth is cleaner.
+Option,0,b) typically results in a minor infection that is slow-spreading.
+Option,100,c) carries with it a wide variety of virulent bacteria and viruses.
+Option,0,d) is associated with a much higher incidence of rabies infection.
+Hint,"Complexity: Easy			Ahead: Emergency Medical Care for Open Injuries			Subject:Soft-Tissue Injuries, Page 981			Title: Soft-Tissue Injuries			Feedback: See Emergency Medical Care for Open Injuries			Taxonomy: Application			Objective: 27-12 Describe the steps of the emergency treatment of small animal bites, human bites, and rabies.",
+NewQuestion,MC,
+Title,,
+QuestionText,"During an altercation in a bar, two patrons got into a fist fight. The first patient, a 44-year-old female, was struck in the mouth and refuses EMS care. The second patient, a 39-year-old female, has a small laceration to her left knuckle and also refuses EMS care. Which of the following statements regarding this scenario is correct?",
+Points,1,
+Difficulty,1,
+Option,0,a) You should contact the police and have the patients arrested.
+Option,100,b) The 39-year-old female is at high risk for an infection.
+Option,0,c) The patient struck in the mouth should be immobilized.
+Option,0,d) The 44-year-old female is at high risk for an infection.
+Hint,"Complexity: Difficult			Ahead: Emergency Medical Care for Open Injuries			Subject:Soft-Tissue Injuries, Page 981			Title: Soft-Tissue Injuries			Feedback: See Emergency Medical Care for Open Injuries			Taxonomy: Application			Objective: 27-12 Describe the steps of the emergency treatment of small animal bites, human bites, and rabies.",
+NewQuestion,MC,
+Title,,
+QuestionText,Burns are classified according to:,
+Points,1,
+Difficulty,1,
+Option,100,a) depth and extent.
+Option,0,b) location and pain.
+Option,0,c) degree and location.
+Option,0,d) extent and location.
+Hint,"Complexity: Easy			Ahead: Burns			Subject:Soft-Tissue Injuries, Page 983			Title: Soft-Tissue Injuries			Feedback: See Burns			Taxonomy: Recall			Objective: 27-13 Explain how the seriousness of a burn is related to its depth and extent.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following is a severe burn in a 35-year-old patient?,
+Points,1,
+Difficulty,1,
+Option,100,a) Circumferential partial-thickness burn to the chest
+Option,0,b) Full-thickness burn to 5% of the body surface area
+Option,0,c) Partial-thickness burn to 20% of the body surface area
+Option,0,d) Superficial burn covering 50% of the body surface area
+Hint,"Complexity: Easy			Ahead: Burns			Subject:Soft-Tissue Injuries, Page 983			Title: Soft-Tissue Injuries			Feedback: See Burns			Taxonomy: Recall			Objective: 27-13 Explain how the seriousness of a burn is related to its depth and extent.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following is a severe burn in a 65-year-old patient?,
+Points,1,
+Difficulty,1,
+Option,0,a) Superficial burn to 30% of the body surface area
+Option,0,b) Full-thickness burn to 1% of the body surface area
+Option,100,c) Partial-thickness burn to 20% of the body surface area
+Option,0,d) Second-degree burn covering 10% of the body surface area
+Hint,"Complexity: Moderate			Ahead: Burns			Subject:Soft-Tissue Injuries, Page 983			Title: Soft-Tissue Injuries			Feedback: See Burns			Taxonomy: Recall			Objective: 27-13 Explain how the seriousness of a burn is related to its depth and extent.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following would be the least likely cause of an altered level of consciousness in a patient with a burn?,
+Points,1,
+Difficulty,1,
+Option,100,a) Hypertension
+Option,0,b) Hypoglycemia
+Option,0,c) Hypoperfusion
+Option,0,d) Head injury
+Hint,"Complexity: Easy			Ahead: Burns			Subject:Soft-Tissue Injuries, Page 982			Title: Soft-Tissue Injuries			Feedback: See Burns			Taxonomy: Analysis			Objective: 27-13 Explain how the seriousness of a burn is related to its depth and extent.",
+NewQuestion,MC,
+Title,,
+QuestionText,A burn that is characterized by redness and pain is classified as a:,
+Points,1,
+Difficulty,1,
+Option,0,a) full-thickness burn.
+Option,100,b) superficial burn.
+Option,0,c) second-degree burn.
+Option,0,d) partial-thickness burn.
+Hint,"Complexity: Easy			Ahead: Burns			Subject:Soft-Tissue Injuries, Page 984			Title: Soft-Tissue Injuries			Feedback: See Burns			Taxonomy: Recall			Objective: 27-14 Define superficial, partial-thickness, and full-thickness burns; include the characteristics of each burn.",
+NewQuestion,MC,
+Title,,
+QuestionText,A partial-thickness burn involves the outer layer of skin and a portion of the:,
+Points,1,
+Difficulty,1,
+Option,0,a) epidermis.
+Option,0,b) fatty layer.
+Option,0,c) muscle fascia.
+Option,100,d) dermal layer.
+Hint,"Complexity: Easy			Ahead: Burns			Subject:Soft-Tissue Injuries, Page 982			Title: Soft-Tissue Injuries			Feedback: See Burns			Taxonomy: Recall			Objective: 27-14 Define superficial, partial-thickness, and full-thickness burns; include the characteristics of each burn.",
+NewQuestion,MC,
+Title,,
+QuestionText,Patients with full-thickness (third-degree) burns generally do not complain of pain because:,
+Points,1,
+Difficulty,1,
+Option,0,a) blister formation protects the burn.
+Option,0,b) he or she is generally not conscious.
+Option,100,c) the nerve endings have been destroyed.
+Option,0,d) subcutaneous vessels are usually clotted.
+Hint,"Complexity: Easy			Ahead: Burns			Subject:Soft-Tissue Injuries, Page 984			Title: Soft-Tissue Injuries			Feedback: See Burns			Taxonomy: Application			Objective: 27-14 Define superficial, partial-thickness, and full-thickness burns; include the characteristics of each burn.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following statements regarding severe burns is correct?,
+Points,1,
+Difficulty,1,
+Option,0,a) Severe burns involving the airway have a 100% mortality rate.
+Option,0,b) The majority of severe burns involve full-thickness burns only.
+Option,0,c) Patients with severe burns are especially prone to hyperthermia.
+Option,100,d) Severe burns are typically a combination of all degrees of burns.
+Hint,"Complexity: Easy			Ahead: Burns			Subject:Soft-Tissue Injuries, Page 984			Title: Soft-Tissue Injuries			Feedback: See Burns			Taxonomy: Application			Objective: 27-14 Define superficial, partial-thickness, and full-thickness burns; include the characteristics of each burn.",
+NewQuestion,MC,
+Title,,
+QuestionText,"Common signs and symptoms of an airway burn include all of the following, except:",
+Points,1,
+Difficulty,1,
+Option,0,a) hoarseness.
+Option,100,b) chest pressure.
+Option,0,c) singed nasal hair.
+Option,0,d) soot around the mouth.
+Hint,"Complexity: Easy			Ahead: Burns			Subject:Soft-Tissue Injuries, Page 985			Title: Soft-Tissue Injuries			Feedback: See Burns			Taxonomy: Recall			Objective: 27-14 Define superficial, partial-thickness, and full-thickness burns; include the characteristics of each burn.",
+NewQuestion,MC,
+Title,,
+QuestionText,Burns to pediatric patients are generally considered more serious than burns to adults because:,
+Points,1,
+Difficulty,1,
+Option,0,a) pediatric patients are more prone to hyperthermia.
+Option,0,b) most burns in children are the result of child abuse.
+Option,0,c) pediatric patients have a proportionately larger volume of blood.
+Option,100,d) pediatric patients have more surface area relative to total body mass.
+Hint,"Complexity: Easy			Ahead: Burns			Subject:Soft-Tissue Injuries, Page 985			Title: Soft-Tissue Injuries			Feedback: See Burns			Taxonomy: Application			Objective: 27-14 Define superficial, partial-thickness, and full-thickness burns; include the characteristics of each burn.",
+NewQuestion,MC,
+Title,,
+QuestionText,"According to the rule of palm method for estimating the extent of a patient’s burns, the palm of the patient’s hand is equal to _____ of his or her total body surface area.",
+Points,1,
+Difficulty,1,
+Option,100,a) 1%
+Option,0,b) 2%
+Option,0,c) 4%
+Option,0,d) 6%
+Hint,"Complexity: Easy			Ahead: Burns			Subject:Soft-Tissue Injuries, Page 985			Title: Soft-Tissue Injuries			Feedback: See Burns			Taxonomy: Recall			Objective: 27-14 Define superficial, partial-thickness, and full-thickness burns; include the characteristics of each burn.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following statements regarding the rule of nines is correct?,
+Points,1,
+Difficulty,1,
+Option,0,a) A child’s head is equal to 14% of his or her total body surface area.
+Option,100,b) The anterior trunk of an adult is equal to 18% of the body surface area.
+Option,0,c) The posterior of a child’s leg is equal to 13.5% of the body surface area.
+Option,0,d) The anterior arm in the adult is equal to 9% of the total body surface area.
+Hint,"Complexity: Easy			Ahead: Burns			Subject:Soft-Tissue Injuries, Page 985			Title: Soft-Tissue Injuries			Feedback: See Burns			Taxonomy: Recall			Objective: 27-14 Define superficial, partial-thickness, and full-thickness burns; include the characteristics of each burn.",
+NewQuestion,MC,
+Title,,
+QuestionText,"Regarding the pediatric rule of nines, the:",
+Points,1,
+Difficulty,1,
+Option,0,a) head is proportionately smaller than an adult’s head.
+Option,0,b) thorax is proportionately larger than an adult’s thorax.
+Option,100,c) legs are proportionately smaller than an adult’s legs.
+Option,0,d) arms are proportionately larger than an adult’s arms.
+Hint,"Complexity: Easy			Ahead: Burns			Subject:Soft-Tissue Injuries, Page 985			Title: Soft-Tissue Injuries			Feedback: See Burns			Taxonomy: Recall			Objective: 27-15 Explain the primary assessment of a patient with a burn.",
+NewQuestion,MC,
+Title,,
+QuestionText,"A 21-year-old male was working in an auto repair shop and sustained radiator burns to the anterior aspect of both arms and to his anterior chest. According to the rule of nines, this patient has burns that cover _____ of his body surface area.",
+Points,1,
+Difficulty,1,
+Option,100,a) 18%
+Option,0,b) 27%
+Option,0,c) 36%
+Option,0,d) 45%
+Hint,"Complexity: Difficult			Ahead: Burns			Subject:Soft-Tissue Injuries, Page 985			Title: Soft-Tissue Injuries			Feedback: See Burns			Taxonomy: Application			Objective: 27-15 Explain the primary assessment of a patient with a burn.",
+NewQuestion,MC,
+Title,,
+QuestionText,"A 5-year-old female pulled a pot of boiling water from the stove. She has superficial and partial-thickness burns to her head, face, and anterior trunk. What percentage of her body surface area has been burned?",
+Points,1,
+Difficulty,1,
+Option,0,a) 18%
+Option,0,b) 27%
+Option,100,c) 30%
+Option,0,d) 36%
+Hint,"Complexity: Difficult			Ahead: Burns			Subject:Soft-Tissue Injuries, Page 985			Title: Soft-Tissue Injuries			Feedback: See Burns			Taxonomy: Recall			Objective: 27-15 Explain the primary assessment of a patient with a burn.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following is a severe burn in a 2-year-old child?,
+Points,1,
+Difficulty,1,
+Option,0,a) Superficial burn that covers 25% of the BSA
+Option,100,"b) Any full-thickness burn, regardless of its location on the body"
+Option,0,c) Partial-thickness burn that covers 10% of the BSA
+Option,0,"d) Any burn that involves the arms, legs, or posterior part of the body"
+Hint,"Complexity: Easy			Ahead: Burns			Subject:Soft-Tissue Injuries, Page 983			Title: Soft-Tissue Injuries			Feedback: See Burns			Taxonomy: Application			Objective: 27-15 Explain the primary assessment of a patient with a burn.",
+NewQuestion,MC,
+Title,,
+QuestionText,"When caring for a patient whose arm is covered with a dry chemical, you should:",
+Points,1,
+Difficulty,1,
+Option,0,a) deactivate the chemical with a 5% vinegar solution.
+Option,0,b) quickly irrigate the arm with large amounts of water.
+Option,0,c) use forceful streams of water to remove the chemical.
+Option,100,d) brush away the chemical before flushing with water.
+Hint,"Complexity: Easy			Ahead: Emergency Medical Care of Burns			Subject:Soft-Tissue Injuries, Page 993			Title: Soft-Tissue Injuries			Feedback: See Emergency Medical Care of Burns			Taxonomy: Recall			Objective: 27-17 Describe the emergency management of chemical, electrical, thermal, inhalation, and radiation burns.",
+NewQuestion,MC,
+Title,,
+QuestionText,For electricity to flow through the body and cause damage:,
+Points,1,
+Difficulty,1,
+Option,0,a) an insulator must exist between the electrical source and the patient.
+Option,100,b) a complete circuit must exist between the electrical source and the ground.
+Option,0,c) the part of the body that is in contact with the electrical source must be dry.
+Option,0,d) the person must make direct physical contact with the source of electricity.
+Hint,"Complexity: Moderate			Ahead: Emergency Medical Care of Burns			Subject:Soft-Tissue Injuries, Page 993			Title: Soft-Tissue Injuries			Feedback: See Emergency Medical Care of Burns			Taxonomy: Recall			Objective: 27-17 Describe the emergency management of chemical, electrical, thermal, inhalation, and radiation burns.",
+NewQuestion,MC,
+Title,,
+QuestionText,A utility worker was trimming branches and was electrocuted when he accidentally cut a high-power line. He fell approximately 20 feet and is lying unresponsive on the ground; the power line is lying across his chest. You should:,
+Points,1,
+Difficulty,1,
+Option,100,a) rapidly assess the patient after ensuring that the power line is not live.
+Option,0,b) apply insulated gloves and assume manual control of his cervical spine.
+Option,0,c) quickly but carefully move the patient away from the power line.
+Option,0,d) manually stabilize his head as your partner assesses for breathing.
+Hint,"Complexity: Difficult			Ahead: Emergency Medical Care of Burns			Subject:Soft-Tissue Injuries, Page 995			Title: Soft-Tissue Injuries			Feedback: See Emergency Medical Care of Burns			Taxonomy: Application			Objective: 27-17 Describe the emergency management of chemical, electrical, thermal, inhalation, and radiation burns.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following statements regarding electrical burns is correct?,
+Points,1,
+Difficulty,1,
+Option,100,a) Entrance wounds are small relative to the amount of internal tissue damage.
+Option,0,b) Respiratory or cardiac arrest following an electrical burn is very uncommon.
+Option,0,c) The exit wound caused by electrical burns is smaller than the entrance wound.
+Option,0,d) The size of the entry and exit wounds is a reliable indicator of internal damage.
+Hint,"Complexity: Moderate			Ahead: Emergency Medical Care of Burns			Subject:Soft-Tissue Injuries, Page 995			Title: Soft-Tissue Injuries			Feedback: See Emergency Medical Care of Burns			Taxonomy: Application			Objective: 27-17 Describe the emergency management of chemical, electrical, thermal, inhalation, and radiation burns.",
+NewQuestion,MC,
+Title,,
+QuestionText,"A 38-year-old male was electrocuted while attempting to wire a house. Your assessment reveals that he is unresponsive, pulseless, and apneic. A coworker has shut off the power to the house. You should:",
+Points,1,
+Difficulty,1,
+Option,100,a) begin CPR and apply the AED.
+Option,0,b) begin CPR and transport at once.
+Option,0,c) assess for entry and exit wounds.
+Option,0,d) fully immobilize his spinal column.
+Hint,"Complexity: Difficult			Ahead: Emergency Medical Care of Burns			Subject:Soft-Tissue Injuries, Page 995			Title: Soft-Tissue Injuries			Feedback: See Emergency Medical Care of Burns			Taxonomy: Application			Objective: 27-17 Describe the emergency management of chemical, electrical, thermal, inhalation, and radiation burns.",
+NewQuestion,MC,
+Title,,
+QuestionText,"You and your partner arrive at the scene of a house fire where firefighters have rescued a 50-year-old male from his burning house. The patient has superficial and partial-thickness burns to his face and chest. His nasal hairs are singed, and he is coughing up sooty sputum. You should be most concerned with:",
+Points,1,
+Difficulty,1,
+Option,0,a) treating him for hypothermia.
+Option,0,b) preventing the risk of infection.
+Option,0,c) estimating the extent of his burns.
+Option,100,d) the potential for airway swelling.
+Hint,"Complexity: Difficult			Ahead: Emergency Medical Care for Burns			Subject:Soft-Tissue Injuries, Page 992			Title: Soft-Tissue Injuries			Feedback: See Dressing and Bandaging			Taxonomy: Analysis			Objective: 27-17 Describe the emergency management of chemical, electrical, thermal, inhalation, and radiation burns.",
+NewQuestion,MC,
+Title,,
+QuestionText,"When treating a partial-thickness burn, you should:",
+Points,1,
+Difficulty,1,
+Option,0,a) immerse the affected part in warm water.
+Option,0,b) rupture any blisters to prevent an infection.
+Option,0,"c) cover the burn with a moist, sterile dressing."
+Option,100,"d) avoid the use of creams, lotions, or antiseptics."
+Hint,"Complexity: Easy			Ahead: Emergency Medical Care of Burns			Subject:Soft-Tissue Injuries, Page 991			Title: Soft-Tissue Injuries			Feedback: See Emergency Medical Care of Burns			Taxonomy: Recall			Objective: 27-17 Describe the emergency management of chemical, electrical, thermal, inhalation, and radiation burns.",
+NewQuestion,MC,
+Title,,
+QuestionText,"Functions of dressings and bandages include all of the following, except:",
+Points,1,
+Difficulty,1,
+Option,100,a) immobilization of the injury.
+Option,0,b) prevention of contamination.
+Option,0,c) protection from further injury.
+Option,0,d) control of external hemorrhage.
+Hint,"Complexity: Easy			Ahead: Dressing and Bandages			Subject:Soft-Tissue Injuries, Page 998			Title: Soft-Tissue Injuries			Feedback: See Dressing and Bandages			Taxonomy: Recall			Objective: 27-18 Know the functions of sterile dressings and bandages.",
+NewQuestion,MC,
+Title,,
+QuestionText,"You have applied a dressing and roller-gauze bandage to a laceration on the arm of a young female. During transport, she begins to complain of numbness and tingling in her hand. You should:",
+Points,1,
+Difficulty,1,
+Option,0,a) remove the bandage and dressing and apply another one.
+Option,0,b) carefully manipulate her arm until the symptoms subside.
+Option,100,c) assess distal circulation and readjust the bandage as needed.
+Option,0,d) remove the gauze bandage and replace it with an elastic one.
+Hint,"Complexity: Difficult			Complexity: Easy			Ahead: Dressing and Bandages			Subject:Soft-Tissue Injuries, Page 998			Title: Soft-Tissue Injuries			Feedback: See Dressing and Bandages			Taxonomy: Application			Objective: 27-18 Know the functions of sterile dressings and bandages.",

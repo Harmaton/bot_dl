@@ -1,0 +1,460 @@
+NewQuestion,MC,
+Title,,
+QuestionText,"In contrast to the assessment of a trauma patient, assessment of a medical patient:",
+Points,1,
+Difficulty,1,
+Option,0,a) almost exclusively focuses on physical signs that indicate the patient is experiencing a problem.
+Option,100,"b) is focused on the nature of illness, the patient’s chief complaint, and his or her symptoms."
+Option,0,c) requires a thorough head-to-toe exam that involves a detailed assessment of all body systems.
+Option,0,d) is not as complex for the EMT because most patients typically present with classic symptoms.
+Hint,"Complexity: Easy			Ahead: Patient Assessment			Subject:Medical Overview, Page 606			Title: Medical Overview			Feedback: See Patient Assessment			Taxonomy: Recall			Objective: 15-1 Differentiate between medical emergencies and trauma emergencies, remembering that some patients may have both.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following conditions is NOT categorized as a psychiatric condition?,
+Points,1,
+Difficulty,1,
+Option,0,a) Depression
+Option,0,b) Schizophrenia
+Option,100,c) Substance abuse
+Option,0,d) Alzheimer’s disease
+Hint,"Complexity: Moderate			Ahead: Types of Medical Emergencies			Subject:Medical Overview, Page 605			Title: Medical Overview			Feedback: See Types of Medical Emergencies			Taxonomy: Recall			Objective: 15-2 Name the various categories of common medical emergencies and provide examples.",
+NewQuestion,MC,
+Title,,
+QuestionText,The greatest danger in displaying a personal bias or “labeling” a patient who frequently calls EMS is:,
+Points,1,
+Difficulty,1,
+Option,100,a) overlooking a potentially serious medical condition.
+Option,0,b) making the entire EMS system look unprofessional.
+Option,0,c) demeaning or humiliating the patient and his or her family.
+Option,0,d) discouraging the patient from calling EMS in the future.
+Hint,"Complexity: Moderate			Ahead: Patient Assessment			Subject:Medical Overview, Page 606			Title: Medical Overview			Feedback: See Patient Assessment			Taxonomy: Recall			Objective: 15-4 Discuss the assessment of a patient with a medical emergency.",
+NewQuestion,MC,
+Title,,
+QuestionText,An index of suspicion is MOST accurately defined as:,
+Points,1,
+Difficulty,1,
+Option,0,a) the EMT’s prediction of the type of illness a patient has based on how the call is dispatched.
+Option,100,b) your awareness and concern for potentially serious underlying and unseen injuries or illness.
+Option,0,c) ruling out specific medical conditions based on the absence of certain signs and symptoms.
+Option,0,d) determining the underlying cause of a patient’s medical condition based on signs and symptoms.
+Hint,"Complexity: Easy			Ahead: Patient Assessment			Subject:Medical Overview, Page 607			Title: Medical Overview			Feedback: See Patient Assessment			Taxonomy: Recall			Objective: 15-4 Discuss the assessment of a patient with a medical emergency.",
+NewQuestion,MC,
+Title,,
+QuestionText,You and your EMT partner arrive at the residence of a 50-year-old man who complains of weakness. Your primary assessment reveals that he is critically ill and will require aggressive treatment. The closest hospital is 25 miles away. You should:,
+Points,1,
+Difficulty,1,
+Option,0,"a) perform a detailed secondary assessment, assess his vital signs, and then transport rapidly."
+Option,100,"b) manage all threats to airway, breathing, and circulation and consider requesting an ALS unit."
+Option,0,c) administer oxygen via nonrebreathing mask and obtain as much of his medical history as possible.
+Option,0,"d) load him into the ambulance, begin transport, and perform all treatment en route to the hospital."
+Hint,"Complexity: Difficult			Ahead: Management, Transport, and Destination			Subject:Medical Overview, Page 612			Title: Medical Overview			Feedback: See Management, Transport, and Destination			Taxonomy: Application			Objective: 15-5 Explain the importance of transport time and destination selection for a medical patient.",
+NewQuestion,MC,
+Title,,
+QuestionText,"When forming your general impression of a patient with a medical complaint, it is important to remember that:",
+Points,1,
+Difficulty,1,
+Option,0,a) the majority of medical patients you encounter are also injured.
+Option,0,b) it is during the general impression that assessment of the ABCs occurs.
+Option,0,c) most serious medical conditions do not present with obvious symptoms.
+Option,100,d) the conditions of many medical patients may not appear serious at first.
+Hint,"Complexity: Moderate			Ahead: Patient Assessment			Subject:Medical Overview, Page 607			Title: Medical Overview			Feedback: See Patient Assessment			Taxonomy: Recall			Objective: 15-4 Discuss the assessment of a patient with a medical emergency.",
+NewQuestion,MC,
+Title,,
+QuestionText,"Upon initial contact with a patient who appears to be unconscious, you should:",
+Points,1,
+Difficulty,1,
+Option,0,a) assess breathing depth and determine the respiratory rate.
+Option,0,b) squeeze the trapezius muscle to see if the patient responds.
+Option,100,c) attempt to elicit a verbal response by talking to the patient.
+Option,0,d) direct your partner to apply oxygen via nonrebreathing mask.
+Hint,"Complexity: Easy			Ahead: Patient Assessment			Subject:Medical Overview, Page 607			Title: Medical Overview			Feedback: See Patient Assessment			Taxonomy: Application			Objective: 15-4 Discuss the assessment of a patient with a medical emergency.",
+NewQuestion,MC,
+Title,,
+QuestionText,"Your primary assessment of an elderly woman reveals that she is conscious and alert, but is experiencing difficulty breathing. She has a history of emphysema, hypertension, and congestive heart failure. As you assess the patient’s circulatory status, you should direct your partner to:",
+Points,1,
+Difficulty,1,
+Option,0,a) perform a head-to-toe secondary assessment.
+Option,0,b) assess her oxygen saturation and blood pressure.
+Option,0,c) retrieve the stretcher and prepare for transport.
+Option,100,d) administer oxygen with the appropriate device.
+Hint,"Complexity: Moderate			Ahead: Patient Assessment			Subject:Medical Overview, Page 608			Title: Medical Overview			Feedback: See Patient Assessment			Taxonomy: Application			Objective: 15-4 Discuss the assessment of a patient with a medical emergency.",
+NewQuestion,MC,
+Title,,
+QuestionText,"In addition to looking for severe bleeding, assessment of circulation in the conscious patient should involve:",
+Points,1,
+Difficulty,1,
+Option,0,a) palpating the carotid pulse to determine the approximate rate and checking capillary refill time.
+Option,0,b) taking a blood pressure and determining if the patient is alert and oriented or confused.
+Option,0,c) applying a pulse oximeter probe to the finger to determine if peripheral perfusion is adequate.
+Option,100,"d) checking the radial pulse and noting the color, temperature, and condition of the skin."
+Hint,"Complexity: Moderate			Ahead: Patient Assessment			Subject:Medical Overview, Page 608			Title: Medical Overview			Feedback: See Patient Assessment			Taxonomy: Recall			Objective: 15-4 Discuss the assessment of a patient with a medical emergency.",
+NewQuestion,MC,
+Title,,
+QuestionText,"When assessing a patient with a medical complaint, which of the following would MOST likely reveal the cause of the problem?",
+Points,1,
+Difficulty,1,
+Option,100,a) Medical history
+Option,0,b) Index of suspicion
+Option,0,c) Baseline vital signs
+Option,0,d) Primary assessment
+Hint,"Complexity: Easy			Ahead: Patient Assessment			Subject:Medical Overview, Page 606			Title: Medical Overview			Feedback: See Patient Assessment			Taxonomy: Recall			Objective: 15-4 Discuss the assessment of a patient with a medical emergency.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following will MOST reliably allow you to determine the nature of a patient’s illness?,
+Points,1,
+Difficulty,1,
+Option,0,a) Trending of the patient’s vital signs over time
+Option,100,b) Asking questions related to the chief complaint
+Option,0,c) Refraining from asking open-ended questions
+Option,0,d) Focusing solely on how the call is dispatched
+Hint,"Complexity: Moderate			Ahead: Patient Assessment			Subject:Medical Overview, Page 608			Title: Medical Overview			Feedback: See Patient Assessment			Taxonomy: Recall			Objective: 15-4 Discuss the assessment of a patient with a medical emergency.",
+NewQuestion,MC,
+Title,,
+QuestionText,"A 58-year-old man complains of chest discomfort and nausea. He is conscious and alert; his blood pressure is 140/90 mm Hg, his pulse is 104 beats/min, and his respirations are 16 breaths/min. Your partner has applied supplemental oxygen. Prior to assisting the patient with one of his prescribed nitroglycerin tablets, you ask him if he takes medication to treat erectile dysfunction (ED), and he tells you that he does. You should:",
+Points,1,
+Difficulty,1,
+Option,0,a) avoid giving him nitroglycerin and transport him at once.
+Option,100,"b) ask him what he takes, how much, and when he last took it."
+Option,0,c) recall that erectile ED drugs can cause significant hypertension.
+Option,0,d) administer his nitroglycerin and then reassess his blood pressure.
+Hint,"Complexity: Moderate			Ahead: Patient Assessment			Subject:Medical Overview, Page 608			Title: Medical Overview			Feedback: See Patient Assessment			Taxonomy: Application			Objective: 15-4 Discuss the assessment of a patient with a medical emergency.",
+NewQuestion,MC,
+Title,,
+QuestionText,"When caring for a patient who takes numerous medications, it is best to:",
+Points,1,
+Difficulty,1,
+Option,0,"a) document the medications on your patient care report, but leave them at home so they do not get misplaced."
+Option,100,b) take all of the patient’s medications with you to the hospital and document them on your patient care report.
+Option,0,c) send the patient’s medications to the hospital with a family member or other person who will safeguard them.
+Option,0,"d) let the hospital staff retrieve the patient’s medical records, which should show a list of his or her current medications."
+Hint,"Complexity: Moderate			Ahead: Patient Assessment			Subject:Medical Overview, Page 609			Title: Medical Overview			Feedback: See Patient Assessment			Taxonomy: Recall			Objective: 15-4 Discuss the assessment of a patient with a medical emergency.",
+NewQuestion,MC,
+Title,,
+QuestionText,The secondary assessment of a medical patient:,
+Points,1,
+Difficulty,1,
+Option,0,a) should routinely include a comprehensive examination from head to toe.
+Option,0,"b) should be performed at the scene, especially if the patient is critically ill."
+Option,100,c) is not practical if the patient is critically ill or your transport time is short.
+Option,0,d) is typically limited to a focused exam for patients who are unconscious.
+Hint,"Complexity: Moderate			Ahead: Patient Assessment			Subject:Medical Overview, Page 609			Title: Medical Overview			Feedback: See Patient Assessment			Taxonomy: Recall			Objective: 15-4 Discuss the assessment of a patient with a medical emergency.",
+NewQuestion,MC,
+Title,,
+QuestionText,"You have just completed your primary assessment of a 48-year-old man with crushing chest pain and difficulty breathing. The patient has been given 324 mg of aspirin and is receiving supplemental oxygen. As you begin your secondary assessment, you note that his mental status has deteriorated and he is now bradycardic. You should:",
+Points,1,
+Difficulty,1,
+Option,0,a) continue with your secondary assessment.
+Option,100,b) prepare the patient for immediate transport.
+Option,0,c) insert a nasal airway and assist his breathing.
+Option,0,d) request an ALS unit to respond to the scene.
+Hint,"Complexity: Difficult			Ahead: Patient Assessment			Subject:Medical Overview, Page 608			Title: Medical Overview			Feedback: See Patient Assessment			Taxonomy: Application			Objective: 15-4 Discuss the assessment of a patient with a medical emergency.",
+NewQuestion,MC,
+Title,,
+QuestionText,"When performing a secondary assessment on a conscious patient with nontraumatic abdominal pain and stable vital signs, you should:",
+Points,1,
+Difficulty,1,
+Option,100,a) focus on his or her chief complaint.
+Option,0,b) examine the patient from head to toe.
+Option,0,c) prepare the patient for transport first.
+Option,0,d) only palpate tender areas of the abdomen.
+Hint,"Complexity: Moderate			Ahead: Patient Assessment			Subject:Medical Overview, Page 609			Title: Medical Overview			Feedback: See Patient Assessment			Taxonomy: Application			Objective: 15-4 Discuss the assessment of a patient with a medical emergency.",
+NewQuestion,MC,
+Title,,
+QuestionText,"It is especially important to assess pulse, sensation, and movement in all extremities as well as pupillary reactions in patients with a suspected ___________ problem.",
+Points,1,
+Difficulty,1,
+Option,0,a) cardiac
+Option,0,b) endocrine
+Option,0,c) respiratory
+Option,100,d) neurologic
+Hint,"Complexity: Easy			Ahead: Patient Assessment			Subject:Medical Overview, Page 609			Title: Medical Overview			Feedback: See Patient Assessment			Taxonomy: Recall			Objective: 15-4 Discuss the assessment of a patient with a medical emergency.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following assessment findings is MOST indicative of a cardiovascular problem?,
+Points,1,
+Difficulty,1,
+Option,0,a) Unequal breath sounds
+Option,100,b) Jugular venous distention
+Option,0,c) Use of the accessory muscles
+Option,0,d) Palpable pain to the epigastrium
+Hint,"Complexity: Moderate			Ahead: Patient Assessment			Subject:Medical Overview, Page 610			Title: Medical Overview			Feedback: See Patient Assessment			Taxonomy: Recall			Objective: 15-4 Discuss the assessment of a patient with a medical emergency.",
+NewQuestion,MC,
+Title,,
+QuestionText,Assessment of a patient’s blood pressure with an automatic BP cuff reveals that it is 204/120 mm Hg. The patient is conscious and alert and denies any symptoms. The EMT should:,
+Points,1,
+Difficulty,1,
+Option,100,a) obtain a manual blood pressure.
+Option,0,b) prepare for immediate transport.
+Option,0,c) conclude that she has hypertension.
+Option,0,d) reassess her blood pressure in 5 minutes.
+Hint,"Complexity: Moderate			Ahead: Patient Assessment			Subject:Medical Overview, Page 610			Title: Medical Overview			Feedback: See Patient Assessment			Taxonomy: Analysis			Objective: 15-4 Discuss the assessment of a patient with a medical emergency.",
+NewQuestion,MC,
+Title,,
+QuestionText,A sign of respiratory distress seen in the neck is:,
+Points,1,
+Difficulty,1,
+Option,0,a) muscular atrophy.
+Option,100,b) accessory muscle use.
+Option,0,c) muscular twitches.
+Option,0,d) muscular definition.
+Hint,"Complexity: Difficult			Ahead: Patient Assessment			Subject:Medical Overview, Page 610			Title: Medical Overview			Feedback: See Patient Assessment			Taxonomy: Analysis			Objective: 15-4 Discuss the assessment of a patient with a medical emergency.",
+NewQuestion,MC,
+Title,,
+QuestionText,Reassessment of a patient with a medical complaint should begin by:,
+Points,1,
+Difficulty,1,
+Option,0,a) reassessing the nature of illness.
+Option,0,b) taking another set of vital signs.
+Option,100,c) repeating the primary assessment.
+Option,0,d) reviewing all treatment performed.
+Hint,"Complexity: Easy			Ahead: Patient Assessment			Subject:Medical Overview, Page 611			Title: Medical Overview			Feedback: See Patient Assessment			Taxonomy: Recall			Objective: 15-4 Discuss the assessment of a patient with a medical emergency.",
+NewQuestion,MC,
+Title,,
+QuestionText,The primary prehospital treatment for most medical emergencies:,
+Points,1,
+Difficulty,1,
+Option,0,a) typically does not require the EMT to contact medical control.
+Option,0,b) focuses on definitive care because a diagnosis can usually be made.
+Option,100,c) addresses the patient’s symptoms more than the actual disease process.
+Option,0,d) involves transport only until treatment can be performed at the hospital.
+Hint,"Complexity: Easy			Ahead: Management, Transport, and Destination			Subject:Medical Overview, Page 611			Title: Medical Overview			Feedback: See Management, Transport, and Destination			Taxonomy: Recall			Objective: 15-5 Explain the importance of transport time and destination selection for a medical patient.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following medications would the EMT be LEAST likely to administer to a patient with a medical complaint?,
+Points,1,
+Difficulty,1,
+Option,0,a) Aspirin
+Option,100,b) Ibuprofen
+Option,0,c) Albuterol
+Option,0,d) Oral glucose
+Hint,"Complexity: Easy			Ahead: Management, Transport, and Destination			Subject:Medical Overview, Page 611			Title: Medical Overview			Feedback: See Management, Transport, and Destination			Taxonomy: Recall			Objective: 15-5 Explain the importance of transport time and destination selection for a medical patient.",
+NewQuestion,MC,
+Title,,
+QuestionText,"When caring for a patient with an altered mental status and signs of circulatory compromise, you should:",
+Points,1,
+Difficulty,1,
+Option,100,"a) limit your time at the scene to 10 minutes or less, if possible."
+Option,0,b) perform a detailed secondary assessment prior to transporting the patient.
+Option,0,c) transport immediately and begin all emergency treatment en route to the hospital.
+Option,0,d) have a paramedic unit respond to the scene if it is less than 15 minutes away.
+Hint,"Complexity: Moderate			Ahead: Management, Transport, and Destination			Subject:Medical Overview, Page 611			Title: Medical Overview			Feedback: See Management, Transport, and Destination			Taxonomy: Application			Objective: 15-5 Explain the importance of transport time and destination selection for a medical patient.",
+NewQuestion,MC,
+Title,,
+QuestionText,The determination of whether a medical patient is a high-priority or low-priority transport is typically made:,
+Points,1,
+Difficulty,1,
+Option,0,a) once the patient’s baseline vital signs are known.
+Option,100,b) after the primary assessment has been completed.
+Option,0,c) upon completion of a detailed secondary assessment.
+Option,0,d) as soon as the patient voices his or her chief complaint.
+Hint,"Complexity: Moderate			Ahead: Management, Transport, and Destination			Subject:Medical Overview, Page 612			Title: Medical Overview			Feedback: See Management, Transport, and Destination			Taxonomy: Recall			Objective: 15-5 Explain the importance of transport time and destination selection for a medical patient.",
+NewQuestion,MC,
+Title,,
+QuestionText,In which of the following situations would it be MOST appropriate to utilize an air medical transportation service?,
+Points,1,
+Difficulty,1,
+Option,0,"a) 29-year-old woman who is 18 weeks pregnant, has light vaginal bleeding, and has stable vital signs"
+Option,0,"b) 43-year-old man experiencing a heart attack, and the closest appropriate hospital is 15 minutes away"
+Option,0,"c) 50-year-old conscious woman with severe nausea and vomiting, fever, and chills of 3 days’ duration"
+Option,100,d) 61-year-old man with signs and symptoms of a stroke and your ground transport time is 50 minutes
+Hint,"Complexity: Moderate			Ahead: Management, Transport, and Destination			Subject:Medical Overview, Page 612			Title: Medical Overview			Feedback: See Management, Transport, and Destination			Taxonomy: Application			Objective: 15-5 Explain the importance of transport time and destination selection for a medical patient.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following conditions often requires transport to a hospital with specialized capabilities that may not be available at the closest hospital?,
+Points,1,
+Difficulty,1,
+Option,0,a) Seizures and infection
+Option,0,b) Cardiac arrest and shock
+Option,100,c) Stroke and heart attack
+Option,0,d) Diabetes and migraines
+Hint,"Complexity: Moderate			Ahead: Management, Transport, and Destination			Subject:Medical Overview, Page 612			Title: Medical Overview			Feedback: See Management, Transport, and Destination			Taxonomy: Recall			Objective: 15-5 Explain the importance of transport time and destination selection for a medical patient.",
+NewQuestion,MC,
+Title,,
+QuestionText,"After sizing up the scene of a patient with a possible infectious disease, your next priority should be to:",
+Points,1,
+Difficulty,1,
+Option,0,a) contact medical control.
+Option,100,b) take standard precautions.
+Option,0,c) quickly access the patient.
+Option,0,d) notify law enforcement.
+Hint,"Complexity: Easy			Ahead: Infectious Diseases			Subject:Medical Overview, Page 613			Title: Medical Overview			Feedback: See Infectious Diseases			Taxonomy: Recall			Objective: 15-6 Define infectious disease and communicable disease.",
+NewQuestion,MC,
+Title,,
+QuestionText,Typical chief complaints in patients with an infectious disease include:,
+Points,1,
+Difficulty,1,
+Option,100,"a) fever, rash, nausea, and difficulty breathing."
+Option,0,"b) crushing chest pain, vomiting, and weakness."
+Option,0,"c) headache, low back pain, and arm numbness."
+Option,0,"d) joint pain, muscle aches, and blurred vision."
+Hint,"Complexity: Moderate			Ahead: Infectious Diseases			Subject:Medical Overview, Page 613			Title: Medical Overview			Feedback: See Infectious Diseases			Taxonomy: Recall			Objective: 15-6 Define infectious disease and communicable disease.",
+NewQuestion,MC,
+Title,,
+QuestionText,"In addition to obtaining a SAMPLE history and asking questions related to the chief complaint, what else should you specifically inquire about when assessing a patient with a potentially infectious disease?",
+Points,1,
+Difficulty,1,
+Option,100,a) Recent travel
+Option,0,b) HIV status
+Option,0,c) Sexual practices
+Option,0,d) Drug allergies
+Hint,"Complexity: Easy			Ahead: Infectious Diseases			Subject:Medical Overview, Page 613			Title: Medical Overview			Feedback: See Infectious Diseases			Taxonomy: Recall			Objective: 15-6 Define infectious disease and communicable disease.",
+NewQuestion,MC,
+Title,,
+QuestionText,An infectious disease is MOST accurately defined as:,
+Points,1,
+Difficulty,1,
+Option,0,a) any disease that enters the body via the bloodstream and renders the immune system nonfunctional.
+Option,0,b) the invasion of the human body by a bacterium that cannot be destroyed by antibiotics or other drugs.
+Option,0,c) a disease that can be spread from one person or species to another through a number of mechanisms.
+Option,100,"d) a medical condition caused by the growth and spread of small, harmful organisms within the body."
+Hint,"Complexity: Moderate			Ahead: Infectious Diseases			Subject:Medical Overview, Page 613			Title: Medical Overview			Feedback: See Infectious Diseases			Taxonomy: Recall			Objective: 15-6 Define infectious disease and communicable disease.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following statements regarding the human immunodeficiency virus (HIV) is correct?,
+Points,1,
+Difficulty,1,
+Option,0,a) HIV is far more contagious than hepatitis B and is easily transmitted in the health care setting.
+Option,0,"b) The risk of HIV infection is high, even if an infected person’s blood comes in contact with your intact skin."
+Option,100,c) The risk of HIV infection is greatest when deposited on a mucous membrane or directly into the bloodstream.
+Option,0,d) Most patients who are infected with HIV experience chronic symptoms that vary in duration and severity.
+Hint,"Complexity: Moderate			Ahead: Common or Serious Communicable Diseases			Subject:Medical Overview, Page 614			Title: Medical Overview			Feedback: See Common or Serious Communicable Diseases			Taxonomy: Recall			Objective: 15-7 Discuss diseases of special concern and their routes of transmission, including influenza, herpes simplex, human immunodeficiency virus (HIV)/acquired immunodeficiency syndrome (AIDS), hepatitis, meningitis, tuberculosis, whooping cough, methicillin-resistant Staphylococcus aureus (MRSA), Middle East respiratory syndrome coronavirus (MERS-CoV), 2019 novel coronavirus (2019-nCoV), and Ebola.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following patients is at greatest risk for complications caused by the influenza virus?,
+Points,1,
+Difficulty,1,
+Option,0,a) 12-year-old child with a fractured arm
+Option,100,b) 68-year-old woman with type 2 diabetes
+Option,0,c) 39-year-old man with mild hypertension
+Option,0,d) 50-year-old woman with moderate obesity
+Hint,"Complexity: Moderate			Ahead: Common or Serious Communicable Diseases			Subject:Medical Overview, Page 614			Title: Medical Overview			Feedback: See Common or Serious Communicable Diseases			Taxonomy: Analysis			Objective: 15-7 Discuss diseases of special concern and their routes of transmission, including influenza, herpes simplex, human immunodeficiency virus (HIV)/acquired immunodeficiency syndrome (AIDS), hepatitis, meningitis, tuberculosis, whooping cough, methicillin-resistant Staphylococcus aureus (MRSA), Middle East respiratory syndrome coronavirus (MERS-CoV), 2019 novel coronavirus (2019-nCoV), and Ebola.",
+NewQuestion,MC,
+Title,,
+QuestionText,"Early signs and symptoms of viral hepatitis include all of the following, EXCEPT:",
+Points,1,
+Difficulty,1,
+Option,0,a) loss of appetite and a cough.
+Option,0,"b) vomiting, fever, and fatigue."
+Option,0,c) pain in the muscles and joints.
+Option,100,d) jaundice and abdominal pain.
+Hint,"Complexity: Moderate			Ahead: Common or Serious Communicable Diseases			Subject:Medical Overview, Page 615			Title: Medical Overview			Feedback: See Common or Serious Communicable Diseases			Taxonomy: Recall			Objective: 15-7 Discuss diseases of special concern and their routes of transmission, including influenza, herpes simplex, human immunodeficiency virus (HIV)/acquired immunodeficiency syndrome (AIDS), hepatitis, meningitis, tuberculosis, whooping cough, methicillin-resistant Staphylococcus aureus (MRSA), Middle East respiratory syndrome coronavirus (MERS-CoV), 2019 novel coronavirus (2019-nCoV), and Ebola.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following statements regarding hepatitis A is correct?,
+Points,1,
+Difficulty,1,
+Option,100,a) Hepatitis A can only be transmitted by a patient who has an acute infection.
+Option,0,b) Infection with hepatitis A causes chronic illness with a high mortality rate.
+Option,0,c) Hepatitis A is primarily transmitted via contact with blood or other body fluids.
+Option,0,"d) Although there is no vaccine against hepatitis A, treatment is usually successful."
+Hint,"Complexity: Moderate			Ahead: Common or Serious Communicable Diseases			Subject:Medical Overview, Page 615			Title: Medical Overview			Feedback: See Common or Serious Communicable Diseases			Taxonomy: Recall			Objective: 15-7 Discuss diseases of special concern and their routes of transmission, including influenza, herpes simplex, human immunodeficiency virus (HIV)/acquired immunodeficiency syndrome (AIDS), hepatitis, meningitis, tuberculosis, whooping cough, methicillin-resistant Staphylococcus aureus (MRSA), Middle East respiratory syndrome coronavirus (MERS-CoV), 2019 novel coronavirus (2019-nCoV), and Ebola.",
+NewQuestion,MC,
+Title,,
+QuestionText,"Hepatitis B is more virulent than hepatitis C, which means that it:",
+Points,1,
+Difficulty,1,
+Option,0,a) is less resistant to treatment.
+Option,0,b) is a more contagious type of disease.
+Option,100,c) has a greater ability to produce disease.
+Option,0,d) leads to chronic infection after exposure.
+Hint,"Complexity: Easy			Ahead: Common or Serious Communicable Diseases			Subject:Medical Overview, Page 615			Title: Medical Overview			Feedback: See Common or Serious Communicable Diseases			Taxonomy: Recall			Objective: 15-7 Discuss diseases of special concern and their routes of transmission, including influenza, herpes simplex, human immunodeficiency virus (HIV)/acquired immunodeficiency syndrome (AIDS), hepatitis, meningitis, tuberculosis, whooping cough, methicillin-resistant Staphylococcus aureus (MRSA), Middle East respiratory syndrome coronavirus (MERS-CoV), 2019 novel coronavirus (2019-nCoV), and Ebola.",
+NewQuestion,MC,
+Title,,
+QuestionText,"A patient who presents with a headache, fever, confusion, and red blotches on his or her skin should be suspected of having:",
+Points,1,
+Difficulty,1,
+Option,0,a) hepatitis.
+Option,100,b) meningitis.
+Option,0,c) MERS-CoV.
+Option,0,d) tuberculosis.
+Hint,"Complexity: Easy			Ahead: Common or Serious Communicable Diseases			Subject:Medical Overview, Page 618			Title: Medical Overview			Feedback: See Common or Serious Communicable Diseases			Taxonomy: Analysis			Objective: 15-7 Discuss diseases of special concern and their routes of transmission, including influenza, herpes simplex, human immunodeficiency virus (HIV)/acquired immunodeficiency syndrome (AIDS), hepatitis, meningitis, tuberculosis, whooping cough, methicillin-resistant Staphylococcus aureus (MRSA), Middle East respiratory syndrome coronavirus (MERS-CoV), 2019 novel coronavirus (2019-nCoV), and Ebola.",
+NewQuestion,MC,
+Title,,
+QuestionText,Patients with tuberculosis pose the greatest risk for transmitting the disease when they:,
+Points,1,
+Difficulty,1,
+Option,100,a) cough.
+Option,0,b) vomit.
+Option,0,c) are bleeding.
+Option,0,d) have a fever.
+Hint,"Complexity: Easy			Ahead: Common or Serious Communicable Diseases			Subject:Medical Overview, Page 618			Title: Medical Overview			Feedback: See Common or Serious Communicable Diseases			Taxonomy: Recall			Objective: 15-7 Discuss diseases of special concern and their routes of transmission, including influenza, herpes simplex, human immunodeficiency virus (HIV)/acquired immunodeficiency syndrome (AIDS), hepatitis, meningitis, tuberculosis, whooping cough, methicillin-resistant Staphylococcus aureus (MRSA), Middle East respiratory syndrome coronavirus (MERS-CoV), 2019 novel coronavirus (2019-nCoV), and Ebola.",
+NewQuestion,MC,
+Title,,
+QuestionText,"In contrast to viral hepatitis, toxin-induced hepatitis:",
+Points,1,
+Difficulty,1,
+Option,100,a) is not a communicable disease.
+Option,0,b) typically does not cause yellow skin.
+Option,0,c) is a far more transmittable disease.
+Option,0,d) can be prevented with a vaccination.
+Hint,"Complexity: Easy			Ahead: Common or Serious Communicable Diseases			Subject:Medical Overview, Page 617			Title: Medical Overview			Feedback: See Common or Serious Communicable Diseases			Taxonomy: Recall			Objective: 15-7 Discuss diseases of special concern and their routes of transmission, including influenza, herpes simplex, human immunodeficiency virus (HIV)/acquired immunodeficiency syndrome (AIDS), hepatitis, meningitis, tuberculosis, whooping cough, methicillin-resistant Staphylococcus aureus (MRSA), Middle East respiratory syndrome coronavirus (MERS-CoV), 2019 novel coronavirus (2019-nCoV), and Ebola.",
+NewQuestion,MC,
+Title,,
+QuestionText,"Ten days after treating a 34-year-old patient with tuberculosis, you are given a tuberculin skin test, which yields a positive result. This MOST likely indicates that:",
+Points,1,
+Difficulty,1,
+Option,0,a) you are actively infected with tuberculosis and should be treated immediately.
+Option,0,"b) the disease is dormant in your body, but will probably never cause symptoms."
+Option,0,c) you contracted the disease by casual contact instead of exposure to secretions.
+Option,100,d) you were exposed to another infected person prior to treating the 34-year-old patient.
+Hint,"Complexity: Difficult			Ahead: Common or Serious Communicable Diseases			Subject:Medical Overview, Page 618			Title: Medical Overview			Feedback: See Common or Serious Communicable Diseases			Taxonomy: Analysis			Objective: 15-7 Discuss diseases of special concern and their routes of transmission, including influenza, herpes simplex, human immunodeficiency virus (HIV)/acquired immunodeficiency syndrome (AIDS), hepatitis, meningitis, tuberculosis, whooping cough, methicillin-resistant Staphylococcus aureus (MRSA), Middle East respiratory syndrome coronavirus (MERS-CoV), 2019 novel coronavirus (2019-nCoV), and Ebola.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following statements regarding methicillin-resistant Staphylococcus aureus (MRSA) is correct?,
+Points,1,
+Difficulty,1,
+Option,0,a) Most cases of MRSA transmission occur following an accidental needlestick.
+Option,100,b) MRSA is a bacterium that causes infections and is resistant to most antibiotics.
+Option,0,c) The communicable period for MRSA is 10 days to 2 weeks after being infected.
+Option,0,d) Studies have shown that fewer than 1% of health care providers are MRSA carriers.
+Hint,"Complexity: Moderate			Ahead: Common or Serious Communicable Diseases			Subject:Medical Overview, Page 619			Title: Medical Overview			Feedback: See Common or Serious Communicable Diseases			Taxonomy: Recall			Objective: 15-7 Discuss diseases of special concern and their routes of transmission, including influenza, herpes simplex, human immunodeficiency virus (HIV)/acquired immunodeficiency syndrome (AIDS), hepatitis, meningitis, tuberculosis, whooping cough, methicillin-resistant Staphylococcus aureus (MRSA), Middle East respiratory syndrome coronavirus (MERS-CoV), 2019 novel coronavirus (2019-nCoV), and Ebola.",
+NewQuestion,MC,
+Title,,
+QuestionText,Factors that increase the risk for developing methicillin-resistant Staphylococcus aureus (MRSA) include:,
+Points,1,
+Difficulty,1,
+Option,0,a) prior exposure to Mycobacterium tuberculosis.
+Option,0,b) failure to be vaccinated against any strain of hepatitis.
+Option,0,c) a history of a respiratory illness within the past 6 to 8 weeks.
+Option,100,"d) prolonged hospitalization, especially in an intensive care unit."
+Hint,"Complexity: Moderate			Ahead: Common or Serious Communicable Diseases			Subject:Medical Overview, Page 619			Title: Medical Overview			Feedback: See Common or Serious Communicable Diseases			Taxonomy: Recall			Objective: 15-7 Discuss diseases of special concern and their routes of transmission, including influenza, herpes simplex, human immunodeficiency virus (HIV)/acquired immunodeficiency syndrome (AIDS), hepatitis, meningitis, tuberculosis, whooping cough, methicillin-resistant Staphylococcus aureus (MRSA), Middle East respiratory syndrome coronavirus (MERS-CoV), 2019 novel coronavirus (2019-nCoV), and Ebola.",
+NewQuestion,MC,
+Title,,
+QuestionText,"Your patient’s symptoms include high fever, cough, vomiting, bloody diarrhea, and shortness of breath. Which of the following should you suspect?",
+Points,1,
+Difficulty,1,
+Option,0,a) Influenza
+Option,0,b) Hepatitis B
+Option,100,c) MERS-CoV
+Option,0,d) Whooping cough
+Hint,"Complexity: Moderate			Ahead: Common or Serious Communicable Diseases			Subject:Medical Overview, Page 620			Title: Medical Overview			Feedback: See Common or Serious Communicable Diseases			Taxonomy: Analysis			Objective: 15-7 Discuss diseases of special concern and their routes of transmission, including influenza, herpes simplex, human immunodeficiency virus (HIV)/acquired immunodeficiency syndrome (AIDS), hepatitis, meningitis, tuberculosis, whooping cough, methicillin-resistant Staphylococcus aureus (MRSA), Middle East respiratory syndrome coronavirus (MERS-CoV), 2019 novel coronavirus (2019-nCoV), and Ebola.",
+NewQuestion,MC,
+Title,,
+QuestionText,"Three months after returning home from West Africa, a 50-year-old man begins experiencing a fever, cough, and muscle aches. The EMT should suspect:",
+Points,1,
+Difficulty,1,
+Option,0,a) Ebola.
+Option,0,b) hepatitis.
+Option,100,c) influenza.
+Option,0,d) whooping cough.
+Hint,"Complexity: Difficult			Ahead: Common or Serious Communicable Diseases			Subject:Medical Overview, Page 614			Title: Medical Overview			Feedback: See Common or Serious Communicable Diseases			Taxonomy: Analysis			Objective: 15-7 Discuss diseases of special concern and their routes of transmission, including influenza, herpes simplex, human immunodeficiency virus (HIV)/acquired immunodeficiency syndrome (AIDS), hepatitis, meningitis, tuberculosis, whooping cough, methicillin-resistant Staphylococcus aureus (MRSA), Middle East respiratory syndrome coronavirus (MERS-CoV), 2019 novel coronavirus (2019-nCoV), and Ebola.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following questions would be the MOST pertinent to ask a patient who recently returned from Europe and is now ill?,
+Points,1,
+Difficulty,1,
+Option,0,a) What was the purpose of your travel?
+Option,100,b) Is anyone else in your travel party sick?
+Option,0,c) Will you be traveling again in the future?
+Option,0,d) How much time did you spend in Europe?
+Hint,"Complexity: Easy			Ahead: Common or Serious Communicable Diseases			Subject:Medical Overview, Page 620			Title: Medical Overview			Feedback: See Common or Serious Communicable Diseases			Taxonomy: Recall			Objective: 15-7 Discuss diseases of special concern and their routes of transmission, including influenza, herpes simplex, human immunodeficiency virus (HIV)/acquired immunodeficiency syndrome (AIDS), hepatitis, meningitis, tuberculosis, whooping cough, methicillin-resistant Staphylococcus aureus (MRSA), Middle East respiratory syndrome coronavirus (MERS-CoV), 2019 novel coronavirus (2019-nCoV), and Ebola.",
+NewQuestion,MC,
+Title,,
+QuestionText,The BEST way to prevent infection from whooping cough is to:,
+Points,1,
+Difficulty,1,
+Option,0,a) ask all patients if they have recently traveled abroad.
+Option,100,"b) get vaccinated against diphtheria, tetanus, and pertussis."
+Option,0,c) wear a HEPA mask when treating any respiratory patient.
+Option,0,d) routinely place a surgical mask on all respiratory patients.
+Hint,"Complexity: Easy			Ahead: Common or Serious Communicable Diseases			Subject:Medical Overview, Page 619			Title: Medical Overview			Feedback: See Common or Serious Communicable Diseases			Taxonomy: Recall			Objective: 15-7 Discuss diseases of special concern and their routes of transmission, including influenza, herpes simplex, human immunodeficiency virus (HIV)/acquired immunodeficiency syndrome (AIDS), hepatitis, meningitis, tuberculosis, whooping cough, methicillin-resistant Staphylococcus aureus (MRSA), Middle East respiratory syndrome coronavirus (MERS-CoV), 2019 novel coronavirus (2019-nCoV), and Ebola.",

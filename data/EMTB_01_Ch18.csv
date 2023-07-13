@@ -1,0 +1,560 @@
+NewQuestion,MC,
+Title,,
+QuestionText,The three major parts of the brain are the:,
+Points,1,
+Difficulty,1,
+Option,0,"a) cerebellum, medulla, and occiput."
+Option,0,"b) brain stem, midbrain, and spinal cord."
+Option,0,"c) midbrain, cerebellum, and spinal cord."
+Option,100,"d) cerebrum, cerebellum, and brain stem."
+Hint,"Complexity: Easy			Ahead: Anatomy and Physiology			Subject:Neurologic Emergencies, Page 725			Title: Neurologic Emergencies			Feedback: See Anatomy and Physiology			Taxonomy: Recall			Objective: 18-1 Describe the anatomy, physiology, and functions of the brain and spinal cord.",
+NewQuestion,MC,
+Title,,
+QuestionText,"The most basic functions of the body, such as breathing, blood pressure, and swallowing, are controlled by the:",
+Points,1,
+Difficulty,1,
+Option,100,a) brain stem.
+Option,0,b) cerebrum.
+Option,0,c) cerebellum.
+Option,0,d) cerebral cortex.
+Hint,"Complexity: Easy			Ahead: Anatomy and Physiology			Subject:Neurologic Emergencies, Page 725			Title: Neurologic Emergencies			Feedback: See Anatomy and Physiology			Taxonomy: Recall			Objective: 18-1 Describe the anatomy, physiology, and functions of the brain and spinal cord.",
+NewQuestion,MC,
+Title,,
+QuestionText,Muscle control and body coordination are controlled by the:,
+Points,1,
+Difficulty,1,
+Option,0,a) cerebrum.
+Option,100,b) cerebellum.
+Option,0,c) brain stem.
+Option,0,d) cerebral cortex.
+Hint,"Complexity: Easy			Ahead: Anatomy and Physiology			Subject:Neurologic Emergencies, Page 725			Title: Neurologic Emergencies			Feedback: See Anatomy and Physiology			Taxonomy: Recall			Objective: 18-1 Describe the anatomy, physiology, and functions of the brain and spinal cord.",
+NewQuestion,MC,
+Title,,
+QuestionText,The left cerebral hemisphere controls:,
+Points,1,
+Difficulty,1,
+Option,0,a) the right side of the face.
+Option,0,b) heart rate and pupil reaction.
+Option,100,c) the right side of the body.
+Option,0,d) breathing and blood pressure.
+Hint,"Complexity: Moderate			Ahead: Anatomy and Physiology			Subject:Neurologic Emergencies, Page 725			Title: Neurologic Emergencies			Feedback: See Anatomy and Physiology			Taxonomy: Recall			Objective: 18-1 Describe the anatomy, physiology, and functions of the brain and spinal cord.",
+NewQuestion,MC,
+Title,,
+QuestionText,The frontal lobe of the brain controls:,
+Points,1,
+Difficulty,1,
+Option,0,a) touch.
+Option,100,b) emotion.
+Option,0,c) movement.
+Option,0,d) vision.
+Hint,"Complexity: Moderate			Ahead: Anatomy and Physiology			Subject:Neurologic Emergencies, Page 725			Title: Neurologic Emergencies			Feedback: See Anatomy and Physiology			Taxonomy: Recall			Objective: 18-1 Describe the anatomy, physiology, and functions of the brain and spinal cord.",
+NewQuestion,MC,
+Title,,
+QuestionText,The spinal cord exits the cranium through the:,
+Points,1,
+Difficulty,1,
+Option,100,a) foramen magnum.
+Option,0,b) vertebral foramen.
+Option,0,c) foramen lamina.
+Option,0,d) cauda equina.
+Hint,"Complexity: Easy			Ahead: Anatomy and Physiology			Subject:Neurologic Emergencies, Page 725			Title: Neurologic Emergencies			Feedback: See Anatomy and Physiology			Taxonomy: Recall			Objective: 18-1 Describe the anatomy, physiology, and functions of the brain and spinal cord.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following conditions would MOST likely affect the entire brain?,
+Points,1,
+Difficulty,1,
+Option,0,a) Blocked cerebral artery in the frontal lobe
+Option,0,b) Reduced blood supply to the left hemisphere
+Option,0,c) Ruptured cerebral artery in the occipital lobe
+Option,100,d) Respiratory failure or cardiopulmonary arrest
+Hint,"Complexity: Moderate			Ahead: Pathophysiology			Subject:Neurologic Emergencies, Page 725			Title: Neurologic Emergencies			Feedback: See Pathophysiology			Taxonomy: Analysis			Objective: 18-3 Explain the various ways blood flow to the brain may be interrupted and cause a cerebrovascular accident.",
+NewQuestion,MC,
+Title,,
+QuestionText,"Interruption of cerebral blood flow may result from all of the following, EXCEPT:",
+Points,1,
+Difficulty,1,
+Option,0,a) a thrombus.
+Option,0,b) an embolism.
+Option,100,c) cerebral vasodilation.
+Option,0,d) an acute arterial rupture.
+Hint,"Complexity: Difficult			Ahead: Pathophysiology			Subject:Neurologic Emergencies, Page 727			Title: Neurologic Emergencies			Feedback: See Pathophysiology			Taxonomy: Recall			Objective: 18-3 Explain the various ways blood flow to the brain may be interrupted and cause a cerebrovascular accident.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following MOST accurately describes the cause of an ischemic stroke?,
+Points,1,
+Difficulty,1,
+Option,100,a) Blockage of a cerebral artery
+Option,0,b) Acute atherosclerotic disease
+Option,0,c) Rupture of a cerebral artery
+Option,0,d) Narrowing of a carotid artery
+Hint,"Complexity: Easy			Ahead: Pathophysiology			Subject:Neurologic Emergencies, Page 728			Title: Neurologic Emergencies			Feedback: See Pathophysiology			Taxonomy: Analysis			Objective: 18-4 Discuss the causes, similarities, and differences of an ischemic stroke, hemorrhagic stroke, and transient ischemic attack.",
+NewQuestion,MC,
+Title,,
+QuestionText,"You are assessing a 49-year-old man who, according to his wife, experienced a sudden, severe headache and then passed out. He is unresponsive and has slow, irregular breathing. His blood pressure is 190/94 mm Hg, and his pulse rate is 50 beats/min. His wife tells you that he has hypertension and diabetes. He has MOST likely experienced:",
+Points,1,
+Difficulty,1,
+Option,0,a) acute hypoglycemia.
+Option,100,b) a ruptured cerebral artery.
+Option,0,c) a complex partial seizure.
+Option,0,d) an occluded cerebral artery.
+Hint,"Complexity: Difficult			Ahead: Headache			Subject:Neurologic Emergencies, Page 726			Title: Neurologic Emergencies			Feedback: See Headache			Taxonomy: Application			Objective: 18-4 Discuss the causes, similarities, and differences of an ischemic stroke, hemorrhagic stroke, and transient ischemic attack.",
+NewQuestion,MC,
+Title,,
+QuestionText,The MOST significant risk factor for a hemorrhagic stroke is:,
+Points,1,
+Difficulty,1,
+Option,0,a) severe stress.
+Option,100,b) hypertension.
+Option,0,c) heavy exertion.
+Option,0,d) diabetes mellitus.
+Hint,"Complexity: Easy			Ahead: Stroke			Subject:Neurologic Emergencies, Page 729			Title: Neurologic Emergencies			Feedback: See Stroke			Taxonomy: Recall			Objective: 18-4 Discuss the causes, similarities, and differences of an ischemic stroke, hemorrhagic stroke, and transient ischemic attack.",
+NewQuestion,MC,
+Title,,
+QuestionText,An area of swelling or enlargement in a weakened arterial wall is called:,
+Points,1,
+Difficulty,1,
+Option,0,a) a thrombus.
+Option,100,b) an aneurysm.
+Option,0,c) an embolism.
+Option,0,d) atherosclerosis.
+Hint,"Complexity: Moderate			Ahead: Stroke			Subject:Neurologic Emergencies, Page 729			Title: Neurologic Emergencies			Feedback: See Stroke			Taxonomy: Recall			Objective: 18-4 Discuss the causes, similarities, and differences of an ischemic stroke, hemorrhagic stroke, and transient ischemic attack.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following clinical signs is MOST suggestive of a ruptured aneurysm?,
+Points,1,
+Difficulty,1,
+Option,0,a) Unilateral hemiparesis
+Option,0,b) Confusion and weakness
+Option,0,c) Nasal discharge of blood
+Option,100,"d) Sudden, severe headache"
+Hint,"Complexity: Easy			Ahead: Stroke			Subject:Neurologic Emergencies, Page 729			Title: Neurologic Emergencies			Feedback: See Stroke			Taxonomy: Recall			Objective: 18-4 Discuss the causes, similarities, and differences of an ischemic stroke, hemorrhagic stroke, and transient ischemic attack.",
+NewQuestion,MC,
+Title,,
+QuestionText,A transient ischemic attack (TIA) occurs when:,
+Points,1,
+Difficulty,1,
+Option,0,a) medications are given to dissolve a cerebral blood clot.
+Option,0,b) a small cerebral artery ruptures and causes minimal damage.
+Option,100,c) a small clot in a cerebral artery causes temporary symptoms.
+Option,0,d) signs and symptoms resolve spontaneously within 48 hours.
+Hint,"Complexity: Moderate			Ahead: Stroke			Subject:Neurologic Emergencies, Page 730			Title: Neurologic Emergencies			Feedback: See Stroke			Taxonomy: Recall			Objective: 18-4 Discuss the causes, similarities, and differences of an ischemic stroke, hemorrhagic stroke, and transient ischemic attack.",
+NewQuestion,MC,
+Title,,
+QuestionText,A patient who is experiencing aphasia is:,
+Points,1,
+Difficulty,1,
+Option,0,a) not able to swallow without choking.
+Option,0,b) experiencing a right hemispheric stroke.
+Option,100,c) unable to produce or understand speech.
+Option,0,d) usually conscious but has slurred speech.
+Hint,"Complexity: Easy			Ahead: Stroke			Subject:Neurologic Emergencies, Page 730			Title: Neurologic Emergencies			Feedback: See Stroke			Taxonomy: Recall			Objective: 18-5 List the general signs and symptoms of stroke and how those symptoms manifest if the left hemisphere of the brain is affected and if the right hemisphere of the brain is affected.",
+NewQuestion,MC,
+Title,,
+QuestionText,A patient whose speech is slurred and difficult to understand is experiencing:,
+Points,1,
+Difficulty,1,
+Option,0,a) aphasia.
+Option,100,b) dysarthria.
+Option,0,c) dysphasia.
+Option,0,d) dysphagia.
+Hint,"Complexity: Moderate			Ahead: Stroke			Subject:Neurologic Emergencies, Page 730			Title: Neurologic Emergencies			Feedback: See Stroke			Taxonomy: Recall			Objective: 18-5 List the general signs and symptoms of stroke and how those symptoms manifest if the left hemisphere of the brain is affected and if the right hemisphere of the brain is affected.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following conditions would be the LEAST likely to mimic the signs and symptoms of a stroke?,
+Points,1,
+Difficulty,1,
+Option,0,a) Hypoglycemia
+Option,100,b) Hypovolemia
+Option,0,c) A postictal state
+Option,0,d) Intracranial bleeding
+Hint,"Complexity: Moderate			Ahead: Stroke			Subject:Neurologic Emergencies, Page 731			Title: Neurologic Emergencies			Feedback: See Stroke			Taxonomy: Recall			Objective: 18-6 List three conditions with symptoms that mimic stroke and the assessment techniques EMTs may use to identify them.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following findings should concern the EMT the MOST when assessing a patient who complains of a headache?,
+Points,1,
+Difficulty,1,
+Option,0,a) Sinus congestion
+Option,100,b) Neck stiffness or pain
+Option,0,c) History of migraines
+Option,0,d) Slow onset of symptoms
+Hint,"Complexity: Easy			Ahead: Headache			Subject:Neurologic Emergencies, Page 726			Title: Neurologic Emergencies			Feedback: See Headache			Taxonomy: Application			Objective: 18-2 Discuss the different types of headaches, the possible causes of each, and how to distinguish a harmless headache from a potentially life-threatening condition.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following symptoms would lead the EMT to believe that a patient’s headache is caused by sinus congestion?,
+Points,1,
+Difficulty,1,
+Option,0,a) The headache began suddenly.
+Option,0,b) There is associated neck stiffness.
+Option,0,c) There is numbness in the extremities.
+Option,100,d) The pain is worse when bending over.
+Hint,"Complexity: Moderate			Ahead: Headache			Subject:Neurologic Emergencies, Page 726			Title: Neurologic Emergencies			Feedback: See Headache			Taxonomy: Recall			Objective: 18-2 Discuss the different types of headaches, the possible causes of each, and how to distinguish a harmless headache from a potentially life-threatening condition.",
+NewQuestion,MC,
+Title,,
+QuestionText,A generalized (tonic-clonic) seizure is characterized by:,
+Points,1,
+Difficulty,1,
+Option,100,a) severe twitching of all the body’s muscles.
+Option,0,b) a blank stare and brief lapse of consciousness.
+Option,0,c) unconsciousness for greater than 30 minutes.
+Option,0,d) a core body temperature of greater than 103°F (40°C).
+Hint,"Complexity: Moderate			Ahead: Seizures			Subject:Neurologic Emergencies, Page 732			Title: Neurologic Emergencies			Feedback: See Seizures			Taxonomy: Recall			Objective: 18-7 Define a general seizure, focal-onset seizure, and status epilepticus; include how they differ from each other and their effects on patients.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following is characteristic of a focal-onset aware seizure?,
+Points,1,
+Difficulty,1,
+Option,0,a) Absence of breathing
+Option,100,b) Normal level of consciousness
+Option,0,"c) No change in vision, smell, or taste"
+Option,0,d) Generalized twitching of all muscles
+Hint,"Complexity: Easy			Ahead: Seizures			Subject:Neurologic Emergencies, Page 732			Title: Neurologic Emergencies			Feedback: See Seizures			Taxonomy: Recall			Objective: 18-7 Define a general seizure, focal-onset seizure, and status epilepticus; include how they differ from each other and their effects on patients.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following MOST accurately describes a focal-onset aware seizure?,
+Points,1,
+Difficulty,1,
+Option,100,a) A seizure that begins in one extremity
+Option,0,b) A seizure that causes the patient to stare blankly
+Option,0,c) A seizure that is not preceded by an aura
+Option,0,d) A generalized seizure without incontinence
+Hint,"Complexity: Difficult			Ahead: Seizures			Subject:Neurologic Emergencies, Page 732			Title: Neurologic Emergencies			Feedback: See Seizures			Taxonomy: Recall			Objective: 18-7 Define a general seizure, focal-onset seizure, and status epilepticus; include how they differ from each other and their effects on patients.",
+NewQuestion,MC,
+Title,,
+QuestionText,The mental status of a patient who has experienced a generalized seizure:,
+Points,1,
+Difficulty,1,
+Option,0,a) progressively worsens over a period of a few hours.
+Option,0,b) is easily differentiated from that of acute hypoglycemia.
+Option,100,c) is likely to improve over a period of 5 to 30 minutes.
+Option,0,"d) typically does not improve, even after several minutes."
+Hint,"Complexity: Easy			Ahead: Seizures			Subject:Neurologic Emergencies, Page 732			Title: Neurologic Emergencies			Feedback: See Seizures			Taxonomy: Recall			Objective: 18-7 Define a general seizure, focal-onset seizure, and status epilepticus; include how they differ from each other and their effects on patients.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following MOST accurately describes what the patient will experience during the postictal state that follows a seizure?,
+Points,1,
+Difficulty,1,
+Option,0,a) Hyperventilation and hypersalivation
+Option,0,b) A rapidly improving level of consciousness
+Option,100,c) Confusion and fatigue
+Option,0,d) A gradually decreasing level of consciousness
+Hint,"Complexity: Moderate			Ahead: Seizures			Subject:Neurologic Emergencies, Page 733			Title: Neurologic Emergencies			Feedback: See Seizures			Taxonomy: Recall			Objective: 18-10 Explain the postictal state and the specific patient care interventions that may be necessary",
+NewQuestion,MC,
+Title,,
+QuestionText,Status epilepticus is characterized by:,
+Points,1,
+Difficulty,1,
+Option,0,a) generalized seizures that last less than 5 minutes.
+Option,0,b) an absence seizure that is not preceded by an aura.
+Option,0,c) profound tachycardia and total muscle flaccidity.
+Option,100,d) prolonged seizures without a return of consciousness.
+Hint,"Complexity: Easy			Ahead: Seizures			Subject:Neurologic Emergencies, Page 733			Title: Neurologic Emergencies			Feedback: See Seizures			Taxonomy: Recall			Objective: 18-7 Define a general seizure, focal-onset seizure, and status epilepticus; include how they differ from each other and their effects on patients.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following conditions is NOT a common cause of seizures?,
+Points,1,
+Difficulty,1,
+Option,0,a) Poisoning or overdose
+Option,100,b) Hypotension
+Option,0,c) Acute hypoglycemia
+Option,0,d) Acute alcohol withdrawal
+Hint,"Complexity: Moderate			Ahead: Seizures			Subject:Neurologic Emergencies, Page 733			Title: Neurologic Emergencies			Feedback: See Seizures			Taxonomy: Analysis			Objective: 18-7 Define a general seizure, focal-onset seizure, and status epilepticus; include how they differ from each other and their effects on patients.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following is a metabolic cause of a seizure?,
+Points,1,
+Difficulty,1,
+Option,100,a) Poisoning
+Option,0,b) Head trauma
+Option,0,c) Brain tumor
+Option,0,d) Massive stroke
+Hint,"Complexity: Moderate			Ahead: Seizures			Subject:Neurologic Emergencies, Page 733			Title: Neurologic Emergencies			Feedback: See Seizures			Taxonomy: Recall			Objective: 18-9 Discuss the importance for EMTs to recognize whether a seizure is occurring of whether one has already occurred in a patient.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following medications would indicate that a patient has a history of seizures?,
+Points,1,
+Difficulty,1,
+Option,0,a) Enalapril (Vasotec)
+Option,100,b) Levetiracetam (Keppra)
+Option,0,c) Hydromorphone (Dilaudid)
+Option,0,d) Metformin (Glucophage)
+Hint,"Complexity: Moderate			Ahead: Seizures			Subject:Neurologic Emergencies, Page 733			Title: Neurologic Emergencies			Feedback: See Seizures			Taxonomy: Recall			Objective: 18-9 Discuss the importance for EMTs to recognize when a seizure is occurring or whether one has already occurred in a patient.",
+NewQuestion,MC,
+Title,,
+QuestionText,Febrile seizures:,
+Points,1,
+Difficulty,1,
+Option,0,a) often result in permanent brain damage.
+Option,0,b) are also referred to as absence seizures.
+Option,100,c) are usually benign but should be evaluated.
+Option,0,d) occur when a child’s fever rises slowly.
+Hint,"Complexity: Easy			Ahead: Seizures			Subject:Neurologic Emergencies, Page 733			Title: Neurologic Emergencies			Feedback: See Seizures			Taxonomy: Recall			Objective: 18-9 Discuss the importance for EMTs to recognize when a seizure is occurring or whether one has already occurred in a patient.",
+NewQuestion,MC,
+Title,,
+QuestionText,"You respond to a residence for a child who is having a seizure. Upon arrival at the scene, you enter the residence and find the mother holding her child, a 2-year-old male. The child is conscious and crying. According to the mother, the child had been running a high fever and then experienced a seizure that lasted approximately 3 minutes. You should:",
+Points,1,
+Difficulty,1,
+Option,0,a) cover the child with wet towels and give oxygen via nasal cannula.
+Option,100,b) transport the child to the hospital and reassure the mother en route.
+Option,0,c) advise the mother to take her child to the doctor the following day.
+Option,0,d) call medical control and request permission to give the child aspirin.
+Hint,"Complexity: Difficult			Ahead: Seizures			Subject:Neurologic Emergencies, Page 733			Title: Neurologic Emergencies			Feedback: See Seizures			Taxonomy: Application			Objective: 18-9 Discuss the importance for EMTs to recognize when a seizure is occurring or whether one has already occurred in a patient.",
+NewQuestion,MC,
+Title,,
+QuestionText,"You arrive at a grocery store shortly after a 35-year-old male stopped seizing. Your assessment reveals that he is confused and incontinent of urine. The patient’s girlfriend tells you that he has a history of seizures and takes topiramate (Topamax). When obtaining further medical history from the girlfriend, it is MOST important to:",
+Points,1,
+Difficulty,1,
+Option,0,a) determine if the patient is a known alcohol abuser.
+Option,100,b) obtain a description of how the seizure developed.
+Option,0,c) determine when he was last seen by his physician.
+Option,0,d) ask her how long the patient has been taking his medication.
+Hint,"Complexity: Difficult			Ahead: Seizures			Subject:Neurologic Emergencies, Page 733			Title: Neurologic Emergencies			Feedback: See Seizures			Taxonomy: Application			Objective: 18-9 Discuss the importance for EMTs to recognize when a seizure is occurring or whether one has already occurred in a patient.",
+NewQuestion,MC,
+Title,,
+QuestionText,A patient with an altered mental status is:,
+Points,1,
+Difficulty,1,
+Option,0,a) completely unresponsive to all forms of stimuli.
+Option,0,b) typically alert but is confused as to preceding events.
+Option,0,c) usually able to be aroused with a painful stimulus.
+Option,100,d) not thinking clearly or is incapable of being aroused.
+Hint,"Complexity: Easy			Ahead: Altered Mental Status			Subject:Neurologic Emergencies, Page 735			Title: Neurologic Emergencies			Feedback: See Altered Mental Status			Taxonomy: Recall			Objective: 18-11 Define altered mental status; include possible causes and the patient assessment considerations that apply to each.",
+NewQuestion,MC,
+Title,,
+QuestionText,The principal clinical difference between a stroke and hypoglycemia is that patients with hypoglycemia:,
+Points,1,
+Difficulty,1,
+Option,0,a) always take oral medications to maintain normal blood glucose levels.
+Option,0,b) do not present with slurred speech or weakness to one side of the body.
+Option,0,c) are typically alert and attempt to communicate with health care providers.
+Option,100,d) usually have an altered mental status or decreased level of consciousness.
+Hint,"Complexity: Moderate			Ahead: Altered Mental Status			Subject:Neurologic Emergencies, Page 736			Title: Neurologic Emergencies			Feedback: See Altered Mental Status			Taxonomy: Analysis			Objective: 18-11 Define altered mental status; include possible causes and the patient assessment considerations that apply to each.",
+NewQuestion,MC,
+Title,,
+QuestionText,"When caring for a patient with documented hypoglycemia, you should be MOST alert for:",
+Points,1,
+Difficulty,1,
+Option,100,a) a seizure.
+Option,0,b) an acute stroke.
+Option,0,c) respiratory distress.
+Option,0,d) a febrile convulsion.
+Hint,"Complexity: Easy			Ahead: Altered Mental Status			Subject:Neurologic Emergencies, Page 736			Title: Neurologic Emergencies			Feedback: See Altered Mental Status			Taxonomy: Application			Objective: 18-11 Define altered mental status; include possible causes and the patient assessment considerations that apply to each.",
+NewQuestion,MC,
+Title,,
+QuestionText,"You arrive at a local grocery store approximately 5 minutes after a 21-year-old female stopped seizing. She is confused and disoriented; she keeps asking you what happened and tells you that she is thirsty. Her brother, who witnessed the seizure, tells you that she takes valproate (Depakote) for her seizures, but has not taken it in a few days. He also tells you that she has diabetes. In addition to administering oxygen, you should:",
+Points,1,
+Difficulty,1,
+Option,0,a) administer one tube of oral glucose and prepare for immediate transport.
+Option,0,b) place her in the recovery position and transport her with lights and siren.
+Option,100,c) monitor her airway and breathing status and assess her blood glucose level.
+Option,0,d) give her small cups of water to drink and observe for further seizure activity.
+Hint,"Complexity: Difficult			Ahead: Altered Mental Status			Subject:Neurologic Emergencies, Page 736			Title: Neurologic Emergencies			Feedback: See Altered Mental Status			Taxonomy: Application			Objective: 18-11 Define altered mental status; include possible causes and the patient assessment considerations that apply to each.",
+NewQuestion,MC,
+Title,,
+QuestionText,Individuals with chronic alcoholism are predisposed to intracranial bleeding and hypoglycemia secondary to abnormalities in the:,
+Points,1,
+Difficulty,1,
+Option,0,a) brain.
+Option,0,b) kidneys.
+Option,100,c) liver.
+Option,0,d) pancreas.
+Hint,"Complexity: Easy			Ahead: Altered Mental Status			Subject:Neurologic Emergencies, Page 737			Title: Neurologic Emergencies			Feedback: See Altered Mental Status			Taxonomy: Recall			Objective: 18-11 Define altered mental status; include possible causes and the patient assessment considerations that apply to each.",
+NewQuestion,MC,
+Title,,
+QuestionText,"Which of the following patients would MOST likely demonstrate typical signs of infection, such as a fever?",
+Points,1,
+Difficulty,1,
+Option,0,a) A 3-month-old female who was born prematurely
+Option,100,b) A 17-year-old male with anxiety
+Option,0,c) A 35-year-old female in the later stages of AIDS
+Option,0,d) An 88-year-old male with chronic renal problems
+Hint,"Complexity: Difficult			Ahead: Altered Mental Status			Subject:Neurologic Emergencies, Page 737			Title: Neurologic Emergencies			Feedback: See Altered Mental Status			Taxonomy: Application			Objective: 18-11 Define altered mental status; include possible causes and the patient assessment considerations that apply to each.",
+NewQuestion,MC,
+Title,,
+QuestionText,"During the primary assessment of a semiconscious 70-year-old female, you should:",
+Points,1,
+Difficulty,1,
+Option,0,a) insert a nasopharyngeal airway and assist ventilations.
+Option,0,b) immediately determine the patient’s blood glucose level.
+Option,0,c) ask family members if the patient has a history of stroke.
+Option,100,d) ensure a patent airway and support ventilation as needed.
+Hint,"Complexity: Difficult			Ahead: Patient Assessment			Subject:Neurologic Emergencies, Page 738			Title: Neurologic Emergencies			Feedback: See Patient Assessment			Taxonomy: Application			Objective: 18-14 Explain the primary assessment of a patient who is experiencing a neurologic emergency and the necessary interventions that may be required to address all life threats.",
+NewQuestion,MC,
+Title,,
+QuestionText,"You are dispatched to a residence for a 66-year-old male who, according to family members, has suffered a massive stroke. Your primary assessment reveals that the patient is unresponsive, apneic, and pulseless. You should:",
+Points,1,
+Difficulty,1,
+Option,0,a) assess the patient for a facial droop and hemiparesis.
+Option,100,b) initiate CPR and attach an AED as soon as possible.
+Option,0,c) obtain a blood glucose sample to rule out hypoglycemia.
+Option,0,d) perform CPR for 5 minutes before applying the AED.
+Hint,"Complexity: Difficult			Ahead: Patient Assessment			Subject:Neurologic Emergencies, Page 738			Title: Neurologic Emergencies			Feedback: See Patient Assessment			Taxonomy: Application			Objective: 18-14 Explain the primary assessment of a patient who is experiencing a neurologic emergency and the necessary interventions that may be required to address all life threats.",
+NewQuestion,MC,
+Title,,
+QuestionText,"You are caring for a 68-year-old man with sudden onset of left-sided paralysis and slurred speech. His airway is patent, his respirations are 14 breaths/min with adequate depth, and his oxygen saturation is 98%. Treatment for this patient should include:",
+Points,1,
+Difficulty,1,
+Option,100,a) recovery position and transport.
+Option,0,b) ventilatory assistance and transport.
+Option,0,c) high-flow oxygen and transport.
+Option,0,d) oral glucose gel and transport.
+Hint,"Complexity: Difficult			Ahead: Patient Assessment			Subject:Neurologic Emergencies, Page 738			Title: Neurologic Emergencies			Feedback: See Patient Assessment			Taxonomy: Application			Objective: 18-14 Explain the primary assessment of a patient who is experiencing a neurologic emergency and the necessary interventions that may be required to address all life threats.",
+NewQuestion,MC,
+Title,,
+QuestionText,"Law enforcement has summoned you to a nightclub, where a 22-year-old female was found unconscious in an adjacent alley. Your primary assessment reveals that her respirations are rapid and shallow and her pulse is rapid and weak. She is wearing a medical alert bracelet that identifies her as an epileptic. There is an empty bottle of vodka next to the patient. You should:",
+Points,1,
+Difficulty,1,
+Option,0,a) place a bite block in her mouth in case she has a seizure and transport at once.
+Option,0,"b) apply oxygen via a nonrebreathing mask, place her on her left side, and transport."
+Option,100,"c) assist ventilations, perform a rapid exam, and prepare for immediate transport."
+Option,0,d) apply oxygen via nonrebreathing mask and transport her for a blood-alcohol test.
+Hint,"Complexity: Difficult			Ahead: Patient Assessment			Subject:Neurologic Emergencies, Page 738			Title: Neurologic Emergencies			Feedback: See Patient Assessment			Taxonomy: Application			Objective: 18-14 Explain the primary assessment of a patient who is experiencing a neurologic emergency and the necessary interventions that may be required to address all life threats.",
+NewQuestion,MC,
+Title,,
+QuestionText,"You are caring for a 70-year-old female with signs and symptoms of an acute stroke. She is conscious, has secretions in her mouth, is breathing at a normal rate with adequate depth, and has an oxygen saturation of 96%. You should:",
+Points,1,
+Difficulty,1,
+Option,100,a) suction her oropharynx and transport immediately.
+Option,0,"b) insert an oral airway, apply oxygen, and transport."
+Option,0,c) assist her ventilations with a bag-valve mask.
+Option,0,d) administer one tube of oral glucose and transport.
+Hint,"Complexity: Difficult			Ahead: Patient Assessment			Subject:Neurologic Emergencies, Page 738			Title: Neurologic Emergencies			Feedback: See Patient Assessment			Taxonomy: Application			Objective: 18-14 Explain the primary assessment of a patient who is experiencing a neurologic emergency and the necessary interventions that may be required to address all life threats.",
+NewQuestion,MC,
+Title,,
+QuestionText,"You arrive at the residence of a 33-year-old woman who is experiencing a generalized (tonic-clonic) seizure. She has a small amount of vomitus draining from the side of her mouth. After protecting her from further injury, you should:",
+Points,1,
+Difficulty,1,
+Option,0,"a) place a bite block in between her teeth, apply high-flow oxygen via a nonrebreathing mask, and consider inserting a nasopharyngeal airway."
+Option,0,"b) wait for the seizure to stop, manually open her airway, insert an oropharyngeal airway, and assess her oxygen saturation with the pulse oximeter."
+Option,0,"c) restrain her extremities to prevent her from injuring herself, suction her airway to remove the vomitus, and assist her ventilations with a bag-mask device."
+Option,100,"d) maintain her airway with manual head positioning, suction her airway to remove the vomitus, insert a nasopharyngeal airway, and administer high-flow oxygen."
+Hint,"Complexity: Difficult			Ahead: Patient Assessment			Subject:Neurologic Emergencies, Page 738			Title: Neurologic Emergencies			Feedback: See Patient Assessment			Taxonomy: Application			Objective: 18-14 Explain the primary assessment of a patient who is experiencing a neurologic emergency and the necessary interventions that may be required to address all life threats.",
+NewQuestion,MC,
+Title,,
+QuestionText,"When you are obtaining medical history from the family of a suspected stroke patient, it is MOST important to determine:",
+Points,1,
+Difficulty,1,
+Option,100,a) when the patient last appeared normal.
+Option,0,b) if there is a family history of a stroke.
+Option,0,c) if the patient has been hospitalized before.
+Option,0,d) the patient’s overall medication compliance.
+Hint,"Complexity: Moderate			Ahead: Patient Assessment			Subject:Neurologic Emergencies, Page 740			Title: Neurologic Emergencies			Feedback: See Patient Assessment			Taxonomy: Application			Objective: 18-15 Describe the process of history taking for a patient who is experiencing a neurologic emergency and how this process varies depending on the nature of the patient’s illness.",
+NewQuestion,MC,
+Title,,
+QuestionText,"A 58-year-old male presents with confusion, right-sided weakness, and slurred speech. His airway is patent, and his breathing is adequate. His wife is present and is very upset. Which of the following has the MOST immediately priority?",
+Points,1,
+Difficulty,1,
+Option,0,a) Documenting all of his current medications
+Option,0,b) Obtaining a complete set of baseline vital signs
+Option,0,c) Administering glucose to rule out hypoglycemia
+Option,100,d) Asking his wife when she noticed the symptoms
+Hint,"Complexity: Difficult			Ahead: Patient Assessment			Subject:Neurologic Emergencies, Page 740			Title: Neurologic Emergencies			Feedback: See Patient Assessment			Taxonomy: Analysis			Objective: 18-15 Describe the process of history taking for a patient who is experiencing a neurologic emergency and how this process varies depending on the nature of the patient’s illness.",
+NewQuestion,MC,
+Title,,
+QuestionText,A 40-year-old patient without a history of seizures experiences a generalized (tonic-clonic) seizure. The LEAST likely cause of this seizure is:,
+Points,1,
+Difficulty,1,
+Option,100,a) epilepsy.
+Option,0,b) a brain tumor.
+Option,0,c) a serious infection.
+Option,0,d) intracranial bleeding.
+Hint,"Complexity: Easy			Ahead: Patient Assessment			Subject:Neurologic Emergencies, Page 741			Title: Neurologic Emergencies			Feedback: See Patient Assessment			Taxonomy: Application			Objective: 18-15 Describe the process of history taking for a patient who is experiencing a neurologic emergency and how this process varies depending on the nature of the patient’s illness.",
+NewQuestion,MC,
+Title,,
+QuestionText,Components of the Cincinnati Prehospital Stroke Scale include:,
+Points,1,
+Difficulty,1,
+Option,0,"a) speech, pupil reaction, and memory."
+Option,0,"b) arm drift, memory, and grip strength."
+Option,100,"c) arm drift, speech, and facial droop."
+Option,0,"d) facial droop, speech, and pupil size."
+Hint,"Complexity: Easy			Ahead: Patient Assessment			Subject:Neurologic Emergencies, Page 742			Title: Neurologic Emergencies			Feedback: See Patient Assessment			Taxonomy: Recall			Objective: 18-17 Explain how to use stroke assessment tools to rapidly identify a stroke patient; include two commonly used tools.",
+NewQuestion,MC,
+Title,,
+QuestionText,"When assessing for arm drift of a patient with a suspected stroke, you should:",
+Points,1,
+Difficulty,1,
+Option,0,a) observe movement of the arms for approximately 2 minutes.
+Option,0,b) expect to see one arm slowly drift down to the patient’s side.
+Option,100,c) ask the patient to close his or her eyes during the assessment.
+Option,0,d) ask the patient to hold his or her arms up with the palms down.
+Hint,"Complexity: Easy			Ahead: Patient Assessment			Subject:Neurologic Emergencies, Page 742			Title: Neurologic Emergencies			Feedback: See Patient Assessment			Taxonomy: Recall			Objective: 18-17 Explain how to use stroke assessment tools to rapidly identify a stroke patient; include two commonly used tools.",
+NewQuestion,MC,
+Title,,
+QuestionText,"You are assessing the arm drift component of the Cincinnati Prehospital Stroke Scale on a 60-year-old woman. When she holds both of her arms out in front of her and closes her eyes, both of her arms immediately fall to her sides. You should:",
+Points,1,
+Difficulty,1,
+Option,0,a) repeat the arm drift test and ensure that her palms are facing downward.
+Option,100,"b) repeat the arm drift test, but move the patient’s arms into position yourself."
+Option,0,c) instruct the patient to keep her eyes open and then repeat the arm drift test.
+Option,0,d) defer this part of the test and assess her for facial droop and slurred speech.
+Hint,"Complexity: Difficult			Ahead: Patient Assessment			Subject:Neurologic Emergencies, Page 742			Title: Neurologic Emergencies			Feedback: See Patient Assessment			Taxonomy: Application			Objective: 18-17 Explain how to use stroke assessment tools to rapidly identify a stroke patient; include two commonly used tools.",
+NewQuestion,MC,
+Title,,
+QuestionText,"Your patient opens his eyes, moans, and pulls away from you when you pinch his trapezius muscle. You should assign a Glasgow Coma Scale (GCS) score of:",
+Points,1,
+Difficulty,1,
+Option,0,a) 6
+Option,0,b) 7
+Option,100,c) 8
+Option,0,d) 9
+Hint,"Complexity: Difficult			Ahead: Patient Assessment			Subject:Neurologic Emergencies, Page 745			Title: Neurologic Emergencies			Feedback: See Patient Assessment			Taxonomy: Application			Objective: 18-17 Explain how to use stroke assessment tools to rapidly identify a stroke patient; include two commonly used tools.",
+NewQuestion,MC,
+Title,,
+QuestionText,"Your patient answers your questions appropriately, although her eyes remain closed the entire time. She moves each extremity on command, although her left side is weaker than the right. You should assign a Glasgow Coma Scale (GCS) score of:",
+Points,1,
+Difficulty,1,
+Option,100,a) 12
+Option,0,b) 13
+Option,0,c) 14
+Option,0,d) 15
+Hint,"Complexity: Difficult			Ahead: Patient Assessment			Subject:Neurologic Emergencies, Page 745			Title: Neurologic Emergencies			Feedback: See Patient Assessment			Taxonomy: Application			Objective: 18-17 Explain how to use stroke assessment tools to rapidly identify a stroke patient; include two commonly used tools.",
+NewQuestion,MC,
+Title,,
+QuestionText,"A 29-year-old male complains of a severe headache and nausea that has gradually worsened over the past 12 hours. He is conscious, alert, and oriented and tells you that his physician diagnosed him with migraine headaches. He further tells you that he has taken numerous different medications, but none of them seems to help. His blood pressure is 132/74 mm Hg, his pulse is 110 beats/min and strong, and his respirations are 20 breaths/min. Treatment should include:",
+Points,1,
+Difficulty,1,
+Option,0,a) assisting him with his migraine medication and transporting without lights and siren.
+Option,0,b) placing him in a supine position and transporting with lights and siren to a stroke center.
+Option,0,c) applying warm compresses to the back of his neck and transporting with lights and siren.
+Option,100,d) dimming the lights in the back of the ambulance and transporting without lights and siren.
+Hint,"Complexity: Difficult			Ahead: Emergency Medical Care			Subject:Neurologic Emergencies, Page 747			Title: Neurologic Emergencies			Feedback: See Emergency Medical Care			Taxonomy: Application			Objective: 18-20 Explain the care, treatment, and transport of patients who are experiencing headaches, stroke, seizure, and altered mental status.",
+NewQuestion,MC,
+Title,,
+QuestionText,"When transporting a stable stroke patient with a paralyzed extremity, place the patient in a:",
+Points,1,
+Difficulty,1,
+Option,0,a) recumbent position with the paralyzed side up.
+Option,100,b) recumbent position with the paralyzed side down.
+Option,0,c) sitting position with the head at a 45° to 90° angle.
+Option,0,d) supine position with the legs elevated 6″ to 12″.
+Hint,"Complexity: Moderate			Ahead: Emergency Medical Care			Subject:Neurologic Emergencies, Page 747			Title: Neurologic Emergencies			Feedback: See Emergency Medical Care			Taxonomy: Recall			Objective: 18-20 Explain the care, treatment, and transport of patients who are experiencing headaches, stroke, seizure, and altered mental status.",
+NewQuestion,MC,
+Title,,
+QuestionText,A patient who is possibly experiencing a stroke is NOT eligible for thrombolytic (fibrinolytic) therapy if he or she:,
+Points,1,
+Difficulty,1,
+Option,0,a) has had a prior heart attack.
+Option,0,b) is older than 60 years of age.
+Option,0,c) has a GCS score that is less than 8.
+Option,100,d) has bleeding within the brain.
+Hint,"Complexity: Easy			Ahead: Emergency Medical Care			Subject:Neurologic Emergencies, Page 748			Title: Neurologic Emergencies			Feedback: See Emergency Medical Care			Taxonomy: Recall			Objective: 18-20 Explain the care, treatment, and transport of patients who are experiencing headaches, stroke, seizure, and altered mental status.",
+NewQuestion,MC,
+Title,,
+QuestionText,Successful treatment of a stroke depends on whether:,
+Points,1,
+Difficulty,1,
+Option,0,a) surgical intervention is performed to remove obstructive clots.
+Option,0,b) medications are given to restore the function of infarcted cells.
+Option,0,c) the stroke occurs within the left or right hemisphere of the brain.
+Option,100,d) thrombolytic therapy is given within 3 hours of symptoms beginning.
+Hint,"Complexity: Moderate			Ahead: Emergency Medical Care			Subject:Neurologic Emergencies, Page 748			Title: Neurologic Emergencies			Feedback: See Emergency Medical Care			Taxonomy: Application			Objective: 18-20 Explain the care, treatment, and transport of patients who are experiencing headaches, stroke, seizure, and altered mental status.",
+NewQuestion,MC,
+Title,,
+QuestionText,"A 30-year-old male experienced a generalized (tonic-clonic) seizure, which stopped before you arrived at the scene. The patient is conscious, is answering your questions appropriately, and refuses EMS transport. Which of the following would be the MOST compelling reason to disagree with his refusal of transport?",
+Points,1,
+Difficulty,1,
+Option,0,a) He has experienced seizures since he was 20.
+Option,100,b) He is currently not prescribed any medications.
+Option,0,c) His wife states that this was his “usual” seizure.
+Option,0,d) His Glasgow Coma Scale (GCS) score is 15.
+Hint,"Complexity: Difficult			Ahead: Emergency Medical Care			Subject:Neurologic Emergencies, Page 748			Title: Neurologic Emergencies			Feedback: See Emergency Medical Care			Taxonomy: Analysis			Objective: 18-20 Explain the care, treatment, and transport of patients who are experiencing headaches, stroke, seizure, and altered mental status.",

@@ -1,0 +1,370 @@
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following MOST accurately defines an allergic reaction?,
+Points,1,
+Difficulty,1,
+Option,100,a) An exaggerated immune system response to any substance
+Option,0,b) Destruction of the immune system by an external substance
+Option,0,c) A release of erythrocytes in response to a foreign substance
+Option,0,d) A direct negative effect on the body by an external substance
+Hint,"Complexity: Easy			Ahead: Pathophysiology			Subject:Allergy and Anaphylaxis, Page 804			Title: Allergy and Anaphylaxis			Feedback: See Pathophysiology			Taxonomy: Recall			Objective: 21-1 Define the terms allergic reaction and anaphylaxis.",
+NewQuestion,MC,
+Title,,
+QuestionText,Chemicals that are responsible for the signs and symptoms of an allergic reaction to a bee sting include:,
+Points,1,
+Difficulty,1,
+Option,0,a) the bee venom itself.
+Option,0,b) adrenaline and histamines.
+Option,0,c) leukocytes and epinephrine.
+Option,100,d) histamines and leukotrienes.
+Hint,"Complexity: Easy			Ahead: Pathophysiology			Subject:Allergy and Anaphylaxis, Page 804			Title: Allergy and Anaphylaxis			Feedback: See Pathophysiology			Taxonomy: Recall			Objective: 21-2 Explain the difference between a local response and a systemic response to allergens.",
+NewQuestion,MC,
+Title,,
+QuestionText,Anaphylaxis is MOST accurately defined as a(n):,
+Points,1,
+Difficulty,1,
+Option,0,a) moderate allergic reaction that primarily affects the vasculature.
+Option,100,b) extreme allergic reaction that may affect multiple body systems.
+Option,0,c) severe allergic reaction that typically resolves without treatment.
+Option,0,d) allergic reaction that causes bronchodilation and vasoconstriction.
+Hint,"Complexity: Moderate			Ahead: Pathophysiology			Subject:Allergy and Anaphylaxis, Page 804			Title: Allergy and Anaphylaxis			Feedback: See Pathophysiology			Taxonomy: Recall			Objective: 21-2 Explain the difference between a local response and a systemic response to allergens.",
+NewQuestion,MC,
+Title,,
+QuestionText,Two of the MOST common signs of anaphylaxis are:,
+Points,1,
+Difficulty,1,
+Option,100,a) urticaria and angioedema.
+Option,0,b) watery eyes and localized itching.
+Option,0,c) expiratory stridor and tachycardia.
+Option,0,d) hypertension and swollen hands.
+Hint,"Complexity: Moderate			Ahead: Pathophysiology			Subject:Allergy and Anaphylaxis, Page 805			Title: Allergy and Anaphylaxis			Feedback: See Pathophysiology			Taxonomy: Recall			Objective: 21-2 Explain the difference between a local response and a systemic response to allergens.",
+NewQuestion,MC,
+Title,,
+QuestionText,Urticaria is the medical term for:,
+Points,1,
+Difficulty,1,
+Option,100,a) hives.
+Option,0,b) burning.
+Option,0,c) swelling.
+Option,0,d) a wheal.
+Hint,"Complexity: Easy			Ahead: Pathophysiology			Subject:Allergy and Anaphylaxis, Page 805			Title: Allergy and Anaphylaxis			Feedback: See Pathophysiology			Taxonomy: Recall			Objective: 21-2 Explain the difference between a local response and a systemic response to allergens.",
+NewQuestion,MC,
+Title,,
+QuestionText,The foreign substance responsible for causing an allergic reaction is called a(n):,
+Points,1,
+Difficulty,1,
+Option,100,a) allergen.
+Option,0,b) antibody.
+Option,0,c) histamine.
+Option,0,d) leukotriene.
+Hint,"Complexity: Easy			Ahead: Pathophysiology			Subject:Allergy and Anaphylaxis, Page 804			Title: Allergy and Anaphylaxis			Feedback: See Pathophysiology			Taxonomy: Recall			Objective: 21-3 List the five categories of stimuli that could cause an allergic reaction or an extreme allergic reaction.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following patients would MOST likely have a delayed onset of an allergic reaction?,
+Points,1,
+Difficulty,1,
+Option,0,a) A 21-year-old female who inhaled pollen
+Option,0,b) A 30-year-old male who was stung by a bee
+Option,100,c) A 45-year-old male who ingested penicillin
+Option,0,d) A 50-year-old male who was exposed to latex
+Hint,"Complexity: Moderate			Ahead: Common Allergens			Subject:Allergy and Anaphylaxis, Page 806			Title: Allergy and Anaphylaxis			Feedback: See Common Allergens			Taxonomy: Application			Objective: 21-3 List the five categories of stimuli that could cause an allergic reaction or an extreme allergic reaction.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following statements regarding fire ants is correct?,
+Points,1,
+Difficulty,1,
+Option,100,a) Fire ants often bite a person repeatedly.
+Option,0,b) Fire ant bites rarely cause anaphylaxis.
+Option,0,c) Fire ant bites typically occur on the face.
+Option,0,d) Most people are allergic to fire ant toxin.
+Hint,"Complexity: Moderate			Ahead: Common Allergens			Subject:Allergy and Anaphylaxis, Page 807			Title: Allergy and Anaphylaxis			Feedback: See Common Allergens			Taxonomy: Recall			Objective: 21-3 List the five categories of stimuli that could cause an allergic reaction or an extreme allergic reaction.",
+NewQuestion,MC,
+Title,,
+QuestionText,"A raised, swollen, well-defined area on the skin that is the result of an insect bite or sting is called:",
+Points,1,
+Difficulty,1,
+Option,0,a) a pustule.
+Option,0,b) purpura.
+Option,0,c) urticaria.
+Option,100,d) a wheal.
+Hint,"Complexity: Easy			Ahead: Common Allergens			Subject:Allergy and Anaphylaxis, Page 807			Title: Allergy and Anaphylaxis			Feedback: See Common Allergens			Taxonomy: Recall			Objective: 21-4 Differentiate the primary assessment for a patient with a systemic allergic or anaphylactic reaction and with a local reaction.",
+NewQuestion,MC,
+Title,,
+QuestionText,Because the stinger of a honeybee remains in the wound following a sting:,
+Points,1,
+Difficulty,1,
+Option,0,a) the stinger should quickly be removed with tweezers.
+Option,0,b) the body’s immune system deactivates the bee’s venom.
+Option,0,c) the toxicity of the venom decreases within 10 minutes.
+Option,100,d) it can continue to inject venom for up to 20 minutes.
+Hint,"Complexity: Moderate			Ahead: Common Allergens			Subject:Allergy and Anaphylaxis, Page 807			Title: Allergy and Anaphylaxis			Feedback: See Common Allergens			Taxonomy: Recall			Objective: 21-3 List the five categories of stimuli that could cause an allergic reaction or an extreme allergic reaction.",
+NewQuestion,MC,
+Title,,
+QuestionText,The stinger from a honeybee should be:,
+Points,1,
+Difficulty,1,
+Option,0,a) left in place and covered.
+Option,100,b) scraped away from the skin.
+Option,0,c) squeezed with tweezers and removed.
+Option,0,d) irrigated with copious amounts of water.
+Hint,"Complexity: Easy			Ahead: Common Allergens			Subject:Allergy and Anaphylaxis, Page 807			Title: Allergy and Anaphylaxis			Feedback: See Common Allergens			Taxonomy: Recall			Objective: 21-3 List the five categories of stimuli that could cause an allergic reaction or an extreme allergic reaction.",
+NewQuestion,MC,
+Title,,
+QuestionText,Most patients who die of anaphylaxis do so within the first ____ minutes following exposure.,
+Points,1,
+Difficulty,1,
+Option,0,a) 5
+Option,100,b) 30
+Option,0,c) 60
+Option,0,d) 90
+Hint,"Complexity: Moderate			Ahead: Common Allergens			Subject:Allergy and Anaphylaxis, Page 808			Title: Allergy and Anaphylaxis			Feedback: See Common Allergens			Taxonomy: Recall			Objective: 21-4 Differentiate the primary assessment for a patient with a systemic allergic or anaphylactic reaction and with a local reaction.",
+NewQuestion,MC,
+Title,,
+QuestionText,"You are assessing a young male who was stung on the leg by a scorpion. He is conscious and alert, his breathing is regular and unlabored, and his blood pressure is 122/64 mm Hg. Assessment of his leg reveals a wheal surrounded by an area of redness. He states that he had a “bad reaction” the last time he was stung by a scorpion, and carries his own epinephrine auto-injector. You should:",
+Points,1,
+Difficulty,1,
+Option,0,"a) apply high-flow oxygen, apply a chemical cold pack directly to the injection site, and transport at once."
+Option,0,"b) apply high-flow oxygen, obtain approval from medical control to assist him with his epinephrine, and transport."
+Option,0,c) assess his ABCs and vital signs in 15 minutes and allow him to drive himself to the hospital if he remains stable.
+Option,100,"d) apply oxygen as needed, clean the area with soap and water or a mild antiseptic, and transport him to the hospital."
+Hint,"Complexity: Difficult			Ahead: Patient Assessment of an Immunologic Emergency			Subject:Allergy and Anaphylaxis, Page 809			Title: Allergy and Anaphylaxis			Feedback: See Patient Assessment of an Immunologic Emergency			Taxonomy: Application			Objective: 21-7 Explain the factors involved when making a transport decision for a patient having an allergic reaction.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following would MOST likely provide clues regarding the source of a patient’s allergic reaction?,
+Points,1,
+Difficulty,1,
+Option,0,a) The patient’s family history
+Option,0,b) The patient’s general physical appearance
+Option,100,c) The environment in which the patient is found
+Option,0,d) The time of year in which the exposure occurred
+Hint,"Complexity: Moderate			Ahead: Patient Assessment of an Immunologic Emergency			Subject:Allergy and Anaphylaxis, Page 808			Title: Allergy and Anaphylaxis			Feedback: See Patient Assessment of an Immunologic Emergency			Taxonomy: Analysis			Objective: 21-6 Discuss the steps in the primary assessment that are specific to a patient who is having an allergic reaction.",
+NewQuestion,MC,
+Title,,
+QuestionText,"A 73-year-old man presents with a generalized rash, which he thinks may have been caused by an antibiotic that he recently began taking. He has a history of coronary artery disease, hypertension, and emphysema. He is conscious and alert, his blood pressure is 144/94 mm Hg, and his pulse is 64 beats/min and regular. You auscultate his breath sounds and hear scattered wheezing, although he is not experiencing respiratory distress. You should:",
+Points,1,
+Difficulty,1,
+Option,100,"a) administer oxygen if needed, transport the patient, and monitor him for signs of deterioration."
+Option,0,b) ask him if he has epinephrine and request approval from medical control to administer it to the patient.
+Option,0,"c) avoid the use of epinephrine because of his cardiac history, even if his symptoms become severe."
+Option,0,d) begin transport and request to administer epinephrine if his systolic blood pressure falls below 110 mm Hg.
+Hint,"Complexity: Difficult			Ahead: Emergency Medical Care of Immunologic Emergencies			Subject:Allergy and Anaphylaxis, Page 812			Title: Allergy and Anaphylaxis			Feedback: See Emergency Medical Care of Immunologic Emergencies			Taxonomy: Application			Objective: 21-8 Review the process for providing emergency medical care to a patient who is experiencing an allergic reaction.",
+NewQuestion,MC,
+Title,,
+QuestionText,"A 37-year-old male is having a severe allergic reaction to penicillin. He does not have an epinephrine auto-injector, and your protocols do not allow you to carry epinephrine on the ambulance. How should you proceed with the treatment of this patient?",
+Points,1,
+Difficulty,1,
+Option,0,a) Ask the patient if he has any diphenhydramine tablets that you can administer.
+Option,100,"b) Administer oxygen, transport at once, and request a paramedic intercept."
+Option,0,c) Remain at the scene with the patient and request a paramedic ambulance.
+Option,0,d) Quickly determine if there are any bystanders who may carry epinephrine.
+Hint,"Complexity: Difficult			Ahead: Patient Assessment of an Immunologic Emergency			Subject:Allergy and Anaphylaxis, Page 808			Title: Allergy and Anaphylaxis			Feedback: See Patient Assessment of an Immunologic Emergency			Taxonomy: Application			Objective: 21-9 Explain the rationale, including communication and documentation considerations, when determining whether to administer epinephrine to a patient who is having an allergic reaction.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following negative effects of anaphylaxis will be the MOST rapidly fatal if not treated immediately?,
+Points,1,
+Difficulty,1,
+Option,0,a) Diffuse urticaria
+Option,0,b) Severe hypotension
+Option,100,c) Upper airway swelling
+Option,0,d) Systemic vasodilation
+Hint,"Complexity: Moderate			Ahead: Patient Assessment of an Immunologic Emergency			Subject:Allergy and Anaphylaxis, Page 808			Title: Allergy and Anaphylaxis			Feedback: See Patient Assessment of an Immunologic Emergency			Taxonomy: Application			Objective: 21-8 Review the process for providing emergency medical care to a patient who is experiencing an allergic reaction.",
+NewQuestion,MC,
+Title,,
+QuestionText,"A 38-year-old woman was bitten by fire ants while at the park. Your primary assessment reveals that she is semiconscious; has labored breathing; and has a rapid, thready pulse. She has a red rash on her entire body, and her face is swollen. You should:",
+Points,1,
+Difficulty,1,
+Option,0,a) perform a rapid secondary assessment.
+Option,100,b) assist her ventilations with 100% oxygen.
+Option,0,c) locate the area where the fire ants bit her.
+Option,0,d) place her supine with her legs elevated.
+Hint,"Complexity: Difficult			Ahead: Patient Assessment of an Immunologic Emergency			Subject:Allergy and Anaphylaxis, Page 810-811			Title: Allergy and Anaphylaxis			Feedback: See Patient Assessment of an Immunologic Emergency			Taxonomy: Application			Objective: 21-8 Review the process for providing emergency medical care to a patient who is experiencing an allergic reaction.",
+NewQuestion,MC,
+Title,,
+QuestionText,"A 48-year-old male is found unconscious in the garden by his wife. When you arrive at the scene and assess the man, you find that he is unresponsive, has labored breathing, and has hives over his entire trunk. You should:",
+Points,1,
+Difficulty,1,
+Option,0,a) perform a detailed secondary assessment.
+Option,100,b) maintain his airway and assist his ventilations.
+Option,0,c) ask his wife if he has any known allergies.
+Option,0,d) administer oxygen and position him on his side.
+Hint,"Complexity: Difficult			Ahead: Patient Assessment of an Immunologic Emergency			Subject:Allergy and Anaphylaxis, Page 809			Title: Allergy and Anaphylaxis			Feedback: See Patient Assessment of an Immunologic Emergency			Taxonomy: Application			Objective: 21-8 Review the process for providing emergency medical care to a patient who is experiencing an allergic reaction.",
+NewQuestion,MC,
+Title,,
+QuestionText,"You respond to the residence of a 55-year-old woman with a possible allergic reaction to peanuts that she ate approximately 30 minutes ago. The patient is conscious and alert, but has diffuse urticaria and the feeling that she has a lump in her throat. As your partner applies oxygen to the patient, you should:",
+Points,1,
+Difficulty,1,
+Option,100,a) ask her if she has prescribed epinephrine.
+Option,0,b) obtain a complete set of baseline vital signs.
+Option,0,c) ascertain if she has a family history of allergies.
+Option,0,d) ask her when her last allergic reaction occurred.
+Hint,"Complexity: Difficult			Ahead: Patient Assessment of an Immunologic Emergency			Subject:Allergy and Anaphylaxis, Page 810			Title: Allergy and Anaphylaxis			Feedback: See Patient Assessment of an Immunologic Emergency			Taxonomy: Application			Objective: 21-9 Explain the rationale, including communication and documentation considerations, when determining whether to administer epinephrine to a patient who is having an allergic reaction.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following medications blocks the release of histamines?,
+Points,1,
+Difficulty,1,
+Option,0,a) Albuterol (Ventolin)
+Option,0,b) Epinephrine (Adrenalin)
+Option,0,c) Acetaminophen (Tylenol)
+Option,100,d) Diphenhydramine (Benadryl)
+Hint,"Complexity: Moderate			Ahead: Patient Assessment of an Immunologic Emergency			Subject:Allergy and Anaphylaxis, Page 810			Title: Allergy and Anaphylaxis			Feedback: See Patient Assessment of an Immunologic Emergency			Taxonomy: Recall			Objective: 21-8 Review the process for providing emergency medical care to a patient who is experiencing an allergic reaction.",
+NewQuestion,MC,
+Title,,
+QuestionText,"Common signs and symptoms of an allergic reaction include all of the following, EXCEPT:",
+Points,1,
+Difficulty,1,
+Option,0,a) abdominal cramps.
+Option,100,b) drying of the eyes.
+Option,0,c) flushing of the skin.
+Option,0,d) persistent dry cough.
+Hint,"Complexity: Easy			Ahead: Patient Assessment of an Immunologic Emergency			Subject:Allergy and Anaphylaxis, Page 810			Title: Allergy and Anaphylaxis			Feedback: See Patient Assessment of an Immunologic Emergency			Taxonomy: Recall			Objective: 21-6 Discuss the steps in the primary assessment that are specific to a patient who is having an allergic reaction.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following sounds indicates swelling of the upper airway?,
+Points,1,
+Difficulty,1,
+Option,0,a) Rales
+Option,100,b) Stridor
+Option,0,c) Rhonchi
+Option,0,d) Wheezing
+Hint,"Complexity: Easy			Ahead: Patient Assessment of an Immunologic Emergency			Subject:Allergy and Anaphylaxis, Page 808			Title: Allergy and Anaphylaxis			Feedback: See Patient Assessment of an Immunologic Emergency			Taxonomy: Application			Objective: 21-6 Discuss the steps in the primary assessment that are specific to a patient who is having an allergic reaction.",
+NewQuestion,MC,
+Title,,
+QuestionText,"While auscultating breath sounds of a patient who was stung multiple times by a yellow jacket, you hear bilateral wheezing over all lung fields. This indicates:",
+Points,1,
+Difficulty,1,
+Option,0,a) rapid swelling of the upper airway tissues.
+Option,0,b) a significant amount of fluid in the alveoli.
+Option,100,c) narrowing of the bronchioles in the lungs.
+Option,0,d) enlargement of the bronchioles in the lungs.
+Hint,"Complexity: Moderate			Ahead: Patient Assessment of an Immunologic Emergency			Subject:Allergy and Anaphylaxis, Page 808			Title: Allergy and Anaphylaxis			Feedback: See Patient Assessment of an Immunologic Emergency			Taxonomy: Analysis			Objective: 21-6 Discuss the steps in the primary assessment that are specific to a patient who is having an allergic reaction.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following physiologic actions does epinephrine produce when given for an allergic reaction?,
+Points,1,
+Difficulty,1,
+Option,0,a) Bronchodilation and vasodilation
+Option,100,b) Vasoconstriction and bronchodilation
+Option,0,c) Bronchoconstriction and vasoconstriction
+Option,0,d) Blocking of further histamine release
+Hint,"Complexity: Moderate			Ahead: Emergency Medical Care of Immunologic Emergencies			Subject:Allergy and Anaphylaxis, Page 813			Title: Allergy and Anaphylaxis			Feedback: See Emergency Medical Care of Immunologic Emergencies			Taxonomy: Recall			Objective: 21-9 Explain the rationale, including communication and documentation considerations, when determining whether to administer epinephrine to a patient who is having an allergic reaction.",
+NewQuestion,MC,
+Title,,
+QuestionText,Epinephrine is indicated for patients with an allergic reaction when:,
+Points,1,
+Difficulty,1,
+Option,100,a) wheezing and hypotension are present.
+Option,0,b) the patient is anxious and tachycardic.
+Option,0,c) a paramedic is present at the scene.
+Option,0,d) the reaction produces severe urticaria.
+Hint,"Complexity: Moderate			Ahead: Emergency Medical Care of Immunologic Emergencies			Subject:Allergy and Anaphylaxis, Page 810			Title: Allergy and Anaphylaxis			Feedback: See Emergency Medical Care of Immunologic Emergencies			Taxonomy: Application			Objective: 21-9 Explain the rationale, including communication and documentation considerations, when determining whether to administer epinephrine to a patient who is having an allergic reaction.",
+NewQuestion,MC,
+Title,,
+QuestionText,"The adult epinephrine auto-injector delivers ______ mg of epinephrine, and the infant–child auto-injector delivers ______ mg.",
+Points,1,
+Difficulty,1,
+Option,0,a) 0.1; 0.01
+Option,0,b) 0.01; 0.1
+Option,0,c) 0.03; 0.3
+Option,100,d) 0.3; 0.15
+Hint,"Complexity: Moderate			Ahead: Emergency Medical Care of Immunologic Emergencies			Subject:Allergy and Anaphylaxis, Page 813			Title: Allergy and Anaphylaxis			Feedback: See Emergency Medical Care of Immunologic Emergencies			Taxonomy: Recall			Objective: 21-9 Explain the rationale, including communication and documentation considerations, when determining whether to administer epinephrine to a patient who is having an allergic reaction.",
+NewQuestion,MC,
+Title,,
+QuestionText,"When an auto-injector is used to give epinephrine, the primary injection site is the:",
+Points,1,
+Difficulty,1,
+Option,0,a) medial part of the buttocks.
+Option,0,b) lateral portion of the arm.
+Option,100,c) lateral portion of the thigh.
+Option,0,d) medial portion of the thigh.
+Hint,"Complexity: Easy			Ahead: Emergency Medical Care of Immunologic Emergencies			Subject:Allergy and Anaphylaxis, Page 813			Title: Allergy and Anaphylaxis			Feedback: See Emergency Medical Care of Immunologic Emergencies			Taxonomy: Recall			Objective: 21-9 Explain the rationale, including communication and documentation considerations, when determining whether to administer epinephrine to a patient who is having an allergic reaction.",
+NewQuestion,MC,
+Title,,
+QuestionText,"When administering epinephrine via auto-injector, you should hold the injector in place for:",
+Points,1,
+Difficulty,1,
+Option,100,a) 3 seconds.
+Option,0,b) 8 seconds.
+Option,0,c) 10 seconds.
+Option,0,d) 15 seconds.
+Hint,"Complexity: Moderate			Ahead: Emergency Medical Care of Immunologic Emergencies			Subject:Allergy and Anaphylaxis, Page 814			Title: Allergy and Anaphylaxis			Feedback: See Emergency Medical Care of Immunologic Emergencies			Taxonomy: Recall			Objective: 21-9 Explain the rationale, including communication and documentation considerations, when determining whether to administer epinephrine to a patient who is having an allergic reaction.",
+NewQuestion,MC,
+Title,,
+QuestionText,"Immediately after giving an epinephrine injection, you should:",
+Points,1,
+Difficulty,1,
+Option,100,a) properly dispose of the syringe.
+Option,0,b) record the time and dose given.
+Option,0,c) reassess the patient’s vital signs.
+Option,0,d) notify medical control of your action.
+Hint,"Complexity: Moderate			Ahead: Emergency Medical Care of Immunologic Emergencies			Subject:Allergy and Anaphylaxis, Page 814			Title: Allergy and Anaphylaxis			Feedback: See Emergency Medical Care of Immunologic Emergencies			Taxonomy: Recall			Objective: 21-9 Explain the rationale, including communication and documentation considerations, when determining whether to administer epinephrine to a patient who is having an allergic reaction.",
+NewQuestion,MC,
+Title,,
+QuestionText,"A 50-year-old male was stung by a honeybee approximately 15 minutes ago. He presents with respiratory distress, facial swelling, and hypotension. After placing him on oxygen and administering his epinephrine via auto-injector, you note that his breathing has improved. Additionally, his facial swelling is resolving and his blood pressure is stable. Your next action should be to:",
+Points,1,
+Difficulty,1,
+Option,0,a) reassess his breathing and blood pressure in 15 minutes.
+Option,0,b) visualize his airway to assess for oropharyngeal swelling.
+Option,0,c) notify medical control of the patient’s response to your treatment.
+Option,100,d) record the time and dose of the injection and transport promptly.
+Hint,"Complexity: Difficult			Ahead: Emergency Medical Care of Immunologic Emergencies			Subject:Allergy and Anaphylaxis, Page 814			Title: Allergy and Anaphylaxis			Feedback: See Emergency Medical Care of Immunologic Emergencies			Taxonomy: Application			Objective: 21-9 Explain the rationale, including communication and documentation considerations, when determining whether to administer epinephrine to a patient who is having an allergic reaction.",
+NewQuestion,MC,
+Title,,
+QuestionText,"You have administered one dose of epinephrine to a 40-year-old female to treat an allergic reaction that she developed after being stung by a scorpion. Your reassessment reveals that she is still having difficulty breathing, has a decreasing mental status, and has a blood pressure of 80/50 mm Hg. You should:",
+Points,1,
+Difficulty,1,
+Option,0,a) monitor her en route to the hospital and call medical control if she worsens.
+Option,0,b) crush up an antihistamine tablet and place it in between her cheek and gum.
+Option,100,c) request permission from medical control to give another dose of epinephrine.
+Option,0,d) administer a nebulized bronchodilator to improve the status of her breathing.
+Hint,"Complexity: Difficult			Ahead: Emergency Medical Care of Immunologic Emergencies			Subject:Allergy and Anaphylaxis, Page 814			Title: Allergy and Anaphylaxis			Feedback: See Emergency Medical Care of Immunologic Emergencies			Taxonomy: Application			Objective: 21-9 Explain the rationale, including communication and documentation considerations, when determining whether to administer epinephrine to a patient who is having an allergic reaction.",
+NewQuestion,MC,
+Title,,
+QuestionText,The effects of epinephrine are typically observed within _________ following administration.,
+Points,1,
+Difficulty,1,
+Option,0,a) 30 seconds
+Option,100,b) 1 minute
+Option,0,c) 30 minutes
+Option,0,d) 1 hour
+Hint,"Complexity: Easy			Ahead: Emergency Medical Care of Immunologic Emergencies			Subject:Allergy and Anaphylaxis, Page 814			Title: Allergy and Anaphylaxis			Feedback: See Emergency Medical Care of Immunologic Emergencies			Taxonomy: Recall			Objective: 21-9 Explain the rationale, including communication and documentation considerations, when determining whether to administer epinephrine to a patient who is having an allergic reaction.",
+NewQuestion,MC,
+Title,,
+QuestionText,"Common side effects of epinephrine include all of the following, EXCEPT:",
+Points,1,
+Difficulty,1,
+Option,100,a) drowsiness.
+Option,0,b) tachycardia.
+Option,0,c) headache.
+Option,0,d) dizziness.
+Hint,"Complexity: Moderate			Ahead: Emergency Medical Care of Immunologic Emergencies			Subject:Allergy and Anaphylaxis, Page 814			Title: Allergy and Anaphylaxis			Feedback: See Emergency Medical Care of Immunologic Emergencies			Taxonomy: Recall			Objective: 21-9 Explain the rationale, including communication and documentation considerations, when determining whether to administer epinephrine to a patient who is having an allergic reaction.",
+NewQuestion,MC,
+Title,,
+QuestionText,"A 19-year-old female was stung multiple times on the legs by fire ants. She states that she is allergic to fire ants, but does not carry her own epinephrine. The patient is conscious and alert and complains of pain to the area of the bites. Her blood pressure is 122/70 mm Hg, her pulse is 100 beats/min and strong, and her respirations are 18 breaths/min and unlabored. You should:",
+Points,1,
+Difficulty,1,
+Option,0,a) position her legs well above the level of her heart.
+Option,100,b) administer oxygen and transport her to the hospital.
+Option,0,c) request a paramedic unit to administer epinephrine.
+Option,0,d) advise her to see her physician as soon as possible.
+Hint,"Complexity: Difficult			Ahead: Emergency Medical Care of Immunologic Emergencies			Subject:Allergy and Anaphylaxis, Page 814			Title: Allergy and Anaphylaxis			Feedback: See Emergency Medical Care of Immunologic Emergencies			Taxonomy: Application			Objective: 21-9 Explain the rationale, including communication and documentation considerations, when determining whether to administer epinephrine to a patient who is having an allergic reaction.",
+NewQuestion,MC,
+Title,,
+QuestionText,"After administering 0.3 mg of epinephrine via auto-injector to a 22-year-old female with an allergic reaction, you note improvement in her breathing and resolution of her hives. However, she is still anxious and tachycardic. You should:",
+Points,1,
+Difficulty,1,
+Option,0,a) contact medical control and obtain authorization to administer another 0.3 mg of epinephrine.
+Option,0,"b) transport her rapidly, because it is obvious that she is having a severe reaction to the epinephrine."
+Option,100,c) monitor her closely but recall that anxiety and tachycardia are side effects of epinephrine.
+Option,0,d) consider administering 0.15 mg of epinephrine to completely resolve her allergic reaction.
+Hint,"Complexity: Difficult			Ahead: Emergency Medical Care of Immunologic Emergencies			Subject:Allergy and Anaphylaxis, Page 814			Title: Allergy and Anaphylaxis			Feedback: See Emergency Medical Care of Immunologic Emergencies			Taxonomy: Application			Objective: 21-9 Explain the rationale, including communication and documentation considerations, when determining whether to administer epinephrine to a patient who is having an allergic reaction.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following statements regarding epinephrine administration via the intramuscular (IM) route is correct?,
+Points,1,
+Difficulty,1,
+Option,100,a) The 1:1000 concentration should be used.
+Option,0,b) The preferred injection site is the upper arm.
+Option,0,c) The IM route should not be used in children.
+Option,0,d) The maximum single adult dose is 0.15 mg.
+Hint,"Complexity: Moderate			Ahead: Emergency Medical Care of Immunologic Emergencies			Subject:Allergy and Anaphylaxis, Page 816			Title: Allergy and Anaphylaxis			Feedback: See Emergency Medical Care of Immunologic Emergencies			Taxonomy: Recall			Objective: 21-9 Explain the rationale, including communication and documentation considerations, when determining whether to administer epinephrine to a patient who is having an allergic reaction.",

@@ -1,0 +1,720 @@
+NewQuestion,MC,
+Title,,
+QuestionText,The function of the National Incident Management System (NIMS) is to:,
+Points,1,
+Difficulty,1,
+Option,100,"a) prepare for, prevent, respond to, and recover from domestic incidents."
+Option,0,b) facilitate a standard method of incident command for natural disasters.
+Option,0,c) prepare for the potential of a nuclear attack against the United States.
+Option,0,d) educate city and county governments regarding foreign terrorist attacks.
+Hint,"Complexity: Moderate			Ahead: National Incident Management System			Subject: Incident Management, Page 1486			Title: Incident Management			Feedback: See National Incident Management System			Taxonomy: Recall			Objective: 40-1 Describe the purpose of the National Incident Management System (NIMS) and its major components.",
+NewQuestion,MC,
+Title,,
+QuestionText,"Interoperability, an important feature of the NIMS, refers to the ability of:",
+Points,1,
+Difficulty,1,
+Option,0,a) the federal government to intervene during any large- or small-scale incident involving terrorism.
+Option,0,b) EMS systems and fire departments in the same jurisdiction to effectively work as a team.
+Option,0,c) county and state law enforcement agencies to acquire information and pass it along to EMS personnel.
+Option,100,d) agencies of different types or from different jurisdictions to communicate with each other.
+Hint,"Complexity: Easy			Ahead: National Incident Management System			Subject: Incident Management, Page 1487			Title: Incident Management			Feedback: See National Incident Management System			Taxonomy: Recall			Objective: 40-1 Describe the purpose of the National Incident Management System (NIMS) and its major components.",
+NewQuestion,MC,
+Title,,
+QuestionText,The purpose of the incident command system (ICS) is to:,
+Points,1,
+Difficulty,1,
+Option,0,"a) reduce overall mortality and morbidity from large-scale, mass-casualty incidents and to restore key infrastructure."
+Option,100,"b) ensure responder and public safety, achieve incident management goals, and ensure the effective use of resources."
+Option,0,"c) quickly and efficiently respond to natural disasters and terrorist incidents, regardless of the complexity of the incident."
+Option,0,d) protect the public from the effects of large- and small-scale disasters and to minimize the financial impact from such incidents.
+Hint,"Complexity: Moderate			Ahead: Incident Command System			Subject: Incident Management, Page 1487			Title: Incident Management			Feedback: See Incident Command System			Taxonomy: Recall			Objective: 40-2 Describe the purpose of the incident command system (ICS) and its organizational structure.",
+NewQuestion,MC,
+Title,,
+QuestionText,The term used when individual units or different organizations make independent and often inefficient decisions regarding an incident is called:,
+Points,1,
+Difficulty,1,
+Option,100,a) freelancing.
+Option,0,b) undermining.
+Option,0,c) logistical chaos.
+Option,0,d) single command.
+Hint,"Complexity: Easy			Ahead: Incident Command System			Subject: Incident Management, Page 1487			Title: Incident Management			Feedback: See Incident Command System			Taxonomy: Recall			Objective: 40-2 Describe the purpose of the incident command system (ICS) and its organizational structure.",
+NewQuestion,MC,
+Title,,
+QuestionText,A supervisor who has more than seven people reporting to him or her:,
+Points,1,
+Difficulty,1,
+Option,0,a) is more beneficial to the overall effort than a supervisor with fewer personnel because his or her team can accomplish more tasks.
+Option,0,b) should regularly report to the incident commander (IC) to inform him or her of the functions that his or her team is performing.
+Option,100,c) has exceeded an effective span of control and should divide tasks and delegate the supervision of some tasks to another person.
+Option,0,d) should assign a specific task to each person reporting to him or her and regularly follow up to ensure that the tasks were carried out.
+Hint,"Complexity: Moderate			Ahead: Incident Command System			Subject: Incident Management, Page 1488			Title: Incident Management			Feedback: See Incident Command System			Taxonomy: Recall			Objective: 40-2 Describe the purpose of the incident command system (ICS) and its organizational structure.",
+NewQuestion,MC,
+Title,,
+QuestionText,"During a motor vehicle collision involving multiple patients, the incident commander would most likely:",
+Points,1,
+Difficulty,1,
+Option,0,a) maintain responsibility for all of the command functions.
+Option,100,b) designate a safety officer but retain other command functions.
+Option,0,c) delegate all of the command functions to the appropriate personnel.
+Option,0,d) relinquish command when a senior EMS provider arrives at the scene.
+Hint,"Complexity: Moderate			Ahead: Incident Command System			Subject: Incident Management, Page 1488			Title: Incident Management			Feedback: See Incident Command System			Taxonomy: Application			Objective: 40-2 Describe the purpose of the incident command system (ICS) and its organizational structure.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following statements regarding the unified command system is correct?,
+Points,1,
+Difficulty,1,
+Option,0,"a) The unified command system is one in which one person is in charge, even if multiple agencies respond to a disaster or mass-casualty incident."
+Option,0,"b) Ideally, the unified command system is used for short-duration, limited incidents that require the services of a single agency from one jurisdiction."
+Option,0,"c) In a unified command system, there are separate ICs for fire, police, EMS, and any other agencies that respond to the incident."
+Option,100,"d) Under the unified command system, plans are drawn up in advance by all cooperating agencies that assume a shared responsibility for decision making."
+Hint,"Complexity: Moderate			Ahead: Incident Command System			Subject: Incident Management, Page 1488			Title: Incident Management			Feedback: See Incident Command System			Taxonomy: Recall			Objective: 40-2 Describe the purpose of the incident command system (ICS) and its organizational structure.",
+NewQuestion,MC,
+Title,,
+QuestionText,"If an incident increases in scope and complexity, the incident commander should consider:",
+Points,1,
+Difficulty,1,
+Option,0,a) ceasing all operations until a revised plan is established.
+Option,0,b) maintaining responsibility for all of the command functions.
+Option,100,c) relinquishing command to someone with more experience.
+Option,0,d) requesting a second incident commander to assist him or her.
+Hint,"Complexity: Moderate			Ahead: Incident Command System			Subject: Incident Management, Page 1489			Title: Incident Management			Feedback: See Incident Command System			Taxonomy: Recall			Objective: 40-2 Describe the purpose of the incident command system (ICS) and its organizational structure.",
+NewQuestion,MC,
+Title,,
+QuestionText,"Command functions under the incident command system include all of the following, except:",
+Points,1,
+Difficulty,1,
+Option,100,a) triage officer.
+Option,0,b) safety officer.
+Option,0,c) liaison officer.
+Option,0,d) public information officer
+Hint,"Complexity: Easy			Ahead: Incident Command System			Subject: Incident Management, Page 1490			Title: Incident Management			Feedback: See Incident Command System			Taxonomy: Recall			Objective: 40-2 Describe the purpose of the incident command system (ICS) and its organizational structure.",
+NewQuestion,MC,
+Title,,
+QuestionText,"At a very large incident, the __________ section is responsible for managing the tactical operations usually handled by the incident commander on routine EMS calls.",
+Points,1,
+Difficulty,1,
+Option,0,a) logistics
+Option,100,b) operations
+Option,0,c) planning
+Option,0,d) finance
+Hint,"Complexity: Moderate			Ahead: Incident Command System			Subject: Incident Management, Page 1490			Title: Incident Management			Feedback: See Incident Command System			Taxonomy: Recall			Objective: 40-2 Describe the purpose of the incident command system (ICS) and its organizational structure.",
+NewQuestion,MC,
+Title,,
+QuestionText,The development of an incident action plan is the responsibility of the:,
+Points,1,
+Difficulty,1,
+Option,100,a) planning section.
+Option,0,b) logistics section.
+Option,0,c) operations section.
+Option,0,d) finance section.
+Hint,"Complexity: Moderate			Ahead: Incident Command System			Subject: Incident Management, Page 1490			Title: Incident Management			Feedback: See Incident Command System			Taxonomy: Recall			Objective: 40-2 Describe the purpose of the incident command system (ICS) and its organizational structure.",
+NewQuestion,MC,
+Title,,
+QuestionText,A critical function of the safety officer is to:,
+Points,1,
+Difficulty,1,
+Option,0,a) determine the most efficient approach to extricate a victim.
+Option,100,b) stop an emergency operation whenever a rescuer is in danger.
+Option,0,c) monitor emergency responders for signs of stress and anxiety.
+Option,0,d) brief responders during the demobilization phase of an incident.
+Hint,"Complexity: Moderate			Ahead: National Incident Management System			Subject: Incident Management, Page 1490			Title: Incident Management			Feedback: See National Incident Management System			Taxonomy: Recall			Objective: 40-2 Describe the purpose of the incident command system (ICS) and its organizational structure.",
+NewQuestion,MC,
+Title,,
+QuestionText,"Historically, the weak point at most major incidents has been:",
+Points,1,
+Difficulty,1,
+Option,0,a) accountability.
+Option,0,b) lack of personnel.
+Option,0,c) incident briefing.
+Option,100,d) communication.
+Hint,"Complexity: Easy			Ahead: Incident Command System			Subject: Incident Management, Page 1490			Title: Incident Management			Feedback: See Incident Command System			Taxonomy: Recall			Objective: 40-2 Describe the purpose of the incident command system (ICS) and its organizational structure.",
+NewQuestion,MC,
+Title,,
+QuestionText,"In preparing for a disaster, EMS systems should have enough supplies for at least a ______ period of self-sufficiency.",
+Points,1,
+Difficulty,1,
+Option,0,a) 24-hour
+Option,0,b) 48-hour
+Option,100,c) 72-hour
+Option,0,d) 96-hour
+Hint,"Complexity: Moderate			Ahead: EMS Response Within the ICS			Subject: Incident Management, Page 1491			Title: Incident Management			Feedback: See EMS Response Within the ICS			Taxonomy: Recall			Objective: 40-3 Explain the role of EMS response within the ICS.",
+NewQuestion,MC,
+Title,,
+QuestionText,"As the first-arriving senior EMT at the scene of an incident, you should perform a scene size-up and then:",
+Points,1,
+Difficulty,1,
+Option,100,a) establish command.
+Option,0,b) begin the triage process.
+Option,0,c) call for additional resources.
+Option,0,d) quickly identify the walking wounded.
+Hint,"Complexity: Moderate			Ahead: EMS Response Within the ICS			Subject: Incident Management, Page 1493			Title: Incident Management			Feedback: See EMS Response Within the ICS			Taxonomy: Application			Objective: 40-5 Describe the role of the EMT in establishing command under the ICS.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following statements regarding communications at a disaster or multiple-casualty incident is correct?,
+Points,1,
+Difficulty,1,
+Option,100,a) Each command group should utilize a separate radio frequency.
+Option,0,b) Ten-codes or signals should be used when communicating via radio.
+Option,0,"c) When possible, all communication should occur via two-way radio."
+Option,0,"d) If possible, use face-to-face communications to minimize radio traffic."
+Hint,"Complexity: Moderate			Ahead: EMS Response Within the ICS			Subject: Incident Management, Page 1493			Title: Incident Management			Feedback: See EMS Response Within the ICS			Taxonomy: Recall			Objective: 40-4 Describe how the ICS assists EMS in ensuring both personal safety and the safety of bystanders, health care professionals, and patients during an emergency.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following duties or responsibilities does not fall within the realm of the medical branch of the incident command system?,
+Points,1,
+Difficulty,1,
+Option,0,a) Triage
+Option,0,b) Transport
+Option,0,c) Treatment
+Option,100,d) Extrication
+Hint,"Complexity: Easy			Ahead: The Medical Branch of Incident Command			Subject: Incident Management, Page 1494			Title: Incident Management			Feedback: See The Medical Branch of Incident Command			Taxonomy: Recall			Objective: 40-6 Describe the purpose of the medical branch of the ICS and its organizational structure.",
+NewQuestion,MC,
+Title,,
+QuestionText,"As a triage supervisor, you:",
+Points,1,
+Difficulty,1,
+Option,0,a) must prepare patients for transport before they leave the triage area.
+Option,100,b) must not begin treatment until all patients have been triaged.
+Option,0,c) are responsible for providing initial treatment to all patients.
+Option,0,d) should communicate with area hospitals regarding their capabilities.
+Hint,"Complexity: Moderate			Ahead: The Medical Branch of Incident Command			Subject: Incident Management, Page 1494			Title: Incident Management			Feedback: See The Medical Branch of Incident Command			Taxonomy: Recall			Objective: 40-6 Describe the purpose of the medical branch of the ICS and its organizational structure.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following is not a responsibility of the treatment supervisor?,
+Points,1,
+Difficulty,1,
+Option,100,a) Primary assessment
+Option,0,b) Secondary triage
+Option,0,c) Patient packaging
+Option,0,d) Communication with the medical branch director
+Hint,"Complexity: Moderate			Ahead: The Medical Branch of Incident Command			Subject: Incident Management, Page 1494			Title: Incident Management			Feedback: See The Medical Branch of Incident Command			Taxonomy: Recall			Objective: 40-6 Describe the purpose of the medical branch of the ICS and its organizational structure.",
+NewQuestion,MC,
+Title,,
+QuestionText,When victims involved in a multiple-casualty incident are moved to the treatment area:,
+Points,1,
+Difficulty,1,
+Option,0,a) definitive care is provided and preparations for transport will be made.
+Option,100,"b) secondary triage is performed, and the appropriate treatment is rendered."
+Option,0,c) they will be rapidly assessed and prioritized according to their injuries.
+Option,0,d) all uninjured patients are placed in a holding area and closely observed.
+Hint,"Complexity: Easy			Ahead: The Medical Branch of Incident Command			Subject: Incident Management, Page 1494			Title: Incident Management			Feedback: See The Medical Branch of Incident Command			Taxonomy: Recall			Objective: 40-6 Describe the purpose of the medical branch of the ICS and its organizational structure.",
+NewQuestion,MC,
+Title,,
+QuestionText,The ____________ supervisor is responsible for notifying area hospitals and determining their availability and capabilities.,
+Points,1,
+Difficulty,1,
+Option,0,a) triage
+Option,0,b) medical
+Option,0,c) treatment
+Option,100,d) transportation
+Hint,"Complexity: Easy			Ahead: The Medical Branch of Incident Command			Subject: Incident Management, Page 1494			Title: Incident Management			Feedback: See The Medical Branch of Incident Command			Taxonomy: Recall			Objective: 40-6 Describe the purpose of the medical branch of the ICS and its organizational structure.",
+NewQuestion,MC,
+Title,,
+QuestionText,The __________ area is where incoming ambulances meet and await further instructions at the scene of a multiple-casualty incident.,
+Points,1,
+Difficulty,1,
+Option,0,a) triage
+Option,0,b) support
+Option,100,c) staging
+Option,0,d) transportation
+Hint,"Complexity: Easy			Ahead: The Medical Branch of Incident Command			Subject: Incident Management, Page 1494			Title: Incident Management			Feedback: See The Medical Branch of Incident Command			Taxonomy: Recall			Objective: 40-6 Describe the purpose of the medical branch of the ICS and its organizational structure.",
+NewQuestion,MC,
+Title,,
+QuestionText,"When a rehabilitation area is established at the scene of a multiple-casualty incident, it should:",
+Points,1,
+Difficulty,1,
+Option,100,a) be in a location that prevents visualization of the scene itself.
+Option,0,b) be mandated that responders participate in a defusing session.
+Option,0,c) provide rehabilitative services to both responders and patients.
+Option,0,d) be staffed by the treatment supervisor and at least one physician.
+Hint,"Complexity: Moderate			Ahead: The Medical Branch of Incident Command			Subject: Incident Management, Page 1494			Title: Incident Management			Feedback: See The Medical Branch of Incident Command			Taxonomy: Recall			Objective: 40-6 Describe the purpose of the medical branch of the ICS and its organizational structure.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following most accurately describes a multiple-casualty incident?,
+Points,1,
+Difficulty,1,
+Option,0,a) An incident that involves more than five critically injured or ill patients
+Option,0,b) An incident where patients have been exposed to hazardous materials
+Option,0,c) An incident in which at least half of the patients are critically injured
+Option,100,d) An incident that greatly taxes or depletes a system’s available resources
+Hint,"Complexity: Moderate			Ahead: Mass-Casualty Incidents			Subject: Incident Management, Page 1496			Title: Incident Management			Feedback: See Mass-Casualty Incidents			Taxonomy: Recall			Objective: 40-7 Describe the specific conditions that would define a situation as a mass-casualty incident (MCI); include examples.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following is probably not a multiple-casualty incident?,
+Points,1,
+Difficulty,1,
+Option,100,a) A motor vehicle crash with two critically injured patients and two ambulances
+Option,0,b) A loss of power to a hospital or nursing home with ventilator-dependent patients
+Option,0,c) An apartment fire with one patient and the possibility of others trapped in the building
+Option,0,d) A rollover crash of a school bus with eight children who have injuries of varying severity
+Hint,"Complexity: Difficult			Ahead: Mass-Casualty Incidents			Subject: Incident Management, Page 1496			Title: Incident Management			Feedback: See Mass-Casualty Incidents			Taxonomy: Application			Objective: 40-7 Describe the specific conditions that would define a situation as a mass-casualty incident (MCI); include examples.",
+NewQuestion,MC,
+Title,,
+QuestionText,"You and your partner are the first to arrive at the scene of a motor vehicle accident. As you approach the scene, you can see multiple patients, some walking and others who are still in their vehicles. You should:",
+Points,1,
+Difficulty,1,
+Option,0,a) establish an incident command post until you are relieved of your duties.
+Option,100,b) declare a multiple-casualty incident and request additional resources.
+Option,0,c) begin rapidly triaging all patients before requesting additional help.
+Option,0,d) immediately move all ambulatory patients to a designated area.
+Hint,"Complexity: Moderate			Ahead: Mass-Casualty Incidents			Subject: Incident Management, Page 1496			Title: Incident Management			Feedback: See Mass-Casualty Incidents			Taxonomy: Application			Objective: 40-7 Describe the specific conditions that would define a situation as a mass-casualty incident (MCI); include examples.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following questions is of least pertinence when the EMT is determining whether to declare a multiple-casualty incident and activate the incident command system?,
+Points,1,
+Difficulty,1,
+Option,0,a) What will happen if there are more than two patients that require emergency care?
+Option,0,b) How long will it take for additional resources to arrive at the scene once requested?
+Option,100,c) How many paramedics can respond to the scene and provide advanced care?
+Option,0,d) How many seriously injured patients can be effectively cared for in my ambulance?
+Hint,"Complexity: Moderate			Ahead: Mass-Casualty Incidents			Subject: Incident Management, Page 1497			Title: Incident Management			Feedback: See Mass-Casualty Incidents			Taxonomy: Application			Objective: 40-7 Describe the specific conditions that would define a situation as a mass-casualty incident (MCI); include examples.",
+NewQuestion,MC,
+Title,,
+QuestionText,"You have a critically injured patient in the back of your ambulance, ready to be transported. There are other injured patients at the scene, and it will be approximately 10 minutes before other ambulances will arrive. Law enforcement personnel are at the scene. You should:",
+Points,1,
+Difficulty,1,
+Option,0,a) transport the critically injured patient to a trauma center.
+Option,0,b) direct a police officer to monitor the patients as you transport.
+Option,100,c) remain at the scene until at least one other ambulance arrives.
+Option,0,d) assign the least injured patient the task of caring for the others.
+Hint,"Complexity: Difficult			Ahead: Mass-Casualty Incidents			Subject: Incident Management, Page 1497			Title: Incident Management			Feedback: See Mass-Casualty Incidents			Taxonomy: Application			Objective: 40-7 Describe the specific conditions that would define a situation as a mass-casualty incident (MCI); include examples.",
+NewQuestion,MC,
+Title,,
+QuestionText,"To accomplish the goal of primary triage, it is important to:",
+Points,1,
+Difficulty,1,
+Option,0,a) take no more than 2 minutes to determine the patient’s status.
+Option,100,b) keep the triage assessment brief and the patient categories basic.
+Option,0,c) begin life-saving care immediately upon detecting critical injuries.
+Option,0,d) perform a rapid assessment on all patients who appear to be unstable.
+Hint,"Complexity: Moderate			Ahead: Triage			Subject: Incident Management, Page 1497			Title: Incident Management			Feedback: See Triage			Taxonomy: Recall			Objective: 40-8 Describe what occurs during primary and secondary triage, how the four triage categories are assigned to patients on the scene, and how destination decisions regarding triaged patients are made.",
+NewQuestion,MC,
+Title,,
+QuestionText,"After primary triage, the triage supervisor should communicate all of the following information to the medical branch officer, except:",
+Points,1,
+Difficulty,1,
+Option,0,a) the total number of patients that have been triaged.
+Option,100,b) the recommended transport destination for each patient.
+Option,0,c) recommendations for movement to the treatment area.
+Option,0,d) the number of patients that are in each triage category.
+Hint,"Complexity: Moderate			Ahead: Triage			Subject: Incident Management, Page 1497			Title: Incident Management			Feedback: See Triage			Taxonomy: Application			Objective: 40-8 Describe what occurs during primary and secondary triage, how the four triage categories are assigned to patients on the scene, and how destination decisions regarding triaged patients are made.",
+NewQuestion,MC,
+Title,,
+QuestionText,"Injuries or conditions that would be classified as first priority (red tag; immediate) include all of the following, except:",
+Points,1,
+Difficulty,1,
+Option,0,a) severe medical problems.
+Option,100,b) fractures of multiple long bones.
+Option,0,c) any airway or breathing difficulty.
+Option,0,d) uncontrolled or severe hemorrhage.
+Hint,"Complexity: Moderate			Ahead: Triage			Subject: Incident Management, Page 1498			Title: Incident Management			Feedback: See Triage			Taxonomy: Recall			Objective: 40-8 Describe what occurs during primary and secondary triage, how the four triage categories are assigned to patients on the scene, and how destination decisions regarding triaged patients are made.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following patients should be assigned an immediate (red tag) category?,
+Points,1,
+Difficulty,1,
+Option,100,"a) 22-year-old male with blunt abdominal trauma, tachycardia, pallor, and diaphoresis"
+Option,0,b) 29-year-old female with a back injury and numbness and tingling in her extremities
+Option,0,c) 31-year-old male with an open fracture of the forearm and minimal external bleeding
+Option,0,"d) 36-year-old female with an open head injury, agonal breathing, and a slow pulse rate"
+Hint,"Complexity: Moderate			Ahead: Triage			Subject: Incident Management, Page 1498			Title: Incident Management			Feedback: See Triage			Taxonomy: Application			Objective: 40-8 Describe what occurs during primary and secondary triage, how the four triage categories are assigned to patients on the scene, and how destination decisions regarding triaged patients are made.",
+NewQuestion,MC,
+Title,,
+QuestionText,You are triaging four patients who were involved in a head-on motor vehicle crash. Which of the following patients should be assigned the highest (red) triage category?,
+Points,1,
+Difficulty,1,
+Option,0,a) A 50-year-old male with an open head injury and no pulse
+Option,100,b) A 49-year-old female with diabetes and difficulty breathing
+Option,0,c) A 36-year-old female with back pain and numb extremities
+Option,0,d) A 29-year-old male with bilaterally closed femur deformities
+Hint,"Complexity: Difficult			Ahead: Triage			Subject: Incident Management, Page 1498			Title: Incident Management			Feedback: See Triage			Taxonomy: Application			Objective: 40-8 Describe what occurs during primary and secondary triage, how the four triage categories are assigned to patients on the scene, and how destination decisions regarding triaged patients are made.",
+NewQuestion,MC,
+Title,,
+QuestionText,"A patient who has experienced a back injury, with or without spinal cord damage, would be triaged with a __________ tag during a mass-casualty incident.",
+Points,1,
+Difficulty,1,
+Option,0,a) red
+Option,0,b) green
+Option,0,c) black
+Option,100,d) yellow
+Hint,"Complexity: Moderate			Ahead: Triage			Subject: Incident Management, Page 1498			Title: Incident Management			Feedback: See Triage			Taxonomy: Recall			Objective: 40-8 Describe what occurs during primary and secondary triage, how the four triage categories are assigned to patients on the scene, and how destination decisions regarding triaged patients are made.",
+NewQuestion,MC,
+Title,,
+QuestionText,Burn patients without airway compromise and patients with multiple bone or joint injuries should be marked with a __________ triage tag at a mass-casualty incident.,
+Points,1,
+Difficulty,1,
+Option,0,a) red
+Option,100,b) yellow
+Option,0,c) green
+Option,0,d) black
+Hint,"Complexity: Moderate			Ahead: Triage			Subject: Incident Management, Page 1498			Title: Incident Management			Feedback: See Triage			Taxonomy: Application			Objective: 40-8 Describe what occurs during primary and secondary triage, how the four triage categories are assigned to patients on the scene, and how destination decisions regarding triaged patients are made.",
+NewQuestion,MC,
+Title,,
+QuestionText,"A patient in respiratory arrest at the scene of a multiple-casualty incident would typically be classified as a fourth priority (black tag; expectant) patient, unless:",
+Points,1,
+Difficulty,1,
+Option,0,a) he or she has signs of an injury to the cervical spine.
+Option,0,b) he or she has external signs of severe thoracic trauma.
+Option,0,c) there are at least three other patients in respiratory arrest.
+Option,100,d) there are enough resources to provide care for him or her.
+Hint,"Complexity: Moderate			Ahead: Triage			Subject: Incident Management, Page 1498			Title: Incident Management			Feedback: See Triage			Taxonomy: Application			Objective: 40-8 Describe what occurs during primary and secondary triage, how the four triage categories are assigned to patients on the scene, and how destination decisions regarding triaged patients are made.",
+NewQuestion,MC,
+Title,,
+QuestionText,"You and your partner arrive at the scene where a truck has crashed into a small building, injuring eight people. You immediately request additional ambulances and begin the triage process. The first patient that you triage is a young female who is unconscious and apneic. She has an open head injury, and her pulse is weak and thready. You should:",
+Points,1,
+Difficulty,1,
+Option,0,a) assess the severity of her open head injury.
+Option,0,b) place a red tag on her and continue triaging.
+Option,0,c) begin ventilating her with a bag-valve mask.
+Option,100,d) assign her a low priority and continue triaging.
+Hint,"Complexity: Difficult			Ahead: Triage			Subject: Incident Management, Page 1498			Title: Incident Management			Feedback: See Triage			Taxonomy: Application			Objective: 40-8 Describe what occurs during primary and secondary triage, how the four triage categories are assigned to patients on the scene, and how destination decisions regarding triaged patients are made.",
+NewQuestion,MC,
+Title,,
+QuestionText,"A tour bus has overturned, resulting in numerous patients. When you arrive, you are immediately assigned to assist in the triage process. Patient 1 is a middle-aged male with respiratory distress, chest pain, and a closed deformity to his right forearm. Patient 2 is a young female who is conscious and alert but has bilateral femur fractures and numerous abrasions to her arms and face. Patient 3 is an older woman who complains of abdominal pain and has a history of cardiovascular disease. Patient 4 is unresponsive, is not breathing, has a weak carotid pulse, and has a grossly deformed skull. What triage categories should you assign to these patients?",
+Points,1,
+Difficulty,1,
+Option,0,"a) Patient 1, immediate (red); Patient 2, minimal (green); Patient 3, delayed (yellow); Patient 4, expectant (black)"
+Option,0,"b) Patient 1, delayed (yellow); Patient 2, immediate (red); Patient 3, delayed (yellow); Patient 4, immediate (red)"
+Option,100,"c) Patient 1, immediate (red); Patient 2, delayed (yellow); Patient 3, immediate (red); Patient 4, expectant (black)"
+Option,0,"d) Patient 1, delayed (yellow); Patient 2, delayed (yellow); Patient 3, minimal (green); Patient 4, immediate (red)"
+Hint,"Complexity: Moderate			Ahead: Triage			Subject: Incident Management, Page 1498			Title: Incident Management			Feedback: See Triage			Taxonomy: Application			Objective: 40-8 Describe what occurs during primary and secondary triage, how the four triage categories are assigned to patients on the scene, and how destination decisions regarding triaged patients are made.",
+NewQuestion,MC,
+Title,,
+QuestionText,The first step in the START triage system is to:,
+Points,1,
+Difficulty,1,
+Option,0,a) focus on the patients who are unconscious.
+Option,0,b) scan the area for patients with severe bleeding.
+Option,100,c) move all walking patients to a designated area.
+Option,0,d) get a quick head count of all the patients involved.
+Hint,"Complexity: Moderate			Ahead: Triage			Subject: Incident Management, Page 1500			Title: Incident Management			Feedback: See Triage			Taxonomy: Recall			Objective: 40-9 Explain how to perform the START and JumpSTART triage methods.",
+NewQuestion,MC,
+Title,,
+QuestionText,"According to the START triage system, what should you do if you encounter an unresponsive patient who is not breathing?",
+Points,1,
+Difficulty,1,
+Option,100,a) Open the airway and reassess breathing status.
+Option,0,b) Assign the patient in the “immediate” category.
+Option,0,c) Ventilate the patient for 2 minutes and reassess.
+Option,0,d) Triage the patient as “expectant” and move on.
+Hint,"Complexity: Easy			Ahead: Triage			Subject: Incident Management, Page 1500			Title: Incident Management			Feedback: See Triage			Taxonomy: Recall			Objective: 40-9 Explain how to perform the START and JumpSTART triage methods.",
+NewQuestion,MC,
+Title,,
+QuestionText,"According to the START triage system, which of the following patients should be triaged as an immediate priority (red tag)?",
+Points,1,
+Difficulty,1,
+Option,0,a) Conscious with a respiratory rate of 24 breaths/min
+Option,100,b) Unresponsive with a respiratory rate of 34 breaths/min
+Option,0,"c) Apneic, despite manually opening the airway"
+Option,0,"d) Conscious, in severe pain, with radial pulses present"
+Hint,"Complexity: Difficult			Ahead: Triage			Subject: Incident Management, Page 1501			Title: Incident Management			Feedback: See Triage			Taxonomy: Application			Objective: 40-9 Explain how to perform the START and JumpSTART triage methods.",
+NewQuestion,MC,
+Title,,
+QuestionText,"According to the START triage system, what should you do if a patient is found to have a respiratory rate of 24 breaths/min?",
+Points,1,
+Difficulty,1,
+Option,0,a) Administer high-flow oxygen.
+Option,0,b) Triage the patient as delayed.
+Option,100,c) Assess for bilateral radial pulses.
+Option,0,d) Assess his or her neurologic status.
+Hint,"Complexity: Difficult			Ahead: Triage			Subject: Incident Management, Page 1501			Title: Incident Management			Feedback: See Triage			Taxonomy: Recall			Objective: 40-9 Explain how to perform the START and JumpSTART triage methods.",
+NewQuestion,MC,
+Title,,
+QuestionText,"You are triaging patients at the scene of a multiple-vehicle crash when you encounter a young male who is unresponsive and is not breathing. After you open his airway, he begins to breathe at a rapid rate. According to the START triage system, you should:",
+Points,1,
+Difficulty,1,
+Option,0,a) assist his ventilations with a bag-valve mask and perform a rapid scan of his entire body.
+Option,0,b) move him to the treatment area so he can receive a more comprehensive assessment of his status.
+Option,0,c) move to the other patients but reassess him in 5 minutes to determine if he is still breathing.
+Option,100,"d) tag him as immediate (red), place him in the recovery position, and move to the next patient."
+Hint,"Complexity: Difficult			Ahead: Triage			Subject: Incident Management, Page 1501			Title: Incident Management			Feedback: See Triage			Taxonomy: Recall			Objective: 40-9 Explain how to perform the START and JumpSTART triage methods.",
+NewQuestion,MC,
+Title,,
+QuestionText,The JumpSTART triage system is intended to be used for children younger than _____ years or who appear to weigh less than _____.,
+Points,1,
+Difficulty,1,
+Option,0,"a) 5, 50 lb"
+Option,0,"b) 6, 70 lb"
+Option,0,"c) 7, 90 lb"
+Option,100,"d) 8, 100 lb"
+Hint,"Complexity: Easy			Ahead: Triage			Subject: Incident Management, Page 1501			Title: Incident Management			Feedback: See Triage			Taxonomy: Recall			Objective: 40-9 Explain how to perform the START and JumpSTART triage methods.",
+NewQuestion,MC,
+Title,,
+QuestionText,"According to the JumpSTART triage system, infants or children not developed enough to walk or follow commands, including children with special needs:",
+Points,1,
+Difficulty,1,
+Option,0,a) are treated immediately in the primary triage area and then transported.
+Option,0,b) are initially triaged on the basis of whether they have distal pulses.
+Option,100,c) should be taken to the treatment area for immediate secondary triage.
+Option,0,"d) are the first to be transported, regardless of the severity of their injuries."
+Hint,"Complexity: Moderate			Ahead: Triage			Subject: Incident Management, Page 1501			Title: Incident Management			Feedback: See Triage			Taxonomy: Recall			Objective: 40-9 Explain how to perform the START and JumpSTART triage methods.",
+NewQuestion,MC,
+Title,,
+QuestionText,"According to the JumpSTART triage system, if a pediatric patient is not breathing, you should:",
+Points,1,
+Difficulty,1,
+Option,100,a) immediately check for a pulse.
+Option,0,b) triage him or her as expectant.
+Option,0,c) give five rescue breaths and reassess.
+Option,0,d) open the airway and reassess breathing.
+Hint,"Complexity: Easy			Ahead: Triage			Subject: Incident Management, Page 1501			Title: Incident Management			Feedback: See Triage			Taxonomy: Recall			Objective: 40-9 Explain how to perform the START and JumpSTART triage methods.",
+NewQuestion,MC,
+Title,,
+QuestionText,"According to the JumpSTART triage system, if a pediatric patient has a respiratory rate of 40 breaths/min, you should:",
+Points,1,
+Difficulty,1,
+Option,0,a) look for posturing.
+Option,100,b) assess for a distal pulse.
+Option,0,c) assess neurologic status.
+Option,0,d) assign an immediate category.
+Hint,"Complexity: Difficult			Ahead: Triage			Subject: Incident Management, Page 1501			Title: Incident Management			Feedback: See Triage			Taxonomy: Recall			Objective: 40-9 Explain how to perform the START and JumpSTART triage methods.",
+NewQuestion,MC,
+Title,,
+QuestionText,"While triaging patients at the scene of a building collapse, you encounter a young child who is conscious, alert, and breathing; has bilateral radial pulses; and has a severely angulated leg, which is not bleeding. According to the JumpSTART triage system, you should:",
+Points,1,
+Difficulty,1,
+Option,0,a) quickly bind his legs together to stabilize the fracture and continue triaging.
+Option,100,b) assign him a delayed (yellow) category and continue triaging the other patients.
+Option,0,c) evacuate him to a designated area and assign him a minimal (green) category.
+Option,0,"d) apply high-flow oxygen, obtain baseline vital signs, and continue triaging."
+Hint,"Complexity: Difficult			Ahead: Triage			Subject: Incident Management, Page 1501			Title: Incident Management			Feedback: See Triage			Taxonomy: Application			Objective: 40-9 Explain how to perform the START and JumpSTART triage methods.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following statements regarding transport of patients from a multiple-casualty incident or disaster site is correct?,
+Points,1,
+Difficulty,1,
+Option,0,a) Delayed-priority patients should be transported five at a time.
+Option,100,b) Immediate-priority patients should be transported two at a time.
+Option,0,c) Walking wounded patients should be taken to the closest hospitals.
+Option,0,d) Patients who are in cardiac arrest should clearly be transported first.
+Hint,"Complexity: Moderate			Ahead: Triage			Subject: Incident Management, Page 1501			Title: Incident Management			Feedback: See Triage			Taxonomy: Recall			Objective: 40-9 Explain how to perform the START and JumpSTART triage methods.",
+NewQuestion,MC,
+Title,,
+QuestionText,"Unlike a multiple-casualty incident, a natural disaster:",
+Points,1,
+Difficulty,1,
+Option,100,a) often requires personnel to remain on scene for several days.
+Option,0,b) exists when there are more than 100 critically injured patients.
+Option,0,c) is typically short-lived and does not require as much manpower.
+Option,0,d) usually does not require the incident command system process.
+Hint,"Complexity: Moderate			Ahead: Disaster Management			Subject: Incident Management, Page 1502			Title: Incident Management			Feedback: See Disaster Management			Taxonomy: Recall			Objective: 40-14 Contrast a disaster with a mass-casualty incident.",
+NewQuestion,MC,
+Title,,
+QuestionText,"Upon arriving at the scene of a possible hazardous materials (HazMat) incident involving several patients, you should:",
+Points,1,
+Difficulty,1,
+Option,0,a) retrieve all critical patients.
+Option,0,b) rope off the entire perimeter.
+Option,100,c) carefully assess the situation.
+Option,0,d) divert traffic away from the scene.
+Hint,"Complexity: Moderate			Ahead: Introduction to Hazardous Materials			Subject: Incident Management, Page 1503			Title: Incident Management			Feedback: See Introduction to Hazardous Materials			Taxonomy: Recall			Objective: 40-15 Explain the role of EMTs during a hazmat incident both before and after the hazmat team arrives; include the precautions required to ensure the safety of civilians and responders.",
+NewQuestion,MC,
+Title,,
+QuestionText,General principles for approaching a potential HazMat incident include:,
+Points,1,
+Difficulty,1,
+Option,0,a) parking the ambulance in a location that is upwind and downhill.
+Option,0,b) taking standard precautions before entering any HazMat scene.
+Option,100,c) asking for wind direction from dispatch and entering downwind.
+Option,0,d) maintaining a safe distance and viewing the scene with binoculars.
+Hint,"Complexity: Moderate			Ahead: Recognizing a Hazardous Material			Subject: Incident Management, Page 1504			Title: Incident Management			Feedback: See Recognizing a Hazardous Material			Taxonomy: Recall			Objective: 40-14 Discuss the specific reference materials that EMTs use to recognize a hazmat incident.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of your senses can be safely used to identify a HazMat incident?,
+Points,1,
+Difficulty,1,
+Option,100,a) Sight and sound
+Option,0,b) Sound and smell
+Option,0,c) Smell and sight
+Option,0,d) Sight and touch
+Hint,"Complexity: Easy			Ahead: Recognizing a Hazardous Material			Subject: Incident Management, Page 1504			Title: Incident Management			Feedback: See Recognizing a Hazardous Material			Taxonomy: Recall			Objective: 40-14 Discuss the specific reference materials that EMTs use to recognize a hazmat incident.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following statements regarding storage containers and hazardous materials is correct?,
+Points,1,
+Difficulty,1,
+Option,0,a) Red phosphorus from a drug laboratory is found in a blue container that is clearly labeled.
+Option,100,"b) In most cases, there is no correlation between the color of the container and the possible contents."
+Option,0,"c) Steel utility drums are used to contain acids, bases, and other corrosive chemicals and substances."
+Option,0,d) The Emergency Response Guidebook tells you the type and color of container used to store hazardous materials.
+Hint,"Complexity: Moderate			Ahead: Recognizing a Hazardous Material			Subject: Incident Management, Page 1504			Title: Incident Management			Feedback: See Recognizing a Hazardous Material			Taxonomy: Recall			Objective: 40-14 Discuss the specific reference materials that EMTs use to recognize a hazmat incident.",
+NewQuestion,MC,
+Title,,
+QuestionText,A carboy is a container that would most likely be used to store and transport:,
+Points,1,
+Difficulty,1,
+Option,0,a) explosives.
+Option,100,b) corrosives.
+Option,0,c) flammable liquids.
+Option,0,d) combustible materials.
+Hint,"Complexity: Easy			Ahead: Recognizing a Hazardous Material			Subject: Incident Management, Page 1508			Title: Incident Management			Feedback: See Recognizing a Hazardous Material			Taxonomy: Recall			Objective: 40-14 Discuss the specific reference materials that EMTs use to recognize a hazmat incident.",
+NewQuestion,MC,
+Title,,
+QuestionText,Placards and labels on a storage container are intended to:,
+Points,1,
+Difficulty,1,
+Option,0,a) advise responders of the appropriate neutralizing measures.
+Option,0,b) broadly classify chemicals as being explosive or nonexplosive.
+Option,0,c) provide specific information about the chemical being carried.
+Option,100,d) give a general idea of the hazard inside that particular container.
+Hint,"Complexity: Moderate			Ahead: Recognizing a Hazardous Material			Subject: Incident Management, Page 1508			Title: Incident Management			Feedback: See Recognizing a Hazardous Material			Taxonomy: Recall			Objective: 40-14 Discuss the specific reference materials that EMTs use to recognize a hazmat incident.",
+NewQuestion,MC,
+Title,,
+QuestionText,"Which of the following chemicals requires identification with a placard, regardless of how many pounds the shipment weighs?",
+Points,1,
+Difficulty,1,
+Option,0,a) Air-reactive solids
+Option,0,b) Flammable liquids
+Option,100,c) Water-reactive solids
+Option,0,d) Nonflammable gases
+Hint,"Complexity: Easy			Ahead: Recognizing a Hazardous Material			Subject: Incident Management, Page 1510			Title: Incident Management			Feedback: See Recognizing a Hazardous Material			Taxonomy: Recall			Objective: 40-14 Discuss the specific reference materials that EMTs use to recognize a hazmat incident.",
+NewQuestion,MC,
+Title,,
+QuestionText,The reference used as a base for your initial actions at a HazMat incident is/are:,
+Points,1,
+Difficulty,1,
+Option,0,a) the bill of lading.
+Option,0,b) your local EMS protocols.
+Option,0,c) the material safety data sheet (MSDS).
+Option,100,d) the Emergency Response Guidebook.
+Hint,"Complexity: Easy			Ahead: Recognizing a Hazardous Material			Subject: Incident Management, Page 151			Title: Incident Management			Feedback: See Recognizing a Hazardous Material			Taxonomy: Recall			Objective: 40-14 Discuss the specific reference materials that EMTs use to recognize a hazmat incident.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following statements regarding hazardous materials is correct?,
+Points,1,
+Difficulty,1,
+Option,0,"a) Most hazardous materials are odorless and colorless, even when a substantial leak or spill has occurred."
+Option,100,b) Some substances are not hazardous by themselves but become toxic when mixed with another chemical.
+Option,0,c) Identifying the presence of a hazardous material is generally very easy because of the consistent use of placards.
+Option,0,d) A package or truck need only contain small quantities of a hazardous chemical before it must bear a placard or label.
+Hint,"Complexity: Moderate			Ahead: Recognizing a Hazardous Material			Subject: Incident Management, Page 1513			Title: Incident Management			Feedback: See Recognizing a Hazardous Material			Taxonomy: Recall			Objective: 40-14 Discuss the specific reference materials that EMTs use to recognize a hazmat incident.",
+NewQuestion,MC,
+Title,,
+QuestionText,The most appropriate location to park your ambulance at a HazMat incident is:,
+Points,1,
+Difficulty,1,
+Option,0,a) downwind at least 200′ from the scene.
+Option,0,b) downhill at least 100′ from the incident.
+Option,0,c) uphill at least 25′ from the incident site.
+Option,100,d) upwind at least 100′ from the incident.
+Hint,"Complexity: Moderate			Ahead: Recognizing a Hazardous Material			Subject: Incident Management, Page 1514			Title: Incident Management			Feedback: See Recognizing a Hazardous Material			Taxonomy: Application			Objective: 40-16 Describe how the three control zones are established at a hazmat incident, the characteristics of each zone, and the responders who work within each one.",
+NewQuestion,MC,
+Title,,
+QuestionText,"After recognizing that an incident involves a hazardous material, you should contact the hazardous materials team and then:",
+Points,1,
+Difficulty,1,
+Option,0,a) don standard equipment before gaining access to any patients.
+Option,0,b) not allow anyone within 25′ to 50′ of the incident scene.
+Option,100,c) take measures to ensure the safety of yourself and others.
+Option,0,d) identify the chemical using the Emergency Response Guidebook.
+Hint,"Complexity: Moderate			Ahead: Recognizing a Hazardous Material			Subject: Incident Management, Page 1504			Title: Incident Management			Feedback: See Recognizing a Hazardous Material			Taxonomy: Application			Objective: 40-16 Describe how the three control zones are established at a hazmat incident, the characteristics of each zone, and the responders who work within each one.",
+NewQuestion,MC,
+Title,,
+QuestionText,"You are approaching an overturned tanker truck to assess the driver, who appears to be unresponsive. As you get closer to the vehicle, you note the smell of noxious fumes and find that you are in the midst of a vapor cloud. What should you do?",
+Points,1,
+Difficulty,1,
+Option,0,a) Remain where you are and perform a visual assessment of the patient.
+Option,0,b) Cover your face with your shirt and quickly extricate the injured driver.
+Option,0,c) Exit the area immediately and gather information for the HazMat team.
+Option,100,d) Realize that you are in the danger zone and prevent others from entering.
+Hint,"Complexity: Difficult			Ahead: Recognizing a Hazardous Material			Subject: Incident Management, Page 1515			Title: Incident Management			Feedback: See Recognizing a Hazardous Material			Taxonomy: Application			Objective: 40-16 Describe how the three control zones are established at a hazmat incident, the characteristics of each zone, and the responders who work within each one.",
+NewQuestion,MC,
+Title,,
+QuestionText,"During a HazMat incident, you are working in the treatment area. As patients are removed from the danger zone, you should:",
+Points,1,
+Difficulty,1,
+Option,100,a) remain where you are and have the patients brought to you.
+Option,0,b) quickly decontaminate the patients and begin assessing them.
+Option,0,c) perform a rapid assessment and then have them decontaminated.
+Option,0,d) retrieve patients from the decontamination area and begin treatment.
+Hint,"Complexity: Moderate			Ahead: Recognizing a Hazardous Material			Subject: Incident Management, Page 1515			Title: Incident Management			Feedback: See Recognizing a Hazardous Material			Taxonomy: Application			Objective: 40-16 Describe how the three control zones are established at a hazmat incident, the characteristics of each zone, and the responders who work within each one.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following activities occurs in the warm zone?,
+Points,1,
+Difficulty,1,
+Option,100,a) Command
+Option,0,b) Personnel staging
+Option,0,c) Decontamination
+Option,0,d) Medical monitoring
+Hint,"Complexity: Easy			Ahead: Recognizing a Hazardous Material			Subject: Incident Management, Page 1514			Title: Incident Management			Feedback: See Recognizing a Hazardous Material			Taxonomy: Recall			Objective: 40-16 Describe how the three control zones are established at a hazmat incident, the characteristics of each zone, and the responders who work within each one.",
+NewQuestion,MC,
+Title,,
+QuestionText,The process of removing or neutralizing and properly disposing of a hazardous material is called:,
+Points,1,
+Difficulty,1,
+Option,0,a) neutralization.
+Option,100,b) decontamination.
+Option,0,c) antidotal treatment.
+Option,0,d) chemical containment.
+Hint,"Complexity: Easy			Ahead: Recognizing a Hazardous Material			Subject: Incident Management, Page 1515			Title: Incident Management			Feedback: See Recognizing a Hazardous Material			Taxonomy: Recall			Objective: 40-16 Describe how the three control zones are established at a hazmat incident, the characteristics of each zone, and the responders who work within each one.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following is not a common role of the EMT at the scene of a HazMat incident?,
+Points,1,
+Difficulty,1,
+Option,0,a) Rehabilitation
+Option,100,b) Decontamination
+Option,0,c) Transportation
+Option,0,d) Triage and treatment
+Hint,"Complexity: Easy			Ahead: Recognizing a Hazardous Material			Subject: Incident Management, Page 1515			Title: Incident Management			Feedback: See Recognizing a Hazardous Material			Taxonomy: Recall			Objective: 40-15 Explain the role of EMTs during a hazmat incident both before and after the hazmat team arrives; include the precautions required to ensure the safety of civilians and responders.",
+NewQuestion,MC,
+Title,,
+QuestionText,"Level _____ hazardous materials would cause irritation on contact but only mild residual injury, even without treatment.",
+Points,1,
+Difficulty,1,
+Option,0,a) 0
+Option,100,b) 1
+Option,0,c) 2
+Option,0,d) 3
+Hint,"Complexity: Easy			Ahead: Recognizing a Hazardous Material			Subject: Incident Management, Page 1516			Title: Incident Management			Feedback: See Recognizing a Hazardous Material			Taxonomy: Recall			Objective: 40-15 Explain the role of EMTs during a hazmat incident both before and after the hazmat team arrives; include the precautions required to ensure the safety of civilians and responders.",
+NewQuestion,MC,
+Title,,
+QuestionText,A Level 4 hazardous material:,
+Points,1,
+Difficulty,1,
+Option,0,a) causes temporary damage or injury unless prompt medical care is provided.
+Option,0,b) requires protective gear to ensure that no part of the skin’s surface is exposed.
+Option,0,c) is mildly toxic but still requires the use of a self-contained breathing apparatus.
+Option,100,d) requires specialized gear designed for protection against that particular hazard.
+Hint,"Complexity: Moderate			Ahead: Recognizing a Hazardous Material			Subject: Incident Management, Page 1516			Title: Incident Management			Feedback: See Recognizing a Hazardous Material			Taxonomy: Recall			Objective: 40-15 Explain the role of EMTs during a hazmat incident both before and after the hazmat team arrives; include the precautions required to ensure the safety of civilians and responders.",
+NewQuestion,MC,
+Title,,
+QuestionText,"Following proper decontamination, a 30-year-old male is brought to you. He is semiconscious and has rapid, shallow respirations. A quick visual assessment reveals no obvious bleeding. You should:",
+Points,1,
+Difficulty,1,
+Option,100,a) begin some form of positive-pressure ventilation.
+Option,0,b) ask a firefighter what the patient was exposed to.
+Option,0,c) perform a rapid assessment to locate critical injuries.
+Option,0,d) administer high-flow oxygen via a nonrebreathing mask.
+Hint,"Complexity: Difficult			Ahead: Recognizing a Hazardous Material			Subject: Incident Management, Page 1516			Title: Incident Management			Feedback: See Recognizing a Hazardous Material			Taxonomy: Analysis			Objective: 40-15 Explain the role of EMTs during a hazmat incident both before and after the hazmat team arrives; include the precautions required to ensure the safety of civilians and responders.",
+NewQuestion,MC,
+Title,,
+QuestionText,"A 49-year-old man has been removed from his overturned tanker, which was carrying a hazardous material. The tank ruptured, and he was exposed to the material. When rescue personnel bring him to the decontamination area, they note that he is unconscious and has slow, shallow breathing. They should:",
+Points,1,
+Difficulty,1,
+Option,0,a) decontaminate the patient as they would any other patient and then move him to the area where EMTs are waiting.
+Option,100,b) cut away all of the patient’s clothing and do a rapid rinse to remove as much of the contaminating matter as they can.
+Option,0,c) defer the decontamination procedure and bring the patient directly to awaiting EMS personnel for immediate treatment.
+Option,0,"d) request that EMS personnel don standard precautions, enter the warm zone, and begin immediate treatment of the patient."
+Hint,"Complexity: Difficult			Ahead: Recognizing a Hazardous Material			Subject: Incident Management, Page 1516			Title: Incident Management			Feedback: See Recognizing a Hazardous Material			Taxonomy: Application			Objective: 40-15 Explain the role of EMTs during a hazmat incident both before and after the hazmat team arrives; include the precautions required to ensure the safety of civilians and responders.",
+NewQuestion,MC,
+Title,,
+QuestionText,Your work uniform is an example of what level of protection?,
+Points,1,
+Difficulty,1,
+Option,0,a) Level A protection
+Option,0,b) Level B protection
+Option,0,c) Level C protection
+Option,100,d) Level D protection
+Hint,"Complexity: Moderate			Ahead: Recognizing a Hazardous Material			Subject: Incident Management, Page 1516			Title: Incident Management			Feedback: See Recognizing a Hazardous Material			Taxonomy: Recall			Objective: 40-17 Describe the four levels of personal protective equipment (PPE) required at a hazmat incident to protect responders from injury by or contamination from a particular substance.",
+NewQuestion,MC,
+Title,,
+QuestionText,"You are at the scene of multiple-casualty incident when your partner slips and falls, injuring his leg. He is alert and responds appropriately to your questions. His respirations are 20 breath/min, and his radial pulses are strong. What triage category should you assign your partner?",
+Points,1,
+Difficulty,1,
+Option,0,a) Minimal
+Option,0,b) Delayed
+Option,0,c) Expectant
+Option,100,d) Immediate
+Hint,"Complexity: Difficult			Ahead: Triage			Subject: Incident Management, Page 1498			Title: Incident Management			Feedback: See Triage			Taxonomy: Application			Objective: 40-8 Describe what occurs during primary and secondary triage, how the four triage categories are assigned to patients on the scene, and how destination decisions regarding triaged patients are made.",

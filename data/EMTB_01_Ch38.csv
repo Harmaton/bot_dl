@@ -1,0 +1,560 @@
+NewQuestion,MC,
+Title,,
+QuestionText,"A type _____ ambulance features a conventional, truck cab-chassis with a modular ambulance body that can be transferred to a newer chassis as needed.",
+Points,1,
+Difficulty,1,
+Option,100,a) I
+Option,0,b) II
+Option,0,c) III
+Option,0,d) IV
+Hint,"Complexity: Easy			Ahead: Emergency Vehicle Design			Subject:Transport Operations, Page 1426			Title: Transport Operations			Feedback: See Emergency Vehicle Design			Taxonomy: Recall			Objective: 38-3 Name the safety and operations equipment carried on an ambulance; include examples of how each item might be used by EMTs in an emergency.",
+NewQuestion,MC,
+Title,,
+QuestionText,The six-pointed Star of Life emblem identifies vehicles that:,
+Points,1,
+Difficulty,1,
+Option,0,a) are staffed by a minimum of one certified advanced EMT (AEMT).
+Option,100,b) meet federal specifications as licensed or certified ambulances.
+Option,0,c) are equipped with supplies to manage a mass-casualty situation.
+Option,0,d) have complied with state regulations for ambulance certification.
+Hint,"Complexity: Moderate			Ahead: Emergency Vehicle Design			Subject:Transport Operations, Page 1426			Title: Transport Operations			Feedback: See Emergency Vehicle Design			Taxonomy: Recall			Objective: 38-3 Name the safety and operations equipment carried on an ambulance; include examples of how each item might be used by EMTs in an emergency.",
+NewQuestion,MC,
+Title,,
+QuestionText,"Phases of an ambulance call include all of the following activities, except:",
+Points,1,
+Difficulty,1,
+Option,100,a) emergency care provided at the scene.
+Option,0,b) transport of the patient to the hospital.
+Option,0,c) checking equipment on the ambulance.
+Option,0,d) transferring the patient to the ambulance.
+Hint,"Complexity: Easy			Ahead: Phases of an Ambulance Call			Subject:Transport Operations, Page 1426			Title: Transport Operations			Feedback: See Phases of an Ambulance Call			Taxonomy: Recall			Objective: 38-1 List the nine phases of an ambulance call; include examples of key tasks EMTs perform during each phase.",
+NewQuestion,MC,
+Title,,
+QuestionText,Equipment and supplies that are carried on an ambulance should be stored:,
+Points,1,
+Difficulty,1,
+Option,0,a) as directed by the EMS system’s medical director.
+Option,100,b) according to the urgency and frequency of their use.
+Option,0,c) based on recommendations of the health department.
+Option,0,d) in locked or secured cabinets to prevent theft.
+Hint,"Complexity: Moderate			Ahead: Phases of an Ambulance Call			Subject:Transport Operations, Page 1427			Title: Transport Operations			Feedback: See Phases of an Ambulance Call			Taxonomy: Recall			Objective: 38-2 Name the medical equipment carried on an ambulance; include examples of supplies that are included in each main category of the ambulance equipment checklist.",
+NewQuestion,MC,
+Title,,
+QuestionText,"Other than personal safety equipment, which of the following should be the most readily accessible item in the back of an ambulance?",
+Points,1,
+Difficulty,1,
+Option,0,a) Emergency childbirth kit
+Option,0,b) Stethoscope and penlight
+Option,0,c) Long bone splinting device
+Option,100,d) Bleeding control supplies
+Hint,"Complexity: Easy			Ahead: Phases of an Ambulance Call			Subject:Transport Operations, Page 1427			Title: Transport Operations			Feedback: See Phases of an Ambulance Call			Taxonomy: Application			Objective: 38-2 Name the medical equipment carried on an ambulance; include examples of supplies that are included in each main category of the ambulance equipment checklist.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following is an example of regional equipment or supplies?,
+Points,1,
+Difficulty,1,
+Option,0,a) Oral glucose
+Option,0,b) Vacuum splint
+Option,100,c) DuoDote Auto-Injector
+Option,0,d) Inhaled bronchodilator
+Hint,"Complexity: Moderate			Ahead: Phases of an Ambulance Call			Subject:Transport Operations, Page 1428			Title: Transport Operations			Feedback: See Phases of an Ambulance Call			Taxonomy: Recall			Objective: 38-2 Name the medical equipment carried on an ambulance; include examples of supplies that are included in each main category of the ambulance equipment checklist.",
+NewQuestion,MC,
+Title,,
+QuestionText,"Minimum airway and ventilation equipment that should be carried on every ambulance include all of the following, except:",
+Points,1,
+Difficulty,1,
+Option,0,a) various sizes of oral and nasal airways.
+Option,100,"b) Combitubes, or laryngeal mask airways."
+Option,0,c) mounted and portable suctioning units.
+Option,0,d) adult and pediatric bag-valve masks.
+Hint,"Complexity: Moderate			Ahead: Phases of an Ambulance Call			Subject:Transport Operations, Page 1427			Title: Transport Operations			Feedback: See Phases of an Ambulance Call			Taxonomy: Application			Objective: 38-2 Name the medical equipment carried on an ambulance; include examples of supplies that are included in each main category of the ambulance equipment checklist.",
+NewQuestion,MC,
+Title,,
+QuestionText,The least practical place to store a portable oxygen cylinder is:,
+Points,1,
+Difficulty,1,
+Option,0,a) inside the jump kit.
+Option,0,b) near the side or rear door.
+Option,100,c) in the driver’s compartment.
+Option,0,d) on the ambulance stretcher.
+Hint,"Complexity: Moderate			Ahead: Phases of an Ambulance Call			Subject:Transport Operations, Page 1429			Title: Transport Operations			Feedback: See Phases of an Ambulance Call			Taxonomy: Analysis			Objective: 38-2 Name the medical equipment carried on an ambulance; include examples of supplies that are included in each main category of the ambulance equipment checklist.",
+NewQuestion,MC,
+Title,,
+QuestionText,Portable and mounted suction units must be powerful enough to generate a vacuum of at least ____ mm Hg when the tubing is clamped.,
+Points,1,
+Difficulty,1,
+Option,0,a) 100
+Option,0,b) 200
+Option,100,c) 300
+Option,0,d) 400
+Hint,"Complexity: Easy			Ahead: Phases of an Ambulance Call			Subject:Transport Operations, Page 1429			Title: Transport Operations			Feedback: See Phases of an Ambulance Call			Taxonomy: Recall			Objective: 38-2 Name the medical equipment carried on an ambulance; include examples of supplies that are included in each main category of the ambulance equipment checklist.",
+NewQuestion,MC,
+Title,,
+QuestionText,A portable oxygen cylinder should have a minimum capacity of ____ of oxygen.,
+Points,1,
+Difficulty,1,
+Option,0,a) 250 L
+Option,100,b) 500 L
+Option,0,c) 750 L
+Option,0,"d) 1,000 L"
+Hint,"Complexity: Moderate			Ahead: Phases of an Ambulance Call			Subject:Transport Operations, Page 1430			Title: Transport Operations			Feedback: See Phases of an Ambulance Call			Taxonomy: Recall			Objective: 38-2 Name the medical equipment carried on an ambulance; include examples of supplies that are included in each main category of the ambulance equipment checklist.",
+NewQuestion,MC,
+Title,,
+QuestionText,"Regardless of where portable and mounted oxygen cylinders are stored in the ambulance, they must:",
+Points,1,
+Difficulty,1,
+Option,0,a) undergo hydrostatic testing on a weekly basis.
+Option,0,"b) hold a minimum capacity of 1,500 L of oxygen."
+Option,0,c) be easily identifiable by their bright green color.
+Option,100,d) be capable of delivering oxygen at 1 to 15 L/min.
+Hint,"Complexity: Easy			Ahead: Phases of an Ambulance Call			Subject:Transport Operations, Page 1430			Title: Transport Operations			Feedback: See Phases of an Ambulance Call			Taxonomy: Recall			Objective: 38-2 Name the medical equipment carried on an ambulance; include examples of supplies that are included in each main category of the ambulance equipment checklist.",
+NewQuestion,MC,
+Title,,
+QuestionText,A disposable oxygen humidifier should be considered for ambulance services that often transport patients for ___ hour(s) or more.,
+Points,1,
+Difficulty,1,
+Option,100,a) 1
+Option,0,b) 2
+Option,0,c) 3
+Option,0,d) 4
+Hint,"Complexity: Moderate			Ahead: Phases of an Ambulance Call			Subject:Transport Operations, Page 1430			Title: Transport Operations			Feedback: See Phases of an Ambulance Call			Taxonomy: Recall			Objective: 38-2 Name the medical equipment carried on an ambulance; include examples of supplies that are included in each main category of the ambulance equipment checklist.",
+NewQuestion,MC,
+Title,,
+QuestionText,"If you could only take two pieces of equipment with you to a patient’s side, you should choose the:",
+Points,1,
+Difficulty,1,
+Option,100,a) AED and portable suction unit.
+Option,0,b) BVM and portable oxygen.
+Option,0,c) cervical collar and long backboard.
+Option,0,d) oral airways and sterile dressings.
+Hint,"Complexity: Difficult			Ahead: Phases of an Ambulance Call			Subject:Transport Operations, Page 1432			Title: Transport Operations			Feedback: See Phases of an Ambulance Call			Taxonomy: Analysis			Objective: 38-2 Name the medical equipment carried on an ambulance; include examples of supplies that are included in each main category of the ambulance equipment checklist.",
+NewQuestion,MC,
+Title,,
+QuestionText,The purpose of a jump kit is to:,
+Points,1,
+Difficulty,1,
+Option,0,a) facilitate defibrillation within 5 to 10 minutes after making patient contact.
+Option,0,b) manage a critically injured patient until he or she is loaded into the ambulance.
+Option,0,c) carry advanced life support equipment approved by the EMS medical director.
+Option,100,d) contain anything that you might need during the first 5 minutes of patient care.
+Hint,"Complexity: Moderate			Ahead: Phases of an Ambulance Call			Subject:Transport Operations, Page 1433			Title: Transport Operations			Feedback: See Phases of an Ambulance Call			Taxonomy: Application			Objective: 38-2 Name the medical equipment carried on an ambulance; include examples of supplies that are included in each main category of the ambulance equipment checklist.",
+NewQuestion,MC,
+Title,,
+QuestionText,"Common safety equipment carried on the ambulance includes all of the following, except:",
+Points,1,
+Difficulty,1,
+Option,0,a) face shields.
+Option,100,b) hazardous materials gear.
+Option,0,c) safety goggles.
+Option,0,d) turnout gear.
+Hint,"Complexity: Easy			Ahead: Phases of an Ambulance Call			Subject:Transport Operations, Page 1428			Title: Transport Operations			Feedback: See Phases of an Ambulance Call			Taxonomy: Recall			Objective: 38-3 Name the safety and operations equipment carried on an ambulance; include examples of how each item might be used by EMTs in an emergency.",
+NewQuestion,MC,
+Title,,
+QuestionText,"When working at the scene of a motor vehicle crash at night, you should not use:",
+Points,1,
+Difficulty,1,
+Option,100,a) road flares.
+Option,0,b) reflective vests.
+Option,0,c) portable floodlights.
+Option,0,d) intermittent flashing devices.
+Hint,"Complexity: Difficult			Ahead: Phases of an Ambulance Call			Subject:Transport Operations, Page 1433			Title: Transport Operations			Feedback: See Phases of an Ambulance Call			Taxonomy: Application			Objective: 38-3 Name the safety and operations equipment carried on an ambulance; include examples of how each item might be used by EMTs in an emergency.",
+NewQuestion,MC,
+Title,,
+QuestionText,Minimum staffing in the patient compartment of a basic life support (BLS) ambulance includes:,
+Points,1,
+Difficulty,1,
+Option,100,a) at least one EMT.
+Option,0,b) at least two EMTs.
+Option,0,c) an EMT and a paramedic.
+Option,0,d) an EMT and an AEMT.
+Hint,"Complexity: Easy			Ahead: Phases of an Ambulance Call			Subject:Transport Operations, Page 1435			Title: Transport Operations			Feedback: See Phases of an Ambulance Call			Taxonomy: Recall			Objective: 38-3 Name the safety and operations equipment carried on an ambulance; include examples of how each item might be used by EMTs in an emergency.",
+NewQuestion,MC,
+Title,,
+QuestionText,"For every emergency request, the dispatcher should routinely gather and record all of the following information, except the:",
+Points,1,
+Difficulty,1,
+Option,0,a) nature of the call.
+Option,0,b) caller’s phone number.
+Option,0,c) location of the patient(s).
+Option,100,d) patient’s medical history.
+Hint,"Complexity: Difficult			Ahead: Phases of an Ambulance Call			Subject:Transport Operations, Page 1436			Title: Transport Operations			Feedback: See Phases of an Ambulance Call			Taxonomy: Analysis			Objective: 38-5 List the minimum dispatch information required by EMS to respond to an emergency call.",
+NewQuestion,MC,
+Title,,
+QuestionText,"Common activities that occur while you and your partner are en route to the scene of an emergency call include all of the following, except:",
+Points,1,
+Difficulty,1,
+Option,0,a) assigning tasks to each member of the response team.
+Option,0,b) obtaining additional information from the dispatcher.
+Option,100,c) apprising the medical director of the nature of the call.
+Option,0,d) fastening your seatbelts before the ambulance departs.
+Hint,"Complexity: Moderate			Ahead: Phases of an Ambulance Call			Subject:Transport Operations, Page 1437			Title: Transport Operations			Feedback: See Phases of an Ambulance Call			Taxonomy: Analysis			Objective: 38-5 List the minimum dispatch information required by EMS to respond to an emergency call.",
+NewQuestion,MC,
+Title,,
+QuestionText,"Immediately upon arriving at the scene of an emergency call involving a traumatic injury, you should notify the dispatcher of your arrival and then:",
+Points,1,
+Difficulty,1,
+Option,0,a) quickly gain access to the patient.
+Option,100,b) observe the scene for safety hazards.
+Option,0,c) determine if additional units are needed.
+Option,0,d) carefully assess the mechanism of injury.
+Hint,"Complexity: Moderate			Ahead: Phases of an Ambulance Call			Subject:Transport Operations, Page 1437			Title: Transport Operations			Feedback: See Phases of an Ambulance Call			Taxonomy: Recall			Objective: 38-7 Discuss the specific considerations required to ensure scene safety; include personal safety, patient safety, and traffic control.",
+NewQuestion,MC,
+Title,,
+QuestionText,"When parking your ambulance at the scene of a motor vehicle crash, you should position the ambulance:",
+Points,1,
+Difficulty,1,
+Option,0,a) 50′ past the scene on the opposite side of the road.
+Option,100,b) 100′ past the scene on the same side of the road.
+Option,0,c) 50′ before the scene on the same side of the road.
+Option,0,d) alongside the scene to rapidly access the patient(s).
+Hint,"Complexity: Moderate			Ahead: Phases of an Ambulance Call			Subject:Transport Operations, Page 1439			Title: Transport Operations			Feedback: See Phases of an Ambulance Call			Taxonomy: Application			Objective: 38-7 Discuss the specific considerations required to ensure scene safety; include personal safety, patient safety, and traffic control.",
+NewQuestion,MC,
+Title,,
+QuestionText,"When arriving at the scene of an overturned tractor-trailer rig, you note that a green cloud is being emitted from the crashed vehicle. The driver is still in the truck; he is conscious but bleeding profusely from the head. After notifying the hazardous materials team, you should:",
+Points,1,
+Difficulty,1,
+Option,0,a) park downhill from the scene.
+Option,0,b) ask the driver to exit the vehicle.
+Option,100,c) position the ambulance upwind.
+Option,0,d) quickly gain access to the patient.
+Hint,"Complexity: Moderate			Ahead: Phases of an Ambulance Call			Subject:Transport Operations, Page 1438			Title: Transport Operations			Feedback: See Phases of an Ambulance Call			Taxonomy: Recall			Objective: 38-7 Discuss the specific considerations required to ensure scene safety; include personal safety, patient safety, and traffic control.",
+NewQuestion,MC,
+Title,,
+QuestionText,The main objective of traffic control at the scene of a motor vehicle crash is to:,
+Points,1,
+Difficulty,1,
+Option,100,a) warn oncoming traffic and prevent another crash.
+Option,0,b) facilitate a route for the media to access the scene.
+Option,0,c) prevent curious onlookers from observing the scene.
+Option,0,d) get oncoming traffic past the scene as soon as possible.
+Hint,"Complexity: Moderate			Ahead: Phases of an Ambulance Call			Subject:Transport Operations, Page 1440			Title: Transport Operations			Feedback: See Phases of an Ambulance Call			Taxonomy: Recall			Objective: 38-7 Discuss the specific considerations required to ensure scene safety; include personal safety, patient safety, and traffic control.",
+NewQuestion,MC,
+Title,,
+QuestionText,"When transporting a patient to the hospital, you should:",
+Points,1,
+Difficulty,1,
+Option,0,a) generally exceed the posted speed limit by 10 to 20 mph.
+Option,0,"b) place the patient on a long backboard, even if no trauma is involved."
+Option,0,c) secure the patient to the ambulance stretcher with at least two straps.
+Option,100,d) be safe and get the patient to the hospital in the shortest practical time.
+Hint,"Complexity: Moderate			Ahead: Phases of an Ambulance Call			Subject:Transport Operations, Page 1440			Title: Transport Operations			Feedback: See Phases of an Ambulance Call			Taxonomy: Recall			Objective: 38-6 Describe some high-risk situations and hazards during both pretransport and transport that may affect the safety of the ambulance and its passengers.",
+NewQuestion,MC,
+Title,,
+QuestionText,"When transporting a patient who is secured to a backboard, it is important to:",
+Points,1,
+Difficulty,1,
+Option,100,a) place deceleration straps over the patient’s shoulders.
+Option,0,b) routinely elevate the head of the backboard 12″.
+Option,0,c) use at least eight straps to secure the patient to the board.
+Option,0,d) place a folded towel or blanket under the patient’s head.
+Hint,"Complexity: Moderate			Ahead: Phases of an Ambulance Call			Subject:Transport Operations, Page 1440			Title: Transport Operations			Feedback: See Phases of an Ambulance Call			Taxonomy: Application			Objective: 38-6 Describe some high-risk situations and hazards during both pretransport and transport that may affect the safety of the ambulance and its passengers.",
+NewQuestion,MC,
+Title,,
+QuestionText,"During the transport phase of an ambulance call, it is most important to:",
+Points,1,
+Difficulty,1,
+Option,0,a) reassess the patient only if he or she deteriorates.
+Option,0,b) reassess unstable patients at least every 15 minutes.
+Option,100,c) converse with the patient and provide reassurance.
+Option,0,d) complete the run form before arrival at the hospital.
+Hint,"Complexity: Easy			Ahead: Phases of an Ambulance Call			Subject:Transport Operations, Page 1441			Title: Transport Operations			Feedback: See Phases of an Ambulance Call			Taxonomy: Recall			Objective: 38-6 Describe some high-risk situations and hazards during both pretransport and transport that may affect the safety of the ambulance and its passengers.",
+NewQuestion,MC,
+Title,,
+QuestionText,"Delivering a patient to the hospital involves all of the following activities, except:",
+Points,1,
+Difficulty,1,
+Option,0,a) completing a detailed written report.
+Option,0,b) informing the dispatcher of your arrival.
+Option,0,c) restocking any disposable items you used.
+Option,100,d) giving a verbal report to the triage clerk.
+Hint,"Complexity: Moderate			Ahead: Phases of an Ambulance Call			Subject:Transport Operations, Page 1441			Title: Transport Operations			Feedback: See Phases of an Ambulance Call			Taxonomy: Application			Objective: 38-6 Describe some high-risk situations and hazards during both pretransport and transport that may affect the safety of the ambulance and its passengers.",
+NewQuestion,MC,
+Title,,
+QuestionText,"As soon as you leave the hospital and are en route back to your station, you should inform the dispatcher:",
+Points,1,
+Difficulty,1,
+Option,100,a) whether you are back in service.
+Option,0,b) that you are prepared for another call.
+Option,0,c) of the name of the accepting physician.
+Option,0,d) about the patient’s clinical condition.
+Hint,"Complexity: Difficult			Ahead: Phases of an Ambulance Call			Subject:Transport Operations, Page 1442			Title: Transport Operations			Feedback: See Phases of an Ambulance Call			Taxonomy: Analysis			Objective: 38-9 Summarize the tasks EMTs must complete in the postrun phase.",
+NewQuestion,MC,
+Title,,
+QuestionText,"You have just delivered a major trauma patient to the hospital. Shortly after departing the hospital, dispatch advises you of another call. The back of the ambulance is contaminated with bloody dressings and is in disarray, and you are in need of airway equipment and numerous other supplies. You should:",
+Points,1,
+Difficulty,1,
+Option,0,"a) proceed to the call, functioning only as an emergency medical responder."
+Option,100,b) advise the dispatcher that you are out of service and to send another unit.
+Option,0,c) have your partner quickly clean the ambulance as you proceed to the call.
+Option,0,d) quickly proceed to the call and clean and restock the ambulance afterwards.
+Hint,"Complexity: Difficult			Ahead: Phases of an Ambulance Call			Subject:Transport Operations, Page 1442			Title: Transport Operations			Feedback: See Phases of an Ambulance Call			Taxonomy: Analysis			Objective: 38-9 Summarize the tasks EMTs must complete in the postrun phase.",
+NewQuestion,MC,
+Title,,
+QuestionText,"The process of removing dirt, dust, blood, or other visible contaminants from a surface or equipment is called:",
+Points,1,
+Difficulty,1,
+Option,100,a) cleaning.
+Option,0,b) disinfection.
+Option,0,c) sterilization.
+Option,0,d) high-level disinfection.
+Hint,"Complexity: Easy			Ahead: Phases of an Ambulance Call			Subject:Transport Operations, Page 1442			Title: Transport Operations			Feedback: See Phases of an Ambulance Call			Taxonomy: Recall			Objective: 38-10 Define the terms cleaning, disinfection, high-level disinfection, and sterilization.",
+NewQuestion,MC,
+Title,,
+QuestionText,"Upon returning to your station following a run, you should disinfect the ambulance as needed. Disinfection is most accurately defined as:",
+Points,1,
+Difficulty,1,
+Option,0,a) using heat as a means of removing all microbial contaminants.
+Option,100,b) killing pathogenic agents with a chemical made for that purpose.
+Option,0,"c) removing dirt, dust, blood, or other grossly visible contaminants."
+Option,0,d) destroying pathogenic agents by using potent disinfection means.
+Hint,"Complexity: Easy			Ahead: Phases of an Ambulance Call			Subject:Transport Operations, Page 1442			Title: Transport Operations			Feedback: See Phases of an Ambulance Call			Taxonomy: Recall			Objective: 38-10 Define the terms cleaning, disinfection, high-level disinfection, and sterilization.",
+NewQuestion,MC,
+Title,,
+QuestionText,Characteristics of a safe ambulance operator include:,
+Points,1,
+Difficulty,1,
+Option,0,a) the ability to operate an ambulance at a high rate of speed.
+Option,100,b) a positive attitude about the ability to tolerate other drivers.
+Option,0,c) realizing that lights and siren will be effective traffic tools.
+Option,0,d) an offensive attitude about driving during an emergency call.
+Hint,"Complexity: Moderate			Ahead: Defensive Ambulance Driving Techniques			Subject:Transport Operations, Page 1443			Title: Transport Operations			Feedback: See Defensive Ambulance Driving Techniques			Taxonomy: Application			Objective: 38-11 Discuss the guidelines for safely and defensively driving an ambulance.",
+NewQuestion,MC,
+Title,,
+QuestionText,"When driving an ambulance on a multilane highway in emergency mode, you should:",
+Points,1,
+Difficulty,1,
+Option,0,a) pass other drivers on the right side.
+Option,100,b) remain in the extreme left-hand lane.
+Option,0,c) remain in the extreme right-hand lane.
+Option,0,d) drive in the center lane of the highway.
+Hint,"Complexity: Easy			Ahead: Defensive Ambulance Driving Techniques			Subject:Transport Operations, Page 1445			Title: Transport Operations			Feedback: See Defensive Ambulance Driving Techniques			Taxonomy: Recall			Objective: 38-11 Discuss the guidelines for safely and defensively driving an ambulance.",
+NewQuestion,MC,
+Title,,
+QuestionText,"After assessing your patient, you determine that his condition is stable. You provide the appropriate treatment and then load him into the ambulance. While en route to the hospital, you should:",
+Points,1,
+Difficulty,1,
+Option,100,a) turn your emergency lights off and obey all traffic laws.
+Option,0,b) keep your emergency lights on but avoid using the siren.
+Option,0,c) use your lights and siren but drive slowly and defensively.
+Option,0,"d) drive slowly and remain in the far left-hand lane, if possible."
+Hint,"Complexity: Difficult			Ahead: Defensive Ambulance Driving Techniques			Subject:Transport Operations, Page 1446			Title: Transport Operations			Feedback: See Defensive Ambulance Driving Techniques			Taxonomy: Application			Objective: 38-11 Discuss the guidelines for safely and defensively driving an ambulance.",
+NewQuestion,MC,
+Title,,
+QuestionText,"General guidelines for safe ambulance driving include all of the following, except:",
+Points,1,
+Difficulty,1,
+Option,0,a) avoiding one-way streets whenever possible.
+Option,0,b) assuming that other drivers will not see you.
+Option,100,c) regularly using the siren as much as possible.
+Option,0,d) avoiding routes with heavy traffic congestion.
+Hint,"Complexity: Moderate			Ahead: Defensive Ambulance Driving Techniques			Subject:Transport Operations, Page 1446			Title: Transport Operations			Feedback: See Defensive Ambulance Driving Techniques			Taxonomy: Recall			Objective: 38-11 Discuss the guidelines for safely and defensively driving an ambulance.",
+NewQuestion,MC,
+Title,,
+QuestionText,"Upon arriving at the scene of a major motor vehicle crash at night, you find that the safest place to park your ambulance is in a direction that is facing oncoming traffic. You should:",
+Points,1,
+Difficulty,1,
+Option,100,a) turn your headlights off.
+Option,0,b) quickly access the patient.
+Option,0,c) place a flare near the crash.
+Option,0,d) turn all warning lights off.
+Hint,"Complexity: Difficult			Ahead: Defensive Ambulance Driving Techniques			Subject:Transport Operations, Page 1446			Title: Transport Operations			Feedback: See Defensive Ambulance Driving Techniques			Taxonomy: Application			Objective: 38-11 Discuss the guidelines for safely and defensively driving an ambulance.",
+NewQuestion,MC,
+Title,,
+QuestionText,Aggressive ambulance driving might have a negative effect on other motorists because:,
+Points,1,
+Difficulty,1,
+Option,0,a) they might become enraged and attempt to run you off the road.
+Option,0,b) they move to the right or drive as close to the curb as possible.
+Option,100,c) it might not allow for their reaction time to respond to your vehicle.
+Option,0,d) they often freeze when they see the lights in the rearview mirror.
+Hint,"Complexity: Moderate			Ahead: Defensive Ambulance Driving Techniques			Subject:Transport Operations, Page 1445			Title: Transport Operations			Feedback: See Defensive Ambulance Driving Techniques			Taxonomy: Application			Objective: 38-12 Identify key steps EMTs should take to improve safety while en route to the scene, the hospital, and the station.",
+NewQuestion,MC,
+Title,,
+QuestionText,You are en route to an emergency call when you approach a slow-moving vehicle on a two-way road. You can see oncoming traffic in the other lane. The driver has his windows up and does not realize that you are behind him. You should:,
+Points,1,
+Difficulty,1,
+Option,0,a) use your public address system to alert the driver.
+Option,0,b) quickly pass the vehicle on the left side.
+Option,0,c) pass the driver on the right-hand shoulder.
+Option,100,d) remain at a safe distance until it is safe to pass.
+Hint,"Complexity: Difficult			Ahead: Defensive Ambulance Driving Techniques			Subject:Transport Operations, Page 1447			Title: Transport Operations			Feedback: See Defensive Ambulance Driving Techniques			Taxonomy: Application			Objective: 38-12 Identify key steps EMTs should take to improve safety while en route to the scene, the hospital, and the station.",
+NewQuestion,MC,
+Title,,
+QuestionText,Maintaining a cushion of safety when operating an ambulance means:,
+Points,1,
+Difficulty,1,
+Option,0,a) remaining in the far right-hand lane when transporting a critical patient and refraining from passing other motorists on the left side.
+Option,0,"b) driving at the posted speed limit, regardless of the patient’s condition, and routinely using your lights and siren when driving on a freeway."
+Option,0,c) driving about 2 to 3 seconds behind any vehicles in front of you and exceeding the posted speed limit by no more than 20 to 25 mph.
+Option,100,d) keeping a safe distance between your ambulance and the vehicles in front of you and remaining aware of vehicles potentially hiding in your mirrors’ blind spots.
+Hint,"Complexity: Moderate			Ahead: Defensive Ambulance Driving Techniques			Subject:Transport Operations, Page 1447			Title: Transport Operations			Feedback: See Defensive Ambulance Driving Techniques			Taxonomy: Recall			Objective: 38-12 Identify key steps EMTs should take to improve safety while en route to the scene, the hospital, and the station.",
+NewQuestion,MC,
+Title,,
+QuestionText,"When being tailgated by another vehicle while responding to an emergency call, you should:",
+Points,1,
+Difficulty,1,
+Option,100,a) slow down and allow the driver to pass you.
+Option,0,b) increase your speed to create more distance.
+Option,0,c) slam on the brakes to frighten the tailgater.
+Option,0,d) stop the ambulance and confront the driver.
+Hint,"Complexity: Moderate			Ahead: Defensive Ambulance Driving Techniques			Subject:Transport Operations, Page 1447			Title: Transport Operations			Feedback: See Defensive Ambulance Driving Techniques			Taxonomy: Application			Objective: 38-12 Identify key steps EMTs should take to improve safety while en route to the scene, the hospital, and the station.",
+NewQuestion,MC,
+Title,,
+QuestionText,"If you properly assess and stabilize a patient at the scene, driving to the hospital with excessive speed:",
+Points,1,
+Difficulty,1,
+Option,0,a) is allowable according to state law.
+Option,100,b) will decrease the driver’s reaction time.
+Option,0,c) is often necessary if the patient is critical.
+Option,0,d) increases the patient’s chance for survival.
+Hint,"Complexity: Moderate			Ahead: Defensive Ambulance Driving Techniques			Subject:Transport Operations, Page 1447			Title: Transport Operations			Feedback: See Defensive Ambulance Driving Techniques			Taxonomy: Application			Objective: 38-12 Identify key steps EMTs should take to improve safety while en route to the scene, the hospital, and the station.",
+NewQuestion,MC,
+Title,,
+QuestionText,The use of lights and siren on an ambulance:,
+Points,1,
+Difficulty,1,
+Option,100,a) signifies a request for other drivers to yield the right of way.
+Option,0,b) legally gives the emergency vehicle operator the right of way.
+Option,0,c) allows other drivers to hear and see you from a great distance.
+Option,0,d) is required any time a patient is being transported to the hospital.
+Hint,"Complexity: Moderate			Ahead: Defensive Ambulance Driving Techniques			Subject:Transport Operations, Page 1445			Title: Transport Operations			Feedback: See Defensive Ambulance Driving Techniques			Taxonomy: Application			Objective: 38-13 List the three factors that dictate the use of lights and siren to the scene and to the hospital; include the risk-versus-benefit factors regarding their use.",
+NewQuestion,MC,
+Title,,
+QuestionText,Hydroplaning of the ambulance on wet roads would most likely occur at speeds of greater than _____ mph.,
+Points,1,
+Difficulty,1,
+Option,0,a) 10
+Option,0,b) 15
+Option,0,c) 20
+Option,100,d) 30
+Hint,"Complexity: Easy			Ahead: Defensive Ambulance Driving Techniques			Subject:Transport Operations, Page 1449			Title: Transport Operations			Feedback: See Defensive Ambulance Driving Techniques			Taxonomy: Recall			Objective: 38-12 Identify key steps EMTs should take to improve safety while en route to the scene, the hospital, and the station.",
+NewQuestion,MC,
+Title,,
+QuestionText,"If hydroplaning of the ambulance occurs, the driver should:",
+Points,1,
+Difficulty,1,
+Option,0,a) slowly move the steering wheel back and forth.
+Option,100,b) gradually slow down without jamming on the brakes.
+Option,0,c) slowly pump the brakes until he or she regains vehicle control.
+Option,0,d) quickly jerk the steering wheel.
+Hint,"Complexity: Moderate			Ahead: Defensive Ambulance Driving Techniques			Subject:Transport Operations, Page 1449			Title: Transport Operations			Feedback: See Defensive Ambulance Driving Techniques			Taxonomy: Application			Objective: 38-12 Identify key steps EMTs should take to improve safety while en route to the scene, the hospital, and the station.",
+NewQuestion,MC,
+Title,,
+QuestionText,"While using lights and siren, most state laws permit an ambulance to:",
+Points,1,
+Difficulty,1,
+Option,0,a) disregard all traffic control signals.
+Option,0,b) drive as fast as the department allows.
+Option,100,c) carefully exceed the posted speed limit.
+Option,0,d) proceed through red lights without stopping.
+Hint,"Complexity: Moderate			Ahead: Defensive Ambulance Driving Techniques			Subject:Transport Operations, Page 1445			Title: Transport Operations			Feedback: See Defensive Ambulance Driving Techniques			Taxonomy: Recall			Objective: 38-14 Describe the specific, limited privileges that are provided to emergency vehicle operators by most state laws and regulations.",
+NewQuestion,MC,
+Title,,
+QuestionText,"While en route to a call for a patient in cardiac arrest, you approach a stopped school bus with its red warning lights flashing. You should:",
+Points,1,
+Difficulty,1,
+Option,0,a) pass the bus only after all the children have exited.
+Option,0,b) back up and take an alternate route to the scene.
+Option,0,c) slowly and carefully pass the bus on the left side.
+Option,100,d) stop and wait until the warning lights stop flashing.
+Hint,"Complexity: Easy			Ahead: Defensive Ambulance Driving Techniques			Subject:Transport Operations, Page 1450			Title: Transport Operations			Feedback: See Defensive Ambulance Driving Techniques			Taxonomy: Analysis			Objective: 38-14 Describe the specific, limited privileges that are provided to emergency vehicle operators by most state laws and regulations.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following statements regarding the use of the warning lights and siren on the ambulance is correct?,
+Points,1,
+Difficulty,1,
+Option,100,"a) If it is necessary to use the siren, you should tell the patient beforehand."
+Option,0,"b) If the patient is stable, you may use the warning lights without the siren."
+Option,0,"c) Warning lights and siren should be avoided, even if the patient is unstable."
+Option,0,d) It is generally acceptable to increase your speed if lights and siren are in use.
+Hint,"Complexity: Easy			Ahead: Defensive Ambulance Driving Techniques			Subject:Transport Operations, Page 1450			Title: Transport Operations			Feedback: See Defensive Ambulance Driving Techniques			Taxonomy: Recall			Objective: 38-13 List the three factors that dictate the use of lights and siren to the scene and to the hospital; include the risk-versus-benefit factors regarding their use.",
+NewQuestion,MC,
+Title,,
+QuestionText,In which of the following situations would the EMTs most likely utilize a police escort?,
+Points,1,
+Difficulty,1,
+Option,0,"a) The weather is treacherous, and there are numerous roads washed out."
+Option,100,"b) The EMTs are unfamiliar with the location, but the police officer is familiar with the location."
+Option,0,c) The EMTs are transporting a critical pediatric patient through traffic.
+Option,0,d) The call is dispatched as an unresponsive patient with CPR in progress.
+Hint,"Complexity: Difficult			Ahead: Defensive Ambulance Driving Techniques			Subject:Transport Operations, Page 1451			Title: Transport Operations			Feedback: See Defensive Ambulance Driving Techniques			Taxonomy: Application			Objective: 38-15 Explain the additional risks and special considerations posed by the use of police escorts, and the hazards and special considerations posed by crossing intersections.",
+NewQuestion,MC,
+Title,,
+QuestionText,The most common and usually the most serious ambulance crashes occur at:,
+Points,1,
+Difficulty,1,
+Option,0,a) stop signs.
+Option,0,b) stop lights.
+Option,100,c) intersections.
+Option,0,d) railroad crossings.
+Hint,"Complexity: Easy			Ahead: Defensive Ambulance Driving Techniques			Subject:Transport Operations, Page 1452			Title: Transport Operations			Feedback: See Defensive Ambulance Driving Techniques			Taxonomy: Recall			Objective: 38-15 Explain the additional risks and special considerations posed by the use of police escorts, and the hazards and special considerations posed by crossing intersections.",
+NewQuestion,MC,
+Title,,
+QuestionText,"Your unit and a fire department vehicle are responding to the scene of a patient in cardiac arrest. As you approach an intersection that is highly congested, you should:",
+Points,1,
+Difficulty,1,
+Option,0,a) turn off your lights and siren and proceed with safety.
+Option,0,b) advise the fire department vehicle to follow you closely.
+Option,100,c) use a different siren tone than the fire department vehicle.
+Option,0,"d) ask the fire department vehicle to remain 1,000′ behind you."
+Hint,"Complexity: Difficult			Ahead: Defensive Ambulance Driving Techniques			Subject:Transport Operations, Page 1452			Title: Transport Operations			Feedback: See Defensive Ambulance Driving Techniques			Taxonomy: Analysis			Objective: 38-13 List the three factors that dictate the use of lights and siren to the scene and to the hospital; include the risk-versus-benefit factors regarding their use.",
+NewQuestion,MC,
+Title,,
+QuestionText,"In general, medevac helicopters should be utilized when:",
+Points,1,
+Difficulty,1,
+Option,0,a) ground transport would leave your service area without an ambulance for greater than 30 minutes.
+Option,0,"b) ground transport to the hospital exceeds 30 to 45 minutes, even if the patient’s present condition is stable."
+Option,0,c) a patient has been in cardiac arrest for more than 15 minutes and has not responded to CPR and defibrillation.
+Option,100,"d) a patient has a time-dependent injury or illness, and traffic conditions would cause a significant delay in definitive care."
+Hint,"Complexity: Moderate			Ahead: Air Medical Operations			Subject:Transport Operations, Page 1453			Title: Transport Operations			Feedback: See Air Medical Operations			Taxonomy: Recall			Objective: 38-16 Describe the capabilities, protocols, and methods for accessing air ambulances.",
+NewQuestion,MC,
+Title,,
+QuestionText,"It is 10:30 pm, and you have requested air medical transport for a critically injured patient. When you arrive at the designated landing zone, you should:",
+Points,1,
+Difficulty,1,
+Option,0,a) mark the proposed landing area with road flares.
+Option,100,b) survey the area for power lines or other hazards.
+Option,0,c) provide the flight crew with a patient status update.
+Option,0,d) mark the landing site using personnel with flashlights.
+Hint,"Complexity: Difficult			Ahead: Air Medical Operations			Subject:Transport Operations, Page 1454			Title: Transport Operations			Feedback: See Air Medical Operations			Taxonomy: Application			Objective: 38-17 Describe key scene safety considerations when preparing for helicopter emergency medical services, such as a helicopter medevac, including establishing a landing zone, securing loose objects, reducing onsite hazards, and approaching the aircraft.",
+NewQuestion,MC,
+Title,,
+QuestionText,"When approaching a helicopter, whether the rotor blades are moving or not, you should:",
+Points,1,
+Difficulty,1,
+Option,100,a) never duck under the body or the tail boom because the pilot cannot see you in these areas.
+Option,0,b) remember that the main rotor blade is flexible and can dip as low as 5′ to 6′ from the ground.
+Option,0,c) carefully approach the aircraft from the rear unless a crew member instructs you to do otherwise.
+Option,0,d) approach the aircraft from the side because this will make it easier for you to access the aircraft doors.
+Hint,"Complexity: Moderate			Ahead: Air Medical Operations			Subject:Transport Operations, Page 1456			Title: Transport Operations			Feedback: See Air Medical Operations			Taxonomy: Application			Objective: 38-17 Describe key scene safety considerations when preparing for helicopter emergency medical services, such as a helicopter medevac, including establishing a landing zone, securing loose objects, reducing onsite hazards, and approaching the aircraft.",
+NewQuestion,MC,
+Title,,
+QuestionText,"When a helicopter must land on a grade (uneven ground), you should:",
+Points,1,
+Difficulty,1,
+Option,0,a) approach the aircraft from the uphill side.
+Option,100,b) approach the aircraft from the downhill side.
+Option,0,c) attempt to approach the aircraft from behind.
+Option,0,d) move the patient to the aircraft as soon as it lands.
+Hint,"Complexity: Moderate			Ahead: Air Medical Operations			Subject:Transport Operations, Page 1458			Title: Transport Operations			Feedback: See Air Medical Operations			Taxonomy: Analysis			Objective: 38-17 Describe key scene safety considerations when preparing for helicopter emergency medical services, such as a helicopter medevac, including establishing a landing zone, securing loose objects, reducing onsite hazards, and approaching the aircraft.",
+NewQuestion,MC,
+Title,,
+QuestionText,"Typically, medevac helicopters fly at speeds between:",
+Points,1,
+Difficulty,1,
+Option,0,a) 100 and 120 mph.
+Option,0,b) 120 and 140 mph.
+Option,100,c) 130 and 150 mph.
+Option,0,d) 150 and 200 mph.
+Hint,"Complexity: Easy			Ahead: Air Medical Operations			Subject:Transport Operations, Page 1458			Title: Transport Operations			Feedback: See Air Medical Operations			Taxonomy: Recall			Objective: 38-17 Describe key scene safety considerations when preparing for helicopter emergency medical services, such as a helicopter medevac, including establishing a landing zone, securing loose objects, reducing onsite hazards, and approaching the aircraft.",
+NewQuestion,MC,
+Title,,
+QuestionText,"A medical transport helicopter is incoming, and you are responsible for setting up the landing zone (LZ). You should:",
+Points,1,
+Difficulty,1,
+Option,0,a) use yellow caution tape to mark off the LZ perimeter.
+Option,0,b) ask bystanders to stand at all four corners of the LZ.
+Option,100,c) use weighted cones to mark all four corners of the LZ.
+Option,0,d) place four flares 100 feet apart in an “X” pattern.
+Hint,"Complexity: Moderate			Ahead: Air Medical Operations			Subject:Transport Operations, Page 1455			Title: Transport Operations			Feedback: See Air Medical Operations			Taxonomy: Analysis			Objective: 38-17 Describe key scene safety considerations when preparing for helicopter emergency medical services, such as a helicopter medevac, including establishing a landing zone, securing loose objects, reducing onsite hazards, and approaching the aircraft.",

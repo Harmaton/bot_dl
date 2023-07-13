@@ -1,0 +1,900 @@
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following statements regarding normal gas exchange in the lungs is correct?,
+Points,1,
+Difficulty,1,
+Option,0,a) The oxygen content in the alveoli is highest during the exhalation phase.
+Option,100,b) Oxygen and carbon dioxide diffuse across the alveolar walls and capillaries.
+Option,0,c) The actual exchange of oxygen and carbon dioxide occurs in the capillaries.
+Option,0,d) Blood that returns to the lungs from the body has low levels of carbon dioxide.
+Hint,"Complexity: Moderate			Ahead: Introduction			Subject:Airway Management, Page 418			Title: Airway Management			Feedback: See Introduction			Taxonomy: Recall			Objective: 11-2 Discuss the physiology of breathing.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following structures is NOT found in the upper airway?,
+Points,1,
+Difficulty,1,
+Option,0,a) Larynx
+Option,0,b) Pharynx
+Option,100,c) Bronchus
+Option,0,d) Oropharynx
+Hint,"Complexity: Easy			Ahead: Anatomy of the Respiratory System			Subject:Airway Management, Page 418			Title: Airway Management			Feedback: See Anatomy of the Respiratory System			Taxonomy: Recall			Objective: 11-1 Describe the major structures of the respiratory system.",
+NewQuestion,MC,
+Title,,
+QuestionText,The structure located superior to the larynx is called the:,
+Points,1,
+Difficulty,1,
+Option,100,a) epiglottis.
+Option,0,b) carina.
+Option,0,c) cricoid ring.
+Option,0,d) thyroid cartilage.
+Hint,"Complexity: Easy			Ahead: Anatomy of the Respiratory System			Subject:Airway Management, Page 420			Title: Airway Management			Feedback: See Anatomy of the Respiratory System			Taxonomy: Recall			Objective: 11-1 Describe the major structures of the respiratory system.",
+NewQuestion,MC,
+Title,,
+QuestionText,The __________ cartilage is a firm ring that forms the inferior part of the larynx.,
+Points,1,
+Difficulty,1,
+Option,100,a) cricoid
+Option,0,b) thyroid
+Option,0,c) laryngeal
+Option,0,d) pyriform
+Hint,"Complexity: Easy			Ahead: Anatomy of the Respiratory System			Subject:Airway Management, Page 420			Title: Airway Management			Feedback: See Anatomy of the Respiratory System			Taxonomy: Recall			Objective: 11-1 Describe the major structures of the respiratory system.",
+NewQuestion,MC,
+Title,,
+QuestionText,"Structures of the lower airway include all of the following, EXCEPT:",
+Points,1,
+Difficulty,1,
+Option,0,a) alveoli.
+Option,0,b) the trachea.
+Option,100,c) the epiglottis.
+Option,0,d) bronchioles.
+Hint,"Complexity: Easy			Ahead: Anatomy of the Respiratory System			Subject:Airway Management, Page 420			Title: Airway Management			Feedback: See Anatomy of the Respiratory System			Taxonomy: Recall			Objective: 11-1 Describe the major structures of the respiratory system.",
+NewQuestion,MC,
+Title,,
+QuestionText,The actual exchange of oxygen and carbon dioxide occurs in the:,
+Points,1,
+Difficulty,1,
+Option,0,a) bronchioles.
+Option,100,b) alveolar sacs.
+Option,0,c) apex of the lung.
+Option,0,d) pulmonary capillaries.
+Hint,"Complexity: Moderate			Ahead: Anatomy of the Respiratory System			Subject:Airway Management, Page 422			Title: Airway Management			Feedback: See Anatomy of the Respiratory System			Taxonomy: Recall			Objective: 11-1 Describe the major structures of the respiratory system.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following structures is contained within the mediastinum?,
+Points,1,
+Difficulty,1,
+Option,0,a) Lungs
+Option,0,b) Larynx
+Option,0,c) Bronchioles
+Option,100,d) Esophagus
+Hint,"Complexity: Easy			Ahead: Anatomy of the Respiratory System			Subject:Airway Management, Page 422			Title: Airway Management			Feedback: See Anatomy of the Respiratory System			Taxonomy: Recall			Objective: 11-1 Describe the major structures of the respiratory system.",
+NewQuestion,MC,
+Title,,
+QuestionText,The physical act of moving air into and out of the lungs is called:,
+Points,1,
+Difficulty,1,
+Option,0,a) diffusion.
+Option,100,b) ventilation.
+Option,0,c) respiration.
+Option,0,d) oxygenation.
+Hint,"Complexity: Easy			Ahead: Physiology of Breathing			Subject:Airway Management, Page 423			Title: Airway Management			Feedback: See Physiology of Breathing			Taxonomy: Recall			Objective: 11-2 Discuss the physiology of breathing.",
+NewQuestion,MC,
+Title,,
+QuestionText,Inhalation occurs when the:,
+Points,1,
+Difficulty,1,
+Option,0,a) diaphragm and intercostal muscles relax and cause an increase in intrathoracic pressure.
+Option,0,b) diaphragm and intercostal muscles ascend and cause an increase in intrathoracic pressure.
+Option,100,c) diaphragm and intercostal muscles contract and cause a decrease in intrathoracic pressure.
+Option,0,"d) diaphragm ascends and the intercostal muscles contract, causing a decrease in intrathoracic pressure."
+Hint,"Complexity: Moderate			Ahead: Physiology of Breathing			Subject:Airway Management, Page 423			Title: Airway Management			Feedback: See Physiology of Breathing			Taxonomy: Recall			Objective: 11-2 Discuss the physiology of breathing.",
+NewQuestion,MC,
+Title,,
+QuestionText,"The diaphragm is innervated by the _________ nerve, which allows it to contract.",
+Points,1,
+Difficulty,1,
+Option,0,a) vagus
+Option,100,b) phrenic
+Option,0,c) hypoglossal
+Option,0,d) vestibulocochlear
+Hint,"Complexity: Easy			Ahead: Anatomy of the Respiratory System			Subject:Airway Management, Page 423			Title: Airway Management			Feedback: See Anatomy of the Respiratory System			Taxonomy: Recall			Objective: 11-1 Describe the major structures of the respiratory system.",
+NewQuestion,MC,
+Title,,
+QuestionText,The partial pressure of oxygen in the alveoli is _______ mm Hg; the partial pressure of carbon dioxide in the alveoli is _______ mm Hg.,
+Points,1,
+Difficulty,1,
+Option,0,"a) 70, 28"
+Option,0,"b) 88, 30"
+Option,0,"c) 90, 50"
+Option,100,"d) 104, 40"
+Hint,"Complexity: Moderate			Ahead: Physiology of Breathing			Subject:Airway Management, Page 424			Title: Airway Management			Feedback: See Physiology of Breathing			Taxonomy: Recall			Objective: 11-2 Discuss the physiology of breathing.",
+NewQuestion,MC,
+Title,,
+QuestionText,Tidal volume is defined as the volume of air that:,
+Points,1,
+Difficulty,1,
+Option,0,a) is moved through the lungs in a single minute.
+Option,100,b) moves into or out of the lungs in a single breath.
+Option,0,c) remains in the lungs following a complete exhalation.
+Option,0,d) is forced into the lungs as a result of positive pressure.
+Hint,"Complexity: Easy			Ahead: Physiology of Breathing			Subject:Airway Management, Page 425			Title: Airway Management			Feedback: See Physiology of Breathing			Taxonomy: Recall			Objective: 11-2 Discuss the physiology of breathing.",
+NewQuestion,MC,
+Title,,
+QuestionText,"What is the alveolar minute volume of a patient with a tidal volume of 500 mL, a dead space volume of 150 mL, and a respiratory rate of 16 breaths/min?",
+Points,1,
+Difficulty,1,
+Option,100,"a) 5,600 mL"
+Option,0,"b) 6,000 mL"
+Option,0,"c) 7,400 mL"
+Option,0,"d) 8,000 mL"
+Hint,"Complexity: Moderate			Ahead: Physiology of Breathing			Subject:Airway Management, Page 425			Title: Airway Management			Feedback: See Physiology of Breathing			Taxonomy: Application			Objective: 11-2 Discuss the physiology of breathing.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following factors will cause a reduction in minute volume in an adult?,
+Points,1,
+Difficulty,1,
+Option,100,a) Shallow breathing
+Option,0,b) Increased tidal volume
+Option,0,c) Respirations of 20 breaths/min
+Option,0,d) Slight increase in respiratory rate
+Hint,"Complexity: Easy			Ahead: Physiology of Breathing			Subject:Airway Management, Page 425			Title: Airway Management			Feedback: See Physiology of Breathing			Taxonomy: Recall			Objective: 11-2 Discuss the physiology of breathing.",
+NewQuestion,MC,
+Title,,
+QuestionText,"In contrast to inhalation, exhalation:",
+Points,1,
+Difficulty,1,
+Option,0,a) requires muscular effort to effectively expel air from the lungs.
+Option,100,b) is a passive process caused by increased intrathoracic pressure.
+Option,0,c) occurs when the diaphragm lowers and expels air from the lungs.
+Option,0,d) is an active process caused by decreased intrathoracic pressure.
+Hint,"Complexity: Moderate			Ahead: Physiology of Breathing			Subject:Airway Management, Page 425			Title: Airway Management			Feedback: See Physiology of Breathing			Taxonomy: Recall			Objective: 11-2 Discuss the physiology of breathing.",
+NewQuestion,MC,
+Title,,
+QuestionText,Hypoxia is MOST accurately defined as:,
+Points,1,
+Difficulty,1,
+Option,0,a) high oxygen levels in the tissues and cells.
+Option,0,b) a decrease in arterial oxygen levels.
+Option,0,c) an increase in carbon dioxide in the blood.
+Option,100,d) inadequate oxygen to the tissues and cells.
+Hint,"Complexity: Easy			Ahead: Physiology of Breathing			Subject:Airway Management, Page 426			Title: Airway Management			Feedback: See Physiology of Breathing			Taxonomy: Recall			Objective: 11-2 Discuss the physiology of breathing.",
+NewQuestion,MC,
+Title,,
+QuestionText,The hypoxic drive is influenced by:,
+Points,1,
+Difficulty,1,
+Option,0,a) high blood oxygen levels.
+Option,100,b) low blood oxygen levels.
+Option,0,c) low blood carbon dioxide levels.
+Option,0,d) high blood carbon dioxide levels.
+Hint,"Complexity: Easy			Ahead: Physiology of Breathing			Subject:Airway Management, Page 426			Title: Airway Management			Feedback: See Physiology of Breathing			Taxonomy: Recall			Objective: 11-2 Discuss the physiology of breathing.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following is a late sign of hypoxia?,
+Points,1,
+Difficulty,1,
+Option,0,a) Anxiety
+Option,100,b) Cyanosis
+Option,0,c) Tachycardia
+Option,0,d) Restlessness
+Hint,"Complexity: Easy			Ahead: Physiology of Breathing			Subject:Airway Management, Page 426			Title: Airway Management			Feedback: See Physiology of Breathing			Taxonomy: Recall			Objective: 11-2 Discuss the physiology of breathing.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following statements regarding oxygenation and ventilation is correct?,
+Points,1,
+Difficulty,1,
+Option,0,"a) In carbon monoxide (CO) poisoning, ventilation is impaired because CO binds to oxygen very quickly."
+Option,0,"b) Oxygenation is the movement of air into and out of the lungs, whereas ventilation is the exchange of gases."
+Option,100,"c) In mines or confined places, where oxygen levels are low, ventilation may continue despite inadequate oxygenation."
+Option,0,d) Oxygenation without adequate ventilation can occur in climbers who quickly ascend to an altitude of lower atmospheric pressure.
+Hint,"Complexity: Easy			Ahead: Physiology of Breathing			Subject:Airway Management, Page 427			Title: Airway Management			Feedback: See Physiology of Breathing			Taxonomy: Recall			Objective: 11-2 Discuss the physiology of breathing.",
+NewQuestion,MC,
+Title,,
+QuestionText,Each cell of the body combines nutrients and oxygen and produces energy and waste products through a process called:,
+Points,1,
+Difficulty,1,
+Option,0,a) respiration.
+Option,0,b) ventilation.
+Option,100,c) metabolism.
+Option,0,d) oxygenation.
+Hint,"Complexity: Easy			Ahead: Physiology of Breathing			Subject:Airway Management, Page 427			Title: Airway Management			Feedback: See Physiology of Breathing			Taxonomy: Recall			Objective: 11-2 Discuss the physiology of breathing.",
+NewQuestion,MC,
+Title,,
+QuestionText,The process of exchanging oxygen and carbon dioxide between the alveoli and the blood of the capillaries is called:,
+Points,1,
+Difficulty,1,
+Option,100,a) external respiration.
+Option,0,b) cellular metabolism.
+Option,0,c) pulmonary ventilation.
+Option,0,d) alveolar ventilation.
+Hint,"Complexity: Easy			Ahead: Physiology of Breathing			Subject:Airway Management, Page 427			Title: Airway Management			Feedback: See Physiology of Breathing			Taxonomy: Recall			Objective: 11-2 Discuss the physiology of breathing.",
+NewQuestion,MC,
+Title,,
+QuestionText,Gas exchange in the lungs is facilitated by:,
+Points,1,
+Difficulty,1,
+Option,100,a) adequate amounts of surfactant.
+Option,0,b) water or blood within the alveoli.
+Option,0,c) surfactant-destroying organisms.
+Option,0,d) pulmonary capillary constriction.
+Hint,"Complexity: Easy			Ahead: Physiology of Breathing			Subject:Airway Management, Page 427			Title: Airway Management			Feedback: See Physiology of Breathing			Taxonomy: Recall			Objective: 11-2 Discuss the physiology of breathing.",
+NewQuestion,MC,
+Title,,
+QuestionText,"In the presence of oxygen, the cells convert glucose into energy through a process called:",
+Points,1,
+Difficulty,1,
+Option,0,a) perfusion.
+Option,0,b) respiration.
+Option,100,c) aerobic metabolism.
+Option,0,d) anaerobic metabolism.
+Hint,"Complexity: Moderate			Ahead: Physiology of Breathing			Subject:Airway Management, Page 427			Title: Airway Management			Feedback: See Physiology of Breathing			Taxonomy: Recall			Objective: 11-2 Discuss the physiology of breathing.",
+NewQuestion,MC,
+Title,,
+QuestionText,"Without adequate oxygen, the body’s cells:",
+Points,1,
+Difficulty,1,
+Option,0,"a) rely solely on glucose, which is completely converted into adenosine triphosphate."
+Option,0,"b) cease metabolism altogether, resulting in carbon dioxide accumulation in the blood."
+Option,0,"c) begin to metabolize fat, resulting in the production and accumulation of ketoacids."
+Option,100,"d) incompletely convert glucose into energy, and lactic acid accumulates in the blood."
+Hint,"Complexity: Moderate			Ahead: Physiology of Breathing			Subject:Airway Management, Page 427			Title: Airway Management			Feedback: See Physiology of Breathing			Taxonomy: Recall			Objective: 11-2 Discuss the physiology of breathing.",
+NewQuestion,MC,
+Title,,
+QuestionText,The primary waste product of aerobic metabolism is:,
+Points,1,
+Difficulty,1,
+Option,0,a) lactic acid.
+Option,0,b) pyruvic acid.
+Option,100,c) carbon dioxide.
+Option,0,d) adenosine triphosphate.
+Hint,"Complexity: Easy			Ahead: Physiology of Breathing			Subject:Airway Management, Page 427			Title: Airway Management			Feedback: See Physiology of Breathing			Taxonomy: Recall			Objective: 11-2 Discuss the physiology of breathing.",
+NewQuestion,MC,
+Title,,
+QuestionText,Central chemoreceptors located in the medulla provide feedback to increase the rate and depth of breathing when they sense:,
+Points,1,
+Difficulty,1,
+Option,100,a) slight increases in carbon dioxide or a decrease in the pH of the cerebrospinal fluid.
+Option,0,b) slight decreases in carbon dioxide and an increase in the pH of the cerebrospinal fluid.
+Option,0,c) decreased levels of oxygen in the blood and an increase in the pH of the cerebrospinal fluid.
+Option,0,d) increased levels of oxygen in the blood and a decrease in the pH of the cerebrospinal fluid.
+Hint,"Complexity: Moderate			Ahead: Physiology of Breathing			Subject:Airway Management, Page 429			Title: Airway Management			Feedback: See Physiology of Breathing			Taxonomy: Recall			Objective: 11-2 Discuss the physiology of breathing.",
+NewQuestion,MC,
+Title,,
+QuestionText,A ventilation/perfusion (V/Q ratio) mismatch occurs when:,
+Points,1,
+Difficulty,1,
+Option,0,"a) ventilation is inadequate due to a traumatic injury or medical condition, which results in an impairment in pulmonary gas exchange."
+Option,100,"b) a disruption in blood flow inhibits the exchange of oxygen and carbon dioxide in the lungs, even though the alveoli are filled with fresh oxygen."
+Option,0,"c) ventilation is compromised, resulting in the accumulation of carbon dioxide in the bloodstream, alveoli, and the tissues and cells of the body."
+Option,0,d) a traumatic injury or medical condition impairs the body’s ability to effectively bring oxygen into the lungs and remove carbon dioxide from the body.
+Hint,"Complexity: Moderate			Ahead: Physiology of Breathing			Subject:Airway Management, Page 429			Title: Airway Management			Feedback: See Physiology of Breathing			Taxonomy: Recall			Objective: 11-2 Discuss the physiology of breathing.",
+NewQuestion,MC,
+Title,,
+QuestionText,The presence of elevated carbon dioxide levels in the blood is called:,
+Points,1,
+Difficulty,1,
+Option,0,a) acidosis.
+Option,0,b) hypoxia.
+Option,0,c) hypoxemia.
+Option,100,d) hypercarbia.
+Hint,"Complexity: Easy			Ahead: Physiology of Breathing			Subject:Airway Management, Page 430			Title: Airway Management			Feedback: See Physiology of Breathing			Taxonomy: Recall			Objective: 11-2 Discuss the physiology of breathing.",
+NewQuestion,MC,
+Title,,
+QuestionText,Intrapulmonary shunting occurs when:,
+Points,1,
+Difficulty,1,
+Option,0,"a) the presence of pulmonary surfactant causes a decrease in alveolar surface tension, thus impairing the exchange of gases in the lungs."
+Option,0,b) a decrease in respiratory rate and depth causes carbon dioxide accumulation in the alveoli and an overall decrease in blood oxygen levels.
+Option,100,c) blood coming from the right side of the heart bypasses nonfunctional alveoli and returns to the left side of the heart in an unoxygenated state.
+Option,0,d) any impairment in circulatory function causes a reduced ability for oxygen and carbon dioxide to diffuse across the alveolar–capillary membrane.
+Hint,"Complexity: Moderate			Ahead: Pathophysiology of Respiration			Subject:Airway Management, Page 431			Title: Airway Management			Feedback: See Pathophysiology of Respiration			Taxonomy: Recall			Objective: 11-2 Discuss the physiology of breathing.",
+NewQuestion,MC,
+Title,,
+QuestionText,An adult at rest should have a respiratory rate that ranges between:,
+Points,1,
+Difficulty,1,
+Option,0,a) 8 and 15 breaths/min.
+Option,0,b) 10 and 18 breaths/min.
+Option,100,c) 12 and 20 breaths/min.
+Option,0,d) 22 and 24 breaths/min.
+Hint,"Complexity: Easy			Ahead: Patient Assessment			Subject:Airway Management, Page 432			Title: Airway Management			Feedback: See Patient Assessment			Taxonomy: Recall			Objective: 11-3 Give the signs of adequate breathing.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following patients is breathing adequately?,
+Points,1,
+Difficulty,1,
+Option,100,a) A conscious male with respirations of 19 breaths/min and pink skin
+Option,0,"b) A conscious female with facial cyanosis and rapid, shallow respirations"
+Option,0,c) A conscious male with respirations of 18 breaths/min and reduced tidal volume
+Option,0,"d) An unconscious 52-year-old female with snoring respirations and cool, pale skin"
+Hint,"Complexity: Easy			Ahead: Patient Assessment			Subject:Airway Management, Page 432			Title: Airway Management			Feedback: See Patient Assessment			Taxonomy: Analysis			Objective: 11-3 Give the signs of adequate breathing.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following statements regarding breathing adequacy is correct?,
+Points,1,
+Difficulty,1,
+Option,0,a) Patients with a grossly irregular breathing pattern usually do not require assisted ventilation.
+Option,0,b) The single most reliable sign of breathing adequacy in the adult is his or her respiratory rate.
+Option,100,c) Patients breathing shallowly may require assisted ventilation despite a normal respiratory rate.
+Option,0,d) A patient with slow respirations and adequate depth will experience an increase in minute volume.
+Hint,"Complexity: Moderate			Ahead: Patient Assessment			Subject:Airway Management, Page 432			Title: Airway Management			Feedback: See Patient Assessment			Taxonomy: Recall			Objective: 11-4 Give the signs of inadequate breathing.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following would NOT cause a decrease in tidal volume?,
+Points,1,
+Difficulty,1,
+Option,0,a) Shallow breathing
+Option,100,b) Deep respirations
+Option,0,c) Irregular breathing
+Option,0,d) Agonal respirations
+Hint,"Complexity: Easy			Ahead: Patient Assessment			Subject:Airway Management, Page 433			Title: Airway Management			Feedback: See Patient Assessment			Taxonomy: Recall			Objective: 11-4 Give the signs of inadequate breathing.",
+NewQuestion,MC,
+Title,,
+QuestionText,Irregular respirations characterized by an increasing rate and depth of breathing followed by periods of apnea are called:,
+Points,1,
+Difficulty,1,
+Option,0,a) ataxic respirations.
+Option,0,b) agonal respirations.
+Option,0,c) eupneic respirations.
+Option,100,d) Cheyne-Stokes respirations.
+Hint,"Complexity: Easy			Ahead: Patient Assessment			Subject:Airway Management, Page 434			Title: Airway Management			Feedback: See Patient Assessment			Taxonomy: Recall			Objective: 11-4 Give the signs of inadequate breathing.",
+NewQuestion,MC,
+Title,,
+QuestionText,An unconscious patient found in a prone position must be placed in a supine position in case he or she:,
+Points,1,
+Difficulty,1,
+Option,100,a) requires CPR.
+Option,0,b) begins to vomit.
+Option,0,c) regains consciousness.
+Option,0,d) has increased tidal volume.
+Hint,"Complexity: Easy			Ahead: Opening the Airway			Subject:Airway Management, Page 439			Title: Airway Management			Feedback: See Opening the Airway			Taxonomy: Recall			Objective: 11-5 Describe the assessment and care of a patient with apnea.",
+NewQuestion,MC,
+Title,,
+QuestionText,You are dispatched to a residence where a middle-aged man was found unconscious in his front yard. There are no witnesses who can tell you what happened. You find him in a prone position; his eyes are closed and he is not moving. Your FIRST action should be to:,
+Points,1,
+Difficulty,1,
+Option,0,a) palpate for the presence of a carotid pulse.
+Option,100,b) log roll him as a unit to a supine position.
+Option,0,c) assess the rate and quality of his breathing.
+Option,0,d) open his airway with a jaw-thrust maneuver.
+Hint,"Complexity: Easy			Ahead: Opening the Airway			Subject:Airway Management, Page 439			Title: Airway Management			Feedback: See Opening the Airway			Taxonomy: Recall			Objective: 11-5 Describe the assessment and care of a patient with apnea.",
+NewQuestion,MC,
+Title,,
+QuestionText,What is the MOST common cause of airway obstruction in an unconscious patient?,
+Points,1,
+Difficulty,1,
+Option,0,a) Vomitus
+Option,100,b) The tongue
+Option,0,c) Blood clots
+Option,0,d) Aspirated fluid
+Hint,"Complexity: Easy			Ahead: Opening the Airway			Subject:Airway Management, Page 439			Title: Airway Management			Feedback: See Opening the Airway			Taxonomy: Recall			Objective: 11-5 Describe the assessment and care of a patient with apnea.",
+NewQuestion,MC,
+Title,,
+QuestionText,In which of the following patients would the head tilt–chin lift maneuver be the MOST appropriate method of opening the airway?,
+Points,1,
+Difficulty,1,
+Option,0,a) A 24-year-old male who is found unconscious at the base of a tree
+Option,100,b) A 37-year-old female who is found unconscious in her bed
+Option,0,c) A 45-year-old male who is semiconscious after falling 20 feet
+Option,0,d) A 50-year-old male who is unconscious following head trauma
+Hint,"Complexity: Moderate			Ahead: Opening the Airway			Subject:Airway Management, Page 440			Title: Airway Management			Feedback: See Opening the Airway			Taxonomy: Analysis			Objective: 11-8 Describe how to perform the head tilt–chin lift maneuver.",
+NewQuestion,MC,
+Title,,
+QuestionText,The jaw-thrust maneuver is used to open the airway of patients with suspected:,
+Points,1,
+Difficulty,1,
+Option,0,a) mandibular fractures.
+Option,0,b) upper airway swelling.
+Option,100,c) cervical spine injuries.
+Option,0,d) copious oral secretions.
+Hint,"Complexity: Easy			Ahead: Opening the Airway			Subject:Airway Management, Page 441			Title: Airway Management			Feedback: See Opening the Airway			Taxonomy: Recall			Objective: 11-9 Describe how to perform the jaw-thrust maneuver.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following patients would MOST likely require insertion of an oropharyngeal airway?,
+Points,1,
+Difficulty,1,
+Option,0,a) A 33-year-old semiconscious patient with reduced tidal volume
+Option,100,"b) A 40-year-old unconscious patient with slow, shallow respirations"
+Option,0,c) A 51-year-old confused patient with severely labored respirations
+Option,0,d) A 64-year-old conscious patient with rapid and deep respirations
+Hint,"Complexity: Moderate			Ahead: Basic Airway Adjuncts			Subject:Airway Management, Page 446			Title: Airway Management			Feedback: See Basic Airway Adjuncts			Taxonomy: Analysis			Objective: 11-11 Explain how to measure and insert an oropharyngeal (oral) airway.",
+NewQuestion,MC,
+Title,,
+QuestionText,"A 19-year-old female is found unconscious by her roommate. Your primary assessment reveals that her breathing is inadequate. As you insert an oropharyngeal airway, she begins to gag violently. You should:",
+Points,1,
+Difficulty,1,
+Option,0,a) continue to insert the airway as you suction her oropharynx.
+Option,100,b) remove the airway and be prepared to suction her oropharynx.
+Option,0,c) insert the airway no further but leave it in place as a bite block.
+Option,0,d) select a smaller oropharyngeal airway and attempt to insert it.
+Hint,"Complexity: Easy			Ahead: Basic Airway Adjuncts			Subject:Airway Management, Page 446			Title: Airway Management			Feedback: See Basic Airway Adjuncts			Taxonomy: Recall			Objective: 11-11 Explain how to measure and insert an oropharyngeal (oral) airway.",
+NewQuestion,MC,
+Title,,
+QuestionText,"To select the proper size oropharyngeal airway, you should measure from the:",
+Points,1,
+Difficulty,1,
+Option,100,a) corner of the mouth to the earlobe.
+Option,0,b) center of the mouth to the posterior ear.
+Option,0,c) corner of the mouth to the superior ear.
+Option,0,d) angle of the jaw to the center of the mouth.
+Hint,"Complexity: Easy			Ahead: Basic Airway Adjuncts			Subject:Airway Management, Page 447			Title: Airway Management			Feedback: See Basic Airway Adjuncts			Taxonomy: Recall			Objective: 11-11 Explain how to measure and insert an oropharyngeal (oral) airway.",
+NewQuestion,MC,
+Title,,
+QuestionText,The nasopharyngeal airway is MOST beneficial because it:,
+Points,1,
+Difficulty,1,
+Option,0,a) can effectively stabilize fractured nasal bones if it is inserted properly.
+Option,0,b) is generally well tolerated in conscious patients with an intact gag reflex.
+Option,0,c) effectively maintains the airway of a patient in cardiopulmonary arrest.
+Option,100,d) can maintain a patent airway in a semiconscious patient with a gag reflex.
+Hint,"Complexity: Moderate			Ahead: Basic Airway Adjuncts			Subject:Airway Management, Page 449			Title: Airway Management			Feedback: See Basic Airway Adjuncts			Taxonomy: Recall			Objective: 11-12 Describe how to measure and insert a nasopharyngeal (nasal) airway.",
+NewQuestion,MC,
+Title,,
+QuestionText,The MOST serious complication associated with using a nasopharyngeal airway in a patient with trauma to the head or face is:,
+Points,1,
+Difficulty,1,
+Option,0,a) fracturing the septum.
+Option,0,b) damaging the turbinates.
+Option,100,c) penetrating the cranium.
+Option,0,d) causing severe bleeding.
+Hint,"Complexity: Moderate			Ahead: Basic Airway Adjuncts			Subject:Airway Management, Page 449			Title: Airway Management			Feedback: See Basic Airway Adjuncts			Taxonomy: Recall			Objective: 11-12 Describe how to measure and insert a nasopharyngeal (nasal) airway.",
+NewQuestion,MC,
+Title,,
+QuestionText,A nasopharyngeal airway is inserted:,
+Points,1,
+Difficulty,1,
+Option,100,a) with the bevel facing the septum if inserted into the right nare.
+Option,0,b) into the larger nostril with the tip pointing away from the septum.
+Option,0,c) with the bevel pointing downward if inserted into the left nare.
+Option,0,d) into the smaller nostril with the tip following the roof of the nose.
+Hint,"Complexity: Moderate			Ahead: Basic Airway Adjuncts			Subject:Airway Management, Page 449			Title: Airway Management			Feedback: See Basic Airway Adjuncts			Taxonomy: Recall			Objective: 11-12 Describe how to measure and insert a nasopharyngeal (nasal) airway.",
+NewQuestion,MC,
+Title,,
+QuestionText,"A 71-year-old male is semiconscious following a sudden, severe headache. There is vomitus on his face, and his respirations are slow and shallow. The EMT must immediately:",
+Points,1,
+Difficulty,1,
+Option,0,a) insert a nasopharyngeal airway.
+Option,100,b) perform oropharyngeal suctioning.
+Option,0,c) apply oxygen via a nonrebreathing mask.
+Option,0,d) begin assisting the patient’s ventilations.
+Hint,"Complexity: Difficult			Ahead: Suctioning			Subject:Airway Management, Page 443			Title: Airway Management			Feedback: See Suctioning			Taxonomy: Analysis			Objective: 11-10 Explain the importance of and techniques for suctioning.",
+NewQuestion,MC,
+Title,,
+QuestionText,"When testing a mechanical suctioning unit, you should turn on the device, clamp the tubing, and ensure that it generates a vacuum pressure of more than:",
+Points,1,
+Difficulty,1,
+Option,0,a) 100 mm Hg.
+Option,0,b) 200 mm Hg.
+Option,100,c) 300 mm Hg.
+Option,0,d) 400 mm Hg.
+Hint,"Complexity: Difficult			Ahead: Suctioning			Subject:Airway Management, Page 443			Title: Airway Management			Feedback: See Suctioning			Taxonomy: Recall			Objective: 11-10 Explain the importance of and techniques for suctioning.",
+NewQuestion,MC,
+Title,,
+QuestionText,The MOST significant complication associated with oropharyngeal suctioning is:,
+Points,1,
+Difficulty,1,
+Option,0,a) oral abrasions from vigorous suctioning.
+Option,100,b) hypoxia due to prolonged suction attempts.
+Option,0,c) clogging of the catheter with thick secretions.
+Option,0,d) vomiting from stimulating the anterior airway.
+Hint,"Complexity: Moderate			Ahead: Suctioning			Subject:Airway Management, Page 443			Title: Airway Management			Feedback: See Suctioning			Taxonomy: Recall			Objective: 11-10 Explain the importance of and techniques for suctioning.",
+NewQuestion,MC,
+Title,,
+QuestionText,Proper technique for suctioning the oropharynx of an adult patient includes:,
+Points,1,
+Difficulty,1,
+Option,0,a) continuously suctioning patients with copious oral secretions.
+Option,100,b) suctioning while withdrawing the catheter from the oropharynx.
+Option,0,"c) removing large, solid objects with a tonsil-tip suction catheter."
+Option,0,d) suctioning for up to 1 minute if the patient is well oxygenated.
+Hint,"Complexity: Moderate			Ahead: Suctioning			Subject:Airway Management, Page 445			Title: Airway Management			Feedback: See Suctioning			Taxonomy: Recall			Objective: 11-10 Explain the importance of and techniques for suctioning.",
+NewQuestion,MC,
+Title,,
+QuestionText,You have inserted an oral airway and are ventilating an apneic woman with a bag-mask device. She suddenly begins regurgitating large amounts of vomit. You should:,
+Points,1,
+Difficulty,1,
+Option,0,a) perform a finger sweep of her mouth.
+Option,0,b) insert a nasal airway and then suction her mouth.
+Option,100,c) roll her onto her side and remove the oral airway.
+Option,0,d) remove the oral airway and suction her oropharynx.
+Hint,"Complexity: Difficult			Ahead: Suctioning			Subject:Airway Management, Page 446			Title: Airway Management			Feedback: See Suctioning			Taxonomy: Analysis			Objective: 11-10 Explain the importance of and techniques for suctioning.",
+NewQuestion,MC,
+Title,,
+QuestionText,"A 23-year-old male experienced severe head trauma after his motorcycle collided with an oncoming truck. He is unconscious, has agonal gasps, and has copious bloody secretions in his mouth. How should you manage his airway?",
+Points,1,
+Difficulty,1,
+Option,0,a) Suction his oropharynx with a rigid catheter until all secretions are removed.
+Option,0,b) Insert a nasopharyngeal airway and provide suction and assisted ventilations.
+Option,100,c) Alternate oropharyngeal suctioning and ventilation with a bag-mask device.
+Option,0,d) Provide continuous ventilations with a bag-mask device to minimize hypoxia.
+Hint,"Complexity: Difficult			Ahead: Suctioning			Subject:Airway Management, Page 445			Title: Airway Management			Feedback: See Suctioning			Taxonomy: Analysis			Objective: 11-10 Explain the importance of and techniques for suctioning.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following patients should you place in the recovery position?,
+Points,1,
+Difficulty,1,
+Option,0,a) A 19-year-old conscious male with a closed head injury and normal respirations
+Option,0,b) A 24-year-old unconscious female who overdosed and has a reduced tidal volume
+Option,100,c) A 31-year-old semiconscious male with low blood sugar and adequate breathing
+Option,0,d) A 40-year-old conscious female with a possible neck injury and regular respirations
+Hint,"Complexity: Moderate			Ahead: Maintaining the Airway			Subject:Airway Management, Page 449			Title: Airway Management			Feedback: See Maintaining the Airway			Taxonomy: Analysis			Objective: 11-13 Explain the use of the recovery position to maintain a clear airway.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following organs or tissues can survive the longest without oxygen?,
+Points,1,
+Difficulty,1,
+Option,100,a) Muscle
+Option,0,b) Heart
+Option,0,c) Liver
+Option,0,d) Kidneys
+Hint,"Complexity: Easy			Ahead: Supplemental Oxygen			Subject:Airway Management, Page 451			Title: Airway Management			Feedback: See Supplemental Oxygen			Taxonomy: Recall			Objective: 11-14 Describe the importance of giving supplemental oxygen to patients who are hypoxic.",
+NewQuestion,MC,
+Title,,
+QuestionText,The purpose of the pin-indexing system for compressed gas cylinders is to:,
+Points,1,
+Difficulty,1,
+Option,100,a) ensure that the correct regulator is used for the cylinder.
+Option,0,b) help you determine what type of oxygen regulator to use.
+Option,0,c) prevent destroying or stripping the threads on the cylinder.
+Option,0,d) reduce the cylinder pressure to a safe and more useful range.
+Hint,"Complexity: Moderate			Ahead: Supplemental Oxygen			Subject:Airway Management, Page 453			Title: Airway Management			Feedback: See Supplemental Oxygen			Taxonomy: Recall			Objective: 11-15 Discuss the basics of how oxygen is stored and the various hazards associated with its use.",
+NewQuestion,MC,
+Title,,
+QuestionText,The pressure of gas in a full cylinder of oxygen is approximately _______ pounds per square inch (psi).,
+Points,1,
+Difficulty,1,
+Option,0,a) 500
+Option,0,"b) 1,000"
+Option,100,"c) 2,000"
+Option,0,"d) 3,000"
+Hint,"Complexity: Easy			Ahead: Supplemental Oxygen			Subject:Airway Management, Page 454			Title: Airway Management			Feedback: See Supplemental Oxygen			Taxonomy: Recall			Objective: 11-15 Discuss the basics of how oxygen is stored and the various hazards associated with its use.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following oxygen flowmeters is NOT affected by gravity and can be used in any position when attached to an oxygen cylinder?,
+Points,1,
+Difficulty,1,
+Option,0,a) Vertical-position flowmeter
+Option,100,b) Bourdon-gauge flowmeter
+Option,0,c) Ball-and-float flowmeter
+Option,0,d) Pressure-compensated flowmeter
+Hint,"Complexity: Easy			Ahead: Supplemental Oxygen			Subject:Airway Management, Page 454			Title: Airway Management			Feedback: See Supplemental Oxygen			Taxonomy: Recall			Objective: 11-15 Discuss the basics of how oxygen is stored and the various hazards associated with its use.",
+NewQuestion,MC,
+Title,,
+QuestionText,An oxygen cylinder should be taken out of service and refilled when the pressure inside it is less than:,
+Points,1,
+Difficulty,1,
+Option,0,a) 200 psi.
+Option,100,b) 500 psi.
+Option,0,"c) 1,000 psi."
+Option,0,"d) 1,500 psi."
+Hint,"Complexity: Easy			Ahead: Supplemental Oxygen			Subject:Airway Management, Page 456			Title: Airway Management			Feedback: See Supplemental Oxygen			Taxonomy: Recall			Objective: 11-15 Discuss the basics of how oxygen is stored and the various hazards associated with its use.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following statements regarding oxygen is correct?,
+Points,1,
+Difficulty,1,
+Option,0,a) Oxygen cylinders must always remain in an upright position.
+Option,0,b) Oxygen is flammable and may explode if under high pressure.
+Option,100,c) Oxygen supports the combustion process and may cause a fire.
+Option,0,d) Oxygen is most safely administered in an enclosed environment.
+Hint,"Complexity: Moderate			Ahead: Supplemental Oxygen			Subject:Airway Management, Page 456			Title: Airway Management			Feedback: See Supplemental Oxygen			Taxonomy: Recall			Objective: 11-15 Discuss the basics of how oxygen is stored and the various hazards associated with its use.",
+NewQuestion,MC,
+Title,,
+QuestionText,Oxygen toxicity is a condition in which:,
+Points,1,
+Difficulty,1,
+Option,0,a) excessive blood oxygen levels cause the hypoxic patient to stop breathing.
+Option,100,b) cellular tissue damage occurs from excessive oxygen levels in the blood.
+Option,0,c) significantly low levels of oxygen in the blood damage the cellular tissue.
+Option,0,d) decreased levels of oxygen in the blood result in free radical production.
+Hint,"Complexity: Easy			Ahead: Supplemental Oxygen			Subject:Airway Management, Page 457			Title: Airway Management			Feedback: See Supplemental Oxygen			Taxonomy: Recall			Objective: 11-15 Discuss the basics of how oxygen is stored and the various hazards associated with its use.",
+NewQuestion,MC,
+Title,,
+QuestionText,"Based on current guidelines, in which of the following situations should supplemental oxygen be administered?",
+Points,1,
+Difficulty,1,
+Option,0,a) Signs of myocardial infarction and an oxygen saturation of 97%
+Option,100,b) Exposure to carbon monoxide and an oxygen saturation of 94%
+Option,0,c) Any diabetic patient whose oxygen saturation is less than 98%
+Option,0,d) Any elderly patient whose oxygen saturation is less than 95%
+Hint,"Complexity: Moderate			Ahead: Supplemental Oxygen			Subject:Airway Management, Page 457			Title: Airway Management			Feedback: See Supplemental Oxygen			Taxonomy: Application			Objective: 11-15 Discuss the basics of how oxygen is stored and the various hazards associated with its use.",
+NewQuestion,MC,
+Title,,
+QuestionText,A patient who is suspected of being hypoxic and is breathing adequately should be given supplemental oxygen with a:,
+Points,1,
+Difficulty,1,
+Option,0,a) nasal cannula.
+Option,100,b) nonrebreathing mask.
+Option,0,c) bag-mask device.
+Option,0,d) mouth-to-mask device.
+Hint,"Complexity: Easy			Ahead: Oxygen-Delivery Equipment			Subject:Airway Management, Page 458			Title: Airway Management			Feedback: See Oxygen-Delivery Equipment			Taxonomy: Recall			Objective: 11-16 Explain the use of a nonrebreathing mask and the oxygen flow requirements for its use.",
+NewQuestion,MC,
+Title,,
+QuestionText,"With a good mask-to-face seal and an oxygen flow rate of 15 L/min, the nonrebreathing mask is capable of delivering up to ______% inspired oxygen.",
+Points,1,
+Difficulty,1,
+Option,0,a) 70
+Option,0,b) 80
+Option,100,c) 90
+Option,0,d) 100
+Hint,"Complexity: Easy			Ahead: Oxygen-Delivery Equipment			Subject:Airway Management, Page 458			Title: Airway Management			Feedback: See Oxygen-Delivery Equipment			Taxonomy: Recall			Objective: 11-16 Explain the use of a nonrebreathing mask and the oxygen flow requirements for its use.",
+NewQuestion,MC,
+Title,,
+QuestionText,"Prior to applying a nonrebreathing mask to a patient, you must ensure that the:",
+Points,1,
+Difficulty,1,
+Option,0,a) one-way valve is sealed.
+Option,0,b) flow rate is set at 6 L/min.
+Option,100,c) reservoir bag is fully inflated.
+Option,0,d) patient has reduced tidal volume.
+Hint,"Complexity: Moderate			Ahead: Oxygen-Delivery Equipment			Subject:Airway Management, Page 458			Title: Airway Management			Feedback: See Oxygen-Delivery Equipment			Taxonomy: Recall			Objective: 11-16 Explain the use of a nonrebreathing mask and the oxygen flow requirements for its use.",
+NewQuestion,MC,
+Title,,
+QuestionText,"At a flow rate of 6 L/min, a nasal cannula can deliver an approximate oxygen concentration of up to:",
+Points,1,
+Difficulty,1,
+Option,0,a) 24%.
+Option,0,b) 35%.
+Option,100,c) 44%.
+Option,0,d) 52%.
+Hint,"Complexity: Easy			Ahead: Oxygen-Delivery Equipment			Subject:Airway Management, Page 458			Title: Airway Management			Feedback: See Oxygen-Delivery Equipment			Taxonomy: Recall			Objective: 11-17 Describe the indications for using a nasal cannula rather than a nonrebreathing face mask.",
+NewQuestion,MC,
+Title,,
+QuestionText,The nasal cannula is MOST appropriately used in the prehospital setting:,
+Points,1,
+Difficulty,1,
+Option,100,a) when the patient cannot tolerate a nonrebreathing mask.
+Option,0,b) if the patient’s nasopharynx is obstructed by secretions.
+Option,0,c) if long-term supplemental oxygen administration is required.
+Option,0,d) when the patient breathes primarily through his or her mouth.
+Hint,"Complexity: Moderate			Ahead: Oxygen-Delivery Equipment			Subject:Airway Management, Page 458			Title: Airway Management			Feedback: See Oxygen-Delivery Equipment			Taxonomy: Recall			Objective: 11-17 Describe the indications for using a nasal cannula rather than a nonrebreathing face mask.",
+NewQuestion,MC,
+Title,,
+QuestionText,For which of the following conditions would the EMT most likely administer humidified oxygen?,
+Points,1,
+Difficulty,1,
+Option,0,a) Apnea
+Option,100,b) Croup
+Option,0,c) Hypoxia
+Option,0,d) Blood loss
+Hint,"Complexity: Moderate			Ahead: Oxygen-Delivery Equipment			Subject:Airway Management, Page 460			Title: Airway Management			Feedback: See Oxygen-Delivery Equipment			Taxonomy: Recall			Objective: 11-18 Describe the indications for using a humidifier during supplemental oxygen therapy.",
+NewQuestion,MC,
+Title,,
+QuestionText,A 51-year-old female presents with a sudden onset of difficulty breathing. She is conscious and alert and able to speak in complete sentences. Her respirations are 22 breaths/min and regular. You should:,
+Points,1,
+Difficulty,1,
+Option,100,a) administer oxygen via a nonrebreathing mask.
+Option,0,b) insert a nasal airway in case her mental status decreases.
+Option,0,c) perform a secondary assessment and then begin treatment.
+Option,0,d) assist her ventilations with a bag-mask device.
+Hint,"Complexity: Difficult			Ahead: Assisted and Artificial Ventilation			Subject:Airway Management, Page 460			Title: Airway Management			Feedback: See Assisted and Artificial Ventilation			Taxonomy: Analysis			Objective: 11-3 Give the signs of adequate breathing.",
+NewQuestion,MC,
+Title,,
+QuestionText,What occurs when a patient is breathing very rapidly and shallowly?,
+Points,1,
+Difficulty,1,
+Option,0,a) Minute volume increases because of a marked increase in both tidal volume and respiratory rate.
+Option,100,b) Air moves primarily in the anatomic dead space and does not participate in pulmonary gas exchange.
+Option,0,c) Air is forcefully drawn into the lungs due to the negative pressure created by the rapid respirations.
+Option,0,d) The majority of tidal volume reaches the lungs and diffuses across the alveolar–capillary membrane.
+Hint,"Complexity: Moderate			Ahead: Assisted and Artificial Ventilation			Subject:Airway Management, Page 460			Title: Airway Management			Feedback: See Assisted and Artificial Ventilation			Taxonomy: Analysis			Objective: 11-3 Give the signs of inadequate breathing.",
+NewQuestion,MC,
+Title,,
+QuestionText,"As the single EMT managing an apneic patient’s airway, the preferred initial method of providing ventilations is the:",
+Points,1,
+Difficulty,1,
+Option,0,a) mouth-to-mouth technique.
+Option,0,b) one-person bag-valve mask.
+Option,0,c) manually triggered ventilation device.
+Option,100,d) mouth-to-mask technique with a one-way valve.
+Hint,"Complexity: Moderate			Ahead: Assisted and Artificial Ventilation			Subject:Airway Management, Page 464			Title: Airway Management			Feedback: See Assisted and Artificial Ventilation			Taxonomy: Recall			Objective: 11-19 Describe how to perform mouth-to-mouth or mouth-to-mask ventilation.",
+NewQuestion,MC,
+Title,,
+QuestionText,You and your partner are treating a 66-year-old man who experienced a sudden onset of respiratory distress. He is conscious but is unable to follow simple verbal commands. Further assessment reveals that his breathing is severely labored and his oxygen saturation is 80%. You should:,
+Points,1,
+Difficulty,1,
+Option,0,a) attempt to insert an oropharyngeal airway.
+Option,100,b) assist his ventilations with a bag-mask device.
+Option,0,c) administer continuous positive airway pressure.
+Option,0,d) apply high-flow oxygen via nonrebreathing mask.
+Hint,"Complexity: Difficult			Ahead: Assisted and Artificial Ventilation			Subject:Airway Management, Page 463			Title: Airway Management			Feedback: See Assisted and Artificial Ventilation			Taxonomy: Analysis			Objective: 11-20 Describe the use of a one- or two-person bag-mask device.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following statements regarding positive-pressure ventilation is correct?,
+Points,1,
+Difficulty,1,
+Option,0,a) Positive-pressure ventilation allows blood to naturally be pulled back to the heart from the body.
+Option,100,"b) With positive-pressure ventilation, more volume is required to have the same effects as normal breathing."
+Option,0,"c) To prevent hypotension, the EMT should increase the rate and force of positive-pressure ventilation."
+Option,0,"d) Unlike negative-pressure ventilation, positive-pressure ventilation does not affect the esophageal opening pressure."
+Hint,"Complexity: Moderate			Ahead: Assisted and Artificial Ventilation			Subject:Airway Management, Page 461			Title: Airway Management			Feedback: See Assisted and Artificial Ventilation			Taxonomy: Recall			Objective: 11-22 Describe the use of continuous positive airway pressure (CPAP).",
+NewQuestion,MC,
+Title,,
+QuestionText,How does positive-pressure ventilation affect cardiac output?,
+Points,1,
+Difficulty,1,
+Option,0,a) There is no effect on cardiac output because positive-pressure ventilation is the act of normal breathing.
+Option,0,"b) It decreases intrathoracic pressure, which facilitates venous return to the heart and increases cardiac output."
+Option,0,"c) It causes pressure in the chest to decrease, which increases stroke volume and cardiac output."
+Option,100,"d) It increases intrathoracic pressure, which decreases venous return to the heart and causes a decrease in cardiac output."
+Hint,"Complexity: Moderate			Ahead: Assisted and Artificial Ventilation			Subject:Airway Management, Page 461			Title: Airway Management			Feedback: See Assisted and Artificial Ventilation			Taxonomy: Recall			Objective: 11-22 Describe the use of continuous positive airway pressure (CPAP).",
+NewQuestion,MC,
+Title,,
+QuestionText,"You are ventilating a 40-year-old uninjured man who is apneic but has a pulse. When your partner reassesses his blood pressure, she notes that he has decreased significantly from previous readings. You should:",
+Points,1,
+Difficulty,1,
+Option,100,a) reduce the rate or volume of the ventilations you are delivering.
+Option,0,b) perform a head-to-toe assessment to look for signs of bleeding.
+Option,0,c) increase the volume of your ventilations and reassess his blood pressure.
+Option,0,d) increase the rate at which you are ventilating and reassess his blood pressure.
+Hint,"Complexity: Difficult			Ahead: Assisted and Artificial Ventilation			Subject:Airway Management, Page 463			Title: Airway Management			Feedback: See Assisted and Artificial Ventilation			Taxonomy: Analysis			Objective: 11-21 Describe the assessment and care of a patient with apnea.",
+NewQuestion,MC,
+Title,,
+QuestionText,You are performing bag-mask ventilations with oxygen connected and set at a flow rate of 15 L/min. What percentage of oxygen are you delivering?,
+Points,1,
+Difficulty,1,
+Option,0,a) 45%
+Option,0,b) 55%
+Option,0,c) 65%
+Option,100,d) Nearly 100%
+Hint,"Complexity: Moderate			Ahead: Assisted and Artificial Ventilation			Subject:Airway Management, Page 463			Title: Airway Management			Feedback: See Assisted and Artificial Ventilation			Taxonomy: Recall			Objective: 11-19 Describe the use of one- or two-person bag-mask device.",
+NewQuestion,MC,
+Title,,
+QuestionText,"You and your partner are caring for a critically injured patient who is unresponsive and apneic. Your partner is controlling severe bleeding from the patient’s lower extremities as you attempt ventilations with a bag-mask device. After repositioning the mask several times, you are unable to effectively ventilate the patient. You should:",
+Points,1,
+Difficulty,1,
+Option,100,a) insert an oropharyngeal airway and reattempt ventilations.
+Option,0,b) hyperextend the patient’s head and reattempt ventilations.
+Option,0,c) continue attempted ventilations and transport immediately.
+Option,0,d) suction the patient’s airway for 30 seconds and reattempt ventilations.
+Hint,"Complexity: Difficult			Ahead: Assisted and Artificial Ventilation			Subject:Airway Management, Page 462			Title: Airway Management			Feedback: See Assisted and Artificial Ventilation			Taxonomy: Analysis			Objective: 11-5 Describe the assessment and care of a patient with apnea.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following statements regarding the one-person bag-mask technique is correct?,
+Points,1,
+Difficulty,1,
+Option,0,a) Bag-mask ventilations should be delivered every 2 seconds when the device is being operated by one person.
+Option,0,b) The C-clamp method of holding the mask to the face is not effective when ventilating a patient with a bag-mask device.
+Option,100,c) Adequate tidal volume is often difficult to achieve when one EMT is operating the bag-mask device.
+Option,0,d) The bag-mask device delivers more tidal volume and a higher oxygen concentration than the mouth-to-mask technique.
+Hint,"Complexity: Moderate			Ahead: Assisted and Artificial Ventilation			Subject:Airway Management, Page 463			Title: Airway Management			Feedback: See Assisted and Artificial Ventilation			Taxonomy: Recall			Objective: 11-20 Describe the use of a one- or two-person bag-mask device.",
+NewQuestion,MC,
+Title,,
+QuestionText,"All of the following will help minimize the risk of gastric distention when ventilating an apneic patient with a bag-mask device, EXCEPT:",
+Points,1,
+Difficulty,1,
+Option,0,a) delivering each breath over 1 second.
+Option,0,b) ensuring the appropriate airway position.
+Option,0,c) ventilating the patient at the appropriate rate.
+Option,100,d) increasing the amount of delivered tidal volume.
+Hint,"Complexity: Moderate			Ahead: Assisted and Artificial Ventilation			Subject:Airway Management, Page 463			Title: Airway Management			Feedback: See Assisted and Artificial Ventilation			Taxonomy: Recall			Objective: 11-20 Describe the use of a one- or two-person bag-mask device.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following is the MOST reliable indicator of adequately performed bag-mask ventilations in an apneic adult with a pulse?,
+Points,1,
+Difficulty,1,
+Option,0,a) Twenty breaths/min being delivered to the adult
+Option,0,b) Decreased compliance when squeezing the bag
+Option,0,c) An adult’s heart rate that is consistently increasing
+Option,100,d) Adequate rise of the chest when squeezing the bag
+Hint,"Complexity: Moderate			Ahead: Assisted and Artificial Ventilation			Subject:Airway Management, Page 464			Title: Airway Management			Feedback: See Assisted and Artificial Ventilation			Taxonomy: Application			Objective: 11-20 Describe the use of a one- or two-person bag-mask device.",
+NewQuestion,MC,
+Title,,
+QuestionText,"Your protocols state that during the first few minutes of working on a cardiac arrest patient, you should provide passive ventilation. This means that you will:",
+Points,1,
+Difficulty,1,
+Option,0,a) deliver positive-pressure ventilation at a rate of only 5 or 6 breaths/min.
+Option,0,b) ventilate with a bag-valve mask that is not attached to oxygen.
+Option,0,c) time your positive-pressure ventilations to occur during chest recoil.
+Option,100,d) allow recoil of the chest between compressions to draw air into the lungs.
+Hint,"Complexity: Difficult			Ahead: Assisted and Artificial Ventilation			Subject:Airway Management, Page 467			Title: Airway Management			Feedback: See Assisted and Artificial Ventilation			Taxonomy: Application			Objective: 11-21 Describe the signs associated with adequate and inadequate artificial ventilation.",
+NewQuestion,MC,
+Title,,
+QuestionText,High-flow oxygen with a nasal cannula during the preoxygenation phase of endotracheal intubation is called:,
+Points,1,
+Difficulty,1,
+Option,0,a) denitrogenation.
+Option,100,b) apneic oxygenation.
+Option,0,c) passive ventilation.
+Option,0,d) active ventilation.
+Hint,"Complexity: Easy			Ahead: Assisting With ALS Airway Procedures			Subject:Airway Management, Page 477			Title: Airway Management			Feedback: See Assisting With ALS Airway Procedures			Taxonomy: Recall			Objective: 11-24 Describe the four-step process of assisting with advanced life support (ALS) skills.",
+NewQuestion,MC,
+Title,,
+QuestionText,How does CPAP improve oxygenation and ventilation in patients with certain respiratory problems?,
+Points,1,
+Difficulty,1,
+Option,100,a) It forces the alveoli open and increases the concentration of oxygen in the alveoli.
+Option,0,"b) It pushes thick, infected pulmonary secretions into isolated areas of the lung."
+Option,0,"c) It decreases intrathoracic pressure, which allows more room for lung expansion."
+Option,0,d) It prevents alveolar collapse by pushing air into the lungs during inhalation.
+Hint,"Complexity: Moderate			Ahead: Continuous Positive Airway Pressure			Subject:Airway Management, Page 469			Title: Airway Management			Feedback: See Continuous Positive Airway Pressure			Taxonomy: Recall			Objective: 11-22 Describe the use of continuous positive airway pressure (CPAP).",
+NewQuestion,MC,
+Title,,
+QuestionText,CPAP is indicated for patients who:,
+Points,1,
+Difficulty,1,
+Option,0,a) have signs of pneumonia but are breathing adequately.
+Option,0,b) are unresponsive and have signs of inadequate ventilation.
+Option,100,c) have pulmonary edema and can follow verbal commands.
+Option,0,d) are hypotensive and have a marked reduction in tidal volume.
+Hint,"Complexity: Moderate			Ahead: Continuous Positive Airway Pressure			Subject:Airway Management, Page 469			Title: Airway Management			Feedback: See Continuous Positive Airway Pressure			Taxonomy: Recall			Objective: 11-22 Describe the use of continuous positive airway pressure (CPAP).",
+NewQuestion,MC,
+Title,,
+QuestionText,"You are ventilating a patient with a stoma; however, air is escaping from the mouth and nose. To prevent this, you should:",
+Points,1,
+Difficulty,1,
+Option,0,a) thrust the jaw forward.
+Option,100,b) seal the mouth and nose.
+Option,0,c) ventilate with less pressure.
+Option,0,d) thoroughly suction the stoma.
+Hint,"Complexity: Moderate			Ahead: Stomas and Tracheostomy Tubes			Subject:Airway Management, Page 474			Title: Airway Management			Feedback: See Stomas and Tracheostomy Tubes			Taxonomy: Analysis			Objective: 11-21 Describe the signs associated with adequate and inadequate artificial ventilation.",
+NewQuestion,MC,
+Title,,
+QuestionText,"A 37-year-old male has an apparent foreign body airway obstruction. He is conscious and alert and is coughing forcefully. His skin is pink, warm, and moist. The MOST appropriate treatment for this patient includes:",
+Points,1,
+Difficulty,1,
+Option,0,a) a series of back blows and chest thrusts.
+Option,0,b) finger sweeps to remove the obstruction.
+Option,0,c) a series of abdominal thrusts.
+Option,100,d) encouraging him to cough and transporting.
+Hint,"Complexity: Difficult			Ahead: Foreign Body Airway Obstruction			Subject:Airway Management, Page 475			Title: Airway Management			Feedback: See Foreign Body Airway Obstruction			Taxonomy: Analysis			Objective: 11-23 Explain how to recognize and care for a foreign body airway obstruction.",
+NewQuestion,MC,
+Title,,
+QuestionText,"While eating dinner, your partner suddenly grabs his throat and has a panicked look on his face. He is unable to cough and becomes cyanotic around the lips. You should:",
+Points,1,
+Difficulty,1,
+Option,0,a) encourage him to cough as forcefully as he can.
+Option,0,b) deliver up to five back blows and reassess him.
+Option,0,c) place him in a supine position and open his airway.
+Option,100,d) stand behind him and administer abdominal thrusts.
+Hint,"Complexity: Moderate			Ahead: Foreign Body Airway Obstruction			Subject:Airway Management, Page 475			Title: Airway Management			Feedback: See Foreign Body Airway Obstruction			Taxonomy: Analysis			Objective: 11-23 Explain how to recognize and care for a foreign body airway obstruction.",
+NewQuestion,MC,
+Title,,
+QuestionText,"During your assessment of a patient with respiratory distress, you hear wheezing when listening to breath sounds. This indicates:",
+Points,1,
+Difficulty,1,
+Option,0,a) fluid in the alveoli.
+Option,0,b) secretions in the airway.
+Option,100,c) a lower airway obstruction.
+Option,0,d) swelling of the upper airway.
+Hint,"Complexity: Moderate			Ahead: Foreign Body Airway Obstruction			Subject:Airway Management, Page 475			Title: Airway Management			Feedback: See Foreign Body Airway Obstruction			Taxonomy: Recall			Objective: 11-23 Explain how to recognize and care for a foreign body airway obstruction.",
+NewQuestion,MC,
+Title,,
+QuestionText,"You are ventilating an apneic woman with a bag-mask device. She has dentures, which are tight fitting. Adequate chest rise is present with each ventilation, and the patient’s oxygen saturation reads 96%. When you reassess the patency of her airway, you note that her dentures are now loose, although your ventilations are still producing adequate chest rise. You should:",
+Points,1,
+Difficulty,1,
+Option,100,"a) remove her dentures, resume ventilations, and assess for adequate chest rise."
+Option,0,b) attempt to replace her dentures so that they fit tightly and resume ventilations.
+Option,0,"c) leave her dentures in place, but carefully monitor her for an airway obstruction."
+Option,0,d) leave her dentures in place and increase the rate and volume of your ventilations.
+Hint,"Complexity: Difficult			Ahead: Foreign Body Airway Obstruction			Subject:Airway Management, Page 477			Title: Airway Management			Feedback: See Foreign Body Airway Obstruction			Taxonomy: Analysis			Objective: 11-23 Explain how to recognize and care for a foreign body airway obstruction.",
+NewQuestion,MC,
+Title,,
+QuestionText,"While providing CPAP to a patient in severe respiratory distress, you note that his heart rate has increased by 20 beats/min. He is conscious, but is no longer following verbal commands. You should:",
+Points,1,
+Difficulty,1,
+Option,0,a) decrease the amount of pressure that the CPAP device is delivering.
+Option,100,b) remove the CPAP device and ventilate him with a bag-mask device.
+Option,0,c) increase the amount of pressure that the CPAP device is delivering.
+Option,0,d) remove the CPAP device and apply oxygen by nonrebreathing mask.
+Hint,"Complexity: Difficult			Ahead: Continuous Positive Airway Pressure			Subject:Airway Management, Page 470			Title: Airway Management			Feedback: See Continuous Positive Airway Pressure			Taxonomy: Analysis			Objective: 11-22 Describe the use of continuous positive airway pressure (CPAP).",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following would cause an increase in the amount of exhaled carbon dioxide?,
+Points,1,
+Difficulty,1,
+Option,100,a) Increased cardiac output
+Option,0,b) Cardiopulmonary arrest
+Option,0,c) Anaerobic metabolism
+Option,0,d) Excessive ventilation
+Hint,"Complexity: Moderate			Ahead: Patient Assessment			Subject:Airway Management, Page 434			Title: Airway Management			Feedback: See Patient Assessment			Taxonomy: Recall			Objective: 11-2 Discuss the physiology of breathing.",
+NewQuestion,MC,
+Title,,
+QuestionText,"A man was found unresponsive in his bed at home. There is no evidence of injury, and the patient’s medical history is not known. The patient’s face is cherry red, yet the pulse oximeter reads 98%. Which of the following would MOST likely explain this?",
+Points,1,
+Difficulty,1,
+Option,0,a) Severe pulmonary edema
+Option,100,b) Carbon monoxide poisoning
+Option,0,c) Cold extremities
+Option,0,d) Increased body temperature
+Hint,"Complexity: Moderate			Ahead: Pathophysiology of Respiration			Subject:Airway Management, Page 430			Title: Airway Management			Feedback: See Pathophysiology of Respiration			Taxonomy: Analysis			Objective: 11-2 Discuss the physiology of breathing.",

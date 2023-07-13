@@ -1,0 +1,530 @@
+NewQuestion,MC,
+Title,,
+QuestionText,"To minimize the risk of litigation, the EMT should:",
+Points,1,
+Difficulty,1,
+Option,0,a) always transport patients to the hospital of their choice.
+Option,100,b) provide competent care that meets current standards.
+Option,0,c) use universal precautions with every patient encounter.
+Option,0,d) utilize at least four personnel when moving a patient.
+Hint,"Complexity: Moderate			Ahead: Introduction			Subject:Medical, Legal, and Ethical Issues, Page 86			Title: Medical, Legal, and Ethical Issues			Feedback: See Introduction			Taxonomy: Recall			Objective: 3-1 Define consent and how it relates to decision-making.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following general statements regarding consent is correct?,
+Points,1,
+Difficulty,1,
+Option,100,a) A patient can consent to transport but can legally refuse treatment.
+Option,0,b) Patients who are intoxicated are generally allowed to refuse treatment.
+Option,0,c) Expressed consent is valid only if given in writing by a family member.
+Option,0,d) All patients older than 18 years can legally refuse treatment or transport.
+Hint,"Complexity: Easy			Ahead: Consent			Subject:Medical, Legal, and Ethical Issues, Pages 86-87			Title: Medical, Legal, and Ethical Issues			Feedback: See Consent			Taxonomy: Recall			Objective: 3-1 Define consent and how it relates to decision making.",
+NewQuestion,MC,
+Title,,
+QuestionText,"Which type of consent is involved when a 39-year-old, mentally competent female with a severe headache asks you to take her to the hospital?",
+Points,1,
+Difficulty,1,
+Option,0,a) Formal
+Option,0,b) Implied
+Option,0,c) Informed
+Option,100,d) Expressed
+Hint,"Complexity: Difficult			Ahead: Consent			Subject:Medical, Legal, and Ethical Issues, Page 87			Title: Medical, Legal, and Ethical Issues			Feedback: See Consent			Taxonomy: Application			Objective: 3-2 Compare expressed consent, implied consent, and involuntary consent.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following scenarios is an example of informed consent?,
+Points,1,
+Difficulty,1,
+Option,0,a) A patient advises an EMT of why he or she is refusing care.
+Option,100,b) An EMT advises a patient of the risks of receiving treatment.
+Option,0,c) An EMT initiates immediate care for an unconscious adult.
+Option,0,d) A patient is advised by an EMT of the risks of refusing care.
+Hint,"Complexity: Easy			Ahead: Consent			Subject:Medical, Legal, and Ethical Issues, Page 87			Title: Medical, Legal, and Ethical Issues			Feedback: See Consent			Taxonomy: Recall			Objective: 3-2 Compare expressed consent, implied consent, and involuntary consent.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following types of consent allows treatment of a patient who is unconscious or mentally incapacitated?,
+Points,1,
+Difficulty,1,
+Option,0,a) Actual
+Option,100,b) Implied
+Option,0,c) Informed
+Option,0,d) Expressed
+Hint,"Complexity: Easy			Ahead: Consent			Subject:Medical, Legal, and Ethical Issues, Page 88			Title: Medical, Legal, and Ethical Issues			Feedback: See Consent			Taxonomy: Recall			Objective: 3-2 Compare expressed consent, implied consent, and involuntary consent.",
+NewQuestion,MC,
+Title,,
+QuestionText,"You are dispatched to an office building for a 49-year-old male with chest pain. When you arrive at the scene, you find the patient to be conscious and alert but in obvious pain. He tells you that he did not call 911; a coworker did. He further states that he does not want to be treated or transported to the hospital. You should:",
+Points,1,
+Difficulty,1,
+Option,100,a) ensure that he is aware of the risks of refusing medical care.
+Option,0,b) err in the best interest of the patient and transport him at once.
+Option,0,c) have him sign a refusal of care form and then return to service.
+Option,0,d) tell him that he is having a heart attack and needs medical care.
+Hint,"Complexity: Difficult			Ahead: Consent			Subject:Medical, Legal, and Ethical Issues, Page 87			Title: Medical, Legal, and Ethical Issues			Feedback: See Consent			Taxonomy: Analysis			Objective: 3-2 Compare expressed consent, implied consent, and involuntary consent.",
+NewQuestion,MC,
+Title,,
+QuestionText,"You suspect that a pregnant 16-year-old girl has a broken leg after she was hit by a car. You explain that you plan to splint her leg, and she agrees to treatment. Which of the following types of consent describes her agreement?",
+Points,1,
+Difficulty,1,
+Option,0,a) Implied
+Option,0,b) Informed
+Option,100,c) Expressed
+Option,0,d) Minor’s
+Hint,"Complexity: Difficult			Ahead: Consent			Subject:Medical, Legal, and Ethical Issues, Page 88			Title: Medical, Legal, and Ethical Issues			Feedback: See Consent			Taxonomy: Application			Objective: 3-3 Discuss consent by minors for treatment or transport.",
+NewQuestion,MC,
+Title,,
+QuestionText,"In many states, a minor may be treated as an adult for the purpose of consenting to or refusing medical treatment if the minor:",
+Points,1,
+Difficulty,1,
+Option,0,a) possesses a valid driver’s license.
+Option,0,b) is mentally competent and able to refuse.
+Option,0,c) has a poor relationship with his or her parents.
+Option,100,d) is self-supporting and lives by him- or herself.
+Hint,"Complexity: Easy			Ahead: Consent			Subject:Medical, Legal, and Ethical Issues, Page 89			Title: Medical, Legal, and Ethical Issues			Feedback: See Consent			Taxonomy: Recall			Objective: 3-3 Discuss consent by minors for treatment or transport.",
+NewQuestion,MC,
+Title,,
+QuestionText,"You arrive at the scene of a motor vehicle-versus-pedestrian accident. The patient, a 13-year-old male, is unconscious and has multiple injuries. As you are treating the child, a law enforcement officer advises you that the child’s parents will be at the scene in approximately 15 minutes. What should you do?",
+Points,1,
+Difficulty,1,
+Option,100,a) Transport the child immediately and have the parents meet you at the hospital.
+Option,0,b) Treat the child at the scene and wait for the parents to arrive and give consent.
+Option,0,c) Begin transport at once and have the parents meet you en route to the hospital.
+Option,0,d) Withhold treatment until the parents arrive and give you consent for treatment.
+Hint,"Complexity: Difficult			Ahead: Consent			Subject:Medical, Legal, and Ethical Issues, Page 88			Title: Medical, Legal, and Ethical Issues			Feedback: See Consent			Taxonomy: Analysis			Objective: 3-3 Discuss consent by minors for treatment or transport.",
+NewQuestion,MC,
+Title,,
+QuestionText,You are dispatched to a middle school for a 16-year-old female experiencing an asthma attack. She is conscious and alert but in severe respiratory distress. The school nurse informs you that she has tried several times to contact the patient’s parents but has not been successful. You should:,
+Points,1,
+Difficulty,1,
+Option,100,a) provide treatment up to your level of training and transport the child at once.
+Option,0,b) recognize that you cannot begin treatment without expressed parental consent.
+Option,0,c) transport the child to the closest hospital and let the staff there provide any treatment.
+Option,0,d) administer oxygen only until you receive parental consent for further treatment.
+Hint,"Complexity: Difficult			Ahead: Consent			Subject:Medical, Legal, and Ethical Issues, Page 88			Title: Medical, Legal, and Ethical Issues			Feedback: See Consent			Taxonomy: Analysis			Objective: 3-3 Discuss consent by minors for treatment or transport.",
+NewQuestion,MC,
+Title,,
+QuestionText,"You are treating a man who was assaulted and has a closed-head injury. The patient, who has slurred speech, becomes verbally abusive and tells you to leave him alone. You should:",
+Points,1,
+Difficulty,1,
+Option,0,a) ask a police officer to transport the patient to the hospital.
+Option,0,b) allow the patient to refuse treatment because the injury was not his fault.
+Option,100,c) proceed with treatment and utilize law enforcement for assistance if necessary.
+Option,0,d) have the police arrest the patient so that you can legally begin treatment.
+Hint,"Complexity: Difficult			Ahead: Consent			Subject:Medical, Legal, and Ethical Issues, Page 88			Title: Medical, Legal, and Ethical Issues			Feedback: See Consent			Taxonomy: Analysis			Objective: 3-2 Compare expressed consent, implied consent, and involuntary consent.",
+NewQuestion,MC,
+Title,,
+QuestionText,"A patient regains consciousness en route from his office to the emergency department. The patient tells you that he feels fine and does not want to go to the hospital. Under these circumstances, you should:",
+Points,1,
+Difficulty,1,
+Option,0,a) document the patient’s request but continue to transport him.
+Option,0,b) have the patient sign a refusal form and return him to his office.
+Option,0,c) request that the police place the patient under protective custody.
+Option,100,d) assess whether the patient’s mental condition is impaired.
+Hint,"Complexity: Moderate			Ahead: The Right to Refuse Treatment			Subject:Medical, Legal, and Ethical Issues, Page 90			Title: Medical, Legal, and Ethical Issues			Feedback: See The Right to Refuse Treatment			Taxonomy: Analysis			Objective: 3-5 Discuss the EMT’s role and obligations if a patient refuses treatment or transport.",
+NewQuestion,MC,
+Title,,
+QuestionText,"Shortly after you load your patient, a 50-year-old man with abdominal pain, into the ambulance, he tells you that he changed his mind and does not want to go to the hospital. The patient is conscious and alert and has no signs of mental incapacitation. You are suspicious that the man has a significant underlying condition and feel strongly that he should go to the hospital. Which of the following statements regarding this situation is correct?",
+Points,1,
+Difficulty,1,
+Option,100,a) A mentally competent adult can withdraw his or her consent to treat at any time.
+Option,0,b) Any patient who refuses EMS treatment must legally sign a patient refusal form.
+Option,0,"c) Because of your suspicions, the best approach is to transport him to the hospital."
+Option,0,"d) Once the patient is in the ambulance, he cannot legally refuse EMS treatment."
+Hint,"Complexity: Difficult			Ahead: The Right to Refuse Treatment			Subject:Medical, Legal, and Ethical Issues, Page 90			Title: Medical, Legal, and Ethical Issues			Feedback: See The Right to Refuse Treatment			Taxonomy: Application			Objective: 3-5 Discuss the EMT’s role and obligations if a patient refuses treatment or transport.",
+NewQuestion,MC,
+Title,,
+QuestionText,"You suspect that a 6-year-old girl has broken her leg after falling from a swing at a playground. Shortly after you arrive, the child’s mother appears and refuses to allow you to continue treatment. You should:",
+Points,1,
+Difficulty,1,
+Option,0,a) use your authority under the implied consent law.
+Option,100,b) try to persuade the mother that treatment is needed.
+Option,0,c) ask the mother to sign a refusal form and then leave.
+Option,0,d) tell the mother that her refusal is a form of child abuse.
+Hint,"Complexity: Moderate			Ahead: The Right to Refuse Treatment			Subject:Medical, Legal, and Ethical Issues, Page 90			Title: Medical, Legal, and Ethical Issues			Feedback: See The Right to Refuse Treatment			Taxonomy: Analysis			Objective: 3-5 Discuss the EMT’s role and obligations if a patient refuses treatment or transport.",
+NewQuestion,MC,
+Title,,
+QuestionText,In which of the following circumstances can the EMT legally release confidential patient information?,
+Points,1,
+Difficulty,1,
+Option,0,a) A police officer requests a copy to place on file
+Option,0,b) The family requests a copy for insurance purposes
+Option,0,c) A media representative inquiries about the patient
+Option,100,d) The patient is competent and signs a release form
+Hint,"Complexity: Moderate			Ahead: Confidentiality			Subject:Medical, Legal, and Ethical Issues, Page 91			Title: Medical, Legal, and Ethical Issues			Feedback: See Confidentiality			Taxonomy: Recall			Objective: 3-6 Describe the relationship between patient communications, confidentiality, and the Health Insurance Portability and Accountability Act (HIPAA).",
+NewQuestion,MC,
+Title,,
+QuestionText,Your best protection against legal liability when a patient with decision-making capacity refuses EMS care and transport is to:,
+Points,1,
+Difficulty,1,
+Option,0,a) advise medical control of the situation.
+Option,0,b) err on the side of caution and transport.
+Option,0,c) ensure that the family is aware of the risks.
+Option,100,d) thoroughly document the entire event.
+Hint,"Complexity: Moderate			Ahead: The Right to Refuse Treatment			Subject:Medical, Legal, and Ethical Issues, Page 90			Title: Medical, Legal, and Ethical Issues			Feedback: See The Right to Refuse Treatment			Taxonomy: Recall			Objective: 3-5 Discuss the EMT’s role and obligations if a patient refuses treatment or transport.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which aspect of the Health Insurance Portability and Accountability Act (HIPAA) most affects EMS personnel?,
+Points,1,
+Difficulty,1,
+Option,0,a) Controlling insurance costs
+Option,100,b) Protecting patient privacy
+Option,0,c) Preventing insurance fraud
+Option,0,d) Ensuring access to insurance
+Hint,"Complexity: Easy			Ahead: Confidentiality			Subject:Medical, Legal, and Ethical Issues, Page 91			Title: Medical, Legal, and Ethical Issues			Feedback: See Confidentiality			Taxonomy: Recall			Objective: 3-6 Describe the relationship between patient communications, confidentiality, and the Health Insurance Portability and Accountability Act (HIPAA).",
+NewQuestion,MC,
+Title,,
+QuestionText,"All of the following are considered to be protected health information (PHI), except:",
+Points,1,
+Difficulty,1,
+Option,0,a) patient history.
+Option,0,b) treatment rendered.
+Option,100,c) location of the call.
+Option,0,d) assessment findings.
+Hint,"Complexity: Moderate			Ahead: Confidentiality			Subject:Medical, Legal, and Ethical Issues, Page 92			Title: Medical, Legal, and Ethical Issues			Feedback: See Confidentiality			Taxonomy: Recall			Objective: 3-6 Describe the relationship between patient communications, confidentiality, and the Health Insurance Portability and Accountability Act (HIPAA).",
+NewQuestion,MC,
+Title,,
+QuestionText,"During your monthly internal quality improvement (QI) meeting, you review several patient care reports (PCRs) with the staff of your EMS system. You identify the patient’s name, age, and sex, and then discuss the treatment that was provided by the EMTs in the field. By taking this approach to the QI process, you:",
+Points,1,
+Difficulty,1,
+Option,0,a) acted appropriately but must have each EMT sign a waiver stating that he or she will not discuss the cases with others.
+Option,0,b) adequately safeguarded the patient’s PHI because the cases were discussed internally.
+Option,100,c) are in violation of HIPAA because you did not remove the PHI from the PCR beforehand.
+Option,0,d) violated the patient’s privacy because you should have discussed the information only with the EMTs involved.
+Hint,"Complexity: Difficult			Ahead: Confidentiality			Subject:Medical, Legal, and Ethical Issues, Page 92			Title: Medical, Legal, and Ethical Issues			Feedback: See Confidentiality			Taxonomy: Application			Objective: 3-6 Describe the relationship between patient communications, confidentiality, and the Health Insurance Portability and Accountability Act (HIPAA).",
+NewQuestion,MC,
+Title,,
+QuestionText,"For a do not resuscitate (DNR) order to be valid, it must:",
+Points,1,
+Difficulty,1,
+Option,0,a) be dated within the previous 24 months.
+Option,100,b) clearly state the patient’s medical problem.
+Option,0,c) be updated a minimum of every 6 months.
+Option,0,d) be signed by the local justice of the peace.
+Hint,"Complexity: Easy			Ahead: Advance Directives			Subject:Medical, Legal, and Ethical Issues, Page 93			Title: Medical, Legal, and Ethical Issues			Feedback: See Advance Directives			Taxonomy: Recall			Objective: 3-7 Discuss the importance of do not resuscitate (DNR) orders and local protocols as they relate to the EMS environment.",
+NewQuestion,MC,
+Title,,
+QuestionText,"When faced with a situation in which a patient is in cardiac arrest and a valid living will or DNR order cannot be located, you should:",
+Points,1,
+Difficulty,1,
+Option,100,a) begin resuscitation at once.
+Option,0,b) contact medical control first.
+Option,0,c) determine the patient’s illness.
+Option,0,d) notify the coroner immediately.
+Hint,"Complexity: Difficult			Ahead: Advance Directives			Subject:Medical, Legal, and Ethical Issues, Page 94			Title: Medical, Legal, and Ethical Issues			Feedback: See Advance Directives			Taxonomy: Application			Objective: 3-7 Discuss the importance of do not resuscitate (DNR) orders and local protocols as they relate to the EMS environment.",
+NewQuestion,MC,
+Title,,
+QuestionText,"You respond to the home of a 59-year-old man who is unconscious with slow, shallow breathing and a weak pulse. The family states that the patient has terminal brain cancer and does not wish to be resuscitated. They further state that there is a DNR order for this patient, but they are unable to locate it. You should:",
+Points,1,
+Difficulty,1,
+Option,100,a) begin treatment and contact medical control as needed.
+Option,0,b) honor the patient’s wishes and withhold all treatment.
+Option,0,c) transport the patient without providing any treatment.
+Option,0,d) decide on further action once the DNR order is produced.
+Hint,"Complexity: Moderate			Ahead: Advance Directives			Subject:Medical, Legal, and Ethical Issues, Page 94			Title: Medical, Legal, and Ethical Issues			Feedback: See Advance Directives			Taxonomy: Application			Objective: 3-7 Discuss the importance of do not resuscitate (DNR) orders and local protocols as they relate to the EMS environment.",
+NewQuestion,MC,
+Title,,
+QuestionText,"You and your partner arrive at the scene of a major motor vehicle crash. The driver, a young male, is severely entrapped in his car. He has an open head injury and massive facial trauma. He is unresponsive, not breathing, and does not have a palpable carotid pulse. You should:",
+Points,1,
+Difficulty,1,
+Option,0,a) stop any active bleeding and advise dispatch to send a paramedic crew.
+Option,0,b) ventilate the patient for five minutes and then stop if there is no response.
+Option,0,c) request the fire department to extricate the patient so you can begin CPR.
+Option,100,d) have your partner check for a pulse to confirm that the patient is deceased.
+Hint,"Complexity: Difficult			Ahead: Physical Signs of Death			Subject:Medical, Legal, and Ethical Issues, Page 95			Title: Medical, Legal, and Ethical Issues			Feedback: See Physical Signs of Death			Taxonomy: Analysis			Objective: 3-8 Describe the physical, presumptive, and definitive signs of death.",
+NewQuestion,MC,
+Title,,
+QuestionText,"You arrive at the scene of an apparent death. When evaluating the patient, which of the following is a definitive sign of death?",
+Points,1,
+Difficulty,1,
+Option,0,a) Absence of a pulse
+Option,0,b) Profound cyanosis
+Option,100,c) Dependent lividity
+Option,0,d) Absent breath sounds
+Hint,"Complexity: Easy			Ahead: Physical Signs of Death			Subject:Medical, Legal, and Ethical Issues, Page 95			Title: Medical, Legal, and Ethical Issues			Feedback: See Physical Signs of Death			Taxonomy: Recall			Objective: 3-8 Describe the physical, presumptive, and definitive signs of death.",
+NewQuestion,MC,
+Title,,
+QuestionText,Putrefaction is defined as:,
+Points,1,
+Difficulty,1,
+Option,100,a) decomposition of the body’s tissues.
+Option,0,b) profound cyanosis to the trunk and face.
+Option,0,c) blood settling to the lowest point of the body.
+Option,0,d) separation of the torso from the rest of the body.
+Hint,"Complexity: Easy			Ahead: Physical Signs of Death			Subject:Medical, Legal, and Ethical Issues, Page 96			Title: Medical, Legal, and Ethical Issues			Feedback: See Physical Signs of Death			Taxonomy: Recall			Objective: 3-8 Describe the physical, presumptive, and definitive signs of death.",
+NewQuestion,MC,
+Title,,
+QuestionText,Where would you most likely find information regarding a patient’s wishes to be an organ donor?,
+Points,1,
+Difficulty,1,
+Option,100,a) Driver’s license
+Option,0,b) Insurance card
+Option,0,c) Social Security card
+Option,0,d) Voter registration card
+Hint,"Complexity: Easy			Ahead: Special Situations			Subject:Medical, Legal, and Ethical Issues, Page 97			Title: Medical, Legal, and Ethical Issues			Feedback: See Special Situations			Taxonomy: Recall			Objective: 3-9 Explain how to manage patients who are identified as organ donors.",
+NewQuestion,MC,
+Title,,
+QuestionText,When is forcible restraint permitted?,
+Points,1,
+Difficulty,1,
+Option,0,a) Anytime that the EMT feels threatened
+Option,0,b) Only if consent to restrain is given by a family member
+Option,100,c) When the patient poses a significant threat to self or others
+Option,0,d) Only if law enforcement personnel have witnessed threatening behavior
+Hint,"Complexity: Easy			Ahead: Consent			Subject:Medical, Legal, and Ethical Issues, Page 89			Title: Medical, Legal, and Ethical Issues			Feedback: See Consent			Taxonomy: Recall			Objective: 3-4 Describe local EMS system protocols for using forcible restraint.",
+NewQuestion,MC,
+Title,,
+QuestionText,The EMT’s scope of practice within his or her local response area is defined by the:,
+Points,1,
+Difficulty,1,
+Option,100,a) medical director.
+Option,0,b) state EMS office.
+Option,0,c) EMS supervisor.
+Option,0,d) local health district.
+Hint,"Complexity: Easy			Ahead: Scope of Practice			Subject:Medical, Legal, and Ethical Issues, Page 98			Title: Medical, Legal, and Ethical Issues			Feedback: See Scope of Practice			Taxonomy: Recall			Objective: 3-11 Discuss the scope of practice and standards of care.",
+NewQuestion,MC,
+Title,,
+QuestionText,The manner in which the EMT must act or behave when caring for a patient is called the:,
+Points,1,
+Difficulty,1,
+Option,0,a) EMT oath.
+Option,0,b) code of ethics.
+Option,100,c) standard of care.
+Option,0,d) scope of practice.
+Hint,"Complexity: Easy			Ahead: Standards of Care			Subject:Medical, Legal, and Ethical Issues, Page 98			Title: Medical, Legal, and Ethical Issues			Feedback: See Standards of Care			Taxonomy: Recall			Objective: 3-11 Discuss the scope of practice and standards of care.",
+NewQuestion,MC,
+Title,,
+QuestionText,"As an EMT, the performance of your duties will be compared to that of:",
+Points,1,
+Difficulty,1,
+Option,100,a) another EMT.
+Option,0,b) the general public.
+Option,0,c) the medical director.
+Option,0,d) a paramedic supervisor.
+Hint,"Complexity: Easy			Ahead: Standards of Care			Subject:Medical, Legal, and Ethical Issues, Page 98			Title: Medical, Legal, and Ethical Issues			Feedback: See Standards of Care			Taxonomy: Recall			Objective: 3-11 Discuss the scope of practice and standards of care.",
+NewQuestion,MC,
+Title,,
+QuestionText,"You have been tasked by your medical director with assisting in the development of your EMS agency’s institutional standards. When developing these standards, it is important to:",
+Points,1,
+Difficulty,1,
+Option,0,a) require personnel to transport all patients to the closest hospital.
+Option,100,b) be reasonable and realistic to avoid overburdening EMS personnel.
+Option,0,c) demand that all personnel consistently exceed the standard of care.
+Option,0,d) expect personnel to function beyond their scope of practice if needed.
+Hint,"Complexity: Difficult			Ahead: Standards of Care			Subject:Medical, Legal, and Ethical Issues, Page 99			Title: Medical, Legal, and Ethical Issues			Feedback: See Standards of Care			Taxonomy: Application			Objective: 3-11 Discuss the scope of practice and standards of care.",
+NewQuestion,MC,
+Title,,
+QuestionText,"When performing his or her duties, the EMT is generally expected to:",
+Points,1,
+Difficulty,1,
+Option,0,a) consistently exceed the standard of care.
+Option,0,b) contact medical control on every EMS call.
+Option,0,c) function above his or her scope of practice.
+Option,100,d) exercise reasonable care and act prudently.
+Hint,"Complexity: Moderate			Ahead: Standards of Care			Subject:Medical, Legal, and Ethical Issues, Page 100			Title: Medical, Legal, and Ethical Issues			Feedback: See Standards of Care			Taxonomy: Recall			Objective: 3-11 Discuss the scope of practice and standards of care.",
+NewQuestion,MC,
+Title,,
+QuestionText,In which of the following situations does a legal duty to act clearly exist?,
+Points,1,
+Difficulty,1,
+Option,0,a) The EMT witnesses a vehicle crash while off duty.
+Option,100,b) A call is received 15 minutes prior to shift change.
+Option,0,c) The EMT hears of a cardiac arrest after his or her shift ends.
+Option,0,d) A bystander encounters a victim who is not breathing.
+Hint,"Complexity: Moderate			Ahead: Duty to Act			Subject:Medical, Legal, and Ethical Issues, Page 100			Title: Medical, Legal, and Ethical Issues			Feedback: See Duty to Act			Taxonomy: Application			Objective: 3-12 Describe the EMT’s legal duty to act.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following most accurately defines negligence?,
+Points,1,
+Difficulty,1,
+Option,0,a) Transport of a mentally incompetent patient against his or her will
+Option,100,b) Deviation from the standard of care that might result in further injury
+Option,0,c) Transferring patient care to a provider with a lower level of training
+Option,0,d) Providing care that is consistent with care provided by other EMTs
+Hint,"Complexity: Moderate			Ahead: Negligence			Subject:Medical, Legal, and Ethical Issues, Page 101			Title: Medical, Legal, and Ethical Issues			Feedback: See Negligence			Taxonomy: Application			Objective: 3-13 Discuss the issues of negligence, abandonment, assault and battery, and kidnapping and their implications for the EMT.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following components are needed to prove negligence?,
+Points,1,
+Difficulty,1,
+Option,0,"a) Abandonment, breach of duty, damages, and causation"
+Option,0,"b) Duty to act, abandonment, breach of duty, and causation"
+Option,100,"c) Duty to act, breach of duty, injury/damages, and causation"
+Option,0,"d) Breach of duty, injury/damages, abandonment, and causation"
+Hint,"Complexity: Moderate			Ahead: Negligence			Subject:Medical, Legal, and Ethical Issues, Page 101			Title: Medical, Legal, and Ethical Issues			Feedback: See Negligence			Taxonomy: Recall			Objective: 3-13 Discuss the issues of negligence, abandonment, assault and battery, and kidnapping and their implications for the EMT.",
+NewQuestion,MC,
+Title,,
+QuestionText,"When caring for a 65-year-old male with respiratory distress, you place him in a comfortable position but do not apply oxygen. The patient’s condition continues to deteriorate: He develops cardiac arrest and dies at the hospital. This scenario is an example of:",
+Points,1,
+Difficulty,1,
+Option,0,a) assault.
+Option,0,b) battery.
+Option,100,c) negligence.
+Option,0,d) abandonment.
+Hint,"Complexity: Difficult			Ahead: Negligence			Subject:Medical, Legal, and Ethical Issues, Page 101			Title: Medical, Legal, and Ethical Issues			Feedback: See Negligence			Taxonomy: Application			Objective: 3-13 Discuss the issues of negligence, abandonment, assault and battery, and kidnapping and their implications for the EMT.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following scenarios most accurately depicts abandonment?,
+Points,1,
+Difficulty,1,
+Option,100,a) A paramedic transfers patient care to an EMT.
+Option,0,b) An AEMT transfers patient care to a paramedic.
+Option,0,c) A physician assumes patient care from an EMT.
+Option,0,d) An EMT gives a verbal report to an emergency room nurse.
+Hint,"Complexity: Easy			Ahead: Abandonment			Subject:Medical, Legal, and Ethical Issues, Page 101			Title: Medical, Legal, and Ethical Issues			Feedback: See Abandonment			Taxonomy: Recall			Objective: 3-13 Discuss the issues of negligence, abandonment, assault and battery, and kidnapping and their implications for the EMT.",
+NewQuestion,MC,
+Title,,
+QuestionText,"While transporting a stable patient with chest pain to the hospital, you come across a major motor vehicle crash involving several critically injured patients. You should:",
+Points,1,
+Difficulty,1,
+Option,0,a) ask a bystander to remain with your patient as you treat the crash victims.
+Option,0,b) remain at the scene until law enforcement and another ambulance arrive.
+Option,0,c) stop and triage the patients while your partner remains in the ambulance.
+Option,100,d) continue transporting your patient and notify the dispatcher of the crash.
+Hint,"Complexity: Difficult			Ahead: Abandonment			Subject:Medical, Legal, and Ethical Issues, Page 101			Title: Medical, Legal, and Ethical Issues			Feedback: See Abandonment			Taxonomy: Analysis			Objective: 3-13 Discuss the issues of negligence, abandonment, assault and battery, and kidnapping and their implications for the EMT.",
+NewQuestion,MC,
+Title,,
+QuestionText,An EMT would most likely be held liable for abandonment if he or she:,
+Points,1,
+Difficulty,1,
+Option,0,a) refused to care for a violent patient who is armed with a knife.
+Option,0,b) remained at the hospital for 30 minutes to give a patient report.
+Option,100,c) did not make provisions for continued care of an injured patient.
+Option,0,d) terminated care of a competent adult patient at his or her request.
+Hint,"Complexity: Easy			Ahead: Abandonment			Subject:Medical, Legal, and Ethical Issues, Page 101			Title: Medical, Legal, and Ethical Issues			Feedback: See Abandonment			Taxonomy: Recall			Objective: 3-13 Discuss the issues of negligence, abandonment, assault and battery, and kidnapping and their implications for the EMT.",
+NewQuestion,MC,
+Title,,
+QuestionText,Acting in such a way as to make another person fear immediate bodily harm is called:,
+Points,1,
+Difficulty,1,
+Option,0,a) libel.
+Option,100,b) assault.
+Option,0,c) battery.
+Option,0,d) negligence.
+Hint,"Complexity: Easy			Ahead: Assault and Battery and Kidnapping			Subject:Medical, Legal, and Ethical Issues, Page 102			Title: Medical, Legal, and Ethical Issues			Feedback: See Assault and Battery and Kidnapping			Taxonomy: Recall			Objective: 3-13 Discuss the issues of negligence, abandonment, assault and battery, and kidnapping and their implications for the EMT.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following statements regarding Good Samaritan laws is correct?,
+Points,1,
+Difficulty,1,
+Option,0,a) Such laws provide the EMT with absolute immunity from a lawsuit.
+Option,0,b) Such laws guarantee that the EMT will not be held liable if he or she is sued.
+Option,0,c) Such laws do not protect EMTs who are off duty.
+Option,100,d) Such laws will not protect the EMT in cases of gross negligence.
+Hint,"Complexity: Easy			Ahead: Good Samaritan Laws and Immunity			Subject:Medical, Legal, and Ethical Issues, Page 103			Title: Medical, Legal, and Ethical Issues			Feedback: See Good Samaritan Laws and Immunity			Taxonomy: Recall			Objective: 3-13 Discuss the issues of negligence, abandonment, assault and battery, and kidnapping and their implications for the EMT.",
+NewQuestion,MC,
+Title,,
+QuestionText,If an action or procedure that was performed on a patient is not recorded on the written report:,
+Points,1,
+Difficulty,1,
+Option,100,"a) it was not performed, according to the eyes of the law."
+Option,0,b) it can be qualified by the EMT in charge.
+Option,0,c) it cannot be used in establishing negligence.
+Option,0,d) it was performed haphazardly by the EMT.
+Hint,"Complexity: Moderate			Ahead: Records and Reports			Subject:Medical, Legal, and Ethical Issues, Page 104			Title: Medical, Legal, and Ethical Issues			Feedback: See Records and Reports			Taxonomy: Recall			Objective: 3-14 Explain the reporting requirements for special situations, including abuse, drug- or felony-related injuries, childbirth, and crime scenes.",
+NewQuestion,MC,
+Title,,
+QuestionText,"In the eyes of the courts, an incomplete or untidy patient care form indicates:",
+Points,1,
+Difficulty,1,
+Option,100,a) inadequate patient care was administered.
+Option,0,b) potential falsification of the patient care form.
+Option,0,c) thorough documentation was not required.
+Option,0,d) the EMT was too busy providing patient care to fill out the form.
+Hint,"Complexity: Easy			Ahead: Records and Reports			Subject:Medical, Legal, and Ethical Issues, Page 104			Title: Medical, Legal, and Ethical Issues			Feedback: See Records and Reports			Taxonomy: Recall			Objective: 3-14 Explain the reporting requirements for special situations, including abuse, drug- or felony-related injuries, childbirth, and crime scenes.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following situations requires you to notify the appropriate authorities?,
+Points,1,
+Difficulty,1,
+Option,0,a) Cardiac arrest
+Option,0,b) Drug overdose
+Option,100,c) Attempted suicide
+Option,0,d) Accidental knife wound
+Hint,"Complexity: Easy			Ahead: Special Mandatory Reporting Requirements			Subject:Medical, Legal, and Ethical Issues, Page 105			Title: Medical, Legal, and Ethical Issues			Feedback: See Special Mandatory Reporting Requirements			Taxonomy: Recall			Objective: 3-14 Explain the reporting requirements for special situations, including abuse, drug- or felony- related injuries, childbirth, and crime scenes.",
+NewQuestion,MC,
+Title,,
+QuestionText,You and your partner are the first to arrive at a potential crime scene with a critically injured patient involved. The scene is safe. Your first priority is to:,
+Points,1,
+Difficulty,1,
+Option,0,a) notify medical control for advice.
+Option,100,b) provide immediate patient care.
+Option,0,c) wait for law enforcement to arrive.
+Option,0,d) determine why the patient was injured.
+Hint,"Complexity: Difficult			Ahead: Special Mandatory Reporting Requirements			Subject:Medical, Legal, and Ethical Issues, Page 105			Title: Medical, Legal, and Ethical Issues			Feedback: See Special Mandatory Reporting Requirements			Taxonomy: Application			Objective: 3-14 Explain the reporting requirements for special situations, including abuse, drug- or felony- related injuries, childbirth, and crime scenes.",
+NewQuestion,MC,
+Title,,
+QuestionText,Maintaining the chain of evidence at the scene of a crime should include:,
+Points,1,
+Difficulty,1,
+Option,0,a) quickly moving any weapons out of the patient’s sight.
+Option,0,b) placing the patient in a private area until the police arrive.
+Option,0,c) making brief notes at the scene and then completing them later.
+Option,100,d) not cutting through holes in clothing that were caused by weapons.
+Hint,"Complexity: Moderate			Ahead: Special Mandatory Reporting Requirements			Subject:Medical, Legal, and Ethical Issues, Page 105			Title: Medical, Legal, and Ethical Issues			Feedback: See Special Mandatory Reporting Requirements			Taxonomy: Recall			Objective: 3-14 Explain the reporting requirements for special situations, including abuse, drug- or felony- related injuries, childbirth, and crime scenes.",
+NewQuestion,MC,
+Title,,
+QuestionText,You are dispatched to an apartment complex to respond to a shooting. Law enforcement personnel are present and have the suspect in custody. You find the patient lying in a narrow space between the couch and coffee table of his small apartment. He is semiconscious and has a large gunshot wound to his chest. You should:,
+Points,1,
+Difficulty,1,
+Option,0,a) obtain permission from law enforcement before moving anything.
+Option,100,b) quickly move the coffee table so you can access and treat the patient.
+Option,0,c) treat the patient where he is so that you do not destroy any evidence.
+Option,0,d) drag the patient into a larger area so that you can begin treatment.
+Hint,"Complexity: Difficult			Ahead: Special Mandatory Reporting Requirements			Subject:Medical, Legal, and Ethical Issues, Page 105			Title: Medical, Legal, and Ethical Issues			Feedback: See Special Mandatory Reporting Requirements			Taxonomy: Analysis			Objective: 3-14 Explain the reporting requirements for special situations, including abuse, drug- or felony- related injuries, childbirth, and crime scenes.",
+NewQuestion,MC,
+Title,,
+QuestionText,Two EMTs witnessed a call in which a coworker gave adequate medical care but ignored the patient’s emotional needs. The coworker was deliberately rude solely because the patient was thought to be infected with the human immunodeficiency virus (HIV). The EMTs ignored the coworker’s treatment of this patient and took no steps to prevent this behavior from happening again. This lack of action on the part of the two EMTs is considered:,
+Points,1,
+Difficulty,1,
+Option,0,a) legal and ethical.
+Option,100,b) legal but unethical.
+Option,0,c) illegal but ethical.
+Option,0,d) illegal and unethical.
+Hint,"Complexity: Easy			Ahead: Ethical Responsibilities			Subject:Medical, Legal, and Ethical Issues, Page 106			Title: Medical, Legal, and Ethical Issues			Feedback: See Ethical Responsibilities			Taxonomy: Application			Objective: 3-15 Define ethics and morality and their implications for the EMT.",
+NewQuestion,MC,
+Title,,
+QuestionText,"While transporting a woman with diabetes, you inadvertently give her oral glucose even though her blood glucose level was high. You reassess the patient and note that her condition did not change; she remained stable. You should:",
+Points,1,
+Difficulty,1,
+Option,0,a) document the error and report it to your supervisor.
+Option,0,b) notify law enforcement so they can file an incident report.
+Option,100,c) contact medical control and notify them of the error.
+Option,0,d) exclude this intervention from the PCR because it did not harm the patient.
+Hint,"Complexity: Difficult			Ahead: Ethical Responsibilities			Subject:Medical, Legal, and Ethical Issues, Page 106			Title: Medical, Legal, and Ethical Issues			Feedback: See Ethical Responsibilities			Taxonomy: Analysis			Objective: 3-15 Define ethics and morality and their implications for the EMT.",
+NewQuestion,MC,
+Title,,
+QuestionText,"When you and your partner arrive at the residence of a man in cardiac arrest, you immediately recognize the patient as the drunk driver who killed your brother several years earlier. A backup ambulance is en route to the scene. You should:",
+Points,1,
+Difficulty,1,
+Option,0,a) advise your partner that you cannot provide care to this patient.
+Option,0,b) wait for the backup ambulance while your partner performs CPR.
+Option,0,c) obtain permission from medical control to not attempt resuscitation.
+Option,100,d) begin two-rescuer CPR and apply the AED as soon as possible.
+Hint,"Complexity: Difficult			Ahead: Ethical Responsibilities			Subject:Medical, Legal, and Ethical Issues, Page 106			Title: Medical, Legal, and Ethical Issues			Feedback: See Ethical Responsibilities			Taxonomy: Analysis			Objective: 3-15 Define ethics and morality and their implications for the EMT.",
+NewQuestion,MC,
+Title,,
+QuestionText,"You receive a subpoena to testify in court regarding a case that occurred two years ago in which you and your partner did not attempt resuscitation of a cardiac arrest patient. Upon receiving the subpoena, you should:",
+Points,1,
+Difficulty,1,
+Option,0,a) call the district attorney’s office and explain the details of the case.
+Option,100,b) notify the director of your EMS system and obtain legal counsel.
+Option,0,c) attach an official addendum to the original patient care report.
+Option,0,d) contact the patient’s family in an attempt to resolve the matter with them.
+Hint,"Complexity: Moderate			Ahead: The EMT in Court			Subject:Medical, Legal, and Ethical Issues, Page 107			Title: Medical, Legal, and Ethical Issues			Feedback: See The EMT in Court			Taxonomy: Analysis			Objective: 3-16 Describe the roles and responsibilities of the EMT in court.",
+NewQuestion,MC,
+Title,,
+QuestionText,You are dispatched to the residence of a person who frequently calls 911 for nonemergency care. You should:,
+Points,1,
+Difficulty,1,
+Option,0,a) defer the call to a local private ambulance company.
+Option,0,b) respond under the assumption that an acute emergency exists.
+Option,100,c) ask the dispatcher to send law enforcement before you respond.
+Option,0,"d) refuse the call, but thoroughly document the patient’s circumstances."
+Hint,"Complexity: Difficult			Ahead: Ethical Responsibilities			Subject:Medical, Legal, and Ethical Issues, Page 106			Title: Medical, Legal, and Ethical Issues			Feedback: See Ethical Responsibilities			Taxonomy: Analysis			Objective: 3-15 Define ethics and morality and their implications for the EMT.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following patients has decision-making capacity and can legally refuse emergency medical treatment?,
+Points,1,
+Difficulty,1,
+Option,0,a) A confused young male who says he is the president
+Option,0,b) A man who is staggering and states that he had three beers
+Option,100,c) A conscious and alert woman with severe abdominal pain
+Option,0,d) A diabetic woman who has slurred speech and is not aware of the date
+Hint,"Complexity: Easy			Ahead: Consent			Subject:Medical, Legal, and Ethical Issues, Page 86			Title: Medical, Legal, and Ethical Issues			Feedback: See Consent			Taxonomy: Application			Objective: 3-1 Define consent and how it relates to decision-making.",

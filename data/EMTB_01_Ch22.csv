@@ -1,0 +1,500 @@
+NewQuestion,MC,
+Title,,
+QuestionText,Substance abuse is most accurately defined as:,
+Points,1,
+Difficulty,1,
+Option,0,a) knowingly selling illicit drugs to buy more drugs.
+Option,0,b) willfully using a therapeutic drug to treat a medical illness.
+Option,0,c) unwillingly and unknowingly consuming drugs or alcohol.
+Option,100,d) misusing a substance to produce a desired effect.
+Hint,"Complexity: Easy			Ahead: Identifying the Patient and the Poison			Subject:Toxicology, Page 822			Title: Toxicology			Feedback: See Identifying the Patient and the Poison			Taxonomy: Recall			Objective: 22-1 Define toxicology, poison, toxin, and overdose.",
+NewQuestion,MC,
+Title,,
+QuestionText,An EMT’s primary responsibility to the patient who has been poisoned is to:,
+Points,1,
+Difficulty,1,
+Option,0,a) administer the appropriate antidote.
+Option,100,b) recognize that a poisoning occurred.
+Option,0,c) administer 25 g of activated charcoal.
+Option,0,d) contact poison control immediately.
+Hint,"Complexity: Moderate			Ahead: Identifying the Patient and the Poison			Subject:Toxicology, Page 822			Title: Toxicology			Feedback: See Identifying the Patient and the Poison			Taxonomy: Recall			Objective: 22-1 Define toxicology, poison, toxin, and overdose.",
+NewQuestion,MC,
+Title,,
+QuestionText,Heroin is an example of a(n):,
+Points,1,
+Difficulty,1,
+Option,100,a) opioid.
+Option,0,b) hypnotic.
+Option,0,c) cholinergic.
+Option,0,d) sympathomimetic.
+Hint,"Complexity: Moderate			Ahead: Specific Poisons			Subject:Toxicology, Page 836			Title: Toxicology			Feedback: See Specific Poisons			Taxonomy: Recall			Objective: 22-9 Identify the main types of toxins and poisons and their effects, including alcohol, opiates and opioids, sedative-hypnotic drugs, inhalants, hydrogen sulfide, sympathomimetics, synthetic cathinones, marijuana, hallucinogens, anticholinergic agents, and cholinergic agents.",
+NewQuestion,MC,
+Title,,
+QuestionText,"Hypotension, hypoventilation, and pinpoint pupils would be expected following an overdose of:",
+Points,1,
+Difficulty,1,
+Option,0,a) ecstasy.
+Option,100,b) oxycodone (Percocet).
+Option,0,c) amphetamine sulfate (Benzedrine).
+Option,0,d) crack cocaine.
+Hint,"Complexity: Moderate			Ahead: Specific Poisons			Subject:Toxicology, Page 836			Title: Toxicology			Feedback: See Specific Poisons			Taxonomy: Application			Objective: 22-9 Identify the main types of toxins and poisons and their effects, including alcohol, opiates and opioids, sedative-hypnotic drugs, inhalants, hydrogen sulfide, sympathomimetics, synthetic cathinones, marijuana, hallucinogens, anticholinergic agents, and cholinergic agents.",
+NewQuestion,MC,
+Title,,
+QuestionText,Signs and symptoms of a sympathomimetic drug overdose include:,
+Points,1,
+Difficulty,1,
+Option,100,a) tachycardia.
+Option,0,b) hypothermia.
+Option,0,c) hypotension.
+Option,0,d) slurred speech.
+Hint,"Complexity: Moderate			Ahead: Specific Poisons			Subject:Toxicology, Page 839			Title: Toxicology			Feedback: See Specific Poisons			Taxonomy: Recall			Objective: 22-9 Identify the main types of toxins and poisons and their effects, including alcohol, opiates and opioids, sedative-hypnotic drugs, inhalants, hydrogen sulfide, sympathomimetics, synthetic cathinones, marijuana, hallucinogens, anticholinergic agents, and cholinergic agents.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following drugs is not a sedative-hypnotic?,
+Points,1,
+Difficulty,1,
+Option,0,a) secobarbital (Seconal)
+Option,0,b) diazepam (Valium)
+Option,100,c) oxycodone (Percocet)
+Option,0,d) flunitrazepam (Rohypnol)
+Hint,"Complexity: Moderate			Ahead: Specific Poisons			Subject:Toxicology, Page 838			Title: Toxicology			Feedback: See Specific Poisons			Taxonomy: Recall			Objective: 22-9 Identify the main types of toxins and poisons and their effects, including alcohol, opiates and opioids, sedative-hypnotic drugs, inhalants, hydrogen sulfide, sympathomimetics, synthetic cathinones, marijuana, hallucinogens, anticholinergic agents, and cholinergic agents.",
+NewQuestion,MC,
+Title,,
+QuestionText,Your paramedic partner administers atropine to a 49-year-old male with bradycardia. Which of the following side effects would you expect the patient to experience?,
+Points,1,
+Difficulty,1,
+Option,0,a) Pupillary constriction
+Option,0,b) Excessive lacrimation
+Option,0,c) A fall in blood pressure
+Option,100,d) Dry mucous membranes
+Hint,"Complexity: Moderate			Ahead: Specific Poisons			Subject:Toxicology, Page 842			Title: Toxicology			Feedback: See Specific Poisons			Taxonomy: Application			Objective: 22-9 Identify the main types of toxins and poisons and their effects, including alcohol, opiates and opioids, sedative-hypnotic drugs, inhalants, hydrogen sulfide, sympathomimetics, synthetic cathinones, marijuana, hallucinogens, anticholinergic agents, and cholinergic agents.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following questions would be least pertinent during the initial questioning of a patient who ingested a substance?,
+Points,1,
+Difficulty,1,
+Option,0,a) How much of the substance was taken?
+Option,0,b) How long ago was the substance taken?
+Option,0,c) What type of substance was taken?
+Option,100,d) Why was the substance ingested?
+Hint,"Complexity: Easy			Ahead: Identifying the Patient and the Poison			Subject:Toxicology, Page 823			Title: Toxicology			Feedback: See Identifying the Patient and the Poison			Taxonomy: Analysis			Objective: 22-2 Identify the common signs and symptoms of poisoning or toxic exposure.",
+NewQuestion,MC,
+Title,,
+QuestionText,"If you are uncertain how to treat a patient who has been poisoned or exposed to a specific substance, you should:",
+Points,1,
+Difficulty,1,
+Option,0,a) administer naloxone via the intranasal route.
+Option,100,b) try to find the container the substance was in.
+Option,0,c) keep the patient supine and elevate his legs.
+Option,0,d) encourage the patient to drink milk or water.
+Hint,"Complexity: Moderate			Ahead: How Poisons Enter the Body			Subject:Toxicology, Page 826			Title: Toxicology			Feedback: See How Poisons Enter the Body			Taxonomy: Application			Objective: 22-3 Describe how poisons and toxins can enter the body.",
+NewQuestion,MC,
+Title,,
+QuestionText,The poison control center will provide you with the most information regarding the appropriate treatment for a patient with a drug overdose if the center:,
+Points,1,
+Difficulty,1,
+Option,0,a) knows the location of the closest hospital.
+Option,0,b) is aware of the patient’s age and gender.
+Option,100,c) is aware of the substance that is involved.
+Option,0,d) knows why the patient overdosed on the drug.
+Hint,"Complexity: Moderate			Ahead: How Poisons Enter the Body			Subject:Toxicology, Page 826			Title: Toxicology			Feedback: See How Poisons Enter the Body			Taxonomy: Recall			Objective: 22-3 Describe how poisons and toxins can enter the body.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following statements regarding inhaled poisons is correct?,
+Points,1,
+Difficulty,1,
+Option,100,a) Lung damage might progress after the patient is removed from the environment.
+Option,0,b) Carbon monoxide is very irritating to the upper airway and might cause swelling.
+Option,0,c) Burns around the eyes are the most common indication of an inhalation poisoning.
+Option,0,d) Chlorine is a colorless and odorless gas that causes hypoxia and pulmonary edema.
+Hint,"Complexity: Moderate			Ahead: How Poisons Enter the Body			Subject:Toxicology, Page 827			Title: Toxicology			Feedback: See How Poisons Enter the Body			Taxonomy: Recall			Objective: 22-3 Describe how poisons and toxins can enter the body.",
+NewQuestion,MC,
+Title,,
+QuestionText,Your priority in caring for a patient with a surface contact poisoning is to:,
+Points,1,
+Difficulty,1,
+Option,0,a) move the patient to a safe area.
+Option,100,b) avoid contaminating yourself.
+Option,0,c) decontaminate the patient’s skin.
+Option,0,d) obtain and maintain a patent airway.
+Hint,"Complexity: Easy			Ahead: How Poisons Enter the Body			Subject:Toxicology, Page 827			Title: Toxicology			Feedback: See How Poisons Enter the Body			Taxonomy: Recall			Objective: 22-3 Describe how poisons and toxins can enter the body.",
+NewQuestion,MC,
+Title,,
+QuestionText,A construction worker complains of intense pain after a bag of dry powder was spilled on his arm. The EMT should:,
+Points,1,
+Difficulty,1,
+Option,0,a) cover the exposed area with a sterile dressing and elevate his arm.
+Option,0,b) brush the chemical from his arm and cover it with a sterile dressing.
+Option,0,c) immediately flush the skin with clean water for 15 to 20 minutes.
+Option,100,d) brush the chemical from his arm and then flush the skin with water.
+Hint,"Complexity: Moderate			Ahead: How Poisons Enter the Body			Subject:Toxicology, Page 827			Title: Toxicology			Feedback: See How Poisons Enter the Body			Taxonomy: Application			Objective: 22-3 Describe how poisons and toxins can enter the body.",
+NewQuestion,MC,
+Title,,
+QuestionText,Most poisonings occur via the __________ route.,
+Points,1,
+Difficulty,1,
+Option,100,a) ingestion
+Option,0,b) injection
+Option,0,c) inhalation
+Option,0,d) absorption
+Hint,"Complexity: Moderate			Ahead: How Poisons Enter the Body			Subject:Toxicology, Page 828			Title: Toxicology			Feedback: See How Poisons Enter the Body			Taxonomy: Recall			Objective: 22-3 Describe how poisons and toxins can enter the body.",
+NewQuestion,MC,
+Title,,
+QuestionText,Activated charcoal may be indicated for a patient who ingested:,
+Points,1,
+Difficulty,1,
+Option,0,a) iron.
+Option,0,b) ethanol.
+Option,100,c) aspirin.
+Option,0,d) methanol.
+Hint,"Complexity: Moderate			Ahead: Emergency Medical Care			Subject:Toxicology, Page 833			Title: Toxicology			Feedback: See Emergency Medical Care			Taxonomy: Recall			Objective: 22-8 Explain the use of activated charcoal, including indications, contraindications, and the need to obtain approval from medical control before administration.",
+NewQuestion,MC,
+Title,,
+QuestionText,Activated charcoal is given to patients who have ingested certain substances because it:,
+Points,1,
+Difficulty,1,
+Option,0,a) induces vomiting and empties the stomach.
+Option,100,b) binds to the substance and prevents absorption.
+Option,0,c) decreases absorption of poisons into the lungs.
+Option,0,d) is a direct antidote for many toxic substances.
+Hint,"Complexity: Moderate			Ahead: Emergency Medical Care			Subject:Toxicology, Page 833			Title: Toxicology			Feedback: See Emergency Medical Care			Taxonomy: Recall			Objective: 22-8 Explain the use of activated charcoal, including indications, contraindications, and the need to obtain approval from medical control before administration.",
+NewQuestion,MC,
+Title,,
+QuestionText,"In general, injected poisons are impossible to dilute or remove because they:",
+Points,1,
+Difficulty,1,
+Option,100,a) are usually absorbed quickly into the body.
+Option,0,b) are usually fatal within 30 minutes of exposure.
+Option,0,"c) absorb slowly into the body, despite their potency."
+Option,0,"d) react with the blood, which increases their toxicity."
+Hint,"Complexity: Moderate			Ahead: How Poisons Enter the Body			Subject:Toxicology, Pages 829-830			Title: Toxicology			Feedback: See How Poisons Enter the Body			Taxonomy: Analysis			Objective: 22-3 Describe how poisons and toxins can enter the body.",
+NewQuestion,MC,
+Title,,
+QuestionText,"As you enter the residence of a patient who has possibly overdosed, you should:",
+Points,1,
+Difficulty,1,
+Option,100,a) be alert for personal hazards.
+Option,0,b) look for drug paraphernalia.
+Option,0,c) observe the scene for drug bottles.
+Option,0,d) quickly gain access to the patient.
+Hint,"Complexity: Moderate			Ahead: Patient Assessment			Subject:Toxicology, Page 830			Title: Toxicology			Feedback: See Patient Assessment			Taxonomy: Application			Objective: 22-6 Discuss scene safety considerations for working at a scene with a potentially hazardous material or violent patient.",
+NewQuestion,MC,
+Title,,
+QuestionText,"Your unit is dispatched to the county jail for an intoxicated inmate. Upon arrival, you find the patient, a 33-year-old male, lying supine in a jail cell. He is responsive to painful stimuli only and has slow, shallow respirations. You should be most concerned that this patient:",
+Points,1,
+Difficulty,1,
+Option,0,a) might become violent.
+Option,100,b) might vomit and aspirate.
+Option,0,c) might experience a seizure.
+Option,0,d) is severely hypoglycemic.
+Hint,"Complexity: Difficult			Ahead: Patient Assessment			Subject:Toxicology, Page 831			Title: Toxicology			Feedback: See Patient Assessment			Taxonomy: Application			Objective: 22-2 Identify the common signs and symptoms of poisoning or toxic exposure.",
+NewQuestion,MC,
+Title,,
+QuestionText,"You receive a call to a residence where a man found his wife unresponsive on the couch. The patient’s respiratory rate is 8 breaths/min, her breathing is shallow, her heart rate is 40 beats/min, and her pulse is weak. The husband hands you an empty bottle of hydrocodone (Vicodin), which was refilled the day before. You should:",
+Points,1,
+Difficulty,1,
+Option,100,a) ventilate her with a bag-mask device.
+Option,0,b) contact the poison control center.
+Option,0,c) perform a rapid head-to-toe exam.
+Option,0,d) apply oxygen via a nonrebreathing mask.
+Hint,"Complexity: Difficult			Ahead: Specific Poisons			Subject:Toxicology, Page 837			Title: Toxicology			Feedback: See Specific Poisons			Taxonomy: Application			Objective: 22-5 Describe the assessment and treatment of a patient with a suspected overdose.",
+NewQuestion,MC,
+Title,,
+QuestionText,It is most important to determine a patient’s weight when asking questions pertaining to a toxic ingestion because:,
+Points,1,
+Difficulty,1,
+Option,0,a) you might need additional lifting and moving assistance.
+Option,0,b) this will allow you to determine if the exposure is lethal.
+Option,0,c) naloxone is contraindicated if the patient is very obese.
+Option,100,d) activated charcoal is given based on a patient’s weight.
+Hint,"Complexity: Moderate			Ahead: Patient Assessment			Subject:Toxicology, Page 832			Title: Toxicology			Feedback: See Patient Assessment			Taxonomy: Application			Objective: 22-4 Describe the assessment and treatment of a patient with a suspected poisoning or toxic exposure.",
+NewQuestion,MC,
+Title,,
+QuestionText,Airborne substances should be diluted with:,
+Points,1,
+Difficulty,1,
+Option,100,a) oxygen.
+Option,0,b) syrup of ipecac.
+Option,0,c) activated charcoal.
+Option,0,d) an alkaline antidote.
+Hint,"Complexity: Easy			Ahead: Patient Assessment			Subject:Toxicology, Page 833			Title: Toxicology			Feedback: See Patient Assessment			Taxonomy: Application			Objective: 22-4 Describe the assessment and treatment of a patient with a suspected poisoning or toxic exposure.",
+NewQuestion,MC,
+Title,,
+QuestionText,"Signs of absorbed poison exposure include all of the following, except:",
+Points,1,
+Difficulty,1,
+Option,0,a) liquid or powder on a patient’s skin.
+Option,0,"b) burns, itching, or irritation to the skin."
+Option,100,"c) severe nausea, vomiting, and diarrhea."
+Option,0,d) redness of skin in light-skinned people.
+Hint,"Complexity: Easy			Ahead: How Poisons Enter the Body			Subject:Toxicology, Page 827			Title: Toxicology			Feedback: See How Poisons Enter the Body			Taxonomy: Recall			Objective: 22-3 Describe how poisons and toxins can enter the body.",
+NewQuestion,MC,
+Title,,
+QuestionText,"Common names for activated charcoal include all of the following, except:",
+Points,1,
+Difficulty,1,
+Option,100,a) Fructose.
+Option,0,b) Actidose.
+Option,0,c) LiquiChar.
+Option,0,d) InstaChar.
+Hint,"Complexity: Easy			Ahead: Emergency Medical Care			Subject:Toxicology, Page 833			Title: Toxicology			Feedback: See Emergency Medical Care			Taxonomy: Recall			Objective: 22-8 Explain the use of activated charcoal, including indications, contraindications, and the need to obtain approval from medical control before administration.",
+NewQuestion,MC,
+Title,,
+QuestionText,What type of poisoning will cause burns around the mouth in children?,
+Points,1,
+Difficulty,1,
+Option,0,a) Plant poisoning.
+Option,0,b) Injected poison.
+Option,100,c) Alkaline poison.
+Option,0,d) Inhaled poison.
+Hint,"Complexity: Easy			Ahead: How Poisons Enter the Body			Subject:Toxicology, Page 828			Title: Toxicology			Feedback: See How Poisons Enter the Body			Taxonomy: Application			Objective: 22-3 Describe how poisons and toxins can enter the body.",
+NewQuestion,MC,
+Title,,
+QuestionText,"A 4-year-old, 15-kg male ingested an unknown quantity of acetaminophen (Tylenol). The child’s mother states that she does not know when the ingestion occurred. The child is conscious and alert and in no apparent distress. The EMT should:",
+Points,1,
+Difficulty,1,
+Option,0,a) contact medical control for guidance.
+Option,100,b) administer 15 g of activated charcoal.
+Option,0,c) give the child milk to absorb the Tylenol.
+Option,0,d) administer high-flow supplemental oxygen.
+Hint,"Complexity: Moderate			Ahead: Emergency Medical Care			Subject:Toxicology, Page 833			Title: Toxicology			Feedback: See Emergency Medical Care			Taxonomy: Application			Objective: 22-4 Describe the assessment and treatment of a patient with a suspected poisoning or toxic exposure.",
+NewQuestion,MC,
+Title,,
+QuestionText,"Before giving activated charcoal, you should:",
+Points,1,
+Difficulty,1,
+Option,100,a) obtain approval from medical control.
+Option,0,b) have the patient drink a glass of milk.
+Option,0,c) mix it with an equal amount of water.
+Option,0,d) mix the suspension by stirring the bottle.
+Hint,"Complexity: Moderate			Ahead: Emergency Medical Care			Subject:Toxicology, Page 833			Title: Toxicology			Feedback: See Emergency Medical Care			Taxonomy: Application			Objective: 22-8 Explain the use of activated charcoal, including indications, contraindications, and the need to obtain approval from medical control before administration.",
+NewQuestion,MC,
+Title,,
+QuestionText,The major side effect associated with administration of activated charcoal is:,
+Points,1,
+Difficulty,1,
+Option,0,a) headache.
+Option,100,b) black stools.
+Option,0,c) abdominal pain.
+Option,0,d) ringing in the ears.
+Hint,"Complexity: Easy			Ahead: Emergency Medical Care			Subject:Toxicology, Page 833			Title: Toxicology			Feedback: See Emergency Medical Care			Taxonomy: Application			Objective: 22-8 Explain the use of activated charcoal, including indications, contraindications, and the need to obtain approval from medical control before administration.",
+NewQuestion,MC,
+Title,,
+QuestionText,"After administering activated charcoal to a patient, it is most important to:",
+Points,1,
+Difficulty,1,
+Option,0,a) call medical control.
+Option,100,b) be alert for vomiting.
+Option,0,c) monitor the patient’s blood pressure.
+Option,0,d) document the intervention.
+Hint,"Complexity: Easy			Ahead: Emergency Medical Care			Subject:Toxicology, Page 833			Title: Toxicology			Feedback: See Emergency Medical Care			Taxonomy: Application			Objective: 22-8 Explain the use of activated charcoal, including indications, contraindications, and the need to obtain approval from medical control before administration.",
+NewQuestion,MC,
+Title,,
+QuestionText,A person who routinely misuses a substance and requires increasing amounts to achieve the same effect is experiencing:,
+Points,1,
+Difficulty,1,
+Option,0,a) addiction.
+Option,0,b) dependence.
+Option,0,c) withdrawal.
+Option,100,d) tolerance.
+Hint,"Complexity: Easy			Ahead: Specific Poisons			Subject:Toxicology, Page 834			Title: Toxicology			Feedback: See Specific Poisons			Taxonomy: Application			Objective: 22-4 Describe the assessment and treatment of a patient with a suspected poisoning or toxic exposure.",
+NewQuestion,MC,
+Title,,
+QuestionText,"A man with a prolonged history of alcohol abuse fell from a second-story balcony. His blood pressure is 80/60 mm Hg, his heart rate is 120 beats/min, and his skin is cool and pale. When caring for this patient, the EMT should recall that:",
+Points,1,
+Difficulty,1,
+Option,100,a) reduced blood clotting worsens internal bleeding.
+Option,0,b) patients with alcoholism are prone to hyperthermia.
+Option,0,"c) alcohol is a stimulant, which likely caused his fall."
+Option,0,d) patients with alcoholism are prone to hyperglycemia.
+Hint,"Complexity: Moderate			Ahead: Specific Poisons			Subject:Toxicology, Page 835			Title: Toxicology			Feedback: See Specific Poisons			Taxonomy: Application			Objective: 22-9 Identify the main types of toxins and poisons and their effects, including alcohol, opiates and opioids, sedative-hypnotic drugs, inhalants, hydrogen sulfide, sympathomimetics, synthetic cathinones, marijuana, hallucinogens, anticholinergic agents, and cholinergic agents.",
+NewQuestion,MC,
+Title,,
+QuestionText,A hypnotic drug is one that:,
+Points,1,
+Difficulty,1,
+Option,100,a) induces sleep.
+Option,0,b) prevents amnesia.
+Option,0,c) increases the pulse.
+Option,0,d) increases the senses.
+Hint,"Complexity: Easy			Ahead: Specific Poisons			Subject:Toxicology, Page 834			Title: Toxicology			Feedback: See Specific Poisons			Taxonomy: Application			Objective: 22-9 Identify the main types of toxins and poisons and their effects, including alcohol, opiates and opioids, sedative-hypnotic drugs, inhalants, hydrogen sulfide, sympathomimetics, synthetic cathinones, marijuana, hallucinogens, anticholinergic agents, and cholinergic agents.",
+NewQuestion,MC,
+Title,,
+QuestionText,"When caring for a known alcoholic patient with severe trauma to the chest and abdomen, you should be concerned that:",
+Points,1,
+Difficulty,1,
+Option,0,a) delirium tremens (DTs) are commonly induced by physical trauma and can lead to life-threatening seizures.
+Option,100,b) internal bleeding might be profuse because prolonged alcohol use might impair the blood’s ability to clot.
+Option,0,c) long-bone fractures are likely because chronic alcohol consumption weakens the structure of the bones.
+Option,0,d) signs and symptoms of shock might be masked by the stimulant effects produced by alcohol.
+Hint,"Complexity: Moderate			Ahead: Specific Poisons			Subject:Toxicology, Page 835			Title: Toxicology			Feedback: See Specific Poisons			Taxonomy: Application			Objective: 22-9 Identify the main types of toxins and poisons and their effects, including alcohol, opiates and opioids, sedative-hypnotic drugs, inhalants, hydrogen sulfide, sympathomimetics, synthetic cathinones, marijuana, hallucinogens, anticholinergic agents, and cholinergic agents.",
+NewQuestion,MC,
+Title,,
+QuestionText,Delirium tremens (DTs) is a syndrome associated with withdrawal from:,
+Points,1,
+Difficulty,1,
+Option,0,a) cocaine.
+Option,0,b) opioids.
+Option,100,c) alcohol.
+Option,0,d) sedatives.
+Hint,"Complexity: Easy			Ahead: Specific Poisons			Subject:Toxicology, Page 835			Title: Toxicology			Feedback: See Specific Poisons			Taxonomy: Application			Objective: 22-9 Identify the main types of toxins and poisons and their effects, including alcohol, opiates and opioids, sedative-hypnotic drugs, inhalants, hydrogen sulfide, sympathomimetics, synthetic cathinones, marijuana, hallucinogens, anticholinergic agents, and cholinergic agents.",
+NewQuestion,MC,
+Title,,
+QuestionText,"A 49-year-old male presents with confusion, sweating, and visual hallucinations. The patient’s wife tells you that he is a heavy drinker and that he might have had a seizure shortly before your arrival. This patient is most likely experiencing:",
+Points,1,
+Difficulty,1,
+Option,0,a) acute hypovolemia.
+Option,0,b) alcohol intoxication.
+Option,0,c) acute schizophrenia.
+Option,100,d) delirium tremens.
+Hint,"Complexity: Difficult			Ahead: Specific Poisons			Subject:Toxicology, Page 835			Title: Toxicology			Feedback: See Specific Poisons			Taxonomy: Application			Objective: 22-9 Identify the main types of toxins and poisons and their effects, including alcohol, opiates and opioids, sedative-hypnotic drugs, inhalants, hydrogen sulfide, sympathomimetics, synthetic cathinones, marijuana, hallucinogens, anticholinergic agents, and cholinergic agents.",
+NewQuestion,MC,
+Title,,
+QuestionText,"During your assessment of a 50-year-old male who was found unresponsive in an alley, you note that he has slow, shallow respirations; bradycardia; facial cyanosis; and pinpoint pupils. As your partner begins assisting the patient’s ventilations, he directs your attention to the patient’s arms, which have multiple needle tracks on them. Which of the following would most likely explain the patient’s presentation?",
+Points,1,
+Difficulty,1,
+Option,100,a) Heroin overdose
+Option,0,b) Alcohol intoxication
+Option,0,c) Closed-head injury
+Option,0,d) Delirium tremens
+Hint,"Complexity: Difficult			Ahead: Specific Poisons			Subject:Toxicology, Page 836			Title: Toxicology			Feedback: See Specific Poisons			Taxonomy: Application			Objective: 22-9 Identify the main types of toxins and poisons and their effects, including alcohol, opiates and opioids, sedative-hypnotic drugs, inhalants, hydrogen sulfide, sympathomimetics, synthetic cathinones, marijuana, hallucinogens, anticholinergic agents, and cholinergic agents.",
+NewQuestion,MC,
+Title,,
+QuestionText,"You and your paramedic partner are caring for a patient who ingested codeine, acetaminophen (Tylenol), and hydrocodone (Vicodin). The patient is unresponsive, his breathing is slow and shallow, and his pulse is slow and weak. Treatment for this patient should include:",
+Points,1,
+Difficulty,1,
+Option,100,a) assisted ventilation and naloxone (Narcan).
+Option,0,b) high-flow oxygen via a nonrebreathing mask.
+Option,0,c) assisted ventilation and flumazenil (Romazicon).
+Option,0,d) oxygen via a nasal cannula and atropine sulfate.
+Hint,"Complexity: Difficult			Ahead: Specific Poisons			Subject:Toxicology, Pages 836-837			Title: Toxicology			Feedback: See Specific Poisons			Taxonomy: Application			Objective: 22-9 Identify the main types of toxins and poisons and their effects, including alcohol, opiates and opioids, sedative-hypnotic drugs, inhalants, hydrogen sulfide, sympathomimetics, synthetic cathinones, marijuana, hallucinogens, anticholinergic agents, and cholinergic agents.",
+NewQuestion,MC,
+Title,,
+QuestionText,"You respond to a local motel for a young female who was sexually assaulted. The patient is conscious but confused. She tells you that the last thing she remembers was drinking beer at a club with her friends the night before. When she awoke, she was in the bed of the motel room. You should suspect that this patient:",
+Points,1,
+Difficulty,1,
+Option,0,a) is a frequent and heavy heroin user.
+Option,0,b) is addicted to a benzodiazepine drug.
+Option,100,c) was given flunitrazepam (Rohypnol).
+Option,0,d) has a hangover from the night before.
+Hint,"Complexity: Difficult			Ahead: Specific Poisons			Subject:Toxicology, Page 838			Title: Toxicology			Feedback: See Specific Poisons			Taxonomy: Application			Objective: 22-9 Identify the main types of toxins and poisons and their effects, including alcohol, opiates and opioids, sedative-hypnotic drugs, inhalants, hydrogen sulfide, sympathomimetics, synthetic cathinones, marijuana, hallucinogens, anticholinergic agents, and cholinergic agents.",
+NewQuestion,MC,
+Title,,
+QuestionText,"You respond to a college campus for a young male who is acting strangely. After law enforcement has secured the scene, you enter the patient’s dorm room and find him sitting on the edge of the bed; he appears agitated. As you approach him, you note that he has dried blood around both nostrils. He is breathing adequately, his pulse is rapid and irregular, and his blood pressure is 200/110 mm Hg. Treatment for this patient includes:",
+Points,1,
+Difficulty,1,
+Option,0,a) requesting a paramedic to administer naloxone (Narcan).
+Option,0,b) assisting his ventilations with a bag-mask device.
+Option,0,c) asking law enforcement to place handcuffs on the patient.
+Option,100,d) attempting to calm him and giving him oxygen if tolerated.
+Hint,"Complexity: Difficult			Ahead: Specific Poisons			Subject:Toxicology, Pages 838-839			Title: Toxicology			Feedback: See Specific Poisons			Taxonomy: Application			Objective: 22-4 Describe the assessment and treatment of a patient with a suspected poisoning or toxic exposure.",
+NewQuestion,MC,
+Title,,
+QuestionText,"In an apparent suicide attempt, a 19-year-old female ingested a full bottle of amitriptyline (Elavil). At present, she is conscious and alert and states that she swallowed the pills approximately 30 minutes earlier. Her blood pressure is 90/50 mm Hg, her pulse is 140 beats/min and irregular, and her respirations are 22 breaths/min with adequate depth. When transporting this patient, you should be most alert for:",
+Points,1,
+Difficulty,1,
+Option,0,a) acute respiratory depression.
+Option,0,b) a sudden outburst of violence.
+Option,0,c) an increase in her blood pressure.
+Option,100,d) seizures and cardiac dysrhythmias.
+Hint,"Complexity: Difficult			Ahead: Specific Poisons			Subject:Toxicology, Page 842			Title: Toxicology			Feedback: See Specific Poisons			Taxonomy: Application			Objective: 22-9 Identify the main types of toxins and poisons and their effects, including alcohol, opiates and opioids, sedative-hypnotic drugs, inhalants, hydrogen sulfide, sympathomimetics, synthetic cathinones, marijuana, hallucinogens, anticholinergic agents, and cholinergic agents.",
+NewQuestion,MC,
+Title,,
+QuestionText,"You are dispatched to a local nursery for a 39-year-old female who is sick. When you arrive, you find the patient lying on the floor. She is semiconscious, has copious amounts of saliva coming from her mouth, and is incontinent of urine. You quickly feel her pulse and note that it is very slow. Immediate management for this patient should include:",
+Points,1,
+Difficulty,1,
+Option,100,a) thoroughly suctioning her oropharynx.
+Option,0,b) assisted ventilation with a bag-mask device.
+Option,0,c) performing a rapid secondary assessment.
+Option,0,d) requesting a paramedic to give her atropine.
+Hint,"Complexity: Difficult			Ahead: Patient Assessment			Subject:Toxicology, Page 831			Title: Toxicology			Feedback: See Patient Assessment			Taxonomy: Application			Objective: 22-4 Describe the assessment and treatment of a patient with a suspected poisoning or toxic exposure.",
+NewQuestion,MC,
+Title,,
+QuestionText,Atropine sulfate and pralidoxime chloride are antidotes for:,
+Points,1,
+Difficulty,1,
+Option,0,a) lysergic acid diethylamide (LSD).
+Option,0,b) diphenhydramine (Benadryl).
+Option,100,c) nerve gas agents.
+Option,0,d) anticholinergic drugs.
+Hint,"Complexity: Moderate			Ahead: Specific Poisons			Subject:Toxicology, Page 843			Title: Toxicology			Feedback: See Specific Poisons			Taxonomy: Application			Objective: 22-4 Describe the assessment and treatment of a patient with a suspected poisoning or toxic exposure.",
+NewQuestion,MC,
+Title,,
+QuestionText,"A patient who presents with rapid breathing, nausea and vomiting, ringing in the ears, and hyperthermia should be suspected of ingesting a significant quantity of:",
+Points,1,
+Difficulty,1,
+Option,0,a) cocaine.
+Option,100,b) aspirin.
+Option,0,c) acetaminophen.
+Option,0,d) ibuprofen.
+Hint,"Complexity: Moderate			Ahead: Specific Poisons			Subject:Toxicology, Page 843			Title: Toxicology			Feedback: See Specific Poisons			Taxonomy: Application			Objective: 22-4 Describe the assessment and treatment of a patient with a suspected poisoning or toxic exposure.",
+NewQuestion,MC,
+Title,,
+QuestionText,"An overdose of acetaminophen, the active ingredient in Tylenol, will most likely cause:",
+Points,1,
+Difficulty,1,
+Option,100,a) liver damage and failure.
+Option,0,b) bleeding gastric ulcers.
+Option,0,c) acute kidney failure.
+Option,0,d) central nervous system depression.
+Hint,"Complexity: Moderate			Ahead: Specific Poisons			Subject:Toxicology, Page 843			Title: Toxicology			Feedback: See Specific Poisons			Taxonomy: Application			Objective: 22-4 Describe the assessment and treatment of a patient with a suspected poisoning or toxic exposure.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following statements regarding the Salmonella bacterium is correct?,
+Points,1,
+Difficulty,1,
+Option,0,a) Refrigeration of food will prevent salmonellosis.
+Option,0,b) Symptoms of salmonellosis appear within 12 hours.
+Option,0,c) The Salmonella bacterium produces toxins that cause food poisoning.
+Option,100,d) The Salmonella bacterium itself causes food poisoning.
+Hint,"Complexity: Moderate			Ahead: Food Poisoning			Subject:Toxicology, Page 844			Title: Toxicology			Feedback: See Food Poisoning			Taxonomy: Recall			Objective: 22-11 Describe the assessment and treatment of a patient with suspected food poisoning.",
+NewQuestion,MC,
+Title,,
+QuestionText,"A 3-year-old female ingested several leaves from a plant in the living room. The child’s mother is not sure what type of plant it is, stating that she bought it simply because it was pretty. After completing your primary assessment of the child, you should:",
+Points,1,
+Difficulty,1,
+Option,0,a) administer 25 g of activated charcoal.
+Option,0,b) induce vomiting with syrup of ipecac.
+Option,100,c) contact the regional poison control center.
+Option,0,d) immediately transport the child to the hospital.
+Hint,"Complexity: Difficult			Ahead: Plant Poisoning			Subject:Toxicology, Page 846			Title: Toxicology			Feedback: See Plant Poisoning			Taxonomy: Application			Objective: 22-12 Describe the assessment and treatment of a patient with suspected plant poisoning.",
+NewQuestion,MC,
+Title,,
+QuestionText,A 25-year-old man overdosed on heroin and is unresponsive. His breathing is slow and shallow and he is bradycardic. He has track marks on both arms. The EMT should:,
+Points,1,
+Difficulty,1,
+Option,0,a) administer naloxone via the intranasal route.
+Option,100,b) insert a nasal airway and ventilate with a bag-mask device.
+Option,0,c) position the patient on his side and transport without delay.
+Option,0,d) administer naloxone via the intramuscular route.
+Hint,"Complexity: Difficult			Ahead: Specific Poisons			Subject:Toxicology, Page 837			Title: Toxicology			Feedback: See Specific Poisons			Taxonomy: Application			Objective: 22-5 Describe the assessment and treatment of a patient with a suspected overdose.",
+NewQuestion,MC,
+Title,,
+QuestionText,Naloxone (Narcan) would reverse the effects of:,
+Points,1,
+Difficulty,1,
+Option,0,a) diazepam (Valium).
+Option,0,b) temazepam (Restoril).
+Option,0,c) phenobarbital (Luminal).
+Option,100,d) hydromorphone (Dilaudid).
+Hint,"Complexity: Difficult			Ahead: Specific Poisons			Subject:Toxicology, Page 836			Title: Toxicology			Feedback: See Specific Poisons			Taxonomy: Recall			Objective: 22-5 Describe the assessment and treatment of a patient with suspected overdose.",
+NewQuestion,MC,
+Title,,
+QuestionText,"EMTs are dispatched for a teenage male who is “not acting right.” When they arrive, they are informed that the patient was huffing. Several cans of Freon are found near the patient. Which of the following is a unique consideration for this patient?",
+Points,1,
+Difficulty,1,
+Option,0,a) The pulse oximeter will yield a falsely elevated reading.
+Option,100,b) A sudden adrenaline release can cause a fatal dysrhythmia.
+Option,0,c) Oxygen will not increase the patient’s oxygen saturation.
+Option,0,d) Encouraging walking will help eliminate Freon from the body.
+Hint,"Complexity: Difficult			Ahead: Specific Poisons			Subject:Toxicology, Pages 838-839			Title: Toxicology			Feedback: See Specific Poisons			Taxonomy: Application			Objective: 22-5 Describe the assessment and treatment of a patient with suspected overdose.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following sets of vital signs would the EMT most likely encounter in a patient with acute cocaine overdose?,
+Points,1,
+Difficulty,1,
+Option,0,"a) BP, 60/40 mm Hg; pulse, 140 beats/min"
+Option,0,"b) BP, 190/90 mm Hg; pulse, 40 beats/min"
+Option,100,"c) BP, 200/100 mm Hg; pulse, 150 beats/min"
+Option,0,"d) BP, 180/100 mm Hg; pulse, 50 beats/min"
+Hint,"Complexity: Difficult			Ahead: Specific Poisons			Subject:Toxicology, Page 840			Title: Toxicology			Feedback: See Specific Poisons			Taxonomy: Analysis			Objective: 22-5 Describe the assessment and treatment of a patient with suspected overdose.",

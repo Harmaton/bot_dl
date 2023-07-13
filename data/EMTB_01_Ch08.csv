@@ -1,0 +1,500 @@
+NewQuestion,MC,
+Title,,
+QuestionText,The _________ is both the mechanical weight-bearing base of the spinal column and the fused central posterior section of the pelvic girdle.,
+Points,1,
+Difficulty,1,
+Option,0,a) coccyx
+Option,100,b) sacrum
+Option,0,c) thorax
+Option,0,d) ischium
+Hint,"Complexity: Easy			Ahead: Body Mechanics			Subject:Lifting and Moving Patients, Page 277			Title: Lifting and Moving Patients			Feedback: See Body Mechanics			Taxonomy: Recall			Objective: 8-3 Define the term body mechanics.",
+NewQuestion,MC,
+Title,,
+QuestionText,"When a person is standing upright, the weight of anything being lifted and carried in the hands is first reflected onto the:",
+Points,1,
+Difficulty,1,
+Option,0,a) pelvic girdle.
+Option,0,b) spinal column.
+Option,0,c) thigh muscles.
+Option,100,d) shoulder girdle.
+Hint,"Complexity: Easy			Ahead: Body Mechanics			Subject:Lifting and Moving Patients, Page 277			Title: Lifting and Moving Patients			Feedback: See Body Mechanics			Taxonomy: Recall			Objective: 8-3 Define the term body mechanics.",
+NewQuestion,MC,
+Title,,
+QuestionText,When the shoulder girdle is aligned over the pelvis during lifting:,
+Points,1,
+Difficulty,1,
+Option,100,a) the weight is exerted straight down the vertebrae.
+Option,0,b) the hands can be held further apart from the body.
+Option,0,c) the muscles of the back experience increased strain.
+Option,0,d) the risk of back injuries is significantly increased.
+Hint,"Complexity: Moderate			Ahead: Body Mechanics			Subject:Lifting and Moving Patients, Page 277			Title: Lifting and Moving Patients			Feedback: See Body Mechanics			Taxonomy: Recall			Objective: 8-4 Discuss how following proper patient lifting and moving techniques can help prevent work-related injuries.",
+NewQuestion,MC,
+Title,,
+QuestionText,"An EMT might injure his or her back, even if it is straight, if the:",
+Points,1,
+Difficulty,1,
+Option,100,a) back is bent forward at the hips.
+Option,0,b) hands are held close to the legs.
+Option,0,c) shoulder is aligned over the pelvis.
+Option,0,d) force is exerted straight down the spine.
+Hint,"Complexity: Difficult			Ahead: Body Mechanics			Subject:Lifting and Moving Patients, Page 278			Title: Lifting and Moving Patients			Feedback: See Body Mechanics			Taxonomy: Recall			Objective: 8-4 Discuss how following proper patient lifting and moving techniques can help prevent work-related injuries.",
+NewQuestion,MC,
+Title,,
+QuestionText,The first rule of safe lifting is to:,
+Points,1,
+Difficulty,1,
+Option,0,a) always lift with your palms facing down.
+Option,0,b) spread your legs approximately 20″ apart.
+Option,0,c) keep your back in a slightly curved position.
+Option,100,"d) keep your back in a straight, vertical position."
+Hint,"Complexity: Easy			Ahead: Body Mechanics			Subject:Lifting and Moving Patients, Page 278			Title: Lifting and Moving Patients			Feedback: See Body Mechanics			Taxonomy: Recall			Objective: 8-4 Discuss how following proper patient lifting and moving techniques can help prevent work-related injuries.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following statements regarding the power lift is correct?,
+Points,1,
+Difficulty,1,
+Option,0,a) It involves using your lower back instead of your legs to lift.
+Option,0,b) The leg muscles should remain relaxed during the power lift.
+Option,100,c) It is the safest and most powerful method of lifting a patient.
+Option,0,d) It is not recommended for people with weak knees or thighs.
+Hint,"Complexity: Moderate			Ahead: Body Mechanics			Subject:Lifting and Moving Patients, Page 278			Title: Lifting and Moving Patients			Feedback: See Body Mechanics			Taxonomy: Recall			Objective: 8-4 Discuss how following proper patient lifting and moving techniques can help prevent work-related injuries.",
+NewQuestion,MC,
+Title,,
+QuestionText,The proper technique for using the power grip is to:,
+Points,1,
+Difficulty,1,
+Option,100,a) lift with your palms up.
+Option,0,b) rotate your palms down.
+Option,0,c) hold the handle with your fingers.
+Option,0,d) position your hands about 6″ apart.
+Hint,"Complexity: Moderate			Ahead: Body Mechanics			Subject:Lifting and Moving Patients, Page 280			Title: Lifting and Moving Patients			Feedback: See Body Mechanics			Taxonomy: Recall			Objective: 8-6 Explain the power grip and sheet or blanket methods for lifting a patient.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following statements regarding patient weight distribution is correct?,
+Points,1,
+Difficulty,1,
+Option,100,a) The majority of a horizontal patient’s weight is in the torso.
+Option,0,b) Most of the patient’s weight rests on the foot end of the stretcher.
+Option,0,c) A semi-sitting patient’s weight is equally distributed on both ends.
+Option,0,d) The EMT at the patient’s head will bear the least amount of weight.
+Hint,"Complexity: Easy			Ahead: Principles of Safe Lifting and Carrying			Subject:Lifting and Moving Patients, Page 284			Title: Lifting and Moving Patients			Feedback: See Principles of Safe Lifting and Carrying			Taxonomy: Recall			Objective: 8-7 Explain the general considerations required of EMTs to safely move patients without causing the patient further harm and while protecting themselves from injury.",
+NewQuestion,MC,
+Title,,
+QuestionText,General guidelines for carrying a patient on a stretcher include:,
+Points,1,
+Difficulty,1,
+Option,0,a) maintaining slight flexion of your back.
+Option,0,b) leaning back from your waist when lifting.
+Option,0,c) slightly twisting your body when carrying.
+Option,100,d) constant communication with your partners.
+Hint,"Complexity: Moderate			Ahead: Principles of Safe Lifting and Carrying			Subject:Lifting and Moving Patients, Page 283			Title: Lifting and Moving Patients			Feedback: See Principles of Safe Lifting and Carrying			Taxonomy: Recall			Objective: 8-5 Identify how to avoid common mistakes when lifting and carrying a patient.",
+NewQuestion,MC,
+Title,,
+QuestionText,"To minimize the risk of injuring yourself when lifting or moving a patient, you should:",
+Points,1,
+Difficulty,1,
+Option,0,a) flex at the waist instead of the hips.
+Option,0,b) avoid the use of log rolls or body drags.
+Option,0,c) use a direct carry whenever possible.
+Option,100,d) keep the weight as close to your body as possible.
+Hint,"Complexity: Easy			Ahead: Principles of Safe Lifting and Carrying			Subject:Lifting and Moving Patients, Page 283			Title: Lifting and Moving Patients			Feedback: See Principles of Safe Lifting and Carrying			Taxonomy: Recall			Objective: 8-4 Discuss how following proper patient lifting and moving techniques can help prevent work-related injuries.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following most accurately describes the correct position of the EMTs who are executing the diamond carry technique?,
+Points,1,
+Difficulty,1,
+Option,0,"a) Two at the head, two at the feet, and a fifth EMT balancing the torso"
+Option,0,"b) One at the head, two at the feet, and a fourth EMT balancing the torso"
+Option,100,"c) One at the head, one at the feet, and one on each side of the patient’s torso"
+Option,0,"d) Two at the head, one at the feet, and one on the left side of the patient’s torso"
+Hint,"Complexity: Easy			Ahead: Principles of Safe Lifting and Carrying			Subject:Lifting and Moving Patients, Page 284			Title: Lifting and Moving Patients			Feedback: See Principles of Safe Lifting and Carrying			Taxonomy: Recall			Objective: 8-7 Explain the general considerations required of EMTs to safely move patients without causing the patient further harm and while protecting themselves from injury.",
+NewQuestion,MC,
+Title,,
+QuestionText,When carrying a patient on a backboard up or down stairs:,
+Points,1,
+Difficulty,1,
+Option,0,a) keep your palms facing down.
+Option,100,b) keep the head end elevated.
+Option,0,c) carry the patient headfirst.
+Option,0,d) keep the foot end elevated.
+Hint,"Complexity: Moderate			Ahead: Principles of Safe Lifting and Carrying			Subject:Lifting and Moving Patients, Page 289			Title: Lifting and Moving Patients			Feedback: See Principles of Safe Lifting and Carrying			Taxonomy: Recall			Objective: 8-8 Explain how to carry patients safely on stairs, including the selection of appropriate equipment to aid in the process.",
+NewQuestion,MC,
+Title,,
+QuestionText,"When carrying a patient up or down stairs, you should avoid:",
+Points,1,
+Difficulty,1,
+Option,0,a) flexing your body at the knees.
+Option,0,b) the use of more than two EMTs.
+Option,100,c) using a wheeled stretcher whenever possible.
+Option,0,d) the use of a long backboard or scoop stretcher.
+Hint,"Complexity: Moderate			Ahead: The Wheeled Ambulance Stretcher			Subject:Lifting and Moving Patients, Page 287			Title: Lifting and Moving Patients			Feedback: See The Wheeled Ambulance Stretcher			Taxonomy: Recall			Objective: 8-8 Explain how to carry patients safely on stairs, including the selection of appropriate equipment to aid in the process.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following is the most appropriate device to use when immobilizing a patient with a suspected spinal injury?,
+Points,1,
+Difficulty,1,
+Option,100,a) Long backboard
+Option,0,b) Scoop stretcher
+Option,0,c) Portable stretcher
+Option,0,d) Wheeled stretcher
+Hint,"Complexity: Moderate			Ahead: Backboards			Subject:Lifting and Moving Patients, Page 276			Title: Lifting and Moving Patients			Feedback: See Backboards			Taxonomy: Recall			Objective: 8-7 Explain the general considerations required of EMTs to safely move patients without causing the patient further harm and while protecting themselves from injury.",
+NewQuestion,MC,
+Title,,
+QuestionText,"To facilitate a safe and coordinated move, the team leader should:",
+Points,1,
+Difficulty,1,
+Option,0,a) be positioned at the feet so the team can hear.
+Option,100,b) use preparatory commands to initiate any moves.
+Option,0,c) speak softly but clearly to avoid startling the patient.
+Option,0,"d) never become involved in the move, only direct the move."
+Hint,"Complexity: Moderate			Ahead: Directions and Commands			Subject:Lifting and Moving Patients, Page 291			Title: Lifting and Moving Patients			Feedback: See Directions and Commands			Taxonomy: Recall			Objective: 8-7 Explain the general considerations required of EMTs to safely move patients without causing the patient further harm and while protecting themselves from injury.",
+NewQuestion,MC,
+Title,,
+QuestionText,"With proper technique, you and your partner should be able to safely lift a patient who weighs up to ______ pounds.",
+Points,1,
+Difficulty,1,
+Option,0,a) 150
+Option,0,b) 175
+Option,0,c) 190
+Option,100,d) 220
+Hint,"Complexity: Difficult			Ahead: Principles of Safe Lifting and Carrying			Subject:Lifting and Moving Patients, Page 282			Title: Lifting and Moving Patients			Feedback: See Principles of Safe Lifting and Carrying			Taxonomy: Application			Objective: 8-7 Explain the general considerations required of EMTs to safely move patients without causing the patient further harm and while protecting themselves from injury.",
+NewQuestion,MC,
+Title,,
+QuestionText,"You should not attempt to lift a patient who weighs more than 250 pounds with fewer than _______ rescuers, regardless of individual strength.",
+Points,1,
+Difficulty,1,
+Option,0,a) three
+Option,100,b) four
+Option,0,c) five
+Option,0,d) six
+Hint,"Complexity: Easy			Ahead: Principles of Safe Lifting and Carrying			Subject:Lifting and Moving Patients, Page 284			Title: Lifting and Moving Patients			Feedback: See Principles of Safe Lifting and Carrying			Taxonomy: Recall			Objective: 8-7 Explain the general considerations required of EMTs to safely move patients without causing the patient further harm and while protecting themselves from injury.",
+NewQuestion,MC,
+Title,,
+QuestionText,"You and your partner respond to the scene of a 49-year-old male with acute abdominal pain. As you enter his residence, you find him lying on the floor in severe pain. He is conscious and alert. The patient appears to weigh in excess of 350 pounds. Your first action should be to:",
+Points,1,
+Difficulty,1,
+Option,0,a) request the fire department if one attempt to move him fails.
+Option,0,b) encourage the patient to walk himself to the awaiting ambulance.
+Option,0,c) assess him and then move him to the stretcher with a direct carry.
+Option,100,d) request additional personnel before making any attempts to lift him.
+Hint,"Complexity: Moderate			Ahead: Principles of Safe Lifting and Carrying			Subject:Lifting and Moving Patients, Page 284			Title: Lifting and Moving Patients			Feedback: See Principles of Safe Lifting and Carrying			Taxonomy: Recall			Objective: 8-7 Explain the general considerations required of EMTs to safely move patients without causing the patient further harm and while protecting themselves from injury.",
+NewQuestion,MC,
+Title,,
+QuestionText,"As you and your partner are carrying a stable patient down a flight of stairs in a stair chair, you feel a sudden, sharp pain in your lower back. You should:",
+Points,1,
+Difficulty,1,
+Option,0,a) reposition your hands and continue to move the patient.
+Option,100,b) stop the move and request additional lifting assistance.
+Option,0,c) guide your partner while moving the chair backwards.
+Option,0,d) stop the move and have the patient walk down the stairs.
+Hint,"Complexity: Difficult			Ahead: Principles of Safe Lifting and Carrying			Subject:Lifting and Moving Patients, Page 284			Title: Lifting and Moving Patients			Feedback: See Principles of Safe Lifting and Carrying			Taxonomy: Analysis			Objective: 8-7 Explain the general considerations required of EMTs to safely move patients without causing the patient further harm and while protecting themselves from injury.",
+NewQuestion,MC,
+Title,,
+QuestionText,"When pulling a patient, you should extend your arms no more than ________ in front of your torso.",
+Points,1,
+Difficulty,1,
+Option,0,a) 5″ to 10″
+Option,0,b) 10″ to 15″
+Option,100,c) 15″ to 20″
+Option,0,d) 20″ to 30″
+Hint,"Complexity: Moderate			Ahead: Principles of Safe Reaching and Pulling			Subject:Lifting and Moving Patients, Page 281			Title: Lifting and Moving Patients			Feedback: See Principles of Safe Reaching and Pulling			Taxonomy: Recall			Objective: 8-7 Explain the general considerations required of EMTs to safely move patients without causing the patient further harm and while protecting themselves from injury.",
+NewQuestion,MC,
+Title,,
+QuestionText,"When using a body drag to pull a patient who is on the ground, you should:",
+Points,1,
+Difficulty,1,
+Option,100,a) kneel to minimize the distance that you will have to lean over.
+Option,0,b) extend your elbows as far beyond your anterior torso as possible.
+Option,0,c) bend your back laterally to maximize your amount of pulling power.
+Option,0,d) avoid situations involving strenuous effort lasting more than five minutes.
+Hint,"Complexity: Moderate			Ahead: Principles of Safe Reaching and Pulling			Subject:Lifting and Moving Patients, Pages 280-281			Title: Lifting and Moving Patients			Feedback: See Principles of Safe Reaching and Pulling			Taxonomy: Recall			Objective: 8-7 Explain the general considerations required of EMTs to safely move patients without causing the patient further harm and while protecting themselves from injury.",
+NewQuestion,MC,
+Title,,
+QuestionText,"To avoid injury when pushing a patient or other object, you should:",
+Points,1,
+Difficulty,1,
+Option,0,a) push the patient from an overhead position if possible.
+Option,100,b) avoid pushing the patient with your elbows fully extended.
+Option,0,c) push from the area of your body between the knees and hips.
+Option,0,d) kneel if you are pushing an object that is above waist level.
+Hint,"Complexity: Moderate			Ahead: Principles of Safe Reaching and Pulling			Subject:Lifting and Moving Patients, Page 287			Title: Lifting and Moving Patients			Feedback: See Principles of Safe Reaching and Pulling			Taxonomy: Recall			Objective: 8-7 Explain the general considerations required of EMTs to safely move patients without causing the patient further harm and while protecting themselves from injury.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following statements regarding an emergency patient move is correct?,
+Points,1,
+Difficulty,1,
+Option,0,a) The spine must be fully immobilized prior to performing an emergency move.
+Option,100,b) An emergency move is performed before the primary assessment and treatment.
+Option,0,c) The patient is dragged against the body’s long axis during an emergency move.
+Option,0,d) It is not possible to perform an emergency move without injuring the patient.
+Hint,"Complexity: Moderate			Ahead: Emergency Moves			Subject:Lifting and Moving Patients, Page 294			Title: Lifting and Moving Patients			Feedback: See Emergency Moves			Taxonomy: Recall			Objective: 8-7 Explain the general considerations required of EMTs to safely move patients without causing the patient further harm and while protecting themselves from injury.",
+NewQuestion,MC,
+Title,,
+QuestionText,In which of the following situations is an emergency patient move indicated?,
+Points,1,
+Difficulty,1,
+Option,0,a) A patient has an altered mental status or is in shock.
+Option,100,b) The EMT is unable to protect the patient from scene hazards.
+Option,0,c) The EMT has to gain access to lesser-injured patients in a vehicle.
+Option,0,d) A significant mechanism of injury is involved.
+Hint,"Complexity: Moderate			Ahead: Emergency Moves			Subject:Lifting and Moving Patients, Page 294			Title: Lifting and Moving Patients			Feedback: See Emergency Moves			Taxonomy: Recall			Objective: 8-9 Describe specific situations in which an emergency move may be necessary to move a patient; include how each one is performed.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following steps is not proper procedure when performing an emergency move?,
+Points,1,
+Difficulty,1,
+Option,0,a) Using a long-axis body drag during the move
+Option,0,b) Pulling the patient on a blanket or similar object
+Option,0,c) Pulling the patient’s clothing in the shoulder area
+Option,100,d) Lifting the patient by the belt to move him or her
+Hint,"Complexity: Moderate			Ahead: Emergency Moves			Subject:Lifting and Moving Patients, Page 294			Title: Lifting and Moving Patients			Feedback: See Emergency Moves			Taxonomy: Recall			Objective: 8-9 Describe specific situations in which an emergency move may be necessary to move a patient; include how each one is performed.",
+NewQuestion,MC,
+Title,,
+QuestionText,"You and your partner enter the residence of an elderly couple, both of whom are found unconscious in their bed. There is no evidence of trauma. As you begin your assessment, you and your partner notice the smell of natural gas in the residence. Which of the following should be your most appropriate action?",
+Points,1,
+Difficulty,1,
+Option,0,a) Perform a rapid assessment and then move the patients from their residence.
+Option,0,b) Request another ambulance to assist with lifting and moving the patients.
+Option,0,c) Quickly exit the residence and request the fire department to move the patients.
+Option,100,d) Rapidly remove the patients from their residence using a blanket or clothes drag.
+Hint,"Complexity: Moderate			Ahead: Emergency Moves			Subject:Lifting and Moving Patients, Page 294			Title: Lifting and Moving Patients			Feedback: See Emergency Moves			Taxonomy: Recall			Objective: 8-9 Describe specific situations in which an emergency move may be necessary to move a patient; include how each one is performed.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following situations would require an urgent patient move?,
+Points,1,
+Difficulty,1,
+Option,0,a) Conscious patient with abrasions and a possibly fractured humerus
+Option,0,b) Imminent risk of a fire or explosion in or near the patient’s vehicle
+Option,100,c) Semiconscious patient with shallow respirations and signs of shock
+Option,0,d) Stable patient who is blocking access to a critically injured patient
+Hint,"Complexity: Moderate			Ahead: Urgent Moves			Subject:Lifting and Moving Patients, Page 295			Title: Lifting and Moving Patients			Feedback: See Urgent Moves			Taxonomy: Analysis			Objective: 8-10 Describe specific situations in which an urgent move or rapid extrication may be necessary to move a patient; include how each one is performed.",
+NewQuestion,MC,
+Title,,
+QuestionText,A critical aspect of the rapid extrication technique is to:,
+Points,1,
+Difficulty,1,
+Option,100,a) maintain stabilization of the spine at all times.
+Option,0,b) move the patient as quickly as you possibly can.
+Option,0,c) extricate the patient with one coordinated move.
+Option,0,d) apply a vest-style device before moving the patient.
+Hint,"Complexity: Difficult			Ahead: Urgent Moves			Subject:Lifting and Moving Patients, Page 295			Title: Lifting and Moving Patients			Feedback: See Urgent Moves			Taxonomy: Recall			Objective: 8-10 Describe specific situations in which an urgent move or rapid extrication may be necessary to move a patient; include how each one is performed.",
+NewQuestion,MC,
+Title,,
+QuestionText,"Upon arriving at the scene of a motor vehicle crash, you find a single patient still seated in his car. There are no scene hazards. As you approach the vehicle, you note that the patient is semiconscious and has a large laceration to his forehead. You should:",
+Points,1,
+Difficulty,1,
+Option,100,a) direct your partner to apply manual in-line support of the patient’s head.
+Option,0,b) apply a cervical collar and quickly remove the patient with a clothes drag.
+Option,0,c) apply a vest-style extrication device before attempting to move the patient.
+Option,0,d) slide a long backboard under his buttocks and lay him sideways on the board.
+Hint,"Complexity: Difficult			Ahead: Urgent Moves			Subject:Lifting and Moving Patients, Page 297			Title: Lifting and Moving Patients			Feedback: See Urgent Moves			Taxonomy: Analysis			Objective: 8-10 Describe specific situations in which an urgent move or rapid extrication may be necessary to move a patient; include how each one is performed.",
+NewQuestion,MC,
+Title,,
+QuestionText,"Situations in which you should use the rapid extrication technique include all of the following, except:",
+Points,1,
+Difficulty,1,
+Option,100,a) a patient who can be properly assessed while still in the vehicle.
+Option,0,b) a patient who blocks access to another seriously injured patient.
+Option,0,c) a patient who needs immediate care that requires a supine position.
+Option,0,d) a patient whose condition requires immediate transport to the hospital.
+Hint,"Complexity: Moderate			Ahead: Urgent Moves			Subject:Lifting and Moving Patients, Page 296			Title: Lifting and Moving Patients			Feedback: See Urgent Moves			Taxonomy: Recall			Objective: 8-10 Describe specific situations in which an urgent move or rapid extrication may be necessary to move a patient; include how each one is performed.",
+NewQuestion,MC,
+Title,,
+QuestionText,"When performing the rapid extrication technique to remove a patient from his or her vehicle, you should:",
+Points,1,
+Difficulty,1,
+Option,0,a) apply a vest-style extrication device prior to moving the patient.
+Option,0,b) apply a cervical collar and immobilize the patient on a short backboard.
+Option,0,c) grasp the patient by the clothing and drag him or her from the car.
+Option,100,d) apply a cervical collar and remove the patient on a long backboard.
+Hint,"Complexity: Moderate			Ahead: Urgent Moves			Subject:Lifting and Moving Patients, Page 295			Title: Lifting and Moving Patients			Feedback: See Urgent Moves			Taxonomy: Recall			Objective: 8-10 Describe specific situations in which an urgent move or rapid extrication may be necessary to move a patient; include how each one is performed.",
+NewQuestion,MC,
+Title,,
+QuestionText,The most serious consequence of a poorly planned or rushed patient move is:,
+Points,1,
+Difficulty,1,
+Option,0,a) unnecessarily wasting time.
+Option,100,b) injury to you or your patient.
+Option,0,c) causing patient anxiety or fear.
+Option,0,d) confusion among team members.
+Hint,"Complexity: Easy			Ahead: Nonurgent Moves			Subject:Lifting and Moving Patients, Page 300			Title: Lifting and Moving Patients			Feedback: See Nonurgent Moves			Taxonomy: Recall			Objective: 8-11 Describe specific situations in which a nonurgent move may be necessary to move a patient; include how each one is performed.",
+NewQuestion,MC,
+Title,,
+QuestionText,"A 56-year-old female is found supine in a narrow hallway of her mobile home. She complains of severe weakness and dizziness, and states that she is unable to walk. There is no evidence of trauma, and the patient states that she did not fall. How should you and your partner move this patient to a more spacious area?",
+Points,1,
+Difficulty,1,
+Option,0,a) Direct carry
+Option,100,b) Extremity lift
+Option,0,c) Scoop stretcher
+Option,0,d) Emergency move
+Hint,"Complexity: Difficult			Ahead: Nonurgent Moves			Subject:Lifting and Moving Patients, Page 302			Title: Lifting and Moving Patients			Feedback: See Nonurgent Moves			Taxonomy: Application			Objective: 8-11 Describe specific situations in which a nonurgent move may be necessary to move a patient; include how each one is performed.",
+NewQuestion,MC,
+Title,,
+QuestionText,In which of the following situations would a direct ground lift be the most appropriate method of moving a patient?,
+Points,1,
+Difficulty,1,
+Option,100,a) A conscious patient complaining of abdominal pain
+Option,0,b) A patient who complains of hip pain following a fall
+Option,0,c) A pedestrian with back pain after being struck by a car
+Option,0,d) An unconscious patient with a possible ischemic stroke
+Hint,"Complexity: Moderate			Ahead: Nonurgent Moves			Subject:Lifting and Moving Patients, Page 300			Title: Lifting and Moving Patients			Feedback: See Nonurgent Moves			Taxonomy: Analysis			Objective: 8-11 Describe specific situations in which a nonurgent move may be necessary to move a patient; include how each one is performed.",
+NewQuestion,MC,
+Title,,
+QuestionText,The extremity lift would not be appropriate to use on a patient:,
+Points,1,
+Difficulty,1,
+Option,0,a) without a spinal injury.
+Option,100,b) with a deformed humerus.
+Option,0,c) who complains of nausea.
+Option,0,d) with forearm lacerations.
+Hint,"Complexity: Moderate			Ahead: Nonurgent Moves			Subject:Lifting and Moving Patients, Page 302			Title: Lifting and Moving Patients			Feedback: See Nonurgent Moves			Taxonomy: Analysis			Objective: 8-11 Describe specific situations in which a nonurgent move may be necessary to move a patient; include how each one is performed.",
+NewQuestion,MC,
+Title,,
+QuestionText,The direct carry is used to transfer a patient:,
+Points,1,
+Difficulty,1,
+Option,0,a) with multiple long bone injuries.
+Option,0,b) with a possible cervical spine injury.
+Option,100,c) from a bed to the ambulance stretcher.
+Option,0,d) who cannot be placed on a backboard.
+Hint,"Complexity: Easy			Ahead: Nonurgent Moves			Subject:Lifting and Moving Patients, Page 302			Title: Lifting and Moving Patients			Feedback: See Nonurgent Moves			Taxonomy: Recall			Objective: 8-11 Describe specific situations in which a nonurgent move may be necessary to move a patient; include how each one is performed.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which is the most appropriate method to use when moving a patient from his or her bed to a wheeled stretcher?,
+Points,1,
+Difficulty,1,
+Option,0,a) Log roll
+Option,0,b) Direct carry
+Option,0,c) Extremity carry
+Option,100,d) Draw sheet method
+Hint,"Complexity: Easy			Ahead: Nonurgent Moves			Subject:Lifting and Moving Patients, Page 304			Title: Lifting and Moving Patients			Feedback: See Nonurgent Moves			Taxonomy: Recall			Objective: 8-11 Describe specific situations in which a nonurgent move may be necessary to move a patient; include how each one is performed.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following conditions or situations presents the most unique challenge to the EMT when immobilizing an elderly patient on a long backboard?,
+Points,1,
+Difficulty,1,
+Option,0,a) Joint flexibility
+Option,0,b) Patient disorientation
+Option,0,c) Naturally deformed bones
+Option,100,d) Abnormal spinal curvature
+Hint,"Complexity: Moderate			Ahead: Geriatrics			Subject:Lifting and Moving Patients, Page 307			Title: Lifting and Moving Patients			Feedback: See Geriatrics			Taxonomy: Recall			Objective: 8-12 Explain the special considerations and guidelines related to moving and transporting geriatric patients.",
+NewQuestion,MC,
+Title,,
+QuestionText,"An 81-year-old female fell and struck her head. You find the patient lying on her left side. She is conscious and complains of neck and upper back pain. As you are assessing her, you note that she has a severely kyphotic spine. What is the most appropriate method of immobilizing this patient?",
+Points,1,
+Difficulty,1,
+Option,0,a) Apply a cervical collar and place her in a sitting position on the wheeled stretcher.
+Option,0,b) Immobilize her in a supine position on a long backboard and secure her with straps.
+Option,100,c) Leave her on her side and use blanket rolls to immobilize her to the long backboard.
+Option,0,d) Move her to a supine position and immobilize her with a scoop stretcher and padding.
+Hint,"Complexity: Difficult			Ahead: Geriatrics			Subject:Lifting and Moving Patients, Page 307			Title: Lifting and Moving Patients			Feedback: See Geriatrics			Taxonomy: Analysis			Objective: 8-12 Explain the special considerations and guidelines related to moving and transporting geriatric patients.",
+NewQuestion,MC,
+Title,,
+QuestionText,"In most instances, you should move a patient on a wheeled ambulance stretcher by:",
+Points,1,
+Difficulty,1,
+Option,0,a) pushing the foot of the stretcher while your partner guides the head.
+Option,100,b) pushing the head of the stretcher while your partner guides the foot.
+Option,0,c) slightly lifting the stretcher to prevent unnecessary patient movement.
+Option,0,d) retracting the undercarriage and carrying the stretcher to the ambulance.
+Hint,"Complexity: Moderate			Ahead: Principles of Safe Lifting and Carrying			Subject:Lifting and Moving Patients, Page 286			Title: Lifting and Moving Patients			Feedback: See Principles of Safe Lifting and Carrying			Taxonomy: Recall			Objective: 8-7 Explain the general considerations required of EMTs to safely move patients without causing the patient further harm and while protecting themselves from injury.",
+NewQuestion,MC,
+Title,,
+QuestionText,"In contrast to typical wheeled ambulance stretchers, features of a bariatric stretcher include:",
+Points,1,
+Difficulty,1,
+Option,0,a) a collapsible undercarriage.
+Option,0,b) weight capacity of up to 650 pounds.
+Option,100,c) increased stability from a wider wheelbase.
+Option,0,d) two safety rails on both sides of the stretcher.
+Hint,"Complexity: Moderate			Ahead: Additional Patient-Moving Equipment			Subject:Lifting and Moving Patients, Page 309			Title: Lifting and Moving Patients			Feedback: See Additional Patient-Moving Equipment			Taxonomy: Recall			Objective: 8-15 Explain the need and use for additional patient-moving equipment (specialized); include examples.",
+NewQuestion,MC,
+Title,,
+QuestionText,A folding or portable stretcher is most beneficial when:,
+Points,1,
+Difficulty,1,
+Option,100,a) a second patient must be transported on the squad bench of the ambulance.
+Option,0,b) an injured patient cannot be placed on a long board due to severe back pain.
+Option,0,"c) a conscious, alert patient must be carried down several flights of steep stairs."
+Option,0,d) a patient requires full spinal immobilization when spinal injury is suspected.
+Hint,"Complexity: Moderate			Ahead: Additional Patient-Moving Equipment			Subject:Lifting and Moving Patients, Page 310			Title: Lifting and Moving Patients			Feedback: See Additional Patient-Moving Equipment			Taxonomy: Recall			Objective: 8-15 Explain the need and use for additional patient-moving equipment (specialized); include examples.",
+NewQuestion,MC,
+Title,,
+QuestionText,"You have two patients who were involved in a motor vehicle crash when their SUV struck a tree—one with neck and back pain, and the other with a deformed left femur. The patient with the deformed femur states that he does not want to be placed on a hard board, nor does he want a collar around his neck. What is the most appropriate and practical method of securing these patients and placing them into the ambulance?",
+Points,1,
+Difficulty,1,
+Option,0,a) Immobilize both patients with a cervical collar and long backboard based on the mechanism of injury; place one on the wheeled stretcher and the other on the squad bench.
+Option,100,b) Immobilize the patient with neck and back pain on a long backboard and place him on the wheeled stretcher; place the patient with the deformed femur on a folding stretcher secured to the squad bench.
+Option,0,c) Immobilize the patient with neck and back pain on a long backboard and place him on the squad bench; allow the patient with the deformed femur to sit on the wheeled stretcher.
+Option,0,d) Apply a traction splint to the patient with the deformed femur and place him on the wheeled stretcher; place the patient with neck and back pain on the squad bench immobilized with a cervical collar and scoop stretcher.
+Hint,"Complexity: Difficult			Ahead: Additional Patient-Moving Equipment			Subject:Lifting and Moving Patients, Page 310			Title: Lifting and Moving Patients			Feedback: See Additional Patient-Moving Equipment			Taxonomy: Analysis			Objective: 8-15 Explain the need and use for additional patient-moving equipment (specialized); include examples.",
+NewQuestion,MC,
+Title,,
+QuestionText,"An unrestrained patient is sitting in his car after an automobile crash. He is conscious and alert, has no visible trauma, and is complaining of neck and back pain. Before removing him from his car, you should:",
+Points,1,
+Difficulty,1,
+Option,0,a) slide a scoop stretcher under his buttocks and rotate him laterally.
+Option,100,b) apply a cervical collar and immobilize him with a vest-style device.
+Option,0,c) perform a detailed head-to-toe assessment and apply a cervical collar.
+Option,0,d) maintain manual stabilization of his head and grasp him by the clothes.
+Hint,"Complexity: Moderate			Ahead: Additional Patient-Moving Equipment			Subject:Lifting and Moving Patients, Page 311			Title: Lifting and Moving Patients			Feedback: See Additional Patient-Moving Equipment			Taxonomy: Application			Objective: 8-15 Explain the need and use for additional patient-moving equipment (specialized); include examples.",
+NewQuestion,MC,
+Title,,
+QuestionText,The most appropriate carrying device to use when moving a patient across rough or uneven terrain is the:,
+Points,1,
+Difficulty,1,
+Option,0,a) stair chair.
+Option,0,b) wheeled stretcher.
+Option,0,c) scoop stretcher.
+Option,100,d) basket stretcher.
+Hint,"Complexity: Easy			Ahead: Additional Patient-Moving Equipment			Subject:Lifting and Moving Patients, Pages 311-312			Title: Lifting and Moving Patients			Feedback: See Additional Patient-Moving Equipment			Taxonomy: Recall			Objective: 8-15 Explain the need and use for additional patient-moving equipment (specialized); include examples.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following statements regarding the scoop stretcher is not correct?,
+Points,1,
+Difficulty,1,
+Option,0,a) The construction of the scoop stretcher prohibits X-rays while the patient is on it.
+Option,0,b) You must fully secure the patient to the scoop stretcher before moving him or her.
+Option,100,c) A scoop stretcher will provide adequate immobilization of a patient’s spinal column.
+Option,0,d) Both sides of the patient must be accessible for a scoop stretcher to be used.
+Hint,"Complexity: Moderate			Ahead: Nonurgent Moves			Subject:Lifting and Moving Patients, Page 305			Title: Lifting and Moving Patients			Feedback: See Nonurgent Moves			Taxonomy: Recall			Objective: 8-11 Describe specific situations in which a nonurgent move may be necessary to move a patient; include how each one is performed.",
+NewQuestion,MC,
+Title,,
+QuestionText,"When moving a conscious, weak patient down a flight of stairs, you should:",
+Points,1,
+Difficulty,1,
+Option,0,a) secure the patient to a scoop stretcher and carry him or her headfirst down the stairs to the awaiting stretcher.
+Option,100,b) place the wheeled stretcher at the bottom of the stairs and carry the patient down the stairs with a stair chair.
+Option,0,c) collapse the undercarriage of the wheeled stretcher and carefully carry the patient down the stairs on the stretcher.
+Option,0,d) assist the patient in walking down the stairs and place him or her on the wheeled stretcher at the bottom of the stairs.
+Hint,"Complexity: Moderate			Ahead: Principles of Safe Lifting and Carrying			Subject:Lifting and Moving Patients, Page 287			Title: Lifting and Moving Patients			Feedback: See Principles of Safe Lifting and Carrying			Taxonomy: Application			Objective: 8-8 Explain how to carry patients safely on stairs, including the selection of appropriate equipment to aid in the process.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following statements regarding the neonatal isolette is correct?,
+Points,1,
+Difficulty,1,
+Option,100,a) The isolette serves to keep the neonate warm and protects him or her from excess handling.
+Option,0,"b) A freestanding isolette should be used, not one that is secured to the stretcher."
+Option,0,c) The safest type of isolette is one that takes the place of the ambulance stretcher.
+Option,0,"d) If an isolette is not available, the neonate can safely be transported on the stretcher."
+Hint,"Complexity: Moderate			Ahead: Additional Patient-Moving Equipment			Subject:Lifting and Moving Patients, Page 312			Title: Lifting and Moving Patients			Feedback: See Additional Patient-Moving Equipment			Taxonomy: Recall			Objective: 8-15 Explain the need and use for additional patient-moving equipment (specialized); include examples.",
+NewQuestion,MC,
+Title,,
+QuestionText,It is essential that you ____________ your equipment to prevent the spread of disease.,
+Points,1,
+Difficulty,1,
+Option,0,a) throw out
+Option,100,b) decontaminate
+Option,0,c) incinerate
+Option,0,d) properly store
+Hint,"Complexity: Easy			Ahead: Additional Patient-Moving Equipment			Subject:Lifting and Moving Patients, Page 312			Title: Lifting and Moving Patients			Feedback: See Additional Patient-Moving Equipment			Taxonomy: Recall			Objective: 8-16 Explain the importance of decontaminating equipment in the prevention of disease transmission.",
+NewQuestion,MC,
+Title,,
+QuestionText,"After applying medical restraints to a combative patient, you should:",
+Points,1,
+Difficulty,1,
+Option,0,a) inform the patient that the restraints are punishment for their behavior.
+Option,0,b) remove them only if the patient verbally commits to calming down.
+Option,0,c) position the patient prone in order to further prevent injury to yourself.
+Option,100,d) remove them only after hospital personnel have requested you to do so.
+Hint,"Complexity: Moderate			Ahead: Patient Positioning			Subject:Lifting and Moving Patients, Page 313			Title: Lifting and Moving Patients			Feedback: See Patient Positioning			Taxonomy: Application			Objective: 8-16 Discuss situations that may require the use of medical restraints on a patient.",

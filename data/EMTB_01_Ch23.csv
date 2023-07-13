@@ -1,0 +1,350 @@
+NewQuestion,MC,
+Title,,
+QuestionText,____________ is what you can see of a person’s response to the environment.,
+Points,1,
+Difficulty,1,
+Option,0,a) Affect
+Option,100,b) Behavior
+Option,0,c) Neurosis
+Option,0,d) Psychosis
+Hint,"Complexity: Easy			Ahead: Defining a Behavioral Crisis			Subject:Behavioral Health Emergencies, Page 855			Title: Behavioral Health Emergencies			Feedback: See Defining a Behavioral Crisis			Taxonomy: Recall			Objective: 23-5 Know the main principles of how the mental health care system functions.",
+NewQuestion,MC,
+Title,,
+QuestionText,The term “behavioral crisis” is MOST accurately defined as:,
+Points,1,
+Difficulty,1,
+Option,0,"a) a sudden, violent outburst of an otherwise mentally stable person toward a family member."
+Option,100,"b) a situation in which a patient of any age exhibits agitated, violent, or uncooperative behavior."
+Option,0,c) a medical illness with psychological symptoms that may lead to limited motor functioning.
+Option,0,d) a period of severe depression that lasts longer than 2 weeks and cannot be controlled with medications.
+Hint,"Complexity: Moderate			Ahead: Defining a Behavioral Crisis			Subject:Behavioral Health Emergencies, Page 855			Title: Behavioral Health Emergencies			Feedback: See Defining a Behavioral Crisis			Taxonomy: Recall			Objective: 23-5 Define a behavioral crisis.",
+NewQuestion,MC,
+Title,,
+QuestionText,"You may not be able to determine whether a person has a mental illness, but you can predict the person’s likelihood of becoming:",
+Points,1,
+Difficulty,1,
+Option,0,a) diabetic.
+Option,0,b) suicidal.
+Option,0,c) psychotic.
+Option,100,d) violent.
+Hint,"Complexity: Easy			Ahead: Myth and Reality			Subject:Behavioral Health Emergencies, Page 855			Title: Behavioral Health Emergencies			Feedback: See Myth and Reality			Taxonomy: Recall			Objective: 23-1 Discuss the myths and realities concerning behavioral health emergencies.",
+NewQuestion,MC,
+Title,,
+QuestionText,"In contrast to a behavioral crisis, a behavioral health emergency occurs when a person:",
+Points,1,
+Difficulty,1,
+Option,100,a) becomes agitated or violent and is a threat to him- or herself or others.
+Option,0,b) experiences feelings of sadness and despair for longer than a month.
+Option,0,c) exhibits impaired functioning due to a chemical or genetic disturbance.
+Option,0,d) experiences a sudden attack of panic secondary to a stressful situation.
+Hint,"Complexity: Moderate			Ahead: Defining a Behavioral Crisis			Subject:Behavioral Health Emergencies, Page 878			Title: Behavioral Health Emergencies			Feedback: See Defining a Behavioral Crisis			Taxonomy: Recall			Objective: 23-7 Explain special considerations for assessing and managing a behavioral crisis or behavioral health emergency.",
+NewQuestion,MC,
+Title,,
+QuestionText,"When assessing a patient who is displaying bizarre behavior, the EMT should:",
+Points,1,
+Difficulty,1,
+Option,100,a) consider that an acute medical illness may be causing the patient’s behavior.
+Option,0,b) avoid asking questions about suicide because this may give the patient ideas.
+Option,0,c) check his or her blood glucose level only if he or she has a history of diabetes.
+Option,0,d) carefully document his or her perception of what is causing the patient’s behavior.
+Hint,"Complexity: Moderate			Ahead: Introduction			Subject:Behavioral Health Emergencies, Page 854			Title: Behavioral Health Emergencies			Feedback: See Introduction			Taxonomy: Application			Objective: 23-7 Explain special considerations for assessing and managing a behavioral crisis or behavioral health emergency.",
+NewQuestion,MC,
+Title,,
+QuestionText,Organic brain syndrome is defined as:,
+Points,1,
+Difficulty,1,
+Option,0,a) bizarre behavior secondary to a chemical imbalance or disturbance in the brain.
+Option,100,b) a dysfunction of the brain caused by abnormal physical or physiological function.
+Option,0,c) a disorder that cannot be traced to the abnormal structure or function of an organ.
+Option,0,d) a change in behavior or mental status secondary to decreased cerebral blood flow.
+Hint,"Complexity: Easy			Ahead: Pathophysiology			Subject:Behavioral Health Emergencies, Page 857			Title: Behavioral Health Emergencies			Feedback: See Pathophysiology			Taxonomy: Recall			Objective: 23-2 Discuss general factors that can cause alteration in a patient’s behavior.",
+NewQuestion,MC,
+Title,,
+QuestionText,A 78-year-old female presents with an acute change in her behavior. The patient’s son tells you that his mother has type 2 diabetes and was diagnosed with Alzheimer’s disease 6 months ago. The patient’s speech is slurred and she is not alert to her surroundings. You should:,
+Points,1,
+Difficulty,1,
+Option,0,a) transport the patient to a psychiatric facility.
+Option,100,b) inquire about the possibility of head trauma.
+Option,0,c) conclude that the patient’s blood sugar is high.
+Option,0,d) allow the patient to refuse transport if she wishes.
+Hint,"Complexity: Difficult			Ahead: Patient Assessment			Subject:Behavioral Health Emergencies, Page 858			Title: Behavioral Health Emergencies			Feedback: See Patient Assessment			Taxonomy: Application			Objective: 23-2 Discuss general factors that can cause alteration in a patient’s behavior.",
+NewQuestion,MC,
+Title,,
+QuestionText,A physiologic disorder that impairs bodily function when the body seems to be structurally normal is called a:,
+Points,1,
+Difficulty,1,
+Option,0,a) traumatic brain injury
+Option,0,b) seizure
+Option,0,c) drug and alcohol abuse
+Option,100,d) functional disorder
+Hint,"Complexity: Moderate			Ahead: Pathophysiology			Subject:Behavioral Health Emergencies, Page 857			Title: Behavioral Health Emergencies			Feedback: See Pathophysiology			Taxonomy: Recall			Objective: 23-2 Discuss general factors that can cause alteration in a patient’s behavior.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following is an example of a functional behavioral disorder?,
+Points,1,
+Difficulty,1,
+Option,0,a) Head trauma
+Option,0,b) Drug addiction
+Option,100,c) Schizophrenia
+Option,0,d) Alzheimer’s disease
+Hint,"Complexity: Moderate			Ahead: Pathophysiology			Subject:Behavioral Health Emergencies, Page 857			Title: Behavioral Health Emergencies			Feedback: See Pathophysiology			Taxonomy: Recall			Objective: 23-2 Discuss general factors that can cause alteration in a patient’s behavior.",
+NewQuestion,MC,
+Title,,
+QuestionText,The first step in assessing a patient with a behavioral emergency is to:,
+Points,1,
+Difficulty,1,
+Option,0,a) take vital signs.
+Option,0,b) restrain the patient.
+Option,100,c) ensure your safety.
+Option,0,d) obtain proper consent.
+Hint,"Complexity: Easy			Ahead: Patient Assessment			Subject:Behavioral Health Emergencies, Page 857			Title: Behavioral Health Emergencies			Feedback: See Patient Assessment			Taxonomy: Recall			Objective: 23-7 Explain special considerations for assessing and managing a behavioral crisis or behavioral health emergency.",
+NewQuestion,MC,
+Title,,
+QuestionText,"You respond to a call for an unknown emergency. When you arrive at the scene, the patient’s husband meets you at the door and states that his wife has been depressed and has locked herself in an upstairs bedroom. He further tells you that he keeps his handgun in the bedroom. You should:",
+Points,1,
+Difficulty,1,
+Option,0,a) ask the husband to attempt to reason with his wife.
+Option,100,b) remain in a safe place and request law enforcement.
+Option,0,c) get in your ambulance and leave the scene immediately.
+Option,0,d) go upstairs with caution and attempt to talk to the patient.
+Hint,"Complexity: Difficult			Ahead: Patient Assessment			Subject:Behavioral Health Emergencies, Page 857			Title: Behavioral Health Emergencies			Feedback: See Patient Assessment			Taxonomy: Application			Objective: 23-7 Explain special considerations for assessing and managing a behavioral crisis or behavioral health emergency.",
+NewQuestion,MC,
+Title,,
+QuestionText,General guidelines for managing a patient with a behavioral emergency include:,
+Points,1,
+Difficulty,1,
+Option,0,a) firmly identifying yourself as an EMS provider.
+Option,0,b) placing the patient between yourself and an exit.
+Option,0,c) allowing the patient to be alone if he or she wishes.
+Option,100,d) being prepared to spend extra time with the patient.
+Hint,"Complexity: Easy			Ahead: Patient Assessment			Subject:Behavioral Health Emergencies, Page 858			Title: Behavioral Health Emergencies			Feedback: See Patient Assessment			Taxonomy: Application			Objective: 23-7 Explain special considerations for assessing and managing a behavioral crisis or behavioral health emergency.",
+NewQuestion,MC,
+Title,,
+QuestionText,"A 40-year-old male intentionally cut his wrist out of anger after losing his job. Law enforcement has secured the scene prior to your arrival. As you enter the residence and visualize the patient, you can see that he has a towel around his wrist and a moderate amount of blood has soaked through it. You should:",
+Points,1,
+Difficulty,1,
+Option,0,a) approach the patient with caution.
+Option,0,b) quickly tend to the bleeding wound.
+Option,0,c) tell the patient that you want to help.
+Option,100,d) calmly identify yourself to the patient.
+Hint,"Complexity: Difficult			Ahead: Patient Assessment			Subject:Behavioral Health Emergencies, Page 858			Title: Behavioral Health Emergencies			Feedback: See Patient Assessment			Taxonomy: Application			Objective: 23-7 Explain special considerations for assessing and managing a behavioral crisis or behavioral health emergency.",
+NewQuestion,MC,
+Title,,
+QuestionText,"When assessing a patient with a behavioral crisis, you should:",
+Points,1,
+Difficulty,1,
+Option,100,a) be direct and clearly state your intentions.
+Option,0,b) frisk the patient for the presence of weapons.
+Option,0,c) spend as little time with the patient as possible.
+Option,0,d) ask the police to handcuff the patient for safety.
+Hint,"Complexity: Moderate			Ahead: Patient Assessment			Subject:Behavioral Health Emergencies, Page 858			Title: Behavioral Health Emergencies			Feedback: See Patient Assessment			Taxonomy: Application			Objective: 23-7 Explain special considerations for assessing and managing a behavioral crisis or behavioral health emergency.",
+NewQuestion,MC,
+Title,,
+QuestionText,A 22-year-old male with a history of clinical depression called 9-1-1 and stated that he has attempted to kill himself. Your unit and law enforcement officers arrive at the scene simultaneously. You find the patient lying supine on the living room floor. He is unresponsive and cyanotic. An empty bottle of hydromorphone (Dilaudid) is found on an adjacent table. You should:,
+Points,1,
+Difficulty,1,
+Option,100,a) open the patient’s airway and assess his respirations.
+Option,0,b) ask the police to handcuff the patient for safety purposes.
+Option,0,c) provide care after determining what Dilaudid is used for.
+Option,0,d) wait for the police to examine him before providing care.
+Hint,"Complexity: Difficult			Ahead: Patient Assessment			Subject:Behavioral Health Emergencies, Page 859			Title: Behavioral Health Emergencies			Feedback: See Patient Assessment			Taxonomy: Application			Objective: 23-7 Explain special considerations for assessing and managing a behavioral crisis or behavioral health emergency.",
+NewQuestion,MC,
+Title,,
+QuestionText,"A 66-year-old male presents with bizarre behavior. His daughter states that he did not seem to recognize her and was very rude to her. The patient is conscious, and has a patent airway and adequate breathing. You should:",
+Points,1,
+Difficulty,1,
+Option,0,a) conclude that the patient has Alzheimer’s disease.
+Option,100,b) ask the daughter how her father normally behaves.
+Option,0,c) carefully restrain the patient and transport at once.
+Option,0,d) advise the patient that his behavior is unacceptable.
+Hint,"Complexity: Difficult			Ahead: Patient Assessment			Subject:Behavioral Health Emergencies, Page 857			Title: Behavioral Health Emergencies			Feedback: See Patient Assessment			Taxonomy: Application			Objective: 23-7 Explain special considerations for assessing and managing a behavioral crisis or behavioral health emergency.",
+NewQuestion,MC,
+Title,,
+QuestionText,"A technique used to gain insight into a patient’s thinking, which involves repeating in question form what the patient has said, is called:",
+Points,1,
+Difficulty,1,
+Option,0,a) active listening.
+Option,0,b) passive listening.
+Option,0,c) intuitive listening.
+Option,100,d) reflective listening.
+Hint,"Complexity: Easy			Ahead: Patient Assessment			Subject:Behavioral Health Emergencies, Page 860			Title: Behavioral Health Emergencies			Feedback: See Patient Assessment			Taxonomy: Recall			Objective: 23-7 Explain special considerations for assessing and managing a behavioral crisis or behavioral health emergency.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following statements regarding the physical examination of a patient with a behavioral problem is correct?,
+Points,1,
+Difficulty,1,
+Option,0,a) It is only appropriate to perform a physical examination on a patient with a behavioral problem if he or she is unconscious or is being physically restrained.
+Option,100,"b) Although the physical exam can be difficult, the patient’s emotional state may be determined by noting facial expressions, pulse rate, and respirations."
+Option,0,"c) The physical examination of a patient with a behavioral problem often yields crucial information and should always be performed, even if the patient is violent."
+Option,0,d) Performing a physical examination on a patient with a behavioral problem will likely cause him or her to become violent and should be avoided in the field.
+Hint,"Complexity: Moderate			Ahead: Patient Assessment			Subject:Behavioral Health Emergencies, Page 861			Title: Behavioral Health Emergencies			Feedback: See Patient Assessment			Taxonomy: Analysis			Objective: 23-7 Explain special considerations for assessing and managing a behavioral crisis or behavioral health emergency.",
+NewQuestion,MC,
+Title,,
+QuestionText,You are assessing a conscious 55-year-old male with a sudden change in behavior. Which of the following clinical findings would be MOST suggestive of dysfunction of this patient’s central nervous system?,
+Points,1,
+Difficulty,1,
+Option,0,a) An irregular pulse
+Option,100,b) Rapid eye movement
+Option,0,c) Excessive tearing or crying
+Option,0,d) Consistent eye contact
+Hint,"Complexity: Difficult			Ahead: Patient Assessment			Subject:Behavioral Health Emergencies, Page 861			Title: Behavioral Health Emergencies			Feedback: See Patient Assessment			Taxonomy: Application			Objective: 23-7 Explain special considerations for assessing and managing a behavioral crisis or behavioral health emergency.",
+NewQuestion,MC,
+Title,,
+QuestionText,"A patient with a history of schizophrenia called EMS because he was experiencing abdominal pain. When law enforcement arrived, the patient became violent, necessitating the placement of handcuffs. When you assess the patient, he tells you that killing someone will make his abdominal pain go away. His vital signs are stable. How should you manage this situation?",
+Points,1,
+Difficulty,1,
+Option,0,a) Transport the patient in a prone position on the stretcher.
+Option,0,b) Request that a police officer transport him to the hospital.
+Option,0,c) Refuse to transport the patient because of his homicidal threat.
+Option,100,d) Request a police officer to accompany you in the ambulance.
+Hint,"Complexity: Difficult			Ahead: Patient Assessment			Subject:Behavioral Health Emergencies, Page 861			Title: Behavioral Health Emergencies			Feedback: See Patient Assessment			Taxonomy: Application			Objective: 23-14 Know the main principles of care for the agitated, violent, or uncooperative patient.",
+NewQuestion,MC,
+Title,,
+QuestionText,"After ensuring his or her own safety, the EMT’s next priority when caring for a patient with a behavioral emergency is to:",
+Points,1,
+Difficulty,1,
+Option,100,a) assess the patient’s response to his or her environment.
+Option,0,b) diagnose the patient’s problem and provide definitive treatment.
+Option,0,c) transport the patient directly to a specialized psychiatric facility.
+Option,0,d) determine the underlying cause of the problem and offer advice.
+Hint,"Complexity: Moderate			Ahead: Patient Assessment			Subject:Behavioral Health Emergencies, Page 857			Title: Behavioral Health Emergencies			Feedback: See Patient Assessment			Taxonomy: Application			Objective: 23-7 Explain special considerations for assessing and managing a behavioral crisis or behavioral health emergency.",
+NewQuestion,MC,
+Title,,
+QuestionText,"Common causes of acute psychotic behavior include all of the following, EXCEPT:",
+Points,1,
+Difficulty,1,
+Option,0,a) intense stress.
+Option,0,b) schizophrenia.
+Option,100,c) Alzheimer’s disease.
+Option,0,d) mind-altering substance use.
+Hint,"Complexity: Moderate			Ahead: Acute Psychosis			Subject:Behavioral Health Emergencies, Page 862			Title: Behavioral Health Emergencies			Feedback: See Acute Psychosis			Taxonomy: Recall			Objective: 23-8 Define acute psychosis.",
+NewQuestion,MC,
+Title,,
+QuestionText,The single most significant factor that contributes to suicide is:,
+Points,1,
+Difficulty,1,
+Option,100,a) depression.
+Option,0,b) drug abuse.
+Option,0,c) advanced age.
+Option,0,d) a chronic illness.
+Hint,"Complexity: Easy			Ahead: Suicide			Subject:Behavioral Health Emergencies, Page 869			Title: Behavioral Health Emergencies			Feedback: See Suicide			Taxonomy: Recall			Objective: 23-15 Explain how to recognize the behavior of a patient at risk of suicide, including the management of such a patient.",
+NewQuestion,MC,
+Title,,
+QuestionText,"You are assessing a 45-year-old female who is severely depressed. She states that it seems as though her entire world is crashing down around her. She further states that she has had frequent thoughts of suicide, but is not sure if she can actually go through with it. How should you manage this situation?",
+Points,1,
+Difficulty,1,
+Option,100,a) Ask the patient if she has developed a suicidal plan.
+Option,0,b) Leave the scene and have a neighbor check in on her.
+Option,0,c) Have law enforcement place her in protective custody.
+Option,0,d) Encourage the patient to remain quiet during transport.
+Hint,"Complexity: Difficult			Ahead: Suicide			Subject:Behavioral Health Emergencies, Page 870			Title: Behavioral Health Emergencies			Feedback: See Suicide			Taxonomy: Application			Objective: 23-15 Explain how to recognize the behavior of a patient at risk of suicide, including the management of such a patient.",
+NewQuestion,MC,
+Title,,
+QuestionText,"People at risk for suicide include all of the following, EXCEPT:",
+Points,1,
+Difficulty,1,
+Option,100,a) married males older than 30 years.
+Option,0,b) those with a recent diagnosis of a serious illness.
+Option,0,c) children with parents addicted to alcohol.
+Option,0,d) substance abusers.
+Hint,"Complexity: Moderate			Ahead: Suicide			Subject:Behavioral Health Emergencies, Page 870			Title: Behavioral Health Emergencies			Feedback: See Suicide			Taxonomy: Recall			Objective: 23-15 Explain how to recognize the behavior of a patient at risk of suicide, including the management of such a patient.",
+NewQuestion,MC,
+Title,,
+QuestionText,It is MOST important for the EMT to remember that suicidal patients may:,
+Points,1,
+Difficulty,1,
+Option,0,a) inject illicit drugs.
+Option,0,b) be self-destructive.
+Option,100,c) be homicidal as well.
+Option,0,d) have a definitive plan.
+Hint,"Complexity: Moderate			Ahead: Suicide			Subject:Behavioral Health Emergencies, Page 871			Title: Behavioral Health Emergencies			Feedback: See Suicide			Taxonomy: Analysis			Objective: 23-15 Explain how to recognize the behavior of a patient at risk of suicide, including the management of such a patient.",
+NewQuestion,MC,
+Title,,
+QuestionText,Signs of excited delirium include:,
+Points,1,
+Difficulty,1,
+Option,0,"a) pallor, hypotension, and constricted pupils."
+Option,100,"b) diaphoresis, tachycardia, and hallucinations."
+Option,0,"c) slurred speech, bradycardia, and a high fever."
+Option,0,"d) subdued behavior, crying, and suicidal thoughts."
+Hint,"Complexity: Moderate			Ahead: Excited Delirium			Subject:Behavioral Health Emergencies, Page 864			Title: Behavioral Health Emergencies			Feedback: See Excited Delirium			Taxonomy: Recall			Objective: 23-11 Define excited delirium or agitated delirium.",
+NewQuestion,MC,
+Title,,
+QuestionText,"Law enforcement personnel request your assistance for a 30-year-old man who was pulled over for erratic driving. The patient became acutely violent while he was being questioned, which required one of the officers to subdue him with a Taser. When you arrive and assess the patient, you find that he is very agitated and is experiencing apparent hallucinations. His skin is flushed and diaphoretic. You should:",
+Points,1,
+Difficulty,1,
+Option,0,a) quickly rule out any life-threatening conditions and then perform a detailed secondary assessment as he is being restrained.
+Option,0,"b) suspect that he is acutely hypoglycemic, consider giving him one tube of oral glucose, and transport with lights and siren."
+Option,100,c) limit physical contact with the patient as much as possible and avoid interrupting him if he is attempting to communicate with you.
+Option,0,"d) recognize that he is experiencing a complex psychiatric crisis, quickly load him into the ambulance, and transport without delay."
+Hint,"Complexity: Difficult			Ahead: Excited Delirium			Subject:Behavioral Health Emergencies, Page 864			Title: Behavioral Health Emergencies			Feedback: See Excited Delirium			Taxonomy: Application			Objective: 23-12 Explain the care for a patient with excited delirium.",
+NewQuestion,MC,
+Title,,
+QuestionText,A 38-year-old male with a history of schizophrenia is reported by neighbors to be screaming and throwing things in his house. You are familiar with the patient and have cared for him in the past for unrelated problems. Law enforcement officers escort you into the residence when you arrive. The patient tells you that he sees vampires and is attempting to ward them off by screaming and throwing things at them. He has several large lacerations to his forearms that are actively bleeding. The MOST appropriate way to manage this situation is to:,
+Points,1,
+Difficulty,1,
+Option,0,a) try to gain the patient’s trust by telling him that you see the vampires too.
+Option,0,b) request that the police officers arrest him and take him to the hospital.
+Option,100,c) restrain the patient with appropriate force in order to treat his injuries.
+Option,0,d) approach the patient and calm him by placing your hand on his shoulder.
+Hint,"Complexity: Difficult			Ahead: Restraint			Subject:Behavioral Health Emergencies, Page 864			Title: Behavioral Health Emergencies			Feedback: See Restraint			Taxonomy: Application			Objective: 23-14 Know the main principles of care for the agitated, violent, or uncooperative patient.",
+NewQuestion,MC,
+Title,,
+QuestionText,"You receive a call for a domestic dispute. When you arrive at the scene, you find a young male standing on the front porch of his house. You notice that an adjacent window is broken. The patient has a large body, is clenching his fists, and is yelling obscenities at you. Which of the following findings is LEAST predictive of this patient’s potential for violence?",
+Points,1,
+Difficulty,1,
+Option,0,a) His clenched fists
+Option,0,b) The broken window
+Option,0,c) His shouting of obscenities
+Option,100,d) His large body size
+Hint,"Complexity: Difficult			Ahead: The Potentially Violent Patient			Subject:Behavioral Health Emergencies, Page 868			Title: Behavioral Health Emergencies			Feedback: See The Potentially Violent Patient			Taxonomy: Analysis			Objective: 23-14 Know the main principles of care for the agitated, violent, or uncooperative patient.",
+NewQuestion,MC,
+Title,,
+QuestionText,In which position should you restrain a physically uncooperative patient?,
+Points,1,
+Difficulty,1,
+Option,0,a) Prone
+Option,0,b) With hands tied behind the back
+Option,100,c) Supine
+Option,0,d) With arms and legs bound together
+Hint,"Complexity: Easy			Ahead: Restraint			Subject:Behavioral Health Emergencies, Page 865			Title: Behavioral Health Emergencies			Feedback: See Restraint			Taxonomy: Recall			Objective: 23-14 Know the main principles of care for the agitated, violent, or uncooperative patient.",
+NewQuestion,MC,
+Title,,
+QuestionText,"When caring for a patient experiencing excited delirium, the EMT should remember that:",
+Points,1,
+Difficulty,1,
+Option,100,a) sudden death can occur if the patient’s violence is not controlled.
+Option,0,b) lights and siren are effective in redirecting the patient’s behavior.
+Option,0,c) most patients will have low blood pressure and hyperglycemia.
+Option,0,d) excited delirium is worsened by nervous system depressant drugs.
+Hint,"Complexity: Moderate			Ahead: Excited Delirium			Subject:Behavioral Health Emergencies, Page 864			Title: Behavioral Health Emergencies			Feedback: See Excited Delirium			Taxonomy: Recall			Objective: 23-12 Explain the care for a patient with excited delirium.",
+NewQuestion,MC,
+Title,,
+QuestionText,"Immediately after physically restraining a violent patient, the EMT should:",
+Points,1,
+Difficulty,1,
+Option,0,a) inform medical control of the situation.
+Option,100,b) reassess the patient’s airway and breathing.
+Option,0,c) advise the patient why restraint was needed.
+Option,0,d) document the time the restraints were applied.
+Hint,"Complexity: Easy			Ahead: Restraint			Subject:Behavioral Health Emergencies, Page 866			Title: Behavioral Health Emergencies			Feedback: See Restraint			Taxonomy: Application			Objective: 23-14 Know the main principles of care for the agitated, violent, or uncooperative patient.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following conditions or situations would MOST likely make excited delirium worse?,
+Points,1,
+Difficulty,1,
+Option,100,a) Alcohol withdrawal
+Option,0,b) Elevated blood glucose
+Option,0,c) Dimly lit environment
+Option,0,d) Limited physical contact
+Hint,"Complexity: Moderate			Ahead: Excited Delirium			Subject:Behavioral Health Emergencies, Page 864			Title: Behavioral Health Emergencies			Feedback: See Excited Delirium			Taxonomy: Application			Objective: 23-12 Explain the care for a patient with excited delirium.",
+NewQuestion,MC,
+Title,,
+QuestionText,Posttraumatic stress disorder can happen after:,
+Points,1,
+Difficulty,1,
+Option,0,a) alcohol withdrawal.
+Option,0,b) a bout with depression.
+Option,100,c) exposure to or injury from a traumatic occurrence.
+Option,0,d) extended periods of hyperthermia or hypothermia.
+Hint,"Complexity: Moderate			Ahead: Posttraumatic Stress Disorder and Returning Combat Veterans			Subject:Behavioral Health Emergencies, Page 871			Title: Behavioral Health Emergencies			Feedback: See Posttraumatic Stress Disorder and Returning Combat Veterans			Taxonomy: Recall			Objective: 23-16 Recognize issues specific to posttraumatic stress disorder (PTSD) and the returning combat veteran.",

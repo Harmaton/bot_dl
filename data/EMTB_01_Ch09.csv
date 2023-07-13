@@ -1,0 +1,300 @@
+NewQuestion,MC,
+Title,,
+QuestionText,The concept of consistent care across the entire health care team from first patient contact to patient discharge is called:,
+Points,1,
+Difficulty,1,
+Option,0,a) the standard of care.
+Option,100,b) the continuum of care.
+Option,0,c) patient care advocacy.
+Option,0,d) the scope of practice.
+Hint,"Complexity: Easy			Ahead: An Era of Team Health Care			Subject:The Team Approach to Health Care, Page 321			Title: The Team Approach to Health Care			Feedback: See An Era of Team Health Care			Taxonomy: Recall			Objective: 9-1 Define continuum of care.",
+NewQuestion,MC,
+Title,,
+QuestionText,Health care teams that infrequently train and work together:,
+Points,1,
+Difficulty,1,
+Option,100,a) can create delays in patient care.
+Option,0,b) need less-explicit verbal direction.
+Option,0,c) often work better under pressure.
+Option,0,d) are unable to accomplish their tasks.
+Hint,"Complexity: Moderate			Ahead: Types of Teams			Subject:The Team Approach to Health Care, Page 321			Title: The Team Approach to Health Care			Feedback: See Types of Teams			Taxonomy: Recall			Objective: 9-1 Define continuum of care.",
+NewQuestion,MC,
+Title,,
+QuestionText,Health care providers who infrequently work together can function effectively as a team if they work in an environment that supports and promotes:,
+Points,1,
+Difficulty,1,
+Option,0,a) discipline.
+Option,0,b) competition.
+Option,100,c) collaboration.
+Option,0,d) rigid protocols.
+Hint,"Complexity: Easy			Ahead: Types of Teams			Subject:The Team Approach to Health Care, Page 322			Title: The Team Approach to Health Care			Feedback: See Types of Teams			Taxonomy: Recall			Objective: 9-1 Define continuum of care.",
+NewQuestion,MC,
+Title,,
+QuestionText,"In contrast to a health care group, a health care team:",
+Points,1,
+Difficulty,1,
+Option,0,a) works independently.
+Option,100,b) works interdependently.
+Option,0,c) is not assigned specific roles.
+Option,0,d) does not function under protocols.
+Hint,"Complexity: Moderate			Ahead: Groups Versus Teams			Subject:The Team Approach to Health Care, Page 322			Title: The Team Approach to Health Care			Feedback: See Groups Versus Teams			Taxonomy: Recall			Objective: 9-3 Explain the advantages of a team over a group; include the advantages of regularly training and practicing together.",
+NewQuestion,MC,
+Title,,
+QuestionText,"When working as an independent health care group member, the EMT should expect that he or she:",
+Points,1,
+Difficulty,1,
+Option,0,a) will receive no support or guidance from an EMS supervisor.
+Option,0,b) will be specifically instructed on how to perform a specific task.
+Option,100,c) does not have to wait for an assignment before performing a task.
+Option,0,d) will rely on the group leader for making virtually all decisions.
+Hint,"Complexity: Easy			Ahead: Dependent, Independent, and Interdependent Groups			Subject:The Team Approach to Health Care, Page 323			Title: The Team Approach to Health Care			Feedback: See Dependent, Independent, and Interdependent Groups			Taxonomy: Recall			Objective: 9-3 Explain the advantages of a team over a group; include the advantages of regularly training and practicing together.",
+NewQuestion,MC,
+Title,,
+QuestionText,EMTs and other health care providers function as a true team when they work:,
+Points,1,
+Difficulty,1,
+Option,0,a) dependently.
+Option,0,b) independently.
+Option,100,c) interdependently.
+Option,0,d) under standing orders.
+Hint,"Complexity: Easy			Ahead: Dependent, Independent, and Interdependent Groups			Subject:The Team Approach to Health Care, Page 323			Title: The Team Approach to Health Care			Feedback: See Dependent, Independent, and Interdependent Groups			Taxonomy: Recall			Objective: 9-4 List the five essential elements of a team.",
+NewQuestion,MC,
+Title,,
+QuestionText,The effectiveness of pit crew CPR is dependent on:,
+Points,1,
+Difficulty,1,
+Option,100,a) defining clear roles and responsibilities before the call is received.
+Option,0,b) protocols that allow the EMT to function without medical control.
+Option,0,c) a team leader who is capable of performing all of the patient care tasks.
+Option,0,d) rapidly assessing the patient before assigning roles and responsibilities.
+Hint,"Complexity: Moderate			Ahead: Effective Team Performance			Subject:The Team Approach to Health Care, Page 323			Title: The Team Approach to Health Care			Feedback: See Effective Team Performance			Taxonomy: Recall			Objective: 9-4 List the five essential elements of a team.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following is an example of closed-loop communication?,
+Points,1,
+Difficulty,1,
+Option,0,a) The EMT requests permission from medical control to assist a patient with his prescribed nitroglycerin.
+Option,0,b) EMTs decide not to attempt resuscitation because the patient has rigor mortis and is cold to the touch.
+Option,0,"c) The EMT corrects the team leader, who states that chest compressions should be greater than 3 inches deep."
+Option,100,"d) The team leader assigns the EMT a task, and the EMT repeats the request back to the team leader."
+Hint,"Complexity: Moderate			Ahead: Effective Team Performance			Subject:The Team Approach to Health Care, Page 325			Title: The Team Approach to Health Care			Feedback: See Effective Team Performance			Taxonomy: Application			Objective: 9-4 List the five essential elements of a team.",
+NewQuestion,MC,
+Title,,
+QuestionText,"During a resuscitation attempt, the team leader asks the EMT to ventilate the patient at a rate of 20 breaths/min, and the EMT replies, “Actually, sir, the correct ventilation rate is 10 breaths/min.” This is an example of:",
+Points,1,
+Difficulty,1,
+Option,0,a) situational awareness.
+Option,100,b) constructive intervention.
+Option,0,c) closed-loop communication.
+Option,0,d) quality assurance monitoring.
+Hint,"Complexity: Moderate			Ahead: Effective Team Performance			Subject:The Team Approach to Health Care, Page 325			Title: The Team Approach to Health Care			Feedback: See Effective Team Performance			Taxonomy: Application			Objective: 9-4 List the five essential elements of a team.",
+NewQuestion,MC,
+Title,,
+QuestionText,"While providing care to a patient, the EMT informs her partner that a shotgun is leaning against the wall in the corner of the room. In making this observation, the EMT has demonstrated:",
+Points,1,
+Difficulty,1,
+Option,100,a) situational awareness.
+Option,0,b) closed-loop communication.
+Option,0,c) crew resource management.
+Option,0,d) constructive intervention.
+Hint,"Complexity: Moderate			Ahead: Effective Team Performance			Subject:The Team Approach to Health Care, Page 325			Title: The Team Approach to Health Care			Feedback: See Effective Team Performance			Taxonomy: Application			Objective: 9-4 List the five essential elements of a team.",
+NewQuestion,MC,
+Title,,
+QuestionText,"A team of EMTs is caring for a critically injured patient. The team leader advises the EMT that transport will not begin until the patient’s closed forearm fracture is splinted. Utilizing the crew resource management model, the EMT should:",
+Points,1,
+Difficulty,1,
+Option,0,a) repeat the request back to the team leader and then splint the patient’s arm.
+Option,0,b) ensure that the entire team is aware that transport will be delayed for splinting.
+Option,0,c) disregard the team leader’s request and contact medical control for guidance.
+Option,100,d) advise the team leader that immediate transport is more important than splinting.
+Hint,"Complexity: Difficult			Ahead: Effective Team Performance			Subject:The Team Approach to Health Care, Page 325			Title: The Team Approach to Health Care			Feedback: See Effective Team Performance			Taxonomy: Application			Objective: 9-4 List the five essential elements of a team.",
+NewQuestion,MC,
+Title,,
+QuestionText,"EMTs arrive at the scene of an ill person. The EMR, who arrived before the EMTs, advises that the patient had a syncopal episode. The patient is conscious and alert and remains so throughout transport. When transferring patient care to the emergency department nurse, the EMT should advise the nurse that:",
+Points,1,
+Difficulty,1,
+Option,100,a) the patient had a reported syncopal episode.
+Option,0,b) she should contact the EMR about the incident.
+Option,0,c) the EMR was probably mistaken about the episode.
+Option,0,d) there is no evidence to support the syncopal episode.
+Hint,"Complexity: Moderate			Ahead: Transfer of Patient Care			Subject:The Team Approach to Health Care, Page 327			Title: The Team Approach to Health Care			Feedback: See Transfer of Patient Care			Taxonomy: Application			Objective: 9-6 List the five critical elements necessary to ensure effective transfer of patient care from one provider to another.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following would MOST likely facilitate an accurate and effective verbal handoff report at the hospital?,
+Points,1,
+Difficulty,1,
+Option,0,a) Brief pause in care to provide the verbal report.
+Option,0,b) Clearly identifying your EMS certification level.
+Option,100,c) Use of a mutually agreed-upon handoff format.
+Option,0,d) Providing the handoff report only to a physician.
+Hint,"Complexity: Moderate			Ahead: Transfer of Patient Care			Subject:The Team Approach to Health Care, Page 327			Title: The Team Approach to Health Care			Feedback: See Transfer of Patient Care			Taxonomy: Analysis			Objective: 9-6 List the five critical elements necessary to ensure effective transfer of patient care from one provider to another.",
+NewQuestion,MC,
+Title,,
+QuestionText,"After assuming care of a cardiac arrest patient from an EMT, the paramedic should remember that:",
+Points,1,
+Difficulty,1,
+Option,100,a) BLS efforts must continue throughout the patient care continuum.
+Option,0,b) the BLS care provided by the EMT is the “first steps” of ALS care.
+Option,0,c) ALS interventions are the core interventions around which BLS care is provided.
+Option,0,d) ALS interventions are fundamentally more critical than BLS interventions.
+Hint,"Complexity: Moderate			Ahead: BLS and ALS Providers Working Together			Subject:The Team Approach to Health Care, Page 328			Title: The Team Approach to Health Care			Feedback: See BLS and ALS Providers Working Together			Taxonomy: Recall			Objective: 9-6 List the five critical elements necessary to ensure effective transfer of patient care from one provider to another.",
+NewQuestion,MC,
+Title,,
+QuestionText,"When the EMT assists a paramedic with an advanced intervention, he or she should recall that the focus of the intervention is on:",
+Points,1,
+Difficulty,1,
+Option,0,a) following local protocol.
+Option,100,b) solving a clinical problem.
+Option,0,c) completing the procedure.
+Option,0,d) learning to perform the skill.
+Hint,"Complexity: Easy			Ahead: BLS and ALS Providers Working Together			Subject:The Team Approach to Health Care, Page 328			Title: The Team Approach to Health Care			Feedback: See BLS and ALS Providers Working Together			Taxonomy: Recall			Objective: 9-6 List the five critical elements necessary to ensure effective transfer of patient care from one provider to another.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following would the EMT MOST likely be asked to do when assisting a paramedic with endotracheal intubation?,
+Points,1,
+Difficulty,1,
+Option,0,a) Visualization of the vocal cords
+Option,0,b) Placement of the endotracheal tube
+Option,0,c) Suction under direct laryngoscopy
+Option,100,d) Preoxygenation with a BVM
+Hint,"Complexity: Easy			Ahead: BLS and ALS Providers Working Together			Subject:The Team Approach to Health Care, Page 328			Title: The Team Approach to Health Care			Feedback: See BLS and ALS Providers Working Together			Taxonomy: Analysis			Objective: 9-6 List the five critical elements necessary to ensure effective transfer of patient care from one provider to another.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following would the paramedic be LEAST likely to ask the EMT to do?,
+Points,1,
+Difficulty,1,
+Option,0,a) Assess blood glucose
+Option,0,b) Obtain vital signs
+Option,0,c) Apply a tourniquet
+Option,100,d) Intubate a patient
+Hint,"Complexity: Moderate			Ahead: Assisting with ALS Skills			Subject:The Team Approach to Health Care, Page 328			Title: The Team Approach to Health Care			Feedback: See Assisting with ALS Skills			Taxonomy: Recall			Objective: 9-6 List the five critical elements necessary to ensure effective transfer of patient care from one provider to another.",
+NewQuestion,MC,
+Title,,
+QuestionText,"While transferring a patient to ALS staff, interference should be:",
+Points,1,
+Difficulty,1,
+Option,0,a) optimized for care.
+Option,100,b) minimized overall.
+Option,0,c) kept in place.
+Option,0,d) transformed by coordination.
+Hint,"Complexity: Moderate			Ahead: Transfer of Patient Care			Subject:The Team Approach to Health Care, Page 327			Title: The Team Approach to Health Care			Feedback: See Transfer of Patient Care			Taxonomy: Recall			Objective: 9-6 List the five critical elements necessary to ensure effective transfer of patient care from one provider to another.",
+NewQuestion,MC,
+Title,,
+QuestionText,"For patient handoff, it is important for EMTs and hospital staff to use:",
+Points,1,
+Difficulty,1,
+Option,100,a) common language.
+Option,0,b) common goals.
+Option,0,c) metric-sized tools.
+Option,0,d) shared training.
+Hint,"Complexity: Moderate			Ahead: Transfer of Patient Care			Subject:The Team Approach to Health Care, Page 327			Title: The Team Approach to Health Care			Feedback: See Transfer of Patient Care			Taxonomy: Recall			Objective: 9-6 List the five critical elements necessary to ensure effective transfer of patient care from one provider to another.",
+NewQuestion,MC,
+Title,,
+QuestionText,"While transferring patient care to another health care provider, you should be:",
+Points,1,
+Difficulty,1,
+Option,0,a) assertive.
+Option,0,b) patient.
+Option,100,c) respectful.
+Option,0,d) aggressive.
+Hint,"Complexity: Moderate			Ahead: Transfer of Patient Care			Subject:The Team Approach to Health Care, Page 327			Title: The Team Approach to Health Care			Feedback: See Transfer of Patient Care			Taxonomy: Recall			Objective: 9-6 List the five critical elements necessary to ensure effective transfer of patient care from one provider to another.",
+NewQuestion,MC,
+Title,,
+QuestionText,"In an independent group, you would have:",
+Points,1,
+Difficulty,1,
+Option,0,a) parallel work.
+Option,0,b) a common set of tasks.
+Option,0,c) shared transportation.
+Option,100,d) your own work area.
+Hint,"Complexity: Easy			Ahead: Dependent, Independent, and Interdependent Groups			Subject:The Team Approach to Health Care, Page 323			Title: The Team Approach to Health Care			Feedback: See Dependent, Independent, and Interdependent Groups			Taxonomy: Recall			Objective: 9-4 List the five essential elements of a team.",
+NewQuestion,MC,
+Title,,
+QuestionText,"In an interdependent group, when one person fails:",
+Points,1,
+Difficulty,1,
+Option,100,a) everyone fails.
+Option,0,b) that person is fired.
+Option,0,c) management will be changed.
+Option,0,d) pay is withheld.
+Hint,"Complexity: Easy			Ahead: Dependent, Independent, and Interdependent Groups			Subject:The Team Approach to Health Care, Page 323			Title: The Team Approach to Health Care			Feedback: See Dependent, Independent, and Interdependent Groups			Taxonomy: Recall			Objective: 9-4 List the five essential elements of a team.",
+NewQuestion,MC,
+Title,,
+QuestionText,"When assisting an ALS worker, a BLS worker who performs a skill outside his or her level of certification:",
+Points,1,
+Difficulty,1,
+Option,100,a) risks a lawsuit.
+Option,0,b) is striving for promotion to ALS.
+Option,0,c) plays a team role.
+Option,0,d) needs incident command authorization.
+Hint,"Complexity: Moderate			Ahead: BLS and ALS Providers Working Together			Subject:The Team Approach to Health Care, Page 328			Title: The Team Approach to Health Care			Feedback: See BLS and ALS Providers Working Together			Taxonomy: Recall			Objective: 9-6 List the five critical elements necessary to ensure effective transfer of patient care from one provider to another.",
+NewQuestion,MC,
+Title,,
+QuestionText,"To be a great EMT, strive for:",
+Points,1,
+Difficulty,1,
+Option,0,a) retraining.
+Option,100,b) foundational knowledge.
+Option,0,c) management work.
+Option,0,d) the chance to replace an EMR.
+Hint,"Complexity: Moderate			Ahead: BLS and ALS Providers Working Together			Subject:The Team Approach to Health Care, Page 328			Title: The Team Approach to Health Care			Feedback: See BLS and ALS Providers Working Together			Taxonomy: Recall			Objective: 9-6 List the five critical elements necessary to ensure effective transfer of patient care from one provider to another.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which comes first in EMS decision making?,
+Points,1,
+Difficulty,1,
+Option,100,a) Data gathering
+Option,0,b) Data interpretation
+Option,0,c) Planning
+Option,0,d) Team communication
+Hint,"Complexity: Moderate			Ahead: Critical Thinking and Clinical Decision Making in EMS			Subject:The Team Approach to Health Care, Page 329			Title: The Team Approach to Health Care			Feedback: See Critical Thinking and Clinical Decision Making in EMS			Taxonomy: Recall			Objective: 9-8 Explain the stages of effective decision making.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which step in EMS decision making comes after a patient has been transferred?,
+Points,1,
+Difficulty,1,
+Option,0,a) Data gathering
+Option,100,b) Outcome evaluation
+Option,0,c) Planning
+Option,0,d) Team communication
+Hint,"Complexity: Moderate			Ahead: Critical Thinking and Clinical Decision Making in EMS			Subject:The Team Approach to Health Care, Page 329			Title: The Team Approach to Health Care			Feedback: See Critical Thinking and Clinical Decision Making in EMS			Taxonomy: Recall			Objective: 9-8 Explain the stages of effective decision making.",
+NewQuestion,MC,
+Title,,
+QuestionText,Premature diagnosis during a call can be due to what error?,
+Points,1,
+Difficulty,1,
+Option,0,a) Streamlining
+Option,0,b) Bias
+Option,0,c) Overconfidence
+Option,100,d) Anchoring
+Hint,"Complexity: Difficult			Ahead: Critical Thinking and Clinical Decision Making in EMS			Subject:The Team Approach to Health Care, Page 329			Title: The Team Approach to Health Care			Feedback: See Critical Thinking and Clinical Decision Making in EMS			Taxonomy: Recall			Objective: 9-9 Describe decision traps that can lead to decision-making errors.",
+NewQuestion,MC,
+Title,,
+QuestionText,"If a problem with a team member is not directly or immediately impacting patient care, the team leader should:",
+Points,1,
+Difficulty,1,
+Option,0,a) engage the team member at once.
+Option,100,b) discuss the problem after the call.
+Option,0,c) contact the medical director at once.
+Option,0,d) ignore the problem to avoid conflict.
+Hint,"Complexity: Moderate			Ahead: Troubleshooting Team Conflicts			Subject:The Team Approach to Health Care, Page 331			Title: The Team Approach to Health Care			Feedback: See Troubleshooting Team Conflicts			Taxonomy: Recall			Objective: 9-10 Describe the steps EMTs can take to troubleshoot interpersonal conflicts.",
+NewQuestion,MC,
+Title,,
+QuestionText,"While caring for a patient, the EMT states to her partner, “Why even splint the patient’s leg if they’re only going to remove it in the ED?” This statement indicates that:",
+Points,1,
+Difficulty,1,
+Option,100,a) the EMT’s focus is not on the common goal.
+Option,0,b) the patient’s leg does not require splinting.
+Option,0,c) the EMT does not trust the hospital staff.
+Option,0,d) the EMT is being realistic in her thinking.
+Hint,"Complexity: Easy			Ahead: Effective Team Performance			Subject:The Team Approach to Health Care, Page 323			Title: The Team Approach to Health Care			Feedback: See Effective Team Performance			Taxonomy: Application			Objective: 9-4 List the five essential elements of a team.",
+NewQuestion,MC,
+Title,,
+QuestionText,An effective team leader should:,
+Points,1,
+Difficulty,1,
+Option,0,a) command his or her team.
+Option,100,b) help the team accomplish goals.
+Option,0,c) perform all difficult interventions.
+Option,0,d) refrain from any direct patient care.
+Hint,"Complexity: Easy			Ahead: Effective Team Performance			Subject:The Team Approach to Health Care, Page 323			Title: The Team Approach to Health Care			Feedback: See Effective Team Performance			Taxonomy: Recall			Objective: 9-4 List the five essential elements of a team.",

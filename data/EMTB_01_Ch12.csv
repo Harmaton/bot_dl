@@ -1,0 +1,500 @@
+NewQuestion,MC,
+Title,,
+QuestionText,The term “pharmacology” is MOST accurately defined as:,
+Points,1,
+Difficulty,1,
+Option,0,a) the study of drugs that are produced illegally.
+Option,0,b) the study of how medications affect the brain.
+Option,100,c) the study of drugs and their actions on the body.
+Option,0,d) the study of drug excretion from the human body.
+Hint,"Complexity: Easy			Ahead: How Medications Work			Subject:Principles of Pharmacology, Page 495			Title: Principles of Pharmacology			Feedback: See How Medications Work			Taxonomy: Recall			Objective: 12-1 Define the terms pharmacodynamics, therapeutic effects, indications, adverse effects, pharmacokinetics, onset of action, peak, duration, elimination, unintended effects, and untoward effects.",
+NewQuestion,MC,
+Title,,
+QuestionText,A medication with antagonistic properties is one that:,
+Points,1,
+Difficulty,1,
+Option,0,a) stimulates receptor sites and allows other chemicals to attach to them.
+Option,0,b) enhances the effects of another medication when given in a higher dose.
+Option,100,c) blocks receptor sites and prevents other chemicals from attaching to them.
+Option,0,d) produces a cumulative effect when mixed with the same type of medication.
+Hint,"Complexity: Easy			Ahead: How Medications Work			Subject:Principles of Pharmacology, Page 496			Title: Principles of Pharmacology			Feedback: See How Medications Work			Taxonomy: Recall			Objective: 12-1 Define the terms pharmacodynamics, therapeutic effects, indications, adverse effects, pharmacokinetics, onset of action, peak, duration, elimination, unintended effects, and untoward effects.",
+NewQuestion,MC,
+Title,,
+QuestionText,A drug is contraindicated for a patient when it:,
+Points,1,
+Difficulty,1,
+Option,0,a) is used to treat a multitude of conditions.
+Option,100,b) may cause harm or has no positive effect.
+Option,0,c) produces actions other than the desired ones.
+Option,0,d) is used to treat a specific medical condition.
+Hint,"Complexity: Moderate			Ahead: How Medications Work			Subject:Principles of Pharmacology, Page 497			Title: Principles of Pharmacology			Feedback: See How Medications Work			Taxonomy: Recall			Objective: 12-2 Explain medication contraindications; include an example.",
+NewQuestion,MC,
+Title,,
+QuestionText,"After taking diphenhydramine (Benadryl) for an allergic reaction, a person begins experiencing drowsiness and a dry mouth. These findings are an example of a(n):",
+Points,1,
+Difficulty,1,
+Option,100,a) adverse effect.
+Option,0,b) untoward effect.
+Option,0,c) therapeutic effect.
+Option,0,d) unpredictable effect.
+Hint,"Complexity: Moderate			Ahead: How Medications Work			Subject:Principles of Pharmacology, Page 497			Title: Principles of Pharmacology			Feedback: See How Medications Work			Taxonomy: Recall			Objective: 12-1 Define the terms pharmacodynamics, therapeutic effects, indications, adverse effects, pharmacokinetics, onset of action, peak, duration, elimination, unintended effects, and untoward effects.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following is an example of a trade (brand) name of a drug?,
+Points,1,
+Difficulty,1,
+Option,100,a) Tylenol
+Option,0,b) Ibuprofen
+Option,0,c) Furosemide
+Option,0,d) Nitroglycerin
+Hint,"Complexity: Moderate			Ahead: How Medications Work			Subject:Principles of Pharmacology, Page 497			Title: Principles of Pharmacology			Feedback: See How Medications Work			Taxonomy: Recall			Objective: 12-3 Explain the differences between a generic medication name and a trade medication name; provide an example of each.",
+NewQuestion,MC,
+Title,,
+QuestionText,"Advil, Nuprin, and Motrin are trade (brand) names for the generic medication:",
+Points,1,
+Difficulty,1,
+Option,0,a) aspirin.
+Option,0,b) nitrostat.
+Option,100,c) ibuprofen.
+Option,0,d) acetaminophen.
+Hint,"Complexity: Moderate			Ahead: How Medications Work			Subject:Principles of Pharmacology, Page 497			Title: Principles of Pharmacology			Feedback: See How Medications Work			Taxonomy: Recall			Objective: 12-3 Explain the differences between a generic medication name and a trade medication name; provide an example of each.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following is an example of a generic of a drug?,
+Points,1,
+Difficulty,1,
+Option,0,a) Bayer
+Option,0,b) Advil
+Option,0,c) Excedrin
+Option,100,d) Aspirin
+Hint,"Complexity: Easy			Ahead: How Medications Work			Subject:Principles of Pharmacology, Page 497			Title: Principles of Pharmacology			Feedback: See How Medications Work			Taxonomy: Recall			Objective: 12-3 Explain the differences between a generic medication name and a trade medication name; provide an example of each.",
+NewQuestion,MC,
+Title,,
+QuestionText,"When gathering a patient’s medications, you find the following: Isordil, Lasix, Nexium, and digoxin. Which of these medications can be obtained over-the-counter (OTC)?",
+Points,1,
+Difficulty,1,
+Option,0,a) Lasix
+Option,100,b) Nexium
+Option,0,c) Isordil
+Option,0,d) Digoxin
+Hint,"Complexity: Moderate			Ahead: How Medications Work			Subject:Principles of Pharmacology, Page 497			Title: Principles of Pharmacology			Feedback: See How Medications Work			Taxonomy: Recall			Objective: 12-3 Explain the differences between a generic medication name and a trade medication name; provide an example of each.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following statements regarding parenteral medications is correct?,
+Points,1,
+Difficulty,1,
+Option,0,a) Tylenol is an example of a parenteral medication because it is taken orally.
+Option,100,b) Parenteral medications are absorbed more quickly than enteral medications.
+Option,0,"c) Compared to enteral medications, parenteral medications have fewer side effects."
+Option,0,d) Parenteral medications are absorbed by the body through the digestive system.
+Hint,"Complexity: Easy			Ahead: How Medications Work			Subject:Principles of Pharmacology, Page 498			Title: Principles of Pharmacology			Feedback: See How Medications Work			Taxonomy: Recall			Objective: 12-4 Differentiate enteral and parenteral routes of medication administration.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following is the MOST rapidly acting medication administration route?,
+Points,1,
+Difficulty,1,
+Option,0,a) Sublingual (SL)
+Option,100,b) Intravenous (IV)
+Option,0,c) Subcutaneous (SC)
+Option,0,d) Intramuscular (IM)
+Hint,"Complexity: Easy			Ahead: How Medications Work			Subject:Principles of Pharmacology, Pages 498-499			Title: Principles of Pharmacology			Feedback: See How Medications Work			Taxonomy: Recall			Objective: 12-5 Describe rectal, oral, intravenous, intraosseous, subcutaneous, intramuscular, intranasal, inhalation, sublingual, and transcutaneous routes of medication administration; include the rates of absorption.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following medication routes has the slowest rate of absorption?,
+Points,1,
+Difficulty,1,
+Option,100,a) Oral
+Option,0,b) Rectal
+Option,0,c) Inhalation
+Option,0,d) Sublingual
+Hint,"Complexity: Moderate			Ahead: How Medications Work			Subject:Principles of Pharmacology, Pages 498-499			Title: Principles of Pharmacology			Feedback: See How Medications Work			Taxonomy: Recall			Objective: 12-5 Describe rectal, oral, intravenous, intraosseous, subcutaneous, intramuscular, intranasal, inhalation, sublingual, and transcutaneous routes of medication administration; include the rates of absorption.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following medication routes would be the MOST appropriate to use in an unresponsive patient when intravenous access cannot be obtained?,
+Points,1,
+Difficulty,1,
+Option,100,a) Intraosseous
+Option,0,b) Intramuscular
+Option,0,c) Subcutaneous
+Option,0,d) Transcutaneous
+Hint,"Complexity: Moderate			Ahead: How Medications Work			Subject:Principles of Pharmacology, Pages 498-499			Title: Principles of Pharmacology			Feedback: See How Medications Work			Taxonomy: Recall			Objective: 12-5 Describe rectal, oral, intravenous, intraosseous, subcutaneous, intramuscular, intranasal, inhalation, sublingual, and transcutaneous routes of medication administration; include the rates of absorption.",
+NewQuestion,MC,
+Title,,
+QuestionText,Subcutaneous injections deliver the medication:,
+Points,1,
+Difficulty,1,
+Option,0,a) directly into the muscle tissue.
+Option,100,b) between the skin and the muscle.
+Option,0,c) below the first layer of muscle.
+Option,0,d) through the mucosa under the tongue.
+Hint,"Complexity: Difficult			Ahead: How Medications Work			Subject:Principles of Pharmacology, Page 499			Title: Principles of Pharmacology			Feedback: See How Medications Work			Taxonomy: Recall			Objective: 12-5 Describe rectal, oral, intravenous, intraosseous, subcutaneous, intramuscular, intranasal, inhalation, sublingual, and transcutaneous routes of medication administration; include the rates of absorption.",
+NewQuestion,MC,
+Title,,
+QuestionText,"While assisting a paramedic in the attempted resuscitation of a 55-year-old male in cardiac arrest, you should expect the paramedic to:",
+Points,1,
+Difficulty,1,
+Option,0,a) give the patient nitroglycerin to increase his blood pressure.
+Option,100,b) administer drugs via the IV route to achieve the fastest effect.
+Option,0,c) give the patient activated charcoal to rule out a drug overdose.
+Option,0,d) withhold drug therapy until an intraosseous catheter is in place.
+Hint,"Complexity: Difficult			Ahead: How Medications Work			Subject:Principles of Pharmacology, Page 499			Title: Principles of Pharmacology			Feedback: See How Medications Work			Taxonomy: Application			Objective: 12-5 Describe rectal, oral, intravenous, intraosseous, subcutaneous, intramuscular, intranasal, inhalation, sublingual, and transcutaneous routes of medication administration; include the rates of absorption.",
+NewQuestion,MC,
+Title,,
+QuestionText,How is nitroglycerin usually given by the EMT?,
+Points,1,
+Difficulty,1,
+Option,0,a) Orally
+Option,0,b) Inhaled
+Option,0,c) Injected
+Option,100,d) Sublingually
+Hint,"Complexity: Moderate			Ahead: How Medications Work			Subject:Principles of Pharmacology, Page 499			Title: Principles of Pharmacology			Feedback: See How Medications Work			Taxonomy: Recall			Objective: 12-5 Describe rectal, oral, intravenous, intraosseous, subcutaneous, intramuscular, intranasal, inhalation, sublingual, and transcutaneous routes of medication administration; include the rates of absorption.",
+NewQuestion,MC,
+Title,,
+QuestionText,"Which of the following medication routes delivers a drug through the skin over an extended period of time, such as a nitroglycerin or fentanyl patch?",
+Points,1,
+Difficulty,1,
+Option,0,a) Sublingual
+Option,0,b) Intraosseous
+Option,0,c) Subcutaneous
+Option,100,d) Transcutaneous
+Hint,"Complexity: Easy			Ahead: How Medications Work			Subject:Principles of Pharmacology, Pages 499			Title: Principles of Pharmacology			Feedback: See How Medications Work			Taxonomy: Recall			Objective: 12-5 Describe rectal, oral, intravenous, intraosseous, subcutaneous, intramuscular, intranasal, inhalation, sublingual, and transcutaneous routes of medication administration; include the rates of absorption.",
+NewQuestion,MC,
+Title,,
+QuestionText,A mucosal atomizer device (MAD) is used to deliver certain medications via the:,
+Points,1,
+Difficulty,1,
+Option,100,a) intranasal route.
+Option,0,b) inhalation route.
+Option,0,c) sublingual route.
+Option,0,d) transdermal route.
+Hint,"Complexity: Moderate			Ahead: How Medications Work			Subject:Principles of Pharmacology, Page 500			Title: Principles of Pharmacology			Feedback: See How Medications Work			Taxonomy: Recall			Objective: 12-5 Describe rectal, oral, intravenous, intraosseous, subcutaneous, intramuscular, intranasal, inhalation, sublingual, and transcutaneous routes of medication administration; include the rates of absorption.",
+NewQuestion,MC,
+Title,,
+QuestionText,The __________ of a medication usually dictates the route by which it will be administered.,
+Points,1,
+Difficulty,1,
+Option,0,a) type
+Option,100,b) form
+Option,0,c) class
+Option,0,d) name
+Hint,"Complexity: Easy			Ahead: Medication Forms			Subject:Principles of Pharmacology, Page 501			Title: Principles of Pharmacology			Feedback: See Medication Forms			Taxonomy: Recall			Objective: 12-6 Explain the solid, liquid, and gas forms of medication and the routes of administration; provide examples of each.",
+NewQuestion,MC,
+Title,,
+QuestionText,Medications encased in a gelatin shell that are taken by mouth are called:,
+Points,1,
+Difficulty,1,
+Option,0,a) pills.
+Option,0,b) tablets.
+Option,0,c) caplets.
+Option,100,d) capsules.
+Hint,"Complexity: Moderate			Ahead: Medication Forms			Subject:Principles of Pharmacology, Page 501			Title: Principles of Pharmacology			Feedback: See Medication Forms			Taxonomy: Recall			Objective: 12-6 Explain the solid, liquid, and gas forms of medication and the routes of administration; provide examples of each.",
+NewQuestion,MC,
+Title,,
+QuestionText,Separation is especially an issue with medicine used as a(n):,
+Points,1,
+Difficulty,1,
+Option,100,a) suspension.
+Option,0,b) solution.
+Option,0,c) elixir.
+Option,0,d) gel.
+Hint,"Complexity: Easy			Ahead: Medication Forms			Subject:Principles of Pharmacology, Page 502			Title: Principles of Pharmacology			Feedback: See Medication Forms			Taxonomy: Recall			Objective: 12-6 Explain the solid, liquid, and gas forms of medication and the routes of administration; provide examples of each.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following statements regarding the metered-dose inhaler (MDI) is correct?,
+Points,1,
+Difficulty,1,
+Option,0,a) MDIs are contraindicated for patients with asthma or emphysema.
+Option,0,b) MDIs are most commonly used by patients with cardiovascular disease.
+Option,100,c) An MDI delivers the same amount of medication every time it is used.
+Option,0,d) Shaking an MDI prior to use will cause deactivation of the medication.
+Hint,"Complexity: Easy			Ahead: Medication Forms			Subject:Principles of Pharmacology, Page 502			Title: Principles of Pharmacology			Feedback: See Medication Forms			Taxonomy: Recall			Objective: 12-6 Explain the solid, liquid, and gas forms of medication and the routes of administration; provide examples of each.",
+NewQuestion,MC,
+Title,,
+QuestionText,What medication form does oral glucose come in?,
+Points,1,
+Difficulty,1,
+Option,100,a) Gel
+Option,0,b) Liquid
+Option,0,c) Suspension
+Option,0,d) Fine powder
+Hint,"Complexity: Easy			Ahead: Medication Forms			Subject:Principles of Pharmacology, Page 502			Title: Principles of Pharmacology			Feedback: See Medication Forms			Taxonomy: Recall			Objective: 12-6 Explain the solid, liquid, and gas forms of medication and the routes of administration; provide examples of each.",
+NewQuestion,MC,
+Title,,
+QuestionText,"You are dispatched to a movie theater for a 39-year-old female with signs and symptoms of a severe allergic reaction. As you are assessing her, she pulls an epinephrine auto-injector out of her purse and hands it to you. After confirming the drug’s name and expiration date, you should:",
+Points,1,
+Difficulty,1,
+Option,0,a) administer the drug.
+Option,100,b) contact medical control.
+Option,0,c) ask her if she takes other medications.
+Option,0,d) request an ALS ambulance to administer the drug.
+Hint,"Complexity: Difficult			Ahead: General Steps in Administering Medication			Subject:Principles of Pharmacology, Pages 504-505			Title: Principles of Pharmacology			Feedback: See General Steps in Administering Medication			Taxonomy: Analysis			Objective: 12-7 List the “rights” of medication administration; include how each one relates to EMS.",
+NewQuestion,MC,
+Title,,
+QuestionText,"A 31-year-old female is experiencing an acute asthma attack. She is conscious and alert, but in obvious respiratory distress. After assisting her with her prescribed MDI, you should:",
+Points,1,
+Difficulty,1,
+Option,0,a) check the drug’s expiration date to ensure that it is still current.
+Option,0,b) contact medical control and apprise him or her of what you did.
+Option,100,c) reassess the patient and document her response to the medication.
+Option,0,d) administer another treatment in 30 seconds if she is still in distress.
+Hint,"Complexity: Difficult			Ahead: General Steps in Administering Medication			Subject:Principles of Pharmacology, Page 505			Title: Principles of Pharmacology			Feedback: See General Steps in Administering Medication			Taxonomy: Analysis			Objective: 12-7 List the “rights” of medication administration; include how each one relates to EMS.",
+NewQuestion,MC,
+Title,,
+QuestionText,An EMT may administer aspirin to a patient if:,
+Points,1,
+Difficulty,1,
+Option,0,a) the patient is currently experiencing hypotension.
+Option,100,b) authorization from medical control has been obtained.
+Option,0,c) transport time to the hospital is greater than 30 minutes.
+Option,0,d) the patient is believed to be experiencing an acute stroke.
+Hint,"Complexity: Easy			Ahead: General Steps in Administering Medication			Subject:Principles of Pharmacology, Page 504			Title: Principles of Pharmacology			Feedback: See General Steps in Administering Medication			Taxonomy: Analysis			Objective: 12-7 List the “rights” of medication administration; include how each one relates to EMS.",
+NewQuestion,MC,
+Title,,
+QuestionText,"You are dispatched to a state park for a young female experiencing an allergic reaction. Your assessment reveals that her breathing is severely labored and her blood pressure is very low. You carry epinephrine auto-injectors on your ambulance and have been trained and approved by your medical director to administer them. As your partner gives the patient supplemental oxygen, you attempt to contact medical control but do not have a signal from your cell phone. You should:",
+Points,1,
+Difficulty,1,
+Option,0,a) notify dispatch and request that a paramedic unit respond to the scene so they can administer epinephrine to the patient.
+Option,100,"b) administer epinephrine to the patient, begin immediate transport, and attempt to contact medical control en route to the hospital."
+Option,0,"c) place her in a supine position, keep her warm, begin transport to the hospital, and request a paramedic intercept en route."
+Option,0,"d) immediately load the patient into the ambulance, begin transport, and reattempt to contact medical control when you receive a cell signal."
+Hint,"Complexity: Difficult			Ahead: Medication Administration and the EMT			Subject:Principles of Pharmacology, Page 506			Title: Principles of Pharmacology			Feedback: See Medication Administration and the EMT			Taxonomy: Analysis			Objective: 12-9 Discuss the medication administration circumstances involving peer-assisted medication, patient-assisted medication, and EMT-administered medication.",
+NewQuestion,MC,
+Title,,
+QuestionText,"You are treating a middle-aged man with chest discomfort. He has a history of three previous heart attacks and takes nitroglycerin as needed for chest pain. You have standing orders to administer aspirin to patients with suspected cardiac-related chest pain or discomfort. While your partner is preparing to give oxygen to the patient, you should:",
+Points,1,
+Difficulty,1,
+Option,100,"a) confirm that the patient is not allergic to aspirin, give him the appropriate dose of aspirin, and document the time and dose given."
+Option,0,"b) contact medical control, apprise him or her of the patient’s chief complaint and vital signs, and request permission to give him aspirin."
+Option,0,c) ensure that the patient’s systolic blood pressure is at least 100 mm Hg because aspirin dilates the blood vessels and can cause a drop in blood pressure.
+Option,0,"d) assist the patient in taking one of his prescribed nitroglycerins, assess his vital signs, and give him aspirin if he is still experiencing chest discomfort."
+Hint,"Complexity: Difficult			Ahead: General Steps in Administering Medication			Subject:Principles of Pharmacology, Page 504			Title: Principles of Pharmacology			Feedback: See General Steps in Administering Medication			Taxonomy: Analysis			Objective: 12-7 List the “rights” of medication administration; include how each one relates to EMS.",
+NewQuestion,MC,
+Title,,
+QuestionText,"In ___________ administration, you are administering medication to yourself or your partner.",
+Points,1,
+Difficulty,1,
+Option,100,a) peer-assisted
+Option,0,b) patient-assisted
+Option,0,c) EMT-administered
+Option,0,d) paramedic-administered
+Hint,"Complexity: Easy			Ahead: Medication Administration and the EMT			Subject:Principles of Pharmacology, Page 506			Title: Principles of Pharmacology			Feedback: See Medication Administration and the EMT			Taxonomy: Recall			Objective: 12-9 Discuss the medication administration circumstances involving peer-assisted medication, patient-assisted medication, and EMT-administered medication.",
+NewQuestion,MC,
+Title,,
+QuestionText,"A 74-year-old woman complains of heaviness in her chest, nausea, and sweating that suddenly began about an hour ago. She is conscious and alert, but anxious. Her blood pressure is 144/84 mm Hg and her heart rate is 110 beats/min. She took two of her prescribed nitroglycerin (0.4-mg tablets) before your arrival but still feels heaviness in her chest. You should:",
+Points,1,
+Difficulty,1,
+Option,0,"a) give her high-flow oxygen, avoid giving her any more nitroglycerin because it may cause a drop in her blood pressure, and transport."
+Option,0,"b) assist her in taking one more of her nitroglycerin tablets, reassess her blood pressure, and contact medical control for further instructions."
+Option,0,c) transport her at once and wait at least 20 minutes before you consider assisting her with a third dose of her prescribed nitroglycerin.
+Option,100,d) recall that geriatric patients often take multiple medications and that interactions can occur with potentially negative effects.
+Hint,"Complexity: Difficult			Ahead: Medication Administration and the EMT			Subject:Principles of Pharmacology, Page 515			Title: Principles of Pharmacology			Feedback: See Medication Administration and the EMT			Taxonomy: Analysis			Objective: 12-9 Discuss the medication administration circumstances involving peer-assisted medication, patient-assisted medication, and EMT-administered medication.",
+NewQuestion,MC,
+Title,,
+QuestionText,"A 49-year-old male with an extensive cardiac history presents with 2 hours of crushing chest pain and shortness of breath. He is pale and diaphoretic and tells you that he feels like he is going to die. His medications include nitroglycerin, sildenafil (Viagra), and enalapril (Vasotec). His blood pressure is 140/90 mm Hg and his heart rate is 110 beats/min. In addition to administering supplemental oxygen if needed, you should:",
+Points,1,
+Difficulty,1,
+Option,0,a) obtain physician approval to give the nitroglycerin.
+Option,0,b) place him in a supine position and transport at once.
+Option,0,c) administer one nitroglycerin and call medical control.
+Option,100,d) ask him if he took his Viagra within the past 24 hours.
+Hint,"Complexity: Difficult			Ahead: Medications Used by EMTs			Subject:Principles of Pharmacology, Page 508			Title: Principles of Pharmacology			Feedback: See Medications Used by EMTs			Taxonomy: Analysis			Objective: 12-10 Know the generic and trade names, actions, indications, contraindications, routes of administration, adverse effects, interactions, and doses of medications that may be administered by an EMT in an emergency as dictated by state protocols and local medical direction.",
+NewQuestion,MC,
+Title,,
+QuestionText,The process by which medications travel through body tissues until they reach the bloodstream is called:,
+Points,1,
+Difficulty,1,
+Option,0,a) adsorption.
+Option,100,b) absorption.
+Option,0,c) suspension.
+Option,0,d) digestion.
+Hint,"Complexity: Easy			Ahead: How Medications Work			Subject:Principles of Pharmacology, Page 498			Title: Principles of Pharmacology			Feedback: See How Medications Work			Taxonomy: Recall			Objective: 12-5 Describe rectal, oral, intravenous, intraosseous, subcutaneous, intramuscular, intranasal, inhalation, sublingual, and transcutaneous routes of medication administration; include the rates of absorption.",
+NewQuestion,MC,
+Title,,
+QuestionText,To reverse the effects of a narcotic overdose you should administer:,
+Points,1,
+Difficulty,1,
+Option,0,a) EpiPen.
+Option,0,b) Tylenol.
+Option,0,c) Advil.
+Option,100,d) Narcan.
+Hint,"Complexity: Moderate			Ahead: Medications Used by EMTs			Subject:Principles of Pharmacology, Page 508			Title: Principles of Pharmacology			Feedback: See Medications Used by EMTs			Taxonomy: Application			Objective: 12-10 Know the generic and trade names, actions, indications, contraindications, routes of administration, adverse effects, interactions, and doses of medications that may be administered by an EMT in an emergency as dictated by state protocols and local medical direction.",
+NewQuestion,MC,
+Title,,
+QuestionText,An example of an anti-inflammatory is:,
+Points,1,
+Difficulty,1,
+Option,0,a) Narcan.
+Option,100,b) Aspirin.
+Option,0,c) Nitroglycerin.
+Option,0,d) Oxygen.
+Hint,"Complexity: Moderate			Ahead: Medications Used by EMTs			Subject:Principles of Pharmacology, Page 508			Title: Principles of Pharmacology			Feedback: See Medications Used by EMTs			Taxonomy: Recall			Objective: 12-10 Know the generic and trade names, actions, indications, contraindications, routes of administration, adverse effects, interactions, and doses of medications that may be administered by an EMT in an emergency as dictated by state protocols and local medical direction.",
+NewQuestion,MC,
+Title,,
+QuestionText,The medical term for a low blood glucose level is:,
+Points,1,
+Difficulty,1,
+Option,100,a) hypoglycemia.
+Option,0,b) hyperglycemia.
+Option,0,c) hypotension.
+Option,0,d) hypertension.
+Hint,"Complexity: Easy			Ahead: Medications Used by EMTs			Subject:Principles of Pharmacology, Page 509			Title: Principles of Pharmacology			Feedback: See Medications Used by EMTs			Taxonomy: Recall			Objective: 12-10 Know the generic and trade names, actions, indications, contraindications, routes of administration, adverse effects, interactions, and doses of medications that may be administered by an EMT in an emergency as dictated by state protocols and local medical direction.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following statements regarding glucose is correct?,
+Points,1,
+Difficulty,1,
+Option,0,a) Glucose is a complex sugar that rapidly absorbs into the bloodstream.
+Option,100,b) Glucose is a simple sugar that is readily absorbed by the cells.
+Option,0,c) Glucose is given to patients who are suspected of being hyperglycemic.
+Option,0,d) Glucose is usually administered by the EMT via the intravenous route.
+Hint,"Complexity: Easy			Ahead: Medications Used by EMTs			Subject:Principles of Pharmacology, Page 509			Title: Principles of Pharmacology			Feedback: See Medications Used by EMTs			Taxonomy: Recall			Objective: 12-10 Know the generic and trade names, actions, indications, contraindications, routes of administration, adverse effects, interactions, and doses of medications that may be administered by an EMT in an emergency as dictated by state protocols and local medical direction.",
+NewQuestion,MC,
+Title,,
+QuestionText,Aspirin is beneficial to patients suspected of having a heart attack because it:,
+Points,1,
+Difficulty,1,
+Option,0,a) reduces the associated chest pain.
+Option,0,b) dissolves the coronary artery clot.
+Option,0,c) causes direct coronary vasodilation.
+Option,100,d) prevents the aggregation of platelets.
+Hint,"Complexity: Easy			Ahead: Medications Used by EMTs			Subject:Principles of Pharmacology, Page 508			Title: Principles of Pharmacology			Feedback: See Medications Used by EMTs			Taxonomy: Recall			Objective: 12-10 Know the generic and trade names, actions, indications, contraindications, routes of administration, adverse effects, interactions, and doses of medications that may be administered by an EMT in an emergency as dictated by state protocols and local medical direction.",
+NewQuestion,MC,
+Title,,
+QuestionText,"Nitroglycerin, when given to patients with cardiac-related chest pain:",
+Points,1,
+Difficulty,1,
+Option,100,a) relaxes the walls of the coronary arteries.
+Option,0,b) increases myocardial contraction force.
+Option,0,c) increases blood return to the right atrium.
+Option,0,d) constricts the veins throughout the body.
+Hint,"Complexity: Easy			Ahead: Medications Used by EMTs			Subject:Principles of Pharmacology, Page 508			Title: Principles of Pharmacology			Feedback: See Medications Used by EMTs			Taxonomy: Recall			Objective: 12-10 Know the generic and trade names, actions, indications, contraindications, routes of administration, adverse effects, interactions, and doses of medications that may be administered by an EMT in an emergency as dictated by state protocols and local medical direction.",
+NewQuestion,MC,
+Title,,
+QuestionText,"Shortly after assisting a 65-year-old female with her prescribed nitroglycerin, she begins complaining of dizziness and experiences a drop of 30 mm Hg in her systolic blood pressure. The patient remains conscious and her breathing is adequate. You should:",
+Points,1,
+Difficulty,1,
+Option,0,a) transport her in a sitting position.
+Option,0,b) wait 5 minutes and reassess her blood pressure.
+Option,100,c) place her in a supine position.
+Option,0,d) assist ventilations with a bag-valve mask.
+Hint,"Complexity: Difficult			Ahead: Medications Used by EMTs			Subject:Principles of Pharmacology, Page 508			Title: Principles of Pharmacology			Feedback: See Medications Used by EMTs			Taxonomy: Analysis			Objective: 12-11 Describe the medication administration considerations related to special populations, including pediatric, geriatric, and pregnant patients.",
+NewQuestion,MC,
+Title,,
+QuestionText,"A 62-year-old male is seen with crushing chest pain, which he describes as being the same kind of pain that he had with a previous heart attack. He has prescribed nitroglycerin but states that he has not taken any. After administering supplemental oxygen, if needed, and contacting medical control, you should:",
+Points,1,
+Difficulty,1,
+Option,0,a) begin immediate transport and request a rendezvous with a paramedic unit.
+Option,100,b) assist him with his nitroglycerin unless his systolic blood pressure is less than 100 mm Hg.
+Option,0,c) administer up to three doses of nitroglycerin before assessing his blood pressure.
+Option,0,d) administer the nitroglycerin unless he has taken Viagra within the past 72 hours.
+Hint,"Complexity: Difficult			Ahead: Medications Used by EMTs			Subject:Principles of Pharmacology, Page 508			Title: Principles of Pharmacology			Feedback: See Medications Used by EMTs			Taxonomy: Analysis			Objective: 12-11 Describe the medication administration considerations related to special populations, including pediatric, geriatric, and pregnant patients.",
+NewQuestion,MC,
+Title,,
+QuestionText,"You are treating a 45-year-old woman who was stung by a hornet and has a rash. She tells you that she is allergic to hornets and has her own epinephrine auto-injector. She also tells you that she takes medication for hypertension. Her breath sounds do not reveal any wheezing, her breathing is unlabored, and her blood pressure is 154/94 mm Hg. What should you do if you are not able to make contact with medical control?",
+Points,1,
+Difficulty,1,
+Option,0,"a) Administer her epinephrine, reassess her condition, and transport her promptly."
+Option,0,b) Begin immediate transport and request an intercept with a paramedic ambulance.
+Option,100,c) Begin transport to the hospital and closely monitor her condition while en route.
+Option,0,d) Give her half the dose of her epinephrine in case her allergic reaction is delayed.
+Hint,"Complexity: Easy			Ahead: Medications Used by EMTs			Subject:Principles of Pharmacology, Page 513			Title: Principles of Pharmacology			Feedback: See Medications Used by EMTs			Taxonomy: Analysis			Objective: 12-12 State the steps to follow when administering medications to a patient using an auto-injector.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following is NOT a characteristic of epinephrine?,
+Points,1,
+Difficulty,1,
+Option,0,a) Secreted naturally by the adrenal glands
+Option,0,b) Dilates passages in the lungs
+Option,0,c) Constricts the blood vessels
+Option,100,d) Decreases heart rate and blood pressure
+Hint,"Complexity: Moderate			Ahead: Medications Used by EMTs			Subject:Principles of Pharmacology, Page 513			Title: Principles of Pharmacology			Feedback: See Medications Used by EMTs			Taxonomy: Recall			Objective: 12-12 State the steps to follow when administering medications to a patient using an auto-injector.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following statements regarding the epinephrine auto-injector is correct?,
+Points,1,
+Difficulty,1,
+Option,0,a) The adult auto-injector delivers 0.5 to 1 mg of epinephrine.
+Option,0,b) The auto-injector delivers epinephrine via the subcutaneous route.
+Option,100,c) The epinephrine auto-injector delivers a preset amount of the drug.
+Option,0,d) EMTs do not need physician authorization to use the auto-injector.
+Hint,"Complexity: Easy			Ahead: Medications Used by EMTs			Subject:Principles of Pharmacology, Page 514			Title: Principles of Pharmacology			Feedback: See Medications Used by EMTs			Taxonomy: Recall			Objective: 12-12 State the steps to follow when administering medications to a patient using an auto-injector.",
+NewQuestion,MC,
+Title,,
+QuestionText,EMTs arrive at the scene of a patient who was “found down.” A family member states that she gave naloxone (Narcan) to the patient before the ambulance arrived. The EMTs should suspect that the patient:,
+Points,1,
+Difficulty,1,
+Option,100,a) overdosed on an opioid drug.
+Option,0,b) has a low blood glucose level.
+Option,0,c) experienced a prolonged seizure.
+Option,0,d) has a history of allergic reactions.
+Hint,"Complexity: Easy			Ahead: Medications Used by EMTs			Subject:Principles of Pharmacology, Page 514			Title: Principles of Pharmacology			Feedback: See Medications Used by EMTs			Taxonomy: Analysis			Objective: 12-9 Discuss the medication administration circumstances involving peer-assisted medication, patient-assisted medication, and EMT-administered medication.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following clinical signs would necessitate the administration of naloxone (Narcan) in a suspected narcotic overdose?,
+Points,1,
+Difficulty,1,
+Option,0,a) Tachycardia
+Option,0,b) Hypertension
+Option,100,c) Slow respirations
+Option,0,d) Extreme agitation
+Hint,"Complexity: Moderate			Ahead: Medications Used by EMTs			Subject:Principles of Pharmacology, Page 514			Title: Principles of Pharmacology			Feedback: See Medications Used by EMTs			Taxonomy: Application			Objective: 12-12 State the steps to follow when administering medications to a patient using an auto-injector.",
+NewQuestion,MC,
+Title,,
+QuestionText,"EMTs respond to a known heroin abuser who is unresponsive. If they give naloxone (Narcan) to this patient, the EMTs should recall that:",
+Points,1,
+Difficulty,1,
+Option,0,a) naloxone should be administered in increments of 2 mg.
+Option,0,b) the effects of naloxone last longer than most opioid drugs.
+Option,0,c) naloxone should not be given if the patient’s breathing is slow.
+Option,100,d) naloxone administration could cause seizures in this patient.
+Hint,"Complexity: Difficult			Ahead: Medications Used by EMTs			Subject:Principles of Pharmacology, Page 514			Title: Principles of Pharmacology			Feedback: See Medications Used by EMTs			Taxonomy: Analysis			Objective: 12-9 Discuss the medication administration circumstances involving peer-assisted medication, patient-assisted medication, and EMT-administered medication.",
+NewQuestion,MC,
+Title,,
+QuestionText,"When administering naloxone (Narcan) via the intranasal route, the EMT should administer:",
+Points,1,
+Difficulty,1,
+Option,0,a) at least 2 mL into each nostril.
+Option,100,b) a half dose into each nostril.
+Option,0,c) a minimum of 2.5 mg.
+Option,0,d) a maximum of 0.5 mL.
+Hint,"Complexity: Moderate			Ahead: Medications Used by EMTs			Subject:Principles of Pharmacology, Page 515			Title: Principles of Pharmacology			Feedback: See Medications Used by EMTs			Taxonomy: Recall			Objective: 12-5 Describe rectal, oral, intravenous, intraosseous, subcutaneous, intramuscular, intranasal, inhalation, sublingual, and transcutaneous routes of medication administration; include the rates of absorption.",
+NewQuestion,MC,
+Title,,
+QuestionText,"With the flowmeter set at 6 L/min, the nasal cannula will deliver up to _______ oxygen.",
+Points,1,
+Difficulty,1,
+Option,0,a) 14%
+Option,0,b) 24%
+Option,0,c) 34%
+Option,100,d) 44%
+Hint,"Complexity: Easy			Ahead: Medications Used by EMTs			Subject:Principles of Pharmacology, Page 516			Title: Principles of Pharmacology			Feedback: See Medications Used by EMTs			Taxonomy: Recall			Objective: 12-10 Know the generic and trade names, actions, indications, contraindications, routes of administration, adverse effects, interactions, and doses of medications that may be administered by an EMT in an emergency as dictated by state protocols and local medical direction.",
+NewQuestion,MC,
+Title,,
+QuestionText,For which of the following conditions is albuterol prescribed?,
+Points,1,
+Difficulty,1,
+Option,100,a) Asthma
+Option,0,b) Heart disease
+Option,0,c) Hypertension
+Option,0,d) Allergic reactions
+Hint,"Complexity: Moderate			Ahead: Medications Used by EMTs			Subject:Principles of Pharmacology, Page 518			Title: Principles of Pharmacology			Feedback: See Medications Used by EMTs			Taxonomy: Application			Objective: 12-12 Know the generic and trade names, actions, indications, contraindications, routes of administration, adverse effects, interactions, and doses of medications that may be administered by an EMT in an emergency as dictated by state protocols and local medical direction.",
+NewQuestion,MC,
+Title,,
+QuestionText,"When assessing an elderly male who complains of nausea and generalized weakness, you find that he takes atorvastatin (Lipitor) and amlodipine (Norvasc). These medications suggest a history of:",
+Points,1,
+Difficulty,1,
+Option,0,a) bacterial infection.
+Option,100,b) cardiovascular disease.
+Option,0,c) reactive airway disease.
+Option,0,d) non–insulin-dependent diabetes.
+Hint,"Complexity: Easy			Ahead: Patient Medications			Subject:Principles of Pharmacology, Page 520			Title: Principles of Pharmacology			Feedback: See Patient Medications			Taxonomy: Application			Objective: 12-13 Explain why determining what prescription and over-the-counter medications a patient is taking is a critical aspect of patient assessment during an emergency.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following is an example of a rules-based medication error?,
+Points,1,
+Difficulty,1,
+Option,0,a) The EMT administers a drug that is contraindicated for the patient.
+Option,0,"b) The EMT administers the correct drug, but gives it by the wrong route."
+Option,100,c) The EMT administers a drug that is not approved by the medical director.
+Option,0,d) The EMT accidentally gives a higher drug dose than what is indicated.
+Hint,"Complexity: Difficult			Ahead: Medication Errors			Subject:Principles of Pharmacology, Page 522			Title: Principles of Pharmacology			Feedback: See Medication Errors			Taxonomy: Analysis			Objective: 12-14 State the steps to take if a medication error occurs.",

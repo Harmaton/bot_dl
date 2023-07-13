@@ -1,0 +1,630 @@
+NewQuestion,MC,
+Title,,
+QuestionText,A dysbarism injury refers to the signs and symptoms related to changes in:,
+Points,1,
+Difficulty,1,
+Option,0,a) rapid ascent.
+Option,0,b) rapid descent.
+Option,0,c) decompression.
+Option,100,d) barometric pressure.
+Hint,"Complexity: Easy			Ahead: High Altitude			Subject:Environmental Emergencies, Page 1226			Title: Environmental Emergencies			Feedback: See High Altitude			Taxonomy: Recall			Objective: 33-16 Discuss the types of dysbarism injuries, including their incidence, risk factors, signs and symptoms, and emergency medical treatment.",
+NewQuestion,MC,
+Title,,
+QuestionText,"When a warm hand is immersed in water that is 70°F (21°C), heat is transferred from the hand to the water through a process called:",
+Points,1,
+Difficulty,1,
+Option,0,a) radiation.
+Option,100,b) conduction.
+Option,0,c) convection.
+Option,0,d) evaporation.
+Hint,"Complexity: Easy			Ahead: Cold Exposure			Subject:Environmental Emergencies, Page 1202			Title: Environmental Emergencies			Feedback: See Cold Exposure			Taxonomy: Analysis			Objective: 33-2 Describe the five ways heat loss occurs in the body, and how the rate and amount of heat loss or gain can be modified in an emergency situation.",
+NewQuestion,MC,
+Title,,
+QuestionText,"The transfer of heat to circulating air, such as when cool air moves across the body’s surface, is called:",
+Points,1,
+Difficulty,1,
+Option,0,a) radiation.
+Option,0,b) conduction.
+Option,100,c) convection.
+Option,0,d) evaporation.
+Hint,"Complexity: Easy			Ahead: Cold Exposure			Subject:Environmental Emergencies, Page 1202			Title: Environmental Emergencies			Feedback: See Cold Exposure			Taxonomy: Recall			Objective: 33-2 Describe the five ways heat loss occurs in the body, and how the rate and amount of heat loss or gain can be modified in an emergency situation.",
+NewQuestion,MC,
+Title,,
+QuestionText,"The body’s natural cooling mechanism, in which sweat is converted to a gas, is called:",
+Points,1,
+Difficulty,1,
+Option,0,a) radiation.
+Option,0,b) convection.
+Option,0,c) conduction.
+Option,100,d) evaporation.
+Hint,"Complexity: Moderate			Ahead: Cold Exposure			Subject:Environmental Emergencies, Page 1202			Title: Environmental Emergencies			Feedback: See Cold Exposure			Taxonomy: Recall			Objective: 33-2 Describe the five ways heat loss occurs in the body, and how the rate and amount of heat loss or gain can be modified in an emergency situation.",
+NewQuestion,MC,
+Title,,
+QuestionText,Heat loss from the body through respiration occurs when:,
+Points,1,
+Difficulty,1,
+Option,100,a) warm air is exhaled into the atmosphere.
+Option,0,b) the core body temperature is greater than 98°F (37°C).
+Option,0,c) cool air is inhaled and displaces warm air.
+Option,0,d) air temperature is greater than body temperature.
+Hint,"Complexity: Easy			Ahead: Cold Exposure			Subject:Environmental Emergencies, Page 1202			Title: Environmental Emergencies			Feedback: See Cold Exposure			Taxonomy: Recall			Objective: 33-2 Describe the five ways heat loss occurs in the body, and how the rate and amount of heat loss or gain can be modified in an emergency situation.",
+NewQuestion,MC,
+Title,,
+QuestionText,Shivering is a mechanism in which the body generates heat by:,
+Points,1,
+Difficulty,1,
+Option,100,a) increasing the metabolic rate.
+Option,0,b) decreasing the use of oxygen.
+Option,0,c) decreasing the metabolic rate.
+Option,0,d) retaining excess carbon dioxide.
+Hint,"Complexity: Moderate			Ahead: Cold Exposure			Subject:Environmental Emergencies, Page 1202			Title: Environmental Emergencies			Feedback: See Cold Exposure			Taxonomy: Recall			Objective: 33-2 Describe the five ways heat loss occurs in the body, and how the rate and amount of heat loss or gain can be modified in an emergency situation.",
+NewQuestion,MC,
+Title,,
+QuestionText,Covering a patient’s _________ will significantly minimize radiation heat loss.,
+Points,1,
+Difficulty,1,
+Option,100,a) head
+Option,0,b) chest
+Option,0,c) abdomen
+Option,0,d) extremities
+Hint,"Complexity: Easy			Ahead: Cold Exposure			Subject:Environmental Emergencies, Page 1203			Title: Environmental Emergencies			Feedback: See Cold Exposure			Taxonomy: Recall			Objective: 33-2 Describe the five ways heat loss occurs in the body, and how the rate and amount of heat loss or gain can be modified in an emergency situation.",
+NewQuestion,MC,
+Title,,
+QuestionText,Hypothermia occurs when the core body temperature falls below:,
+Points,1,
+Difficulty,1,
+Option,0,a) 98°F (37°C).
+Option,100,b) 95°F (35°C).
+Option,0,c) 90°F (32°C).
+Option,0,d) 88°F (31°C).
+Hint,"Complexity: Moderate			Ahead: Cold Exposure			Subject:Environmental Emergencies, Page 1203			Title: Environmental Emergencies			Feedback: See Cold Exposure			Taxonomy: Recall			Objective: 33-3 Describe the four general stages of hypothermia.",
+NewQuestion,MC,
+Title,,
+QuestionText,The body’s natural protective mechanisms against heat loss are:,
+Points,1,
+Difficulty,1,
+Option,0,a) shivering and vasodilation.
+Option,0,b) vasodilation and respiration.
+Option,0,c) respiration and constriction of blood vessels in the skin.
+Option,100,d) constriction of blood vessels in the skin and shivering.
+Hint,"Complexity: Moderate			Ahead: Cold Exposure			Subject:Environmental Emergencies, Page 1203			Title: Environmental Emergencies			Feedback: See Cold Exposure			Taxonomy: Recall			Objective: 33-2 Describe the five ways heat loss occurs in the body, and how the rate and amount of heat loss or gain can be modified in an emergency situation.",
+NewQuestion,MC,
+Title,,
+QuestionText,"Compared to adults, infants and children are at higher risk for hypothermia for all of the following reasons, except:",
+Points,1,
+Difficulty,1,
+Option,0,a) a decreased ability to shiver.
+Option,100,b) a relatively small surface area.
+Option,0,c) a smaller amount of body fat.
+Option,0,d) a smaller overall muscle mass.
+Hint,"Complexity: Moderate			Ahead: Factors Affecting Exposure			Subject:Environmental Emergencies, Page 1201			Title: Environmental Emergencies			Feedback: See Factors Affecting Exposure			Taxonomy: Recall			Objective: 33-1 Identify the four factors that affect how a person deals with exposure to a cold or hot environment.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following conditions would be the least likely to increase a person’s risk of hypothermia?,
+Points,1,
+Difficulty,1,
+Option,0,a) Head injury
+Option,0,b) Severe infection
+Option,100,c) Hyperglycemia
+Option,0,d) Spinal cord injury
+Hint,"Complexity: Moderate			Ahead: Cold Exposure			Subject:Environmental Emergencies, Page 1203			Title: Environmental Emergencies			Feedback: See Cold Exposure			Taxonomy: Analysis			Objective: 33-3 Describe the four general stages of hypothermia.",
+NewQuestion,MC,
+Title,,
+QuestionText,"To assess a patient’s general body temperature, pull back on your glove and place the back of your hand on his or her skin at the:",
+Points,1,
+Difficulty,1,
+Option,0,a) neck.
+Option,0,b) chest.
+Option,100,c) abdomen.
+Option,0,d) forehead.
+Hint,"Complexity: Moderate			Ahead: Cold Exposure			Subject:Environmental Emergencies, Page 1203			Title: Environmental Emergencies			Feedback: See Cold Exposure			Taxonomy: Recall			Objective: 33-2 Describe the five ways heat loss occurs in the body, and how the rate and amount of heat loss or gain can be modified in an emergency situation.",
+NewQuestion,MC,
+Title,,
+QuestionText,"To obtain the most accurate reading of a patient’s core body temperature, you should place a special hypothermia thermometer:",
+Points,1,
+Difficulty,1,
+Option,100,a) into the patient’s rectum.
+Option,0,b) under the patient’s tongue.
+Option,0,c) behind the patient’s knee.
+Option,0,d) under the patient’s armpit.
+Hint,"Complexity: Easy			Ahead: Cold Exposure			Subject:Environmental Emergencies, Page 1203			Title: Environmental Emergencies			Feedback: See Cold Exposure			Taxonomy: Recall			Objective: 33-5 Describe the process of providing emergency care to a patient who has sustained a cold injury, including assessment of the patient, review of signs and symptoms, and management of care.",
+NewQuestion,MC,
+Title,,
+QuestionText,A patient with a core body temperature of 95°F (35°C) will most likely experience:,
+Points,1,
+Difficulty,1,
+Option,0,a) a slow pulse.
+Option,100,b) rapid breathing.
+Option,0,c) muscle stiffness.
+Option,0,d) loss of consciousness.
+Hint,"Complexity: Moderate			Ahead: Cold Exposure			Subject:Environmental Emergencies, Page 1203			Title: Environmental Emergencies			Feedback: See Cold Exposure			Taxonomy: Application			Objective: 33-2 Describe the five ways heat loss occurs in the body, and how the rate and amount of heat loss or gain can be modified in an emergency situation.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following would be the least likely to occur in a patient with a core body temperature of between 89°F (32°C) and 92°F (33°C)?,
+Points,1,
+Difficulty,1,
+Option,100,a) Muscle activity increases
+Option,0,b) Shivering stops
+Option,0,c) Finger motion ceases
+Option,0,d) Mental status decreases
+Hint,"Complexity: Moderate			Ahead: Cold Exposure			Subject:Environmental Emergencies, Page 1204			Title: Environmental Emergencies			Feedback: See Cold Exposure			Taxonomy: Recall			Objective: 33-5 Describe the process of providing emergency care to a patient who has sustained a cold injury, including assessment of the patient, review of signs and symptoms, and management of care.",
+NewQuestion,MC,
+Title,,
+QuestionText,A person’s ability to shiver is lost when his or her body temperature falls below:,
+Points,1,
+Difficulty,1,
+Option,100,a) 90°F (32°C).
+Option,0,b) 92°F (33°C).
+Option,0,c) 94°F (34°C).
+Option,0,d) 95°F (35°C).
+Hint,"Complexity: Moderate			Ahead: Cold Exposure			Subject:Environmental Emergencies, Page 1204			Title: Environmental Emergencies			Feedback: See Cold Exposure			Taxonomy: Recall			Objective: 33-3 Describe the four general stages of hypothermia.",
+NewQuestion,MC,
+Title,,
+QuestionText,"All of the following terms refer to a body part that is cold but not frozen, except:",
+Points,1,
+Difficulty,1,
+Option,0,a) frostnip.
+Option,100,b) frostbite.
+Option,0,c) trench foot.
+Option,0,d) immersion foot.
+Hint,"Complexity: Moderate			Ahead: Cold Exposure			Subject:Environmental Emergencies, Page 1205			Title: Environmental Emergencies			Feedback: See Cold Exposure			Taxonomy: Recall			Objective: 33-4 Describe local cold injuries and their underlying causes.",
+NewQuestion,MC,
+Title,,
+QuestionText,Patients with generalized hypothermia are at an increased risk of a local cold injury because:,
+Points,1,
+Difficulty,1,
+Option,100,a) blood is shunted away from the extremities to the body’s core.
+Option,0,b) peripheral vasodilation brings warm blood to the skin’s surface.
+Option,0,c) the major muscles of the body become rigid during hypothermia.
+Option,0,d) the patient is usually unable to escape the cold ambient temperature.
+Hint,"Complexity: Moderate			Ahead: Cold Exposure			Subject:Environmental Emergencies, Page 1205			Title: Environmental Emergencies			Feedback: See Cold Exposure			Taxonomy: Application			Objective: 33-5 Describe the process of providing emergency care to a patient who has sustained a cold injury, including assessment of the patient, review of signs and symptoms, and management of care.",
+NewQuestion,MC,
+Title,,
+QuestionText,A frostbitten foot can be identified by the presence of:,
+Points,1,
+Difficulty,1,
+Option,0,a) gross deformity.
+Option,0,"b) soft, smooth skin."
+Option,100,c) mottling and blisters.
+Option,0,d) blanching of the skin.
+Hint,"Complexity: Moderate			Ahead: Cold Exposure			Subject:Environmental Emergencies, Page 1206			Title: Environmental Emergencies			Feedback: See Cold Exposure			Taxonomy: Application			Objective: 33-5 Describe the process of providing emergency care to a patient who has sustained a cold injury, including assessment of the patient, review of signs and symptoms, and management of care.",
+NewQuestion,MC,
+Title,,
+QuestionText,"A 30-year-old male was rescued after being lost in the woods for approximately 18 hours. The outside temperature is 30°F (−1°C). He is immediately placed in the warmed ambulance, where you perform a primary assessment. He is unresponsive, pale, and apneic. You should:",
+Points,1,
+Difficulty,1,
+Option,0,a) apply an automated external defibrillator and assess his cardiac rhythm.
+Option,100,b) assess for a carotid pulse for up to 60 seconds.
+Option,0,c) open his airway and give two rescue breaths.
+Option,0,d) apply chemical heat packs to his groin and axillae.
+Hint,"Complexity: Moderate			Ahead: Assessment of Cold Injuries			Subject:Environmental Emergencies, Page 1207			Title: Environmental Emergencies			Feedback: See Assessment of Cold Injuries			Taxonomy: Application			Objective: 33-5 Describe the process of providing emergency care to a patient who has sustained a cold injury, including assessment of the patient, review of signs and symptoms, and management of care.",
+NewQuestion,MC,
+Title,,
+QuestionText,Hypothermia can worsen internal bleeding secondary to:,
+Points,1,
+Difficulty,1,
+Option,0,a) cardiac arrhythmias.
+Option,0,b) a decreased heart rate.
+Option,0,c) severe muscular rigidity.
+Option,100,d) blood-clotting abnormalities.
+Hint,"Complexity: Moderate			Ahead: Assessment of Cold Injuries			Subject:Environmental Emergencies, Page 1207			Title: Environmental Emergencies			Feedback: See Assessment of Cold Injuries			Taxonomy: Application			Objective: 33-5 Describe the process of providing emergency care to a patient who has sustained a cold injury, including assessment of the patient, review of signs and symptoms, and management of care.",
+NewQuestion,MC,
+Title,,
+QuestionText,Rough handling of a hypothermic patient with a pulse might cause:,
+Points,1,
+Difficulty,1,
+Option,0,a) profound bradycardia.
+Option,100,b) ventricular fibrillation.
+Option,0,c) ventricular tachycardia.
+Option,0,d) pulseless electrical activity.
+Hint,"Complexity: Moderate			Ahead: General Management of Cold Emergencies			Subject:Environmental Emergencies, Page 1209			Title: Environmental Emergencies			Feedback: See General Management of Cold Emergencies			Taxonomy: Recall			Objective: 33-5 Describe the process of providing emergency care to a patient who has sustained a cold injury, including assessment of the patient, review of signs and symptoms, and management of care.",
+NewQuestion,MC,
+Title,,
+QuestionText,"Your assessment of a 23-year-old female reveals a core body temperature of 93.4°F (34°C). She is conscious, answers your questions appropriately, is shivering, and complains of nausea. Her skin is cold and pale, her muscles appear rigid, and her respirations are rapid. You should:",
+Points,1,
+Difficulty,1,
+Option,0,"a) apply the automated external defibrillator in case she develops cardiopulmonary arrest, cover her with layers of blankets, and transport carefully."
+Option,100,"b) place heat packs to her groin, axillae, and behind her neck; cover her with warm blankets; and avoid rough handling."
+Option,0,c) cover her with warm blankets and let her move about on the stretcher to generate body heat and increase her temperature.
+Option,0,"d) sit her up and give her small sips of warm water to drink, place heat packs to her axillae and groin, and cover her with blankets."
+Hint,"Complexity: Difficult			Ahead: General Management of Cold Emergencies			Subject:Environmental Emergencies, Page 1209			Title: Environmental Emergencies			Feedback: See General Management of Cold Emergencies			Taxonomy: Application			Objective: 33-5 Describe the process of providing emergency care to a patient who has sustained a cold injury, including assessment of the patient, review of signs and symptoms, and management of care.",
+NewQuestion,MC,
+Title,,
+QuestionText,"You are transporting a 28-year-old man with a frostbitten foot. The patient’s vital signs are stable, and he denies any other injuries or symptoms. The weather is treacherous, and your transport time to the hospital is approximately 45 minutes. During transport, you should:",
+Points,1,
+Difficulty,1,
+Option,0,a) rewarm his foot in 102°F to 104°F (38.9°C to 40°C) water.
+Option,0,b) administer oxygen via a nonrebreathing mask.
+Option,0,c) cover his foot with chemical heat compresses.
+Option,100,d) protect the affected part from further injury.
+Hint,"Complexity: Difficult			Ahead: General Management of Cold Emergencies			Subject:Environmental Emergencies, Page 1210			Title: Environmental Emergencies			Feedback: See General Management of Cold Emergencies			Taxonomy: Application			Objective: 33-5 Describe the process of providing emergency care to a patient who has sustained a cold injury, including assessment of the patient, review of signs and symptoms, and management of care.",
+NewQuestion,MC,
+Title,,
+QuestionText,The two most efficient ways for the body to eliminate excess heat are:,
+Points,1,
+Difficulty,1,
+Option,0,a) respiration and bradycardia.
+Option,0,b) perspiration and tachycardia.
+Option,100,c) sweating and vasodilation.
+Option,0,d) hyperventilation and tachycardia.
+Hint,"Complexity: Easy			Ahead: Heat Exposure			Subject:Environmental Emergencies, Pages 1210-1211			Title: Environmental Emergencies			Feedback: See Heat Exposure			Taxonomy: Recall			Objective: 33-7 Describe the three emergencies that are caused by heat exposure, including their risk factors, signs, and symptoms.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following most accurately describes hyperthermia?,
+Points,1,
+Difficulty,1,
+Option,0,a) The core body temperature exceeds 99.5°F (37°C).
+Option,100,b) The body is exposed to more heat than it can lose.
+Option,0,c) Heat evaporates a significant amount of body water.
+Option,0,d) The body eliminates more heat than it can generate.
+Hint,"Complexity: Moderate			Ahead: Heat Exposure			Subject:Environmental Emergencies, Page 1211			Title: Environmental Emergencies			Feedback: See Heat Exposure			Taxonomy: Recall			Objective: 33-7 Describe the three emergencies that are caused by heat exposure, including their risk factors, signs, and symptoms.",
+NewQuestion,MC,
+Title,,
+QuestionText,High air temperature reduces the body’s ability to lose heat by:,
+Points,1,
+Difficulty,1,
+Option,100,a) radiation.
+Option,0,b) convection.
+Option,0,c) conduction.
+Option,0,d) evaporation.
+Hint,"Complexity: Easy			Ahead: Heat Exposure			Subject:Environmental Emergencies, Page 1211			Title: Environmental Emergencies			Feedback: See Heat Exposure			Taxonomy: Recall			Objective: 33-7 Describe the three emergencies that are caused by heat exposure, including their risk factors, signs, and symptoms.",
+NewQuestion,MC,
+Title,,
+QuestionText,"Geriatric patients, newborns, and infants are especially prone to hyperthermia because they:",
+Points,1,
+Difficulty,1,
+Option,0,a) have relatively smaller heads.
+Option,0,b) have less body fat.
+Option,100,c) exhibit poor thermoregulation.
+Option,0,d) have smaller body surface areas.
+Hint,"Complexity: Moderate			Ahead: Heat Exposure			Subject:Environmental Emergencies, Page 1211			Title: Environmental Emergencies			Feedback: See Heat Exposure			Taxonomy: Application			Objective: 33-7 Describe the three emergencies that are caused by heat exposure, including their risk factors, signs, and symptoms.",
+NewQuestion,MC,
+Title,,
+QuestionText,"When the body loses sweat, it also loses:",
+Points,1,
+Difficulty,1,
+Option,0,a) plasma.
+Option,0,b) nutrients.
+Option,0,c) erythrocytes.
+Option,100,d) electrolytes.
+Hint,"Complexity: Moderate			Ahead: Heat Exposure			Subject:Environmental Emergencies, Page 1211			Title: Environmental Emergencies			Feedback: See Heat Exposure			Taxonomy: Analysis			Objective: 33-7 Describe the three emergencies that are caused by heat exposure, including their risk factors, signs, and symptoms.",
+NewQuestion,MC,
+Title,,
+QuestionText,For sweating to be an effective cooling mechanism:,
+Points,1,
+Difficulty,1,
+Option,0,a) several layers of clothing must be worn.
+Option,100,b) it must evaporate from the body.
+Option,0,c) the relative humidity must be above 90%.
+Option,0,d) the body must produce at least 1 L per hour.
+Hint,"Complexity: Moderate			Ahead: Heat Exposure			Subject:Environmental Emergencies, Page 1211			Title: Environmental Emergencies			Feedback: See Heat Exposure			Taxonomy: Recall			Objective: 33-7 Describe the three emergencies that are caused by heat exposure, including their risk factors, signs, and symptoms.",
+NewQuestion,MC,
+Title,,
+QuestionText,High humidity reduces the body’s ability to lose heat through:,
+Points,1,
+Difficulty,1,
+Option,0,a) radiation.
+Option,0,b) convection.
+Option,0,c) conduction.
+Option,100,d) evaporation.
+Hint,"Complexity: Easy			Ahead: Heat Exposure			Subject:Environmental Emergencies, Page 1211			Title: Environmental Emergencies			Feedback: See Heat Exposure			Taxonomy: Recall			Objective: 33-7 Describe the three emergencies that are caused by heat exposure, including their risk factors, signs, and symptoms.",
+NewQuestion,MC,
+Title,,
+QuestionText,"Common signs and symptoms of heat exhaustion include all of the following, except:",
+Points,1,
+Difficulty,1,
+Option,0,a) nausea.
+Option,0,b) dry tongue and thirst.
+Option,0,c) tachycardia.
+Option,100,"d) hot, dry skin."
+Hint,"Complexity: Moderate			Ahead: Heat Exposure			Subject:Environmental Emergencies, Page 1212			Title: Environmental Emergencies			Feedback: See Heat Exposure			Taxonomy: Recall			Objective: 33-7 Describe the three emergencies that are caused by heat exposure, including their risk factors, signs, and symptoms.",
+NewQuestion,MC,
+Title,,
+QuestionText,Heatstroke occurs when:,
+Points,1,
+Difficulty,1,
+Option,0,a) a person’s core body temperature rises above 103°F (39°C).
+Option,100,b) the body’s heat-eliminating mechanisms are overwhelmed.
+Option,0,c) a person becomes dehydrated secondary to excess water loss.
+Option,0,d) the ambient temperature exceeds 90°F (32°C) and the humidity is high.
+Hint,"Complexity: Moderate			Ahead: Heat Exposure			Subject:Environmental Emergencies, Page 1212			Title: Environmental Emergencies			Feedback: See Heat Exposure			Taxonomy: Recall			Objective: 33-7 Describe the three emergencies that are caused by heat exposure, including their risk factors, signs, and symptoms.",
+NewQuestion,MC,
+Title,,
+QuestionText,Signs of late heatstroke include:,
+Points,1,
+Difficulty,1,
+Option,0,"a) hot, moist skin."
+Option,0,b) nausea and vomiting.
+Option,100,"c) a weak, rapid pulse."
+Option,0,d) a change in behavior.
+Hint,"Complexity: Moderate			Ahead: Heat Exposure			Subject:Environmental Emergencies, Page 1213			Title: Environmental Emergencies			Feedback: See Heat Exposure			Taxonomy: Recall			Objective: 33-7 Describe the three emergencies that are caused by heat exposure, including their risk factors, signs, and symptoms.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following medications increases a person’s risk of a heat-related emergency?,
+Points,1,
+Difficulty,1,
+Option,0,a) Motrin
+Option,0,b) Tylenol
+Option,0,c) Aspirin
+Option,100,d) Diuretics
+Hint,"Complexity: Moderate			Ahead: Assessment of Heat Emergencies			Subject:Environmental Emergencies, Page 1214			Title: Environmental Emergencies			Feedback: See Assessment of Heat Emergencies			Taxonomy: Recall			Objective: 33-8 Describe the process of providing emergency care to a patient who is experiencing a heat emergency, including assessment of the patient, review of signs and symptoms, and management of care.",
+NewQuestion,MC,
+Title,,
+QuestionText,"You receive a call to a residence for a sick patient. Upon your arrival, you find the patient, a 53-year-old diabetic male, lying down on his front porch. His wife tells you that he was mowing the lawn in the heat for the past three hours. The patient is confused and has hot, moist skin. His pulse is weak and thready, and his blood pressure is 90/50 mm Hg. You should:",
+Points,1,
+Difficulty,1,
+Option,0,a) perform a head-to-toe assessment and look for signs of trauma.
+Option,0,b) place him in a sitting position and have him drink 1 L of water.
+Option,100,c) load him into the ambulance and begin rapid cooling interventions.
+Option,0,d) administer one tube of oral glucose and reassess his mental status.
+Hint,"Complexity: Moderate			Ahead: Assessment of Heat Emergencies			Subject:Environmental Emergencies, Page 1215			Title: Environmental Emergencies			Feedback: See Assessment of Heat Emergencies			Taxonomy: Application			Objective: 33-8 Describe the process of providing emergency care to a patient who is experiencing a heat emergency, including assessment of the patient, review of signs and symptoms, and management of care.",
+NewQuestion,MC,
+Title,,
+QuestionText,"You are dispatched to a local high school track and field event for a 16-year-old male who fainted. The outside temperature is approximately 95°F (35°C) with high humidity. Upon your arrival, the patient is conscious, alert, and complains of nausea and a headache. His skin is cool, clammy, and pale. You should:",
+Points,1,
+Difficulty,1,
+Option,0,a) give him a liquid salt solution to drink.
+Option,0,b) administer 100% supplemental oxygen.
+Option,0,c) apply chemical ice packs to his axillae.
+Option,100,d) move him into the cooled ambulance.
+Hint,"Complexity: Difficult			Ahead: Management of Heat Emergencies			Subject:Environmental Emergencies, Page 1215			Title: Environmental Emergencies			Feedback: See Management of Heat Emergencies			Taxonomy: Application			Objective: 33-8 Describe the process of providing emergency care to a patient who is experiencing a heat emergency, including assessment of the patient, review of signs and symptoms, and management of care.",
+NewQuestion,MC,
+Title,,
+QuestionText,"You are assessing a man with suspected hypothermia. The patient is conscious, alert, and actively shivering. His respiratory rate is increased, but his breathing is unlabored, and the pulse oximeter reads 72%. The pulse oximetry reading is most likely:",
+Points,1,
+Difficulty,1,
+Option,100,a) secondary to decreased perfusion in the extremities.
+Option,0,b) a direct reflection of his increased respiratory rate.
+Option,0,c) accurate because he has signs of respiratory failure.
+Option,0,d) accurate because shivering affects hemoglobin binding.
+Hint,"Complexity: Moderate			Ahead: Assessment of Cold Emergencies			Subject:Environmental Emergencies, Page 1208			Title: Environmental Emergencies			Feedback: See Assessment of Cold Emergencies			Taxonomy: Application			Objective: 33-5 Describe the process of providing emergency care to a patient who has sustained a cold injury, including assessment of the patient, review of signs and symptoms, and management of care.",
+NewQuestion,MC,
+Title,,
+QuestionText,Drowning is most accurately defined as:,
+Points,1,
+Difficulty,1,
+Option,0,a) temporary survival after submersion in water.
+Option,100,b) death from suffocation after submersion in water.
+Option,0,c) water in the lungs following submersion in water.
+Option,0,d) death beyond 24 hours after submersion in water.
+Hint,"Complexity: Easy			Ahead: Drowning			Subject:Environmental Emergencies, Page 1218			Title: Environmental Emergencies			Feedback: See Drowning			Taxonomy: Recall			Objective: 33-9 Describe drowning, including its incidence, risk factors, and prevention.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following statements regarding drowning is correct?,
+Points,1,
+Difficulty,1,
+Option,0,a) Hypoxia in the drowning victim initially occurs due to water in the lungs.
+Option,0,b) Artificial ventilations can easily be performed in patients with a laryngospasm.
+Option,0,c) Large amounts of water enter the lungs in a small number of drowning victims.
+Option,100,d) Patients with a submersion injury might deteriorate rap¬idly because of pulmonary injury and cerebral hypoxia.
+Hint,"Complexity: Moderate			Ahead: Assessment of Drowning and Diving Emergencies			Subject:Environmental Emergencies, Page 1225			Title: Environmental Emergencies			Feedback: See Assessment of Drowning and Diving Emergencies			Taxonomy: Application			Objective: 33-9 Describe drowning, including its incidence, risk factors, and prevention.",
+NewQuestion,MC,
+Title,,
+QuestionText,"A 20-year-old male was pulled from cold water by his friends. The length of his submersion is not known and was not witnessed. You perform a primary assessment and determine that the patient is apneic and has a slow, weak pulse. You should:",
+Points,1,
+Difficulty,1,
+Option,0,"a) suction his airway for 30 seconds, provide rescue breathing, keep him warm, and transport at once."
+Option,0,"b) ventilate with a bag-valve mask, apply a rigid cervical collar, remove his wet clothing, and transport rapidly."
+Option,100,"c) provide rescue breathing, remove his wet clothing, immobilize his entire spine, keep him warm, and transport carefully."
+Option,0,"d) apply high-flow oxygen via a nonrebreathing mask, immobilize his spine, keep him warm, and transport rapidly."
+Hint,"Complexity: Difficult			Ahead: Emergency Care for Drowning or Diving Emergencies			Subject:Environmental Emergencies, Page 1225			Title: Environmental Emergencies			Feedback: See Emergency Care for Drowning or Diving Emergencies			Taxonomy: Application			Objective: 33-15 Describe the process of providing emergency care to a patient who has been involved in a drowning or diving emergency, including assessment of the patient, review of signs and symptoms, and management of care.",
+NewQuestion,MC,
+Title,,
+QuestionText,The EMT must assume that any unwitnessed water-related incident is accompanied by:,
+Points,1,
+Difficulty,1,
+Option,0,a) an air embolism.
+Option,0,b) alcohol intoxication.
+Option,100,c) possible spinal injury.
+Option,0,d) cold-water immersion.
+Hint,"Complexity: Moderate			Ahead: Drowning			Subject:Environmental Emergencies, Page 1220			Title: Environmental Emergencies			Feedback: See Drowning			Taxonomy: Application			Objective: 33-9 Describe drowning, including its incidence, risk factors, and prevention.",
+NewQuestion,MC,
+Title,,
+QuestionText,"You and your partner are standing by at a large social event at a river resort when a frantic woman tells you that she found a young male floating face-down in the water. Nobody claims to have witnessed the event. After you and your partner enter the water and reach the patient, you should:",
+Points,1,
+Difficulty,1,
+Option,100,a) move him as a unit to a supine position.
+Option,0,b) begin ventilations with a barrier device.
+Option,0,c) immediately secure him to a longboard.
+Option,0,d) open his airway with the jaw-thrust maneuver.
+Hint,"Complexity: Difficult			Ahead: Drowning			Subject:Environmental Emergencies, Page 1220			Title: Environmental Emergencies			Feedback: See Drowning			Taxonomy: Application			Objective: 33-10 List the basic rules of performing a water and ice rescue.",
+NewQuestion,MC,
+Title,,
+QuestionText,The diving reflex might allow a person to survive extended periods of submersion in cold water secondary to:,
+Points,1,
+Difficulty,1,
+Option,100,a) bradycardia and a slowing of the metabolic rate.
+Option,0,b) laryngospasm that protects the lungs from water.
+Option,0,c) tachycardia and a lowering of the blood pressure.
+Option,0,d) increases in the metabolic rate and oxygen demand.
+Hint,"Complexity: Easy			Ahead: Drowning			Subject:Environmental Emergencies, Page 1220			Title: Environmental Emergencies			Feedback: See Drowning			Taxonomy: Recall			Objective: 33-10 List the basic rules of performing a water and ice rescue.",
+NewQuestion,MC,
+Title,,
+QuestionText,Most of the serious injuries associated with scuba diving are caused by:,
+Points,1,
+Difficulty,1,
+Option,0,a) cold water temperature.
+Option,0,b) too rapid of a descent.
+Option,0,c) alcohol consumption.
+Option,100,d) too rapid of an ascent.
+Hint,"Complexity: Moderate			Ahead: Diving Emergencies			Subject:Environmental Emergencies, Page 1220			Title: Environmental Emergencies			Feedback: See Diving Emergencies			Taxonomy: Recall			Objective: 33-14 Describe the three types of diving emergencies, how they may occur, and their signs and symptoms.",
+NewQuestion,MC,
+Title,,
+QuestionText,An air embolism associated with diving occurs when:,
+Points,1,
+Difficulty,1,
+Option,0,a) the diver hyperventilates prior to entering the water.
+Option,100,b) the diver holds his or her breath during a rapid ascent.
+Option,0,c) the alveoli completely collapse due to high pressure.
+Option,0,d) high water pressure forces air into the mediastinum.
+Hint,"Complexity: Easy			Ahead: Diving Emergencies			Subject:Environmental Emergencies, Page 1222			Title: Environmental Emergencies			Feedback: See Diving Emergencies			Taxonomy: Recall			Objective: 33-14 Describe the three types of diving emergencies, how they may occur, and their signs and symptoms.",
+NewQuestion,MC,
+Title,,
+QuestionText,"Signs and symptoms of an air embolism include all of the following, except:",
+Points,1,
+Difficulty,1,
+Option,0,a) dysphasia.
+Option,100,b) pale skin.
+Option,0,c) dizziness.
+Option,0,d) joint pain.
+Hint,"Complexity: Moderate			Ahead: Diving Emergencies			Subject:Environmental Emergencies, Page 1222			Title: Environmental Emergencies			Feedback: See Diving Emergencies			Taxonomy: Recall			Objective: 33-14 Describe the three types of diving emergencies, how they may occur, and their signs and symptoms.",
+NewQuestion,MC,
+Title,,
+QuestionText,The most prominent symptom of decompression sickness is:,
+Points,1,
+Difficulty,1,
+Option,0,a) tightness in the chest.
+Option,0,b) difficulty with vision.
+Option,0,c) dizziness and nausea.
+Option,100,d) abdominal or joint pain.
+Hint,"Complexity: Easy			Ahead: Diving Emergencies			Subject:Environmental Emergencies, Page 1222			Title: Environmental Emergencies			Feedback: See Diving Emergencies			Taxonomy: Recall			Objective: 33-15 Describe the process of providing emergency care to a patient who has been involved in a drowning or diving emergency, including assessment of the patient, review of signs and symptoms, and management of care.",
+NewQuestion,MC,
+Title,,
+QuestionText,"You respond to a local lake where a diver complains of difficulty breathing that occurred immediately after rapidly ascending from a depth of approximately 30 feet. On assessment, you note that he has cyanosis around his lips and pink froth coming from his nose and mouth. You should:",
+Points,1,
+Difficulty,1,
+Option,100,"a) suction his mouth and nose, apply high-flow oxygen, monitor the patient’s breath sounds for a pneumothorax, and contact medical control regarding transport to a recompression facility."
+Option,0,"b) place him in a semi-sitting position, suction his mouth and nose, apply a continuous positive airway pressure (CPAP) device, and transport to the closest emergency department."
+Option,0,"c) suction his mouth and nose, keep him supine and elevate his legs to prevent air bubbles from entering his brain, administer high-flow oxygen, and transport to a hyperbaric chamber."
+Option,0,"d) position him supine with his head elevated 30°, suction his mouth and nose, hyperventilate him with a bag-valve mask, and contact medical control for further guidance."
+Hint,"Complexity: Difficult			Ahead: Assessment of Drowning and Diving Emergencies			Subject:Environmental Emergencies, Page 1224			Title: Environmental Emergencies			Feedback: See Assessment of Drowning and Diving Emergencies			Taxonomy: Application			Objective: 33-15 Describe the process of providing emergency care to a patient who has been involved in a drowning or diving emergency, including assessment of the patient, review of signs and symptoms, and management of care.",
+NewQuestion,MC,
+Title,,
+QuestionText,Breath-holding syncope is caused by a decreased stimulus to breathe and occurs when:,
+Points,1,
+Difficulty,1,
+Option,0,a) a swimmer breathes shallowly before entering the water.
+Option,0,b) a diver holds his or her breath during a staged ascent.
+Option,100,c) a swimmer hyperventilates prior to entering the water.
+Option,0,d) a diver holds his or her breath for a long period of time.
+Hint,"Complexity: Moderate			Ahead: Emergency Care for Drowning and Diving Emergencies			Subject:Environmental Emergencies, Page 1226			Title: Environmental Emergencies			Feedback: See Emergency Care for Drowning and Diving Emergencies			Taxonomy: Recall			Objective: 33-15 Describe the process of providing emergency care to a patient who has been involved in a drowning or diving emergency, including assessment of the patient, review of signs and symptoms, and management of care.",
+NewQuestion,MC,
+Title,,
+QuestionText,Burns associated with lightning strikes are typically:,
+Points,1,
+Difficulty,1,
+Option,100,a) superficial.
+Option,0,b) third-degree.
+Option,0,c) full-thickness.
+Option,0,d) partial-thickness.
+Hint,"Complexity: Easy			Ahead: Lightning			Subject:Environmental Emergencies, Page 1227			Title: Environmental Emergencies			Feedback: See Lightning			Taxonomy: Recall			Objective: 33-17 Discuss lightning injuries, including their incidence, risk factors, signs and symptoms, and emergency medical treatment.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following statements regarding lightning strikes is correct?,
+Points,1,
+Difficulty,1,
+Option,100,a) Lightning strikes might cause cardiac dysrhythmias that spontaneously resolve.
+Option,0,b) The tissue damage pathway caused by lightning usually occurs through the skin.
+Option,0,c) Victims who are struck by lightning often experience severe full-thickness burns.
+Option,0,d) Cervical spine fractures are the most common cause of lightning-related deaths.
+Hint,"Complexity: Easy			Ahead: Lightning			Subject:Environmental Emergencies, Page 1227			Title: Environmental Emergencies			Feedback: See Lightning			Taxonomy: Recall			Objective: 33-17 Discuss lightning injuries, including their incidence, risk factors, signs and symptoms, and emergency medical treatment.",
+NewQuestion,MC,
+Title,,
+QuestionText,"You and your partner respond to a park where several people were reportedly struck by lightning. When you arrive, you find three patients. The first patient is lying supine on the ground; he is unresponsive and does not appear to be breathing. The second patient is ambulatory, appears confused, and is holding his arm against his chest. The third patient is sitting on the ground holding the sides of his head. After calling for backup, you should:",
+Points,1,
+Difficulty,1,
+Option,0,"a) immediately begin CPR on the unresponsive patient, but cease resuscitation efforts if there is no response after five minutes of treatment."
+Option,0,b) focus your initial treatment efforts on the patients who are conscious because the unresponsive patient is likely in irreversible cardiac arrest.
+Option,100,"c) assess the unresponsive patient’s pulse, begin CPR starting with chest compressions if he is pulseless, and attach the automated external defibrillator as soon as possible."
+Option,0,d) recognize that the patients who are conscious are at high risk for developing cardiac arrest and quickly assess them for potentially life-threatening injuries.
+Hint,"Complexity: Difficult			Ahead: Lightning			Subject:Environmental Emergencies, Page 1228			Title: Environmental Emergencies			Feedback: See Lightning			Taxonomy: Application			Objective: 33-17 Discuss lightning injuries, including their incidence, risk factors, signs and symptoms, and emergency medical treatment.",
+NewQuestion,MC,
+Title,,
+QuestionText,The venom of a black widow spider is toxic to the:,
+Points,1,
+Difficulty,1,
+Option,0,a) renal system.
+Option,100,b) nervous system.
+Option,0,c) respiratory system.
+Option,0,d) cardiovascular system.
+Hint,"Complexity: Moderate			Ahead: Bites and Envenomation			Subject:Environmental Emergencies, Page 1228			Title: Environmental Emergencies			Feedback: See Bites and Envenomation			Taxonomy: Recall			Objective: 33-18 Describe the process of providing emergency care to patients who have been bitten by each of the following venomous spiders: Black widow spider; Brown recluse spider.",
+NewQuestion,MC,
+Title,,
+QuestionText,"In contrast to the brown recluse spider, the black widow spider:",
+Points,1,
+Difficulty,1,
+Option,0,a) is very small and has a violin-shaped marking on its back.
+Option,100,b) is large and has a red-orange hourglass mark on its abdomen.
+Option,0,c) has a bite that is typically painless until a blister develops.
+Option,0,d) has a bite that usually produces local pain but no systemic signs or symptoms.
+Hint,"Complexity: Moderate			Ahead: Bites and Envenomation			Subject:Environmental Emergencies, Page 1228			Title: Environmental Emergencies			Feedback: See Bites and Envenomation			Taxonomy: Recall			Objective: 33-18 Describe the process of providing emergency care to patients who have been bitten by each of the following venomous spiders: Black widow spider; Brown recluse spider.",
+NewQuestion,MC,
+Title,,
+QuestionText,"The venom of a brown recluse spider is cytotoxic, meaning that it:",
+Points,1,
+Difficulty,1,
+Option,0,a) suppresses the respiratory drive.
+Option,0,b) destroys the body’s red blood cells.
+Option,0,c) weakens the structure of the bones.
+Option,100,d) causes severe local tissue damage.
+Hint,"Complexity: Moderate			Ahead: Bites and Envenomation			Subject:Environmental Emergencies, Page 1228			Title: Environmental Emergencies			Feedback: See Bites and Envenomation			Taxonomy: Recall			Objective: 33-18 Describe the process of providing emergency care to patients who have been bitten by each of the following venomous spiders: Black widow spider; Brown recluse spider.",
+NewQuestion,MC,
+Title,,
+QuestionText,"You are assessing a 33-year-old male who complains of severe abdominal pain, weakness, and nausea. He tells you that he was gathering wood to build a fire when he felt a sudden, sharp pain on the back of his hand. Your assessment reveals that the patient’s abdomen is rigid and painful to palpation. You should suspect:",
+Points,1,
+Difficulty,1,
+Option,100,a) a black widow spider bite.
+Option,0,b) envenomation from a pit viper.
+Option,0,c) a brown recluse spider bite.
+Option,0,d) Rocky Mountain spotted fever.
+Hint,"Complexity: Difficult			Ahead: Bites and Envenomation			Subject:Environmental Emergencies, Page 1228			Title: Environmental Emergencies			Feedback: See Bites and Envenomation			Taxonomy: Recall			Objective: 33-18 Describe the process of providing emergency care to patients who have been bitten by each of the following venomous spiders: Black widow spider; Brown recluse spider.",
+NewQuestion,MC,
+Title,,
+QuestionText,"All of the following snakes are pit vipers, except for the:",
+Points,1,
+Difficulty,1,
+Option,0,a) copperhead.
+Option,0,b) rattlesnake.
+Option,100,c) coral snake.
+Option,0,d) cottonmouth.
+Hint,"Complexity: Moderate			Ahead: Bites and Envenomation			Subject:Environmental Emergencies, Page 1231			Title: Environmental Emergencies			Feedback: See Bites and Envenomation			Taxonomy: Recall			Objective: 33-20 Describe the process of providing emergency care to a patient who has been bitten by each of the following types of snake and is showing signs of envenomation: Pit viper; Coral snake.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following is an early sign of pit viper envenomation?,
+Points,1,
+Difficulty,1,
+Option,100,a) Local swelling and ecchymosis
+Option,0,b) General weakness and diaphoresis
+Option,0,c) Syncope and bleeding at distal sites
+Option,0,d) Signs and symptoms of hypoperfusion
+Hint,"Complexity: Easy			Ahead: Bites and Envenomation			Subject:Environmental Emergencies, Page 1231			Title: Environmental Emergencies			Feedback: See Bites and Envenomation			Taxonomy: Recall			Objective: 33-20 Describe the process of providing emergency care to a patient who has been bitten by each of the following types of snake and is showing signs of envenomation: Pit viper; Coral snake.",
+NewQuestion,MC,
+Title,,
+QuestionText,"A 31-year-old male was bitten on the leg by an unidentified snake. The patient is conscious and alert and in no apparent distress. Your assessment of his leg reveals two small puncture marks with minimal pain and swelling. In addition to administering oxygen and providing reassurance, further care for this patient should include:",
+Points,1,
+Difficulty,1,
+Option,0,a) applying ice to the wound and transporting quickly.
+Option,0,"b) transporting only with close, continuous monitoring."
+Option,0,c) elevating the lower extremities and giving antivenin.
+Option,100,"d) supine positioning, splinting the leg, and transporting."
+Hint,"Complexity: Difficult			Ahead: Bites and Envenomation			Subject:Environmental Emergencies, Page 1231			Title: Environmental Emergencies			Feedback: See Bites and Envenomation			Taxonomy: Application			Objective: 33-20 Describe the process of providing emergency care to a patient who has been bitten by each of the following types of snake and is showing signs of envenomation: Pit viper; Coral snake.",
+NewQuestion,MC,
+Title,,
+QuestionText,"You are dispatched to a residence for a young female who is sick. The patient complains of a rash to her lower extremities and truncal area. Your assessment reveals a small, painful blister on her inner thigh. As your partner is taking the patient’s vital signs, she states that she and her family returned from a camping trip two days ago. On the basis of this patient’s presentation, you should suspect:",
+Points,1,
+Difficulty,1,
+Option,100,a) Lyme disease.
+Option,0,b) an allergic reaction.
+Option,0,c) exposure to poison ivy.
+Option,0,d) Rocky Mountain spotted fever.
+Hint,"Complexity: Difficult			Ahead: Bites and Envenomation			Subject:Environmental Emergencies, Page 1234			Title: Environmental Emergencies			Feedback: See Bites and Envenomation			Taxonomy: Analysis			Objective: 33-19 Describe the process of providing emergency care to a patient who has sustained a bite or sting from each of the following insects and arachnids, including steps the EMT should follow if a patient develops a severe reaction to the sting or bite: Hymenoptera (bees, wasps, yellowjackets, and ants); Scorpions; Ticks.",
+NewQuestion,MC,
+Title,,
+QuestionText,"After being stung on the leg by a jellyfish, a man complains of severe pain to his leg, dizziness, and difficulty breathing. He has a red rash covering his trunk, and his blood pressure is 90/50 mm Hg. The EMT should:",
+Points,1,
+Difficulty,1,
+Option,100,a) administer oxygen and epinephrine and prepare for rapid transport.
+Option,0,b) remove the stingers from his leg by scraping them with a stiff object.
+Option,0,c) begin transport and immerse his leg in hot water to help reduce pain.
+Option,0,d) apply warmth to the sting area and cover it with a dry sterile dressing.
+Hint,"Complexity: Difficult			Ahead: Injuries from Marine Animals			Subject:Environmental Emergencies, Page 1235			Title: Environmental Emergencies			Feedback: See Injuries From Marine Animals			Taxonomy: Analysis			Objective: 33-21 Describe the process of providing emergency care to a patient who has been stung by a coelenterate or other marine animal.",
+NewQuestion,MC,
+Title,,
+QuestionText,"In contrast to Lyme disease, Rocky Mountain spotted fever:",
+Points,1,
+Difficulty,1,
+Option,0,a) might be confused with rheumatoid arthritis.
+Option,100,b) can cause paralysis and cardiorespiratory collapse.
+Option,0,c) presents with flu-like symptoms and a bull’s-eye rash.
+Option,0,d) causes painful joint swelling after a few days or weeks.
+Hint,"Complexity: Moderate			Ahead: Bites and Envenomation			Subject:Environmental Emergencies, Page 1234			Title: Environmental Emergencies			Feedback: See Bites and Envenomation			Taxonomy: Application			Objective: 33-19 Describe the process of providing emergency care to a patient who has sustained a bite or sting from each of the following insects and arachnids, including steps the EMT should follow if a patient develops a severe reaction to the sting or bite: Hymenoptera (bees, wasps, yellowjackets, and ants); Scorpions; Ticks.",

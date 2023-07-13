@@ -1,0 +1,440 @@
+NewQuestion,MC,
+Title,,
+QuestionText,Diabetes is MOST accurately defined as a(n):,
+Points,1,
+Difficulty,1,
+Option,100,a) disorder of glucose metabolism.
+Option,0,b) abnormally high blood glucose level.
+Option,0,c) mass excretion of glucose by the kidneys.
+Option,0,d) lack of insulin production in the pancreas.
+Hint,"Complexity: Moderate			Ahead: Endocrine Emergencies			Subject:Endocrine and Hematologic Emergencies, Page 780			Title: Endocrine and Hematologic Emergencies			Feedback: See Endocrine Emergencies			Taxonomy: Recall			Objective: 20-3 Define the terms diabetes mellitus, hyperglycemia, and hypoglycemia.",
+NewQuestion,MC,
+Title,,
+QuestionText,Type 1 diabetes:,
+Points,1,
+Difficulty,1,
+Option,0,a) is typically treated with medications such as metformin.
+Option,100,b) is a condition in which no insulin is produced by the body.
+Option,0,c) typically occurs in patients between 50 and 70 years of age.
+Option,0,d) is defined as a blood sugar level that is less than 120 mg/dL.
+Hint,"Complexity: Moderate			Ahead: Endocrine Emergencies			Subject:Endocrine and Hematologic Emergencies, Page 782			Title: Endocrine and Hematologic Emergencies			Feedback: See Endocrine Emergencies			Taxonomy: Recall			Objective: 20-5 Distinguish between the individual types of diabetes and how their onset and presentations are different.",
+NewQuestion,MC,
+Title,,
+QuestionText,"Patients with type 2 diabetes usually control their disease with all of the following, EXCEPT:",
+Points,1,
+Difficulty,1,
+Option,0,a) diet and exercise.
+Option,0,b) tolbutamide (Orinase).
+Option,0,c) glyburide (Micronase).
+Option,100,d) supplemental insulin.
+Hint,"Complexity: Moderate			Ahead: Endocrine Emergencies			Subject:Endocrine and Hematologic Emergencies, Page 784			Title: Endocrine and Hematologic Emergencies			Feedback: See Endocrine Emergencies			Taxonomy: Recall			Objective: 20-5 Distinguish between the individual types of diabetes and how their onset and presentations are different.",
+NewQuestion,MC,
+Title,,
+QuestionText,"Glipizide, a non–insulin-type medication, is another name for:",
+Points,1,
+Difficulty,1,
+Option,0,a) Glucophage.
+Option,100,b) Glucotrol.
+Option,0,c) Micronase.
+Option,0,d) Diabinese.
+Hint,"Complexity: Moderate			Ahead: Endocrine Emergencies			Subject:Endocrine and Hematologic Emergencies, Page 784			Title: Endocrine and Hematologic Emergencies			Feedback: See Endocrine Emergencies			Taxonomy: Recall			Objective: 20-4 Describe the differences and similarities between hyperglycemic and hypoglycemic diabetic emergencies, including their onset, signs and symptoms, and management considerations.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following statements regarding glucose is correct?,
+Points,1,
+Difficulty,1,
+Option,0,a) Most cells will function normally without glucose.
+Option,0,b) Blood glucose levels decrease in the absence of insulin.
+Option,100,c) The brain requires glucose as much as it requires oxygen.
+Option,0,d) The brain requires insulin to allow glucose to enter the cells.
+Hint,"Complexity: Moderate			Ahead: Endocrine Emergencies			Subject:Endocrine and Hematologic Emergencies, Page 779			Title: Endocrine and Hematologic Emergencies			Feedback: See Endocrine Emergencies			Taxonomy: Recall			Objective: 20-2 Discuss the role of glucose as a major source of energy for the body and its relationship to insulin.",
+NewQuestion,MC,
+Title,,
+QuestionText,Insulin functions in the body by:,
+Points,1,
+Difficulty,1,
+Option,0,a) producing new glucose as needed.
+Option,100,b) enabling glucose to enter the cells.
+Option,0,c) increasing circulating blood glucose.
+Option,0,d) metabolizing glucose to make energy.
+Hint,"Complexity: Moderate			Ahead: Endocrine Emergencies			Subject:Endocrine and Hematologic Emergencies, Page 779			Title: Endocrine and Hematologic Emergencies			Feedback: See Endocrine Emergencies			Taxonomy: Recall			Objective: 20-2 Discuss the role of glucose as a major source of energy for the body and its relationship to insulin.",
+NewQuestion,MC,
+Title,,
+QuestionText,Patients with uncontrolled diabetes experience polyuria because:,
+Points,1,
+Difficulty,1,
+Option,0,a) they drink excess amounts of water due to dehydration.
+Option,100,b) excess glucose in the blood is excreted by the kidneys.
+Option,0,c) low blood glucose levels result in cellular dehydration.
+Option,0,d) high blood sugar levels cause permanent kidney damage.
+Hint,"Complexity: Moderate			Ahead: Endocrine Emergencies			Subject:Endocrine and Hematologic Emergencies, Page 783			Title: Endocrine and Hematologic Emergencies			Feedback: See Endocrine Emergencies			Taxonomy: Analysis			Objective: 20-4 Describe the differences and similarities between hyperglycemic and hypoglycemic diabetic emergencies, including their onset, signs and symptoms, and management considerations.",
+NewQuestion,MC,
+Title,,
+QuestionText,Excessive eating caused by cellular “hunger” is called:,
+Points,1,
+Difficulty,1,
+Option,100,a) polyphagia.
+Option,0,b) polydipsia.
+Option,0,c) dysphasia.
+Option,0,d) dyspepsia.
+Hint,"Complexity: Moderate			Ahead: Endocrine Emergencies			Subject:Endocrine and Hematologic Emergencies, Page 783			Title: Endocrine and Hematologic Emergencies			Feedback: See Endocrine Emergencies			Taxonomy: Recall			Objective: 20-4 Describe the differences and similarities between hyperglycemic and hypoglycemic diabetic emergencies, including their onset, signs and symptoms, and management considerations.",
+NewQuestion,MC,
+Title,,
+QuestionText,Ketone production is the result of:,
+Points,1,
+Difficulty,1,
+Option,0,a) acidosis when blood glucose levels are low.
+Option,0,b) blood glucose levels higher than 120 mg/dL.
+Option,100,c) fat metabolization when glucose is unavailable.
+Option,0,d) rapid entry of glucose across the cell membrane.
+Hint,"Complexity: Moderate			Ahead: Endocrine Emergencies			Subject:Endocrine and Hematologic Emergencies, Page 783			Title: Endocrine and Hematologic Emergencies			Feedback: See Endocrine Emergencies			Taxonomy: Recall			Objective: 20-4 Describe the differences and similarities between hyperglycemic and hypoglycemic diabetic emergencies, including their onset, signs and symptoms, and management considerations.",
+NewQuestion,MC,
+Title,,
+QuestionText,"A 37-year-old female with a history of diabetes presents with excessive urination and weakness of 2 days’ duration. Her blood glucose level reads 320 mg/dL. If this patient’s condition is not promptly treated, she will MOST likely develop:",
+Points,1,
+Difficulty,1,
+Option,0,a) severe insulin shock.
+Option,100,b) acidosis and dehydration.
+Option,0,c) irreversible renal failure.
+Option,0,d) hypoxia and overhydration.
+Hint,"Complexity: Moderate			Ahead: Endocrine Emergencies			Subject:Endocrine and Hematologic Emergencies, Page 783			Title: Endocrine and Hematologic Emergencies			Feedback: See Endocrine Emergencies			Taxonomy: Analysis			Objective: 20-4 Describe the differences and similarities between hyperglycemic and hypoglycemic diabetic emergencies, including their onset, signs and symptoms, and management considerations.",
+NewQuestion,MC,
+Title,,
+QuestionText,Kussmaul respirations are an indication that the body is:,
+Points,1,
+Difficulty,1,
+Option,100,a) attempting to eliminate acids from the blood.
+Option,0,b) trying to generate energy by breathing deeply.
+Option,0,c) severely hypoxic and eliminating excess CO2.
+Option,0,d) compensating for decreased blood glucose levels.
+Hint,"Complexity: Moderate			Ahead: Endocrine Emergencies			Subject:Endocrine and Hematologic Emergencies, Page 783			Title: Endocrine and Hematologic Emergencies			Feedback: See Endocrine Emergencies			Taxonomy: Recall			Objective: 20-4 Describe the differences and similarities between hyperglycemic and hypoglycemic diabetic emergencies, including their onset, signs and symptoms, and management considerations.",
+NewQuestion,MC,
+Title,,
+QuestionText,The normal blood glucose level is between:,
+Points,1,
+Difficulty,1,
+Option,0,a) 60 and 80 mg/dL.
+Option,100,b) 80 and 120 mg/dL.
+Option,0,c) 130 and 150 mg/dL.
+Option,0,d) 160 and 200 mg/dL.
+Hint,"Complexity: Easy			Ahead: Endocrine Emergencies			Subject:Endocrine and Hematologic Emergencies, Page 781			Title: Endocrine and Hematologic Emergencies			Feedback: See Endocrine Emergencies			Taxonomy: Recall			Objective: 20-2 Discuss the role of glucose as a major source of energy for the body and its relationship to insulin.",
+NewQuestion,MC,
+Title,,
+QuestionText,Diabetic ketoacidosis occurs when:,
+Points,1,
+Difficulty,1,
+Option,0,a) blood glucose levels rapidly fall.
+Option,0,b) the cells rapidly metabolize glucose.
+Option,0,c) the pancreas produces excess insulin.
+Option,100,d) insulin is not available in the body.
+Hint,"Complexity: Easy			Ahead: Endocrine Emergencies			Subject:Endocrine and Hematologic Emergencies, Page 783			Title: Endocrine and Hematologic Emergencies			Feedback: See Endocrine Emergencies			Taxonomy: Analysis			Objective: 20-4 Describe the differences and similarities between hyperglycemic and hypoglycemic diabetic emergencies, including their onset, signs and symptoms, and management considerations.",
+NewQuestion,MC,
+Title,,
+QuestionText,"A 28-year-old female patient is found to be responsive to verbal stimuli only. Her roommate states that she was recently diagnosed with type 1 diabetes and has had difficulty controlling her blood sugar level. She further tells you that the patient has been urinating excessively and has progressively worsened over the last 24 to 36 hours. On the basis of this patient’s clinical presentation, you should suspect that she:",
+Points,1,
+Difficulty,1,
+Option,100,a) is significantly hyperglycemic.
+Option,0,b) has a low blood glucose level.
+Option,0,c) has a urinary tract infection.
+Option,0,d) has overdosed on her insulin.
+Hint,"Complexity: Moderate			Ahead: Endocrine Emergencies			Subject:Endocrine and Hematologic Emergencies, Page 783			Title: Endocrine and Hematologic Emergencies			Feedback: See Endocrine Emergencies			Taxonomy: Application			Objective: 20-4 Describe the differences and similarities between hyperglycemic and hypoglycemic diabetic emergencies, including their onset, signs and symptoms, and management considerations.",
+NewQuestion,MC,
+Title,,
+QuestionText,A 50-year-old man with diabetes has an altered mental status and is unable to tell you when he last ate or took his insulin. Your glucometer keeps malfunctioning and you are unable to determine his blood glucose level. Which of the following clinical signs would MOST likely lead you to the correct diagnosis?,
+Points,1,
+Difficulty,1,
+Option,0,a) Rapid and weak pulse
+Option,100,b) Deep and rapid breathing
+Option,0,c) Restlessness and irritability
+Option,0,d) Hypotension and tachycardia
+Hint,"Complexity: Difficult			Ahead: Endocrine Emergencies			Subject:Endocrine and Hematologic Emergencies, Page 783			Title: Endocrine and Hematologic Emergencies			Feedback: See Endocrine Emergencies			Taxonomy: Analysis			Objective: 20-4 Describe the differences and similarities between hyperglycemic and hypoglycemic diabetic emergencies, including their onset, signs and symptoms, and management considerations.",
+NewQuestion,MC,
+Title,,
+QuestionText,"In contrast to type 1 diabetes, type 2 diabetes:",
+Points,1,
+Difficulty,1,
+Option,0,a) occurs when antibodies attack insulin-producing cells.
+Option,100,b) is caused by resistance to insulin at the cellular level.
+Option,0,c) is caused by a complete lack of insulin in the body.
+Option,0,d) is commonly diagnosed in children and young adults.
+Hint,"Complexity: Moderate			Ahead: Endocrine Emergencies			Subject:Endocrine and Hematologic Emergencies, Pages 784			Title: Endocrine and Hematologic Emergencies			Feedback: See Endocrine Emergencies			Taxonomy: Analysis			Objective: 20-5 Distinguish between the individual types of diabetes and how their onset and presentations are different.",
+NewQuestion,MC,
+Title,,
+QuestionText,"Common signs and symptoms of severe hyperglycemia include all of the following, EXCEPT:",
+Points,1,
+Difficulty,1,
+Option,0,"a) warm, dry skin."
+Option,100,"b) cool, clammy skin."
+Option,0,"c) rapid, thready pulse."
+Option,0,d) acetone breath odor.
+Hint,"Complexity: Moderate			Ahead: Endocrine Emergencies			Subject:Endocrine and Hematologic Emergencies, Pages 781			Title: Endocrine and Hematologic Emergencies			Feedback: See Endocrine Emergencies			Taxonomy: Recall			Objective: 20-4 Describe the differences and similarities between hyperglycemic and hypoglycemic diabetic emergencies, including their onset, signs and symptoms, and management considerations.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following signs or symptoms would the EMT MOST likely encounter in a patient with new-onset type 1 diabetes?,
+Points,1,
+Difficulty,1,
+Option,0,a) Total lack of appetite
+Option,0,b) Weight gain and edema
+Option,100,c) Weight loss and polyuria
+Option,0,d) Low blood glucose level
+Hint,"Complexity: Moderate			Ahead: Endocrine Emergencies			Subject:Endocrine and Hematologic Emergencies, Page 783			Title: Endocrine and Hematologic Emergencies			Feedback: See Endocrine Emergencies			Taxonomy: Application			Objective: 20-5 Distinguish between the individual types of diabetes and how their onset and presentations are different.",
+NewQuestion,MC,
+Title,,
+QuestionText,Symptomatic hypoglycemia will MOST likely develop if a patient:,
+Points,1,
+Difficulty,1,
+Option,100,a) takes too much of his or her prescribed insulin.
+Option,0,b) markedly overeats and misses an insulin dose.
+Option,0,c) eats a regular meal followed by mild exertion.
+Option,0,d) misses one or two prescribed insulin injections.
+Hint,"Complexity: Moderate			Ahead: Endocrine Emergencies			Subject:Endocrine and Hematologic Emergencies, Page 785			Title: Endocrine and Hematologic Emergencies			Feedback: See Endocrine Emergencies			Taxonomy: Recall			Objective: 20-4 Describe the differences and similarities between hyperglycemic and hypoglycemic diabetic emergencies, including their onset, signs and symptoms, and management considerations.",
+NewQuestion,MC,
+Title,,
+QuestionText,The EMT should assess for hypoglycemia in small children with a severe illness or injury because:,
+Points,1,
+Difficulty,1,
+Option,0,a) a child’s cells do not uptake glucose as rapidly as adults’ do.
+Option,100,b) children cannot store excess glucose as effectively as adults.
+Option,0,c) illness or injury causes the pancreas to produce less insulin.
+Option,0,d) children overproduce insulin during severe illness or injury.
+Hint,"Complexity: Moderate			Ahead: Endocrine Emergencies			Subject:Endocrine and Hematologic Emergencies, Page 786			Title: Endocrine and Hematologic Emergencies			Feedback: See Endocrine Emergencies			Taxonomy: Application			Objective: 20-4 Describe the differences and similarities between hyperglycemic and hypoglycemic diabetic emergencies, including their onset, signs and symptoms, and management considerations.",
+NewQuestion,MC,
+Title,,
+QuestionText,Classic signs and symptoms of hypoglycemia include:,
+Points,1,
+Difficulty,1,
+Option,0,"a) warm, dry skin; irritability; bradycardia; and rapid respirations."
+Option,100,"b) cool, clammy skin; weakness; tachycardia; and rapid respirations."
+Option,0,"c) warm, dry skin; hunger; abdominal pain; and deep, slow respirations."
+Option,0,"c) cold, clammy skin; bradycardia; hunger; and deep, rapid respirations."
+Hint,"Complexity: Moderate			Ahead: Endocrine Emergencies			Subject:Endocrine and Hematologic Emergencies, Page 786			Title: Endocrine and Hematologic Emergencies			Feedback: See Endocrine Emergencies			Taxonomy: Recall			Objective: 20-4 Describe the differences and similarities between hyperglycemic and hypoglycemic diabetic emergencies, including their onset, signs and symptoms, and management considerations.",
+NewQuestion,MC,
+Title,,
+QuestionText,Assessment of a patient with hypoglycemia will MOST likely reveal:,
+Points,1,
+Difficulty,1,
+Option,0,a) sunken eyes.
+Option,0,b) hyperactivity.
+Option,0,"c) warm, dry skin."
+Option,100,d) combativeness.
+Hint,"Complexity: Easy			Ahead: Endocrine Emergencies			Subject:Endocrine and Hematologic Emergencies, Page 786			Title: Endocrine and Hematologic Emergencies			Feedback: See Endocrine Emergencies			Taxonomy: Recall			Objective: 20-4 Describe the differences and similarities between hyperglycemic and hypoglycemic diabetic emergencies, including their onset, signs and symptoms, and management considerations.",
+NewQuestion,MC,
+Title,,
+QuestionText,"In contrast to hypoglycemia, hyperglycemia:",
+Points,1,
+Difficulty,1,
+Option,0,a) is rapidly reversible if oral glucose is given.
+Option,0,b) commonly results in excess water retention.
+Option,100,c) can only be corrected in the hospital setting.
+Option,0,d) is a rapidly developing metabolic disturbance.
+Hint,"Complexity: Moderate			Ahead: Endocrine Emergencies			Subject:Endocrine and Hematologic Emergencies, Page 786			Title: Endocrine and Hematologic Emergencies			Feedback: See Endocrine Emergencies			Taxonomy: Analysis			Objective: 20-4 Describe the differences and similarities between hyperglycemic and hypoglycemic diabetic emergencies, including their onset, signs and symptoms, and management considerations.",
+NewQuestion,MC,
+Title,,
+QuestionText,A 75-year-old male with type 1 diabetes presents with chest pain and a general feeling of weakness. He tells you that he took his insulin today and ate a regular meal approximately 2 hours ago. You should treat this patient as though he is experiencing:,
+Points,1,
+Difficulty,1,
+Option,0,a) hypoglycemia
+Option,0,b) an acute stroke.
+Option,0,c) hyperglycemia.
+Option,100,d) a heart attack.
+Hint,"Complexity: Difficult			Ahead: Patient Assessment of Diabetes			Subject:Endocrine and Hematologic Emergencies, Page 787			Title: Endocrine and Hematologic Emergencies			Feedback: See Patient Assessment of Diabetes			Taxonomy: Application			Objective: 20-10 Discuss the steps the EMT should follow when conducting a primary and secondary assessment of a patient with an altered mental status who is suspected of having diabetes.",
+NewQuestion,MC,
+Title,,
+QuestionText,"You respond to a residence for a patient who is “not acting right.” As you approach the door, the patient, a 35-year-old male, begins shouting profanities at you and your partner while holding a baseball bat. The man is confused and diaphoretic, and is wearing a medical identification bracelet. You should:",
+Points,1,
+Difficulty,1,
+Option,0,a) calm him down so you can assess him.
+Option,0,b) be assertive and talk the patient down.
+Option,0,c) contact medical control for instructions.
+Option,100,d) retreat at once and call law enforcement.
+Hint,"Complexity: Difficult			Ahead: Patient Assessment of Diabetes			Subject:Endocrine and Hematologic Emergencies, Page 786			Title: Endocrine and Hematologic Emergencies			Feedback: See Patient Assessment of Diabetes			Taxonomy: Application			Objective: 20-6 Describe the interventions for providing emergency medical care to both a conscious and unconscious patient with an altered mental status and a history of diabetes who is having symptomatic hyperglycemia.",
+NewQuestion,MC,
+Title,,
+QuestionText,"A 29-year-old female presents with confusion and disorientation. Her respirations are rapid and shallow, and her pulse is 120 beats/min and thready. She is markedly diaphoretic and has an oxygen saturation of 89%. You should:",
+Points,1,
+Difficulty,1,
+Option,0,a) transport immediately.
+Option,0,b) administer oral glucose.
+Option,100,c) provide ventilatory support.
+Option,0,d) treat her for hyperglycemia.
+Hint,"Complexity: Difficult			Ahead: Patient Assessment of Diabetes			Subject:Endocrine and Hematologic Emergencies, Page 787			Title: Endocrine and Hematologic Emergencies			Feedback: See Patient Assessment of Diabetes			Taxonomy: Application			Objective: 20-6 Describe the interventions for providing emergency medical care to both a conscious and unconscious patient with an altered mental status and a history of diabetes who is having symptomatic hyperglycemia.",
+NewQuestion,MC,
+Title,,
+QuestionText,A man finds his 59-year-old wife unconscious on the couch. He states that she takes medications for type 2 diabetes. He further tells you that his wife has been ill recently and has not eaten for the past 24 hours. Your assessment reveals that the patient is unresponsive. You should:,
+Points,1,
+Difficulty,1,
+Option,0,a) assess for the presence of a medical identification tag.
+Option,0,b) administer 100% oxygen via a nonrebreathing mask.
+Option,100,c) open and maintain her airway and assess breathing.
+Option,0,d) administer oral glucose between her cheek and gum.
+Hint,"Complexity: Difficult			Ahead: Patient Assessment of Diabetes			Subject:Endocrine and Hematologic Emergencies, Page 787			Title: Endocrine and Hematologic Emergencies			Feedback: See Patient Assessment of Diabetes			Taxonomy: Application			Objective: 20-6 Describe the interventions for providing emergency medical care to both a conscious and unconscious patient with an altered mental status and a history of diabetes who is having symptomatic hyperglycemia.",
+NewQuestion,MC,
+Title,,
+QuestionText,"You respond to a movie theater for a 70-year-old male who is confused. His wife tells you he has type 2 diabetes but refuses to take his pills. Your assessment reveals that the patient is diaphoretic, tachycardic, and tachypneic. Initial management for this patient should include:",
+Points,1,
+Difficulty,1,
+Option,0,a) administering one to two tubes of oral glucose.
+Option,100,b) applying a nonrebreathing mask at 15 L/min.
+Option,0,c) assisting the patient with his diabetic medication.
+Option,0,d) performing a rapid exam and obtaining vital signs.
+Hint,"Complexity: Difficult			Ahead: Patient Assessment of Diabetes			Subject:Endocrine and Hematologic Emergencies, Page 787			Title: Endocrine and Hematologic Emergencies			Feedback: See Patient Assessment of Diabetes			Taxonomy: Application			Objective: 20-6 Describe the interventions for providing emergency medical care to both a conscious and unconscious patient with an altered mental status and a history of diabetes who is having symptomatic hyperglycemia.",
+NewQuestion,MC,
+Title,,
+QuestionText,"When obtaining a SAMPLE history from a patient with diabetes who has an altered mental status, it would be MOST important to determine:",
+Points,1,
+Difficulty,1,
+Option,100,a) if he or she has had any recent illnesses or excessive stress.
+Option,0,b) approximately how much water the patient drank that day.
+Option,0,c) if there is a family history of diabetes or related conditions.
+Option,0,d) the name of the physician who prescribed his or her insulin.
+Hint,"Complexity: Moderate			Ahead: Patient Assessment of Diabetes			Subject:Endocrine and Hematologic Emergencies, Page 787			Title: Endocrine and Hematologic Emergencies			Feedback: See Patient Assessment of Diabetes			Taxonomy: Analysis			Objective: 20-10 Discuss the steps the EMT should follow when conducting a primary and secondary assessment of a patient with an altered mental status who is suspected of having diabetes.",
+NewQuestion,MC,
+Title,,
+QuestionText,"When assessing an unresponsive diabetic patient, the primary visible difference between hyperglycemia and hypoglycemia is the:",
+Points,1,
+Difficulty,1,
+Option,0,a) patient’s mental status.
+Option,0,b) rate of the patient’s pulse.
+Option,0,c) presence of a medical identification tag.
+Option,100,d) rate and depth of breathing.
+Hint,"Complexity: Moderate			Ahead: Patient Assessment of Diabetes			Subject:Endocrine and Hematologic Emergencies, Page 787			Title: Endocrine and Hematologic Emergencies			Feedback: See Patient Assessment of Diabetes			Taxonomy: Application			Objective: 20-8 Explain the process for assessing and managing the airway of a patient with an altered mental status, including ways to differentiate a hyperglycemic patient from a hypoglycemic patient.",
+NewQuestion,MC,
+Title,,
+QuestionText,"You are treating a 40-year-old male with a documented blood sugar reading of 480 mg/dL. The patient is semiconscious and breathing shallowly, and is receiving assisted ventilation from your partner. You should recognize that definitive treatment for this patient includes:",
+Points,1,
+Difficulty,1,
+Option,0,a) oxygen.
+Option,0,b) glucagon.
+Option,100,c) insulin.
+Option,0,d) dextrose.
+Hint,"Complexity: Difficult			Ahead: Patient Assessment of Diabetes			Subject:Endocrine and Hematologic Emergencies, Page 788			Title: Endocrine and Hematologic Emergencies			Feedback: See Patient Assessment of Diabetes			Taxonomy: Analysis			Objective: 20-6 Describe the interventions for providing emergency medical care to both a conscious and unconscious patient with an altered mental status and a history of diabetes who is having symptomatic hyperglycemia.",
+NewQuestion,MC,
+Title,,
+QuestionText,A 19-year-old male complains of “not feeling right.” His insulin and a syringe are on a nearby table. The patient says he thinks he took his insulin and cannot remember whether he ate. He is also unable to tell you the time or what day it is. The glucometer reads “error” after several attempts to assess his blood glucose level. You should:,
+Points,1,
+Difficulty,1,
+Option,100,a) contact medical control and administer oral glucose.
+Option,0,b) assist him with his insulin injection and reassess him.
+Option,0,c) request a paramedic ambulance to administer IV glucose.
+Option,0,"d) transport only with close, continuous monitoring en route."
+Hint,"Complexity: Difficult			Ahead: Patient Assessment of Diabetes			Subject:Endocrine and Hematologic Emergencies, Page 790			Title: Endocrine and Hematologic Emergencies			Feedback: See Patient Assessment of Diabetes			Taxonomy: Analysis			Objective: 20-11 Explain when it is appropriate to obtain medical direction when providing emergency medical care to a patient with diabetes.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following conditions is the diabetic patient at an increased risk of developing?,
+Points,1,
+Difficulty,1,
+Option,100,a) Blindness
+Option,0,b) Depression
+Option,0,c) Alcoholism
+Option,0,d) Hepatitis B
+Hint,"Complexity: Easy			Ahead: Patient Assessment of Diabetes			Subject:Endocrine and Hematologic Emergencies, Page 790			Title: Endocrine and Hematologic Emergencies			Feedback: See Patient Assessment of Diabetes			Taxonomy: Recall			Objective: 20-10 Discuss the steps the EMT should follow when conducting a primary and secondary assessment of a patient with an altered mental status who is suspected of having diabetes.",
+NewQuestion,MC,
+Title,,
+QuestionText,"In general, oral glucose should be given to any patient who:",
+Points,1,
+Difficulty,1,
+Option,0,a) has a blood glucose level that is less than 100 mg/dL.
+Option,100,b) has an altered mental status and a history of diabetes.
+Option,0,c) has documented hypoglycemia and an absent gag reflex.
+Option,0,"d) is unresponsive, even in the absence of a history of diabetes."
+Hint,"Complexity: Easy			Ahead: Emergency Medical Care for Diabetic Emergencies			Subject:Endocrine and Hematologic Emergencies, Page 791			Title: Endocrine and Hematologic Emergencies			Feedback: See Emergency Medical Care for Diabetic Emergencies			Taxonomy: Application			Objective: 20-13 Provide the forms, dose, administration, indications, and contraindications for giving oral glucose to a patient with a decreased level of consciousness who has a history of diabetes.",
+NewQuestion,MC,
+Title,,
+QuestionText,To which of the following diabetic patients should you administer oral glucose?,
+Points,1,
+Difficulty,1,
+Option,0,"a) An unconscious 33-year-old male with cool, clammy skin"
+Option,0,b) A conscious 37-year-old female with nausea and vomiting
+Option,0,c) A semiconscious 40-year-old female without a gag reflex
+Option,100,d) A confused 55-year-old male with tachycardia and pallor
+Hint,"Complexity: Moderate			Ahead: Emergency Medical Care for Diabetic Emergencies			Subject:Endocrine and Hematologic Emergencies, Page 791			Title: Endocrine and Hematologic Emergencies			Feedback: See Emergency Medical Care for Diabetic Emergencies			Taxonomy: Analysis			Objective: 20-13 Provide the forms, dose, administration, indications, and contraindications for giving oral glucose to a patient with a decreased level of consciousness who has a history of diabetes.",
+NewQuestion,MC,
+Title,,
+QuestionText,"Proper procedure for administering oral glucose to a patient includes all of the following, EXCEPT:",
+Points,1,
+Difficulty,1,
+Option,0,a) assessing the patient’s mental status.
+Option,100,b) ensuring the absence of a gag reflex.
+Option,0,c) checking the medication’s expiration date.
+Option,0,d) requesting permission from medical control.
+Hint,"Complexity: Moderate			Ahead: Emergency Medical Care for Diabetic Emergencies			Subject:Endocrine and Hematologic Emergencies, Page 791			Title: Endocrine and Hematologic Emergencies			Feedback: See Emergency Medical Care for Diabetic Emergencies			Taxonomy: Recall			Objective: 20-13 Provide the forms, dose, administration, indications, and contraindications for giving oral glucose to a patient with a decreased level of consciousness who has a history of diabetes.",
+NewQuestion,MC,
+Title,,
+QuestionText,Hemoglobin is:,
+Points,1,
+Difficulty,1,
+Option,0,a) the fluid portion of the blood that transports cells throughout the body.
+Option,0,"b) essential for the formation of clots, such as when vessel damage occurs."
+Option,100,c) found within the red blood cells and is responsible for carrying oxygen.
+Option,0,d) a key component of the blood and is produced in response to an infection.
+Hint,"Complexity: Moderate			Ahead: Hematologic Emergencies			Subject:Endocrine and Hematologic Emergencies, Page 793			Title: Endocrine and Hematologic Emergencies			Feedback: See Hematologic Emergencies			Taxonomy: Recall			Objective: 20-14 Discuss the composition and functions of blood.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following statements regarding sickle cell disease is correct?,
+Points,1,
+Difficulty,1,
+Option,0,a) Sickle cell disease is an inherited blood disorder that causes the blood to clot too quickly.
+Option,100,"b) In sickle cell disease, the red blood cells are abnormally shaped and are less able to carry oxygen."
+Option,0,c) The red blood cells of patients with sickle cell disease are round and contain hemoglobin.
+Option,0,"d) Because of their abnormal shape, red blood cells in patients with sickle cell disease are less apt to lodge in a blood vessel."
+Hint,"Complexity: Moderate			Ahead: Hematologic Emergencies			Subject:Endocrine and Hematologic Emergencies, Page 793			Title: Endocrine and Hematologic Emergencies			Feedback: See Hematologic Emergencies			Taxonomy: Analysis			Objective: 20-15 Describe the pathophysiology, complications, and management of sickle cell disease.",
+NewQuestion,MC,
+Title,,
+QuestionText,"A 31-year-old male with a history of diabetes had a seizure that stopped prior to EMS arrival. He is unresponsive and has rapid, shallow breathing. His pulse is rapid and weak, and his skin is cyanotic. The EMT should:",
+Points,1,
+Difficulty,1,
+Option,100,a) assist the patient’s ventilations with a bag-valve mask.
+Option,0,b) place a thin layer of oral glucose between his cheek and gums.
+Option,0,c) administer oxygen by nasal cannula and assess his blood glucose level.
+Option,0,d) position the patient on his side and give oxygen via nonrebreathing mask.
+Hint,"Complexity: Difficult			Ahead: The Presentation of Hypoglycemia			Subject:Endocrine and Hematologic Emergencies, Page 792			Title: Endocrine and Hematologic Emergencies			Feedback: See The Presentation of Hypoglycemia			Taxonomy: Application			Objective: 20-7 Describe the interventions for providing emergency medical care to both a conscious and unconscious patient with an altered mental status and a history of diabetes who is having symptomatic hypoglycemia.",
+NewQuestion,MC,
+Title,,
+QuestionText,"A 66-year-old woman experienced a sudden onset of difficulty breathing. She has a history of type 2 diabetes and deep vein thrombosis (DVT). On the basis of her medical history, which of the following should the EMT suspect?",
+Points,1,
+Difficulty,1,
+Option,0,a) Severe hypoglycemia
+Option,100,b) Pulmonary embolism
+Option,0,c) Diabetic ketoacidosis
+Option,0,d) Congestive heart failure
+Hint,"Complexity: Difficult			Ahead: Hematologic Emergencies			Subject:Endocrine and Hematologic Emergencies, Page 796			Title: Endocrine and Hematologic Emergencies			Feedback: See Hematologic Emergencies			Taxonomy: Analysis			Objective: 20-16 Describe two types of blood clotting disorders, and the risk factors, characteristics, and management of each.",
+NewQuestion,MC,
+Title,,
+QuestionText,Patients with thrombophilia are at an increased risk for:,
+Points,1,
+Difficulty,1,
+Option,0,a) various cancers.
+Option,0,b) hemorrhagic stroke.
+Option,100,c) acute arterial rupture.
+Option,0,d) pulmonary embolism.
+Hint,"Complexity: Easy			Ahead: Hematologic Emergencies			Subject:Endocrine and Hematologic Emergencies, Page 795			Title: Endocrine and Hematologic Emergencies			Feedback: See Hematologic Emergencies			Taxonomy: Recall			Objective: 20-16 Describe two types of blood clotting disorders, and the risk factors, characteristics, and management of each.",
+NewQuestion,MC,
+Title,,
+QuestionText,"During your assessment of a 19-year-old male, you are told that he is being treated with factor VIII. This indicates that:",
+Points,1,
+Difficulty,1,
+Option,0,a) he has a thrombosis.
+Option,0,b) he has thrombophilia.
+Option,100,c) he has hemophilia A.
+Option,0,d) his blood clots too quickly.
+Hint,"Complexity: Moderate			Ahead: Hematologic Emergencies			Subject:Endocrine and Hematologic Emergencies, Page 793			Title: Endocrine and Hematologic Emergencies			Feedback: See Hematologic Emergencies			Taxonomy: Application			Objective: 20-16 Describe two types of blood clotting disorders, and the risk factors, characteristics, and management of each.",
+NewQuestion,MC,
+Title,,
+QuestionText,"A 42-year-old male is found unresponsive on his couch by a neighbor. During your assessment, you find no signs of trauma, and the patient’s blood glucose level is 75 mg/dL. His blood pressure is 168/98 mm Hg, his heart rate is 45 beats/min and bounding, and his respirations are 8 breaths/min and irregular. The patient is wearing a medical alert bracelet that states he has hemophilia. You should:",
+Points,1,
+Difficulty,1,
+Option,0,"a) administer oxygen via a nonrebreathing mask, apply oral glucose in between his cheek and gum, and transport."
+Option,0,"b) suspect that he has internal bleeding and is in shock, administer high-flow oxygen, and transport at once."
+Option,0,"c) administer high-flow oxygen, perform a detailed secondary assessment at the scene, and transport promptly."
+Option,100,"d) suspect that he has intracranial bleeding, assist his ventilations, and transport rapidly to an appropriate hospital."
+Hint,"Complexity: Difficult			Ahead: Hematologic Emergencies			Subject:Endocrine and Hematologic Emergencies, Page 794			Title: Endocrine and Hematologic Emergencies			Feedback: See Hematologic Emergencies			Taxonomy: Analysis			Objective: 20-16 Describe two types of blood clotting disorders, and the risk factors, characteristics, and management of each.",
+NewQuestion,MC,
+Title,,
+QuestionText,"During your assessment of a 70-year-old woman, she tells you that she takes blood-thinning medication and has to wear compression stockings around her legs. This information should make you suspect that she has:",
+Points,1,
+Difficulty,1,
+Option,0,a) hemophilia
+Option,0,b) sickle-cell disease
+Option,100,c) deep vein thrombosis.
+Option,0,d) severe hyperglycemia.
+Hint,"Complexity: Moderate			Ahead: Hematologic Emergencies			Subject:Endocrine and Hematologic Emergencies, Page 795			Title: Endocrine and Hematologic Emergencies			Feedback: See Hematologic Emergencies			Taxonomy: Analysis			Objective: 20-16 Describe two types of blood clotting disorders, and the risk factors, characteristics, and management of each.",

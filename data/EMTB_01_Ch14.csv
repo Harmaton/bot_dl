@@ -1,0 +1,460 @@
+NewQuestion,MC,
+Title,,
+QuestionText,Basic life support (BLS) is defined as:,
+Points,1,
+Difficulty,1,
+Option,0,"a) invasive emergency medical interventions such as intravenous therapy, manual defibrillation, and advanced airway management."
+Option,0,"b) any form of emergency medical treatment that is performed by advanced EMTs, paramedics, physicians, and emergency nurses."
+Option,0,c) basic lifesaving treatment that is performed by bystanders while EMS providers are en route to the scene of an emergency.
+Option,100,"d) noninvasive emergency care that is used to treat conditions such as airway obstruction, respiratory arrest, and cardiac arrest."
+Hint,"Complexity: Moderate			Ahead: Elements of BLS			Subject:BLS Resuscitation, Page 557			Title: BLS Resuscitation			Feedback: See Elements of BLS			Taxonomy: Recall			Objective: 14-1 Explain the elements of basic life support (BLS), how it differs from advanced life support (ALS), and why BLS must be applied rapidly.",
+NewQuestion,MC,
+Title,,
+QuestionText,"After ________ minutes without oxygen, permanent brain damage is possible.",
+Points,1,
+Difficulty,1,
+Option,0,a) 1 to 2
+Option,100,b) 4 to 6
+Option,0,c) 2 to 3
+Option,0,d) 7
+Hint,"Complexity: Moderate			Ahead: Elements of BLS			Subject:BLS Resuscitation, Page 557			Title: BLS Resuscitation			Feedback: See Elements of BLS			Taxonomy: Recall			Objective: 14-1 Explain the elements of basic life support (BLS), how it differs from advanced life support (ALS), and why BLS must be applied rapidly.",
+NewQuestion,MC,
+Title,,
+QuestionText,"After establishing that an adult patient is unresponsive, you should:",
+Points,1,
+Difficulty,1,
+Option,0,a) manually open the airway.
+Option,100,b) assess for breathing and a pulse.
+Option,0,c) immediately begin chest compressions.
+Option,0,"d) apply the AED and deliver a shock, if needed."
+Hint,"Complexity: Moderate			Ahead: Assessing the Need for BLS			Subject:BLS Resuscitation, Page 561			Title: BLS Resuscitation			Feedback: See Assessing the Need for BLS			Taxonomy: Application			Objective: 14-2 Explain the goals of cardiopulmonary resuscitation (CPR) and when it should be performed on a patient.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following is NOT a BLS intervention?,
+Points,1,
+Difficulty,1,
+Option,0,a) Abdominal thrusts
+Option,0,b) Chest compressions
+Option,100,c) Cardiac monitoring
+Option,0,d) Automated defibrillation
+Hint,"Complexity: Easy			Ahead: Elements of BLS			Subject:BLS Resuscitation, Page 558			Title: BLS Resuscitation			Feedback: See Elements of BLS			Taxonomy: Recall			Objective: 14-1 Explain the elements of basic life support (BLS), how it differs from advanced life support (ALS), and why BLS must be applied rapidly.",
+NewQuestion,MC,
+Title,,
+QuestionText,Most prehospital cardiac arrests in adults occur as the result of:,
+Points,1,
+Difficulty,1,
+Option,0,a) severe blunt trauma.
+Option,100,b) a cardiac dysrhythmia.
+Option,0,c) an acute ischemic stroke.
+Option,0,d) obstruction of the airway.
+Hint,"Complexity: Easy			Ahead: Automated External Defibrillation			Subject:BLS Resuscitation, Page 561			Title: BLS Resuscitation			Feedback: See Automated External Defibrillation			Taxonomy: Recall			Objective: 14-4 Discuss guidelines for circumstances that require the use of an automated external defibrillator (AED) on both adult and pediatric patients experiencing cardiac arrest.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following statements regarding ventricular fibrillation (VF) is correct?,
+Points,1,
+Difficulty,1,
+Option,0,a) VF is a state of rapid ventricular contraction.
+Option,0,b) Most patients in VF have a weak carotid pulse.
+Option,0,c) Defibrillation is only indicated for witnessed VF.
+Option,100,d) VF results in an absence of forward blood flow.
+Hint,"Complexity: Moderate			Ahead: Automated External Defibrillation			Subject:BLS Resuscitation, Page 561			Title: BLS Resuscitation			Feedback: See Automated External Defibrillation			Taxonomy: Recall			Objective: 14-4 Discuss guidelines for circumstances that require the use of an automated external defibrillator (AED) on both adult and pediatric patients experiencing cardiac arrest.",
+NewQuestion,MC,
+Title,,
+QuestionText,"You and your partner arrive at the side of a 60-year-old woman who collapsed about 7 minutes ago. She is unresponsive, apneic, and pulseless. You should:",
+Points,1,
+Difficulty,1,
+Option,100,a) begin CPR and apply the AED as soon as it is available.
+Option,0,b) immediately apply the AED and analyze her cardiac rhythm.
+Option,0,c) begin CPR at a compression to ventilation ratio of 15:2.
+Option,0,d) apply the AED if there is no response after 10 cycles of CPR.
+Hint,"Complexity: Moderate			Ahead: Automated External Defibrillation			Subject:BLS Resuscitation, Page 562			Title: BLS Resuscitation			Feedback: See Automated External Defibrillation			Taxonomy: Application			Objective: 14-2 Explain the goals of cardiopulmonary resuscitation (CPR) and when it should be performed on a patient.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following statements regarding the use of an AED in children is correct?,
+Points,1,
+Difficulty,1,
+Option,0,"a) If the patient is less than 1 year of age, an AED is preferred over a manual defibrillator."
+Option,0,b) AEDs are only effective in pediatric patients if severe trauma is the cause of their cardiac arrest.
+Option,100,c) AEDs can be used safely on infants and children by using pediatric pads and an energy reducer.
+Option,0,d) AEDs are not used in pediatric patients because they do not experience ventricular fibrillation.
+Hint,"Complexity: Moderate			Ahead: Automated External Defibrillation			Subject:BLS Resuscitation, Page 562			Title: BLS Resuscitation			Feedback: See Automated External Defibrillation			Taxonomy: Recall			Objective: 14-4 Discuss guidelines for circumstances that require the use of an automated external defibrillator (AED) on both adult and pediatric patients experiencing cardiac arrest.",
+NewQuestion,MC,
+Title,,
+QuestionText,"Your partner is performing one-rescuer CPR on a middle-aged woman in cardiac arrest. When you apply the AED pads, you note that she has a medication patch over the same area where one of the AED pads will be placed. You should:",
+Points,1,
+Difficulty,1,
+Option,0,a) apply the AED pad at least 1 inch away from the medication patch to avoid skin burns.
+Option,0,b) continue CPR until you can determine the name of the medication contained in the patch.
+Option,0,c) move the patch to another area of the patient’s chest and then properly apply the AED pad.
+Option,100,"d) remove the medication patch, wipe away any medication residue, and apply the AED pad."
+Hint,"Complexity: Moderate			Ahead: Automated External Defibrillation			Subject:BLS Resuscitation, Page 562			Title: BLS Resuscitation			Feedback: See Automated External Defibrillation			Taxonomy: Application			Objective: 14-5 Explain three special situations related to the use of an AED.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following maneuvers should be used to open a patient’s airway when a spinal injury is suspected?,
+Points,1,
+Difficulty,1,
+Option,100,a) Jaw-thrust
+Option,0,b) Tongue–jaw lift
+Option,0,c) Head tilt–neck lift
+Option,0,d) Head tilt–chin lift
+Hint,"Complexity: Easy			Ahead: Opening the Airway and Providing Artificial Ventilation			Subject:BLS Resuscitation, Page 566			Title: BLS Resuscitation			Feedback: See Opening the Airway and Providing Artificial Ventilation			Taxonomy: Recall			Objective: 14-8 Describe the two techniques EMTs may use to open an adult patient’s airway and the circumstances that would determine when each technique would be used.",
+NewQuestion,MC,
+Title,,
+QuestionText,Several attempts to adequately open a trauma patient’s airway with the jaw-thrust maneuver have been unsuccessful. You should:,
+Points,1,
+Difficulty,1,
+Option,0,a) try opening the airway by lifting up on the chin.
+Option,100,b) carefully perform the head tilt–chin lift maneuver.
+Option,0,c) tilt the head back while lifting up on the patient’s neck.
+Option,0,d) suction the airway and reattempt the jaw-thrust maneuver.
+Hint,"Complexity: Moderate			Ahead: Opening the Airway and Providing Artificial Ventilation			Subject:BLS Resuscitation, Page 566			Title: BLS Resuscitation			Feedback: See Opening the Airway and Providing Artificial Ventilation			Taxonomy: Application			Objective: 14-8 Describe the two techniques EMTs may use to open an adult patient’s airway and the circumstances that would determine when each technique would be used.",
+NewQuestion,MC,
+Title,,
+QuestionText,A patient should be placed in the recovery position when he or she:,
+Points,1,
+Difficulty,1,
+Option,0,"a) is semiconscious, injured, and breathing adequately."
+Option,0,b) has experienced trauma but is breathing effectively.
+Option,100,"c) is unresponsive, uninjured, and breathing adequately."
+Option,0,d) has a pulse but is unresponsive and breathing shallowly.
+Hint,"Complexity: Easy			Ahead: Opening the Airway and Providing Artificial Ventilation			Subject:BLS Resuscitation, Page 567			Title: BLS Resuscitation			Feedback: See Opening the Airway and Providing Artificial Ventilation			Taxonomy: Recall			Objective: 14-9 Describe the recovery position and circumstances that would warrant its use as well as situations in which it would be contraindicated.",
+NewQuestion,MC,
+Title,,
+QuestionText,"When performing chest compressions on an adult, the EMT should compress:",
+Points,1,
+Difficulty,1,
+Option,0,a) at least 1 inch
+Option,100,b) at least 2 inches
+Option,0,c) between 1 inch and 2 inches
+Option,0,d) greater than 2.4 inches
+Hint,"Complexity: Easy			Ahead: Elements of BLS			Subject:BLS Resuscitation, Page 557			Title: BLS Resuscitation			Feedback: See Elements of BLS			Taxonomy: Recall			Objective: 14-7 Describe the purpose of external chest compressions.",
+NewQuestion,MC,
+Title,,
+QuestionText,"When ventilating an apneic adult with a bag-mask device, you should deliver each breath:",
+Points,1,
+Difficulty,1,
+Option,0,a) over a period of about 2 to 3 seconds.
+Option,100,b) while watching for adequate chest rise.
+Option,0,c) every 2 to 3 seconds (20 to 30 breaths/min).
+Option,0,d) quickly to ensure adequate ventilation.
+Hint,"Complexity: Moderate			Ahead: Opening the Airway and Providing Artificial Ventilation			Subject:BLS Resuscitation, Page 568			Title: BLS Resuscitation			Feedback: See Opening the Airway and Providing Artificial Ventilation			Taxonomy: Recall			Objective: 14-8 Describe the two techniques EMTs may use to open an adult patient’s airway and the circumstances that would determine when each technique would be used.",
+NewQuestion,MC,
+Title,,
+QuestionText,Gastric distention will MOST likely occur:,
+Points,1,
+Difficulty,1,
+Option,0,a) in patients who are intubated.
+Option,100,b) if you ventilate a patient too quickly.
+Option,0,c) when you deliver minimal tidal volume.
+Option,0,d) when the airway is completely obstructed.
+Hint,"Complexity: Moderate			Ahead: Opening the Airway and Providing Artificial Ventilation			Subject:BLS Resuscitation, Page 568			Title: BLS Resuscitation			Feedback: See Opening the Airway and Providing Artificial Ventilation			Taxonomy: Recall			Objective: 14-10 Describe the process of providing artificial ventilations to an adult patient, ways to avoid gastric distention, and modifications required for a patient with a stoma.",
+NewQuestion,MC,
+Title,,
+QuestionText,"If gastric distention begins to make positive-pressure ventilation difficult, you should:",
+Points,1,
+Difficulty,1,
+Option,100,a) reposition the patient’s airway
+Option,0,b) suction the patient’s oropharynx
+Option,0,c) insert an oropharyngeal airway.
+Option,0,d) increase the rate of ventilation.
+Hint,"Complexity: Easy			Ahead: Opening the Airway and Providing Artificial Ventilation			Subject:BLS Resuscitation, Page 569			Title: BLS Resuscitation			Feedback: See Opening the Airway and Providing Artificial Ventilation			Taxonomy: Recall			Objective: 14-10 Describe the process of providing artificial ventilations to an adult patient, ways to avoid gastric distention, and modifications required for a patient with a stoma.",
+NewQuestion,MC,
+Title,,
+QuestionText,CPR will NOT be effective if the patient is:,
+Points,1,
+Difficulty,1,
+Option,100,a) prone.
+Option,0,b) supine.
+Option,0,c) horizontal.
+Option,0,d) on a firm surface.
+Hint,"Complexity: Easy			Ahead: Positioning the Patient			Subject:BLS Resuscitation, Page 563			Title: BLS Resuscitation			Feedback: See Positioning the Patient			Taxonomy: Recall			Objective: 14-6 Describe the proper way to position an adult patient to receive BLS care.",
+NewQuestion,MC,
+Title,,
+QuestionText,You should deliver chest compressions to an unresponsive adult patient in cardiac arrest by:,
+Points,1,
+Difficulty,1,
+Option,0,a) compressing quickly and releasing slowly.
+Option,100,b) compressing the sternum between the nipples.
+Option,0,c) placing the heel of your hand on the xiphoid.
+Option,0,d) depressing the sternum more than 2.5 inches in depth.
+Hint,"Complexity: Moderate			Ahead: Check for Breathing and a Pulse			Subject:BLS Resuscitation, Page 563			Title: BLS Resuscitation			Feedback: See Check for Breathing and a Pulse			Taxonomy: Recall			Objective: 14-7 Describe the purpose of external chest compressions.",
+NewQuestion,MC,
+Title,,
+QuestionText,"Complications associated with chest compressions include all of the following, EXCEPT:",
+Points,1,
+Difficulty,1,
+Option,0,a) rib fractures.
+Option,0,b) liver laceration.
+Option,100,c) gastric distention.
+Option,0,d) a fractured sternum.
+Hint,"Complexity: Moderate			Ahead: Check for Breathing and a Pulse			Subject:BLS Resuscitation, Page 565			Title: BLS Resuscitation			Feedback: See Check for Breathing and a Pulse			Taxonomy: Recall			Objective: 14-7 Describe the purpose of external chest compressions.",
+NewQuestion,MC,
+Title,,
+QuestionText,"A 60-year-old man is found to be unresponsive, pulseless, and apneic. You should:",
+Points,1,
+Difficulty,1,
+Option,0,a) start CPR and transport immediately.
+Option,0,b) withhold CPR until he is defibrillated.
+Option,0,c) determine if he has a valid living will.
+Option,100,d) begin CPR until an AED is available.
+Hint,"Complexity: Moderate			Ahead: One-Rescuer Adult CPR			Subject:BLS Resuscitation, Page 571			Title: BLS Resuscitation			Feedback: See One-Rescuer Adult CPR			Taxonomy: Application			Objective: 14-11 Explain the steps in providing single-rescuer adult CPR.",
+NewQuestion,MC,
+Title,,
+QuestionText,"To ensure that you will deliver the appropriate number of chest compressions during one-rescuer adult CPR, you should compress the patient’s chest at a rate of:",
+Points,1,
+Difficulty,1,
+Option,0,a) 80 to 100 compressions per minute.
+Option,0,b) at least 120 compressions per minute.
+Option,100,c) 100 to 120 compressions per minute.
+Option,0,d) no greater than 100 compressions per minute.
+Hint,"Complexity: Easy			Ahead: One-Rescuer Adult CPR			Subject:BLS Resuscitation, Page 571			Title: BLS Resuscitation			Feedback: See One-Rescuer Adult CPR			Taxonomy: Recall			Objective: 14-11 Explain the steps in providing single-rescuer adult CPR.",
+NewQuestion,MC,
+Title,,
+QuestionText,"In two-rescuer adult CPR, you should deliver a compression to ventilation ratio of:",
+Points,1,
+Difficulty,1,
+Option,0,a) 5:1.
+Option,0,b) 5:2.
+Option,0,c) 15:2.
+Option,100,d) 30:2.
+Hint,"Complexity: Easy			Ahead: Two-Rescuer Adult CPR			Subject:BLS Resuscitation, Page 568			Title: BLS Resuscitation			Feedback: See Two-Rescuer Adult CPR			Taxonomy: Recall			Objective: 14-12 Explain the steps in providing two-rescuer adult CPR, including the method for switching positions during the process.",
+NewQuestion,MC,
+Title,,
+QuestionText,"After an advanced airway device has been inserted during two-rescuer CPR, you should:",
+Points,1,
+Difficulty,1,
+Option,0,a) pause compressions to deliver ventilations.
+Option,100,b) deliver one rescue breath every 6 seconds.
+Option,0,c) decrease the compression rate to about 80 per minute.
+Option,0,d) increase rescue breathing to a rate of 14 breaths/min.
+Hint,"Complexity: Moderate			Ahead: Two-Rescuer Adult CPR			Subject:BLS Resuscitation, Page 571			Title: BLS Resuscitation			Feedback: See Two-Rescuer Adult CPR			Taxonomy: Application			Objective: 14-12 Explain the steps in providing two-rescuer adult CPR, including the method for switching positions during the process.",
+NewQuestion,MC,
+Title,,
+QuestionText,"While rescuer one is finishing his or her fifth cycle of 30 compressions, rescuer two should:",
+Points,1,
+Difficulty,1,
+Option,0,a) assess for a carotid pulse for 15 seconds.
+Option,100,b) move to the opposite side of the patient’s chest.
+Option,0,c) give two breaths and prepare to start compressions.
+Option,0,d) suction the patient’s mouth and give two more ventilations.
+Hint,"Complexity: Moderate			Ahead: Two-Rescuer Adult CPR			Subject:BLS Resuscitation, Page 573			Title: BLS Resuscitation			Feedback: See Two-Rescuer Adult CPR			Taxonomy: Recall			Objective: 14-12 Explain the steps in providing two-rescuer adult CPR, including the method for switching positions during the process.",
+NewQuestion,MC,
+Title,,
+QuestionText,The impedance threshold device (ITD) may improve circulation during active compression-decompression CPR by:,
+Points,1,
+Difficulty,1,
+Option,0,"a) maintaining increased intrathoracic pressure during the downward stroke of each chest compression, which forces more blood from both of the ventricles."
+Option,0,"b) maximizing the amount of air in the lungs following chest recoil, which hyperinflates the lungs and forces more blood from the ventricle during each compression."
+Option,0,"c) drawing all of the air out of the lungs in between chest compressions, which causes positive intrathoracic pressure and a reduction of blood return to the right side of the heart."
+Option,100,"d) limiting the amount of air that enters the lungs during the recoil phase between chest compressions, which results in negative intrathoracic pressure and improved cardiac filling."
+Hint,"Complexity: Moderate			Ahead: Devices and Techniques to Assist Circulation			Subject:BLS Resuscitation, Page 575			Title: BLS Resuscitation			Feedback: See Devices and Techniques to Assist Circulation			Taxonomy: Analysis			Objective: 14-13 Describe the different mechanical devices that are available to assist emergency care providers in delivering improved circulatory efforts during CPR.",
+NewQuestion,MC,
+Title,,
+QuestionText,The main benefit of using a mechanical piston device for chest compressions is:,
+Points,1,
+Difficulty,1,
+Option,0,a) the minimal training required to correctly operate the device.
+Option,100,b) the elimination of rescuer fatigue that results from manual compressions.
+Option,0,"c) the elimination of the need to place a firm, flat device under the patient."
+Option,0,"d) its ability to be used with any patient, regardless of age, weight, or body size."
+Hint,"Complexity: Moderate			Ahead: Devices and Techniques to Assist Circulation			Subject:BLS Resuscitation, Page 576			Title: BLS Resuscitation			Feedback: See Devices and Techniques to Assist Circulation			Taxonomy: Recall			Objective: 14-13 Describe the different mechanical devices that are available to assist emergency care providers in delivering improved circulatory efforts during CPR.",
+NewQuestion,MC,
+Title,,
+QuestionText,"In most cases, cardiopulmonary arrest in infants and children is caused by:",
+Points,1,
+Difficulty,1,
+Option,0,a) a drug overdose.
+Option,100,b) respiratory arrest.
+Option,0,c) severe chest trauma.
+Option,0,d) a cardiac dysrhythmia.
+Hint,"Complexity: Easy			Ahead: Infant and Child CPR			Subject:BLS Resuscitation, Page 577			Title: BLS Resuscitation			Feedback: See Infant and Child CPR			Taxonomy: Recall			Objective: 14-14 Describe the different possible causes of cardiopulmonary arrest in children.",
+NewQuestion,MC,
+Title,,
+QuestionText,The proper depth of chest compressions on a 9-month-old infant is:,
+Points,1,
+Difficulty,1,
+Option,100,"a) one third the diameter of the chest, or about 1½ inches."
+Option,0,b) one half to two thirds the diameter of the chest.
+Option,0,"c) one half the diameter of the chest, or about 1½ inches."
+Option,0,"d) two thirds the diameter of the chest, or about 2 inches."
+Hint,"Complexity: Moderate			Ahead: Infant and Child CPR			Subject:BLS Resuscitation, Page 578			Title: BLS Resuscitation			Feedback: See Infant and Child CPR			Taxonomy: Recall			Objective: 14-15 Explain the four steps of pediatric BLS procedures and how they differ from BLS procedures used in an adult patient.",
+NewQuestion,MC,
+Title,,
+QuestionText,What is the minimum number of chest compressions that should be delivered per minute to a 4-month-old infant?,
+Points,1,
+Difficulty,1,
+Option,0,a) 90
+Option,100,b) 100
+Option,0,c) 110
+Option,0,d) 120
+Hint,"Complexity: Easy			Ahead: Infant and Child CPR			Subject:BLS Resuscitation, Page 578			Title: BLS Resuscitation			Feedback: See Infant and Child CPR			Taxonomy: Recall			Objective: 14-15 Explain the four steps of pediatric BLS procedures and how they differ from BLS procedures used in an adult patient.",
+NewQuestion,MC,
+Title,,
+QuestionText,"When assessing the pulse of an unresponsive infant, you should palpate the ________ artery.",
+Points,1,
+Difficulty,1,
+Option,0,a) radial
+Option,0,b) carotid
+Option,0,c) femoral
+Option,100,d) brachial
+Hint,"Complexity: Easy			Ahead: Infant and Child CPR			Subject:BLS Resuscitation, Page 578			Title: BLS Resuscitation			Feedback: See Infant and Child CPR			Taxonomy: Recall			Objective: 14-15 Explain the four steps of pediatric BLS procedures and how they differ from BLS procedures used in an adult patient.",
+NewQuestion,MC,
+Title,,
+QuestionText,What is the correct ratio of compressions to ventilations when performing two-rescuer child CPR?,
+Points,1,
+Difficulty,1,
+Option,0,a) 3:1
+Option,0,b) 5:1
+Option,0,c) 30:2
+Option,100,d) 15:2
+Hint,"Complexity: Easy			Ahead: Infant and Child CPR			Subject:BLS Resuscitation, Page 580			Title: BLS Resuscitation			Feedback: See Infant and Child CPR			Taxonomy: Recall			Objective: 14-15 Explain the four steps of pediatric BLS procedures and how they differ from BLS procedures used in an adult patient.",
+NewQuestion,MC,
+Title,,
+QuestionText,"When performing CPR on a child, you should compress the chest:",
+Points,1,
+Difficulty,1,
+Option,0,a) until a radial pulse is felt.
+Option,100,b) with one or two hands.
+Option,0,c) to a depth of 1 to 2 inches.
+Option,0,d) 80 to 100 times per minute.
+Hint,"Complexity: Easy			Ahead: Infant and Child CPR			Subject:BLS Resuscitation, Page 578			Title: BLS Resuscitation			Feedback: See Infant and Child CPR			Taxonomy: Recall			Objective: 14-15 Explain the four steps of pediatric BLS procedures and how they differ from BLS procedures used in an adult patient.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following is considered an obvious sign of death and would not require the initiation of CPR?,
+Points,1,
+Difficulty,1,
+Option,100,a) Dependent blood pooling
+Option,0,b) Pulselessness and apnea
+Option,0,c) Agonal respiratory effort
+Option,0,d) Severe cyanosis to the face
+Hint,"Complexity: Moderate			Ahead: When Not to Start CPR			Subject:BLS Resuscitation, Page 584			Title: BLS Resuscitation			Feedback: See When Not to Start CPR			Taxonomy: Recall			Objective: 14-16 Describe the ethical issues related to patient resuscitation, including examples of when not to start CPR on a patient.",
+NewQuestion,MC,
+Title,,
+QuestionText,CPR should be initiated when:,
+Points,1,
+Difficulty,1,
+Option,0,a) rigor mortis is obvious.
+Option,100,b) a valid living will is unavailable.
+Option,0,c) the carotid pulse is very weak.
+Option,0,d) signs of putrefaction are present.
+Hint,"Complexity: Moderate			Ahead: When Not to Start CPR			Subject:BLS Resuscitation, Page 583			Title: BLS Resuscitation			Feedback: See When Not to Start CPR			Taxonomy: Analysis			Objective: 14-16 Describe the ethical issues related to patient resuscitation, including examples of when not to start CPR on a patient.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following is NOT an indication to stop CPR once you have started?,
+Points,1,
+Difficulty,1,
+Option,0,a) Pulse and respirations return.
+Option,0,b) You are physically exhausted.
+Option,0,c) A physician directs you to do so.
+Option,100,d) Care is transferred to a bystander.
+Hint,"Complexity: Moderate			Ahead: When to Stop CPR			Subject:BLS Resuscitation, Page 586			Title: BLS Resuscitation			Feedback: See When to Stop CPR			Taxonomy: Recall			Objective: 14-17 Explain the various factors involved in the decision to stop CPR after it has been started on a patient.",
+NewQuestion,MC,
+Title,,
+QuestionText,The MOST appropriate treatment for a patient with a mild upper airway obstruction includes:,
+Points,1,
+Difficulty,1,
+Option,0,a) performing five back slaps and five abdominal thrusts.
+Option,0,b) visualizing the airway and removing the obstruction.
+Option,100,c) administering oxygen and transporting immediately.
+Option,0,d) advising the patient not to make any attempts to cough.
+Hint,"Complexity: Moderate			Ahead: Foreign Body Airway Obstruction in Adults			Subject:BLS Resuscitation, Page 587			Title: BLS Resuscitation			Feedback: See Foreign Body Airway Obstruction in Adults			Taxonomy: Recall			Objective: 14-18 Explain common causes of foreign body airway obstruction in both children and adults and how to distinguish mild or partial airway obstruction from complete airway obstruction.",
+NewQuestion,MC,
+Title,,
+QuestionText,"Signs of a sudden severe upper airway obstruction include all of the following, EXCEPT:",
+Points,1,
+Difficulty,1,
+Option,0,a) acute cyanosis.
+Option,0,b) inability to speak.
+Option,0,c) grasping the throat.
+Option,100,d) forceful coughing.
+Hint,"Complexity: Moderate			Ahead: Foreign Body Airway Obstruction in Adults			Subject:BLS Resuscitation, Page 587			Title: BLS Resuscitation			Feedback: See Foreign Body Airway Obstruction in Adults			Taxonomy: Analysis			Objective: 14-18 Explain common causes of foreign body airway obstruction in both children and adults and how to distinguish mild or partial airway obstruction from complete airway obstruction.",
+NewQuestion,MC,
+Title,,
+QuestionText,Abdominal thrusts in a conscious child or adult with a severe upper airway obstruction are performed:,
+Points,1,
+Difficulty,1,
+Option,100,a) until he or she loses consciousness.
+Option,0,b) in sets of five followed by reassessment.
+Option,0,c) about 1 inch below the xiphoid process.
+Option,0,d) until he or she experiences cardiac arrest.
+Hint,"Complexity: Moderate			Ahead: Foreign Body Airway Obstruction in Adults			Subject:BLS Resuscitation, Page 588			Title: BLS Resuscitation			Feedback: See Foreign Body Airway Obstruction in Adults			Taxonomy: Application			Objective: 14-18 Explain common causes of foreign body airway obstruction in both children and adults and how to distinguish mild or partial airway obstruction from complete airway obstruction.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following techniques should you use to dislodge a foreign body airway obstruction in a patient who is in an advanced stage of pregnancy or who is very obese?,
+Points,1,
+Difficulty,1,
+Option,0,a) Back slaps
+Option,0,b) Finger sweeps
+Option,100,c) Chest thrusts
+Option,0,d) Abdominal thrusts
+Hint,"Complexity: Easy			Ahead: Foreign Body Airway Obstruction in Adults			Subject:BLS Resuscitation, Page 588			Title: BLS Resuscitation			Feedback: See Foreign Body Airway Obstruction in Adults			Taxonomy: Recall			Objective: 14-19 Describe the different methods for removing a foreign body airway obstruction in an infant, child, and adult, including the procedure for a patient with an obstruction who becomes unresponsive.",
+NewQuestion,MC,
+Title,,
+QuestionText,"Your initial attempt to ventilate an unresponsive, apneic 30-year-old man is met with resistance and you do not see the chest rise. Your second ventilation attempt is also unsuccessful. You should:",
+Points,1,
+Difficulty,1,
+Option,0,a) suction the oropharynx.
+Option,0,b) perform a blind finger sweep.
+Option,100,c) perform 30 chest compressions.
+Option,0,d) ventilate again with greater force.
+Hint,"Complexity: Moderate			Ahead: Foreign Body Airway Obstruction in Adults			Subject:BLS Resuscitation, Page 589			Title: BLS Resuscitation			Feedback: See Foreign Body Airway Obstruction in Adults			Taxonomy: Application			Objective: 14-19 Describe the different methods for removing a foreign body airway obstruction in an infant, child, and adult, including the procedure for a patient with an obstruction who becomes unresponsive.",
+NewQuestion,MC,
+Title,,
+QuestionText,Initial treatment to dislodge a severe foreign body airway obstruction in a responsive infant involves:,
+Points,1,
+Difficulty,1,
+Option,100,a) back slaps.
+Option,0,b) bag-mask ventilation.
+Option,0,c) abdominal thrusts.
+Option,0,d) blind finger sweeps.
+Hint,"Complexity: Easy			Ahead: Foreign Body Airway Obstruction in Infants and Children			Subject:BLS Resuscitation, Page 591			Title: BLS Resuscitation			Feedback: See Foreign Body Airway Obstruction in Infants and Children			Taxonomy: Recall			Objective: 14-19 Describe the different methods for removing a foreign body airway obstruction in an infant, child, and adult, including the procedure for a patient with an obstruction who becomes unresponsive.",
+NewQuestion,MC,
+Title,,
+QuestionText,"CPR is in progress on a pregnant woman. Shortly after manually displacing her uterus to the left, return of spontaneous circulation occurs. Which of the following would MOST likely explain this?",
+Points,1,
+Difficulty,1,
+Option,0,"a) Increased blood flow to her heart caused her ventricles to stop fibrillating, which restored her pulse."
+Option,100,"b) Pressure was relieved from her aorta and vena cava, which improved chest compression effectiveness."
+Option,0,"c) Displacement of her uterus caused blood to flow backward, which increased blood flow to her heart."
+Option,0,"d) Displacement of her uterus allowed her lungs to expand more fully, which restored her pulse."
+Hint,"Complexity: Difficult			Ahead: Special Resuscitation Circumstances			Subject:BLS Resuscitation, Page 593			Title: BLS Resuscitation			Feedback: See Special Resuscitation Circumstances			Taxonomy: Analysis			Objective: 14-16 Describe the ethical issues related to patient resuscitation, including examples of when not to start CPR on a patient.",
+NewQuestion,MC,
+Title,,
+QuestionText,A team of EMTs and paramedics are attempting to resuscitate a man who is in cardiac arrest while his wife and son are present. Which of the following should occur during the resuscitation attempt?,
+Points,1,
+Difficulty,1,
+Option,100,a) One EMT should update the family on the interventions that have been performed and how the patient has responded.
+Option,0,b) Each member of the resuscitation team should update the family at various intervals throughout the attempt.
+Option,0,c) Communication with the family should be minimal until the final outcome of the resuscitation attempt is known.
+Option,0,d) A law enforcement officer should prepare the family for the patient’s death and contact the funeral home.
+Hint,"Complexity: Difficult			Ahead: Grief Support for Family Members and Loved Ones			Subject:BLS Resuscitation, Page 594			Title: BLS Resuscitation			Feedback: See Grief Support for Family Members and Loved Ones			Taxonomy: Application			Objective: 14-20 Discuss how to provide grief support for a patient’s family members and loved ones after resuscitation has ended.",
+NewQuestion,MC,
+Title,,
+QuestionText,CPR retraining is the MOST effective when it:,
+Points,1,
+Difficulty,1,
+Option,0,a) is self-paced and brief.
+Option,0,b) occurs every 24 months.
+Option,0,c) is delivered by computer.
+Option,100,d) involves hands-on practice.
+Hint,"Complexity: Easy			Ahead: Education and Training for the EMT			Subject:BLS Resuscitation, Page 595			Title: BLS Resuscitation			Feedback: See Education and Training for the EMT			Taxonomy: Recall			Objective: 14-21 Discuss the importance of frequent CPR training for EMTs, as well as public education programs that teach compression-only CPR.",
+NewQuestion,MC,
+Title,,
+QuestionText,You should attempt to maintain a chest compression fraction of at least:,
+Points,1,
+Difficulty,1,
+Option,0,a) 40%
+Option,0,b) 50%
+Option,0,c) 60%
+Option,100,d) 80%
+Hint,"Complexity: Moderate			Ahead: Interrupting CPR			Subject:BLS Resuscitation, Page 584			Title: BLS Resuscitation			Feedback: See Interrupting CPR			Taxonomy: Recall			Objective: 14-2 Explain the goals of cardiopulmonary resuscitation (CPR) and when it should be performed on a patient.",
+NewQuestion,MC,
+Title,,
+QuestionText,"You are off duty at a park when you witness an apparently healthy 12-year-old child suddenly collapse. There are no bystanders around, and your mobile phone is in your car. After confirming that the child is in cardiac arrest, you should:",
+Points,1,
+Difficulty,1,
+Option,0,a) perform CPR for 2 minutes and then call 9-1-1.
+Option,100,b) call 9-1-1 and then return to begin CPR on the child.
+Option,0,c) deliver five rescue breaths before starting chest compressions.
+Option,0,d) perform chest compressions only until a bystander arrives.
+Hint,"Complexity: Difficult			Ahead: Infant and Child CPR			Subject:BLS Resuscitation, Page 579			Title: BLS Resuscitation			Feedback: See Infant and Child CPR			Taxonomy: Application			Objective: 14-14 Describe the different possible causes of cardiopulmonary arrest in children.",

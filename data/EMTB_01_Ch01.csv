@@ -1,0 +1,320 @@
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following descriptions most accurately portrays emergency medical services (EMS)?,
+Points,1,
+Difficulty,1,
+Option,0,a) A vast network of advanced life support (ALS) providers who provide definitive emergency care in the prehospital setting
+Option,100,b) A team of health care professionals who are responsible for providing emergency care and transportation to the sick and injured
+Option,0,c) A system composed exclusively of emergency medical responders (EMRs) and emergency medical technicians (EMTs) who are responsible for providing care to sick and injured patients
+Option,0,d) A team of paramedics and emergency physicians who are responsible for providing emergency care to critically injured patients
+Hint,"Complexity: Easy			Ahead: Introduction			Subject: EMS Systems	, Page 3			Title: EMS Systems			Feedback: See Introduction			Taxonomy: Application			Objective: 1-1 Define emergency medical services (EMS) systems.",
+NewQuestion,MC,
+Title,,
+QuestionText,The standards for prehospital emergency care and the individuals who provide it are typically regulated by the:,
+Points,1,
+Difficulty,1,
+Option,100,a) state office of EMS.
+Option,0,b) regional trauma center.
+Option,0,c) American Heart Association.
+Option,0,d) National Registry of EMTs.
+Hint,"Complexity: Easy			Ahead: Introduction			Subject: EMS Systems	, Page 5			Title: EMS Systems			Feedback: See Introduction			Taxonomy: Recall			Objective: 1-2 Name the four levels of EMT training and licensure.",
+NewQuestion,MC,
+Title,,
+QuestionText,An EMS provider who has extensive training in various aspects of advanced life support (ALS) is called a(n):,
+Points,1,
+Difficulty,1,
+Option,0,a) EMT.
+Option,100,b) paramedic.
+Option,0,c) advanced EMT (AEMT).
+Option,0,d) EMR.
+Hint,"Complexity: Easy			Ahead: Introduction			Subject: EMS Systems	, Page 4			Title: EMS Systems			Feedback: See Introduction			Taxonomy: Recall			Objective: 1-2 Name the four levels of EMT training and licensure.",
+NewQuestion,MC,
+Title,,
+QuestionText,EMT training in nearly every state meets or exceeds the guidelines recommended by the:,
+Points,1,
+Difficulty,1,
+Option,0,a) National Registry of EMTs.
+Option,0,b) individual state’s EMS protocols.
+Option,0,c) National Association of EMTs.
+Option,100,d) National Highway Traffic Safety Administration (NHTSA).
+Hint,"Complexity: Moderate			Ahead: Introduction			Subject: EMS Systems	, Page 5			Title: EMS Systems			Feedback: See Introduction			Taxonomy: Recall			Objective: 1-2 Name the four levels of EMT training and licensure.",
+NewQuestion,MC,
+Title,,
+QuestionText,"According to the National EMS Scope of Practice Model, an EMT should be able to:",
+Points,1,
+Difficulty,1,
+Option,100,a) assist a patient with certain prescribed medications.
+Option,0,b) insert a peripheral IV line and infuse fluids.
+Option,0,c) administer epinephrine via the subcutaneous route.
+Option,0,d) interpret a basic (ECG) rhythm and treat accordingly.
+Hint,"Complexity: Easy			Ahead: Levels of Training			Subject: EMS Systems	, Page 9			Title: EMS Systems			Feedback: See Levels of Training			Taxonomy: Recall			Objective: 1-5 Describe the levels of EMT training in terms of sets of knowledge, skills, and attitudes needed for each of the following: EMR, EMT, AEMT, and paramedic.",
+NewQuestion,MC,
+Title,,
+QuestionText,"Cardiac monitoring, pharmacologic interventions, and other advanced treatment skills are functions of the:",
+Points,1,
+Difficulty,1,
+Option,0,a) EMT.
+Option,100,b) paramedic.
+Option,0,c) AEMT.
+Option,0,d) EMR.
+Hint,"Complexity: Moderate			Ahead: Introduction			Subject: EMS Systems	, Page 4			Title: EMS Systems			Feedback: See Introduction			Taxonomy: Recall			Objective: 1-2 Name the four levels of EMT training and licensure.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following criteria is required to become licensed and employed as an EMT?,
+Points,1,
+Difficulty,1,
+Option,0,a) Demonstration of the ability to lift and carry at least 200 pounds
+Option,100,b) Proof of immunization against certain communicable diseases
+Option,0,c) A minimum of 60 college credit hours that focus on health care
+Option,0,d) Successful completion of a recognized bystander CPR course
+Hint,"Complexity: Easy			Ahead: Licensure Requirements			Subject: EMS Systems	, Page 7			Title: EMS Systems			Feedback: See Licensure Requirements			Taxonomy: Recall			Objective: 1-3 Describe EMT licensure criteria; include how the Americans With Disabilities Act (ADA) applies to employment as an EMT.",
+NewQuestion,MC,
+Title,,
+QuestionText,"If an EMT candidate has been convicted of a felony or misdemeanor, he or she should:",
+Points,1,
+Difficulty,1,
+Option,0,a) wait at least 24 months before taking another state-approved EMT class.
+Option,0,b) send an official request to the National Registry of EMTs (NREMT) to seek approval to take the EMT exam.
+Option,0,c) recognize that any such conviction will disqualify him or her from EMT licensure.
+Option,100,d) contact the state EMS office and provide its staff with the required documentation.
+Hint,"Complexity: Moderate			Ahead: Licensure Requirements			Subject: EMS Systems	, Page 7			Title: EMS Systems			Feedback: See Licensure Requirements			Taxonomy: Application			Objective: 1-3 Describe EMT licensure criteria; include how the Americans With Disabilities Act (ADA) applies to employment as an EMT.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following statements regarding the Americans With Disabilities Act (ADA) of 1990 is correct?,
+Points,1,
+Difficulty,1,
+Option,0,a) The ADA applies only to individuals with a diagnosed and well-documented physical disability.
+Option,0,b) The minimum number of hours required to successfully complete an EMT course is less for candidates who are disabled.
+Option,100,c) The ADA prohibits employers from failing to provide full and equal employment to those who are disabled.
+Option,0,"d) According to the ADA, EMT candidates with a documented disability are exempt from taking the NREMT exam."
+Hint,"Complexity: Difficult			Ahead: Licensure Requirements			Subject: EMS Systems	, Page 7			Title: EMS Systems			Feedback: See Licensure Requirements			Taxonomy: Recall			Objective: 1-3 Describe EMT licensure criteria; include how the Americans With Disabilities Act (ADA) applies to employment as an EMT.",
+NewQuestion,MC,
+Title,,
+QuestionText,"As an EMT, you may be authorized to administer aspirin to a patient with chest pain based on:",
+Points,1,
+Difficulty,1,
+Option,0,a) the patient’s condition.
+Option,100,b) medical director approval.
+Option,0,c) an order from a paramedic.
+Option,0,d) the transport time to the hospital.
+Hint,"Complexity: Moderate			Ahead: Components of the EMS System			Subject: EMS Systems	, Page 14			Title: EMS Systems			Feedback: See Components of the EMS System			Taxonomy: Application			Objective: 1-8 Describe how medical direction in an EMS system works and the EMT’s role in the process.",
+NewQuestion,MC,
+Title,,
+QuestionText,"According to the National EMS Scope of Practice Model, an EMT would require special permission from the medical director and the state EMS office to:",
+Points,1,
+Difficulty,1,
+Option,100,a) insert a peripheral intravenous catheter.
+Option,0,b) apply and interpret data from a pulse oximeter.
+Option,0,c) use an automatic transport ventilator.
+Option,0,d) give aspirin to a patient with chest pain.
+Hint,"Complexity: Moderate			Ahead: Levels of Training			Subject: EMS Systems	, Page 10			Title: EMS Systems			Feedback: See Levels of Training			Taxonomy: Recall			Objective: 1-5 Describe the levels of EMT training in terms of sets of knowledge, skills, and attitudes needed for each of the following: EMR, EMT, AEMT, and paramedic.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following statements regarding the NREMT is correct?,
+Points,1,
+Difficulty,1,
+Option,0,a) The NREMT is a governmental agency that certifies EMTs.
+Option,0,b) The NREMT regulates EMS training standards.
+Option,0,c) The NREMT is the exclusive certifying body for EMTs.
+Option,100,d) The NREMT provides a national standard for EMS testing.
+Hint,"Complexity: Easy			Ahead: Introduction			Subject: EMS Systems	, Page 3			Title: EMS Systems			Feedback: See Introduction			Taxonomy: Recall			Objective: 1-1 Define emergency medical services (EMS) systems.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following scenarios involves the administration of ALS?,
+Points,1,
+Difficulty,1,
+Option,100,a) A 48-year-old patient whose airway is secured with a supraglottic device
+Option,0,b) A 53-year-old patient who is assisted with his prescribed nitroglycerin
+Option,0,c) A 61-year-old patient who is receiving humidified supplemental oxygen
+Option,0,d) A 64-year-old patient who is given aspirin for suspected cardiac chest pain
+Hint,"Complexity: Easy			Ahead: Introduction			Subject: EMS Systems	, Page 4			Title: EMS Systems			Feedback: See Introduction			Taxonomy: Application			Objective: 1-2 Name the four levels of EMT training and licensure.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following skills would a layperson most likely be trained to perform before the arrival of EMS?,
+Points,1,
+Difficulty,1,
+Option,0,a) Obtaining a manual blood pressure
+Option,100,b) Bleeding control using a tourniquet
+Option,0,c) Insertion of an oropharyngeal airway
+Option,0,d) Administration of supplemental oxygen
+Hint,"Complexity: Moderate			Ahead: Levels of Training			Subject: EMS Systems	, Page 10			Title: EMS Systems			Feedback: See Levels of Training			Taxonomy: Application			Objective: 1-5 Describe the levels of EMT training in terms of sets of knowledge, skills, and attitudes needed for each of the following: EMR, EMT, AEMT, and paramedic.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following skills or interventions is included at every level of prehospital emergency training?,
+Points,1,
+Difficulty,1,
+Option,0,a) Oral glucose for hypoglycemia
+Option,100,b) Automated external defibrillation
+Option,0,c) Intranasal medication administration
+Option,0,d) Use of a manually triggered ventilator
+Hint,"Complexity: Easy			Ahead: Levels of Training			Subject: EMS Systems	, Page 10			Title: EMS Systems			Feedback: See Levels of Training			Taxonomy: Recall			Objective: 1-5 Describe the levels of EMT training in terms of sets of knowledge, skills, and attitudes needed for each of the following: EMR, EMT, AEMT, and paramedic.",
+NewQuestion,MC,
+Title,,
+QuestionText,"EMRs such as firefighters, law enforcement officers, and park rangers are an integral part of the EMS system because:",
+Points,1,
+Difficulty,1,
+Option,0,a) they are usually trained to assist paramedics with certain procedures.
+Option,100,b) they often arrive at the scene before the ambulance and EMTs.
+Option,0,c) the average response time for the EMT crew is approximately 15 minutes.
+Option,0,d) they can initiate certain ALS procedures before EMS arrival.
+Hint,"Complexity: Moderate			Ahead: Levels of Training			Subject: EMS Systems	, Page 10			Title: EMS Systems			Feedback: See Levels of Training			Taxonomy: Recall			Objective: 1-6 Recognize the presence of other first responders at a scene with EMS training, some knowledge of first aid, or merely good intentions, and their need for direction.",
+NewQuestion,MC,
+Title,,
+QuestionText,"The ____________ deals with the well-being of the EMT, career progression, and EMT compensation.",
+Points,1,
+Difficulty,1,
+Option,100,a) human resources department
+Option,0,b) office of the medical director
+Option,0,c) EMS administrator or chief
+Option,0,d) local public health department
+Hint,"Complexity: Moderate			Ahead: Components of the EMS System			Subject: EMS Systems	, Page 13			Title: EMS Systems			Feedback: See Components of the EMS System			Taxonomy: Recall			Objective: 1-7 Explain the guiding principles of EMS Agenda 2050.",
+NewQuestion,MC,
+Title,,
+QuestionText,The person who is responsible for authorizing EMTs to perform emergency medical care in the field is the:,
+Points,1,
+Difficulty,1,
+Option,0,a) shift supervisor.
+Option,100,b) medical director.
+Option,0,c) EMS administrator.
+Option,0,d) field training officer.
+Hint,"Complexity: Moderate			Ahead: Components of the EMS System			Subject: EMS Systems	, Page 14			Title: EMS Systems			Feedback: See Components of the EMS System			Taxonomy: Recall			Objective: 1-8 Describe how medical direction in an EMS system works and the EMT’s role in the process.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following statements regarding the EMS medical director and an EMT’s scope of practice is correct?,
+Points,1,
+Difficulty,1,
+Option,0,a) The EMS medical director can expand the EMT’s scope of practice but cannot limit it without state approval.
+Option,0,b) The EMS medical director can expand or limit an individual EMT’s scope of practice without state approval.
+Option,0,"c) An EMT’s scope of practice is exclusively regulated by the state EMS office, not the EMS medical director."
+Option,100,d) An EMT’s scope of practice may be expanded by the medical director after proper training and state approval.
+Hint,"Complexity: Moderate			Ahead: Levels of Training			Subject: EMS Systems	, Page 10			Title: EMS Systems			Feedback: See Levels of Training			Taxonomy: Recall			Objective: 1-6 Recognize the presence of other first responders at a scene with EMS training, some knowledge of first aid, or merely good intentions, and their need for direction.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which type of medical direction do standing orders and protocols describe?,
+Points,1,
+Difficulty,1,
+Option,0,a) Radio
+Option,0,b) Online
+Option,100,c) Off-line
+Option,0,d) Direct
+Hint,"Complexity: Easy			Ahead: Components of the EMS System			Subject: EMS Systems	, Page 14			Title: EMS Systems			Feedback: See Components of the EMS System			Taxonomy: Recall			Objective: 1-8 Describe how medical direction in an EMS system works and the EMT’s role in the process.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following is a specific example of the Mobile Integrated Healthcare (MIH) model?,
+Points,1,
+Difficulty,1,
+Option,0,a) EMTs assess a patient whose lung disease is “acting up”
+Option,100,b) The paramedic administers a patient’s flu vaccination
+Option,0,c) EMTs respond to a woman who complains of high fever
+Option,0,d) Paramedics pick up a patient from an acute care clinic
+Hint,"Complexity: Moderate			Ahead: Components of the EMS System			Subject: EMS Systems	, Page 15			Title: EMS Systems			Feedback: See Components of the EMS System			Taxonomy: Application			Objective: 1-9 Define mobile integrated health care and community paramedicine.",
+NewQuestion,MC,
+Title,,
+QuestionText,The continuous quality improvement (CQI) process is designed to:,
+Points,1,
+Difficulty,1,
+Option,0,a) administer punitive actions to EMTs who do not follow local protocols.
+Option,100,b) identify areas of improvement and provide remedial training if needed.
+Option,0,c) ensure that all EMTs maintain licensure through the state EMS office.
+Option,0,d) focus specifically on the quality of emergency care provided to the patient.
+Hint,"Complexity: Easy			Ahead: Components of the EMS System			Subject: EMS Systems	, Page 16			Title: EMS Systems			Feedback: See Components of the EMS System			Taxonomy: Recall			Objective: 1-10 Explain the purpose of the EMS continuous quality improvement (CQI) process.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following errors is an example of a knowledge-based failure?,
+Points,1,
+Difficulty,1,
+Option,0,"a) An EMT gives the correct drug to a patient, although his protocols clearly state that he is not authorized to do so."
+Option,0,"b) Due to an improperly applied cervical collar, a patient’s spinal injury is aggravated and he is permanently disabled."
+Option,0,c) A patient is given nitroglycerin by an EMT who did not obtain proper authorization from medical control first.
+Option,100,d) An EMT administers the wrong drug to a patient because she did not know the pertinent information about the drug.
+Hint,"Complexity: Easy			Ahead: Components of the EMS System			Subject: EMS Systems	, Page 17			Title: EMS Systems			Feedback: See Components of the EMS System			Taxonomy: Application			Objective: 1-10 Explain the purpose of the EMS continuous quality improvement (CQI) process.",
+NewQuestion,MC,
+Title,,
+QuestionText,Continuing education in EMS serves to:,
+Points,1,
+Difficulty,1,
+Option,0,a) confirm research and statistical findings in prehospital care.
+Option,100,"b) maintain, update, and expand the EMT’s knowledge and skills."
+Option,0,c) enforce mandatory attendance at agency-specific training.
+Option,0,d) provide an ongoing review and audit of the EMS system.
+Hint,"Complexity: Easy			Ahead: Components of the EMS System			Subject: EMS Systems	, Page 19			Title: EMS Systems			Feedback: See Components of the EMS System			Taxonomy: Recall			Objective: 1-10 Explain the purpose of the EMS continuous quality improvement (CQI) process.",
+NewQuestion,MC,
+Title,,
+QuestionText,Obtaining continuing medical education is the responsibility of the:,
+Points,1,
+Difficulty,1,
+Option,100,a) individual EMT.
+Option,0,b) State Bureau of EMS.
+Option,0,c) EMS training officer.
+Option,0,d) EMS medical director.
+Hint,"Complexity: Easy			Ahead: Components of the EMS System			Subject: EMS Systems	, Page 19			Title: EMS Systems			Feedback: See Components of the EMS System			Taxonomy: Recall			Objective: 1-10 Explain the purpose of the EMS continuous quality improvement (CQI) process.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following is an example of a primary prevention strategy?,
+Points,1,
+Difficulty,1,
+Option,100,a) Community awareness programs that emphasize the dangers of drinking and driving
+Option,0,b) The construction of a guardrail on a dangerous curve following a fatal motor vehicle crash
+Option,0,c) Protecting a patient’s spine from further injury after a fall from a significant height
+Option,0,d) Teaching a group of new parents how to perform one- and two-rescuer infant CPR
+Hint,"Complexity: Easy			Ahead: Components of the EMS System			Subject: EMS Systems	, Page 20			Title: EMS Systems			Feedback: See Components of the EMS System			Taxonomy: Application			Objective: 1-11 Characterize the EMT’s role in disease and injury prevention and public education in the community.",
+NewQuestion,MC,
+Title,,
+QuestionText,The determination that prompt surgical care in the hospital is more important than performing time-consuming procedures in the field on a major trauma patient is based mostly on:,
+Points,1,
+Difficulty,1,
+Option,100,a) EMS research.
+Option,0,b) local protocols.
+Option,0,c) the lead EMT’s decision.
+Option,0,d) regional trauma guidelines.
+Hint,"Complexity: Easy			Ahead: Components of the EMS System			Subject: EMS Systems	, Page 20			Title: EMS Systems			Feedback: See Components of the EMS System			Taxonomy: Recall			Objective: 1-11 Characterize the EMT’s role in disease and injury prevention and public education in the community.",
+NewQuestion,MC,
+Title,,
+QuestionText,Why are prehospital emergency care guidelines updated on a regular basis?,
+Points,1,
+Difficulty,1,
+Option,0,a) Statistical data indicate that an increasing number of people are being diagnosed with a particular illness.
+Option,0,b) EMS providers should be encouraged to actively participate in research and become familiar with data analysis.
+Option,100,c) Additional information and evidence indicate that the effectiveness of certain interventions has changed.
+Option,0,d) The federal government requires the implementation of changes to existing emergency care protocols at least every five years.
+Hint,"Complexity: Moderate			Ahead: Components of the EMS System			Subject: EMS Systems	, Page 21			Title: EMS Systems			Feedback: See Components of the EMS System			Taxonomy: Application			Objective: 1-10 Explain the purpose of the EMS continuous quality improvement (CQI) process.",
+NewQuestion,MC,
+Title,,
+QuestionText,"If a defibrillator manufacturer claims that its device terminates ventricular fibrillation on the first shock 95% of the time, you should:",
+Points,1,
+Difficulty,1,
+Option,0,a) avoid purchasing the device because this claim is unrealistic.
+Option,100,b) recognize that this does not mean the device will save more lives.
+Option,0,c) purchase the device based solely on the manufacturer’s claim.
+Option,0,d) determine which device the American Heart Association recommends.
+Hint,"Complexity: Easy			Ahead: Components of the EMS System			Subject: EMS Systems	, Page 20			Title: EMS Systems			Feedback: See Components of the EMS System			Taxonomy: Application			Objective: 1-10 Explain the purpose of the EMS continuous quality improvement (CQI) process.",
+NewQuestion,MC,
+Title,,
+QuestionText,"An appropriate demonstration of professionalism when your patient is frightened, demanding, or unpleasant is to:",
+Points,1,
+Difficulty,1,
+Option,100,"a) continue to be nonjudgmental, compassionate, and respectful."
+Option,0,b) demand that the patient remain quiet and cooperative during transport.
+Option,0,c) ignore the patient’s feelings and focus on his or her medical complaint.
+Option,0,"d) reassure the patient that everything will be all right, even if it will not be."
+Hint,"Complexity: Easy			Ahead: Roles and Responsibilities of the EMT			Subject: EMS Systems	, Page 22			Title: EMS Systems			Feedback: See Roles and Responsibilities of the EMT			Taxonomy: Application			Objective: 1-12 Describe the roles and responsibilities of the EMT.",
+NewQuestion,MC,
+Title,,
+QuestionText,The EMT certification exam is designed to:,
+Points,1,
+Difficulty,1,
+Option,0,a) rank EMTs based on performance on the certification exam.
+Option,0,b) identify those EMTs who are prepared for advanced levels of training.
+Option,0,c) provide EMTs with the best possible wage once certification is achieved.
+Option,100,d) ensure that EMTs are competent and have the same level of knowledge and skills.
+Hint,"Complexity: Moderate			Ahead: Introduction			Subject: EMS Systems	, Page 4			Title: EMS Systems			Feedback: See Introduction			Taxonomy: Recall			Objective: 1-2 Name the four levels of EMT training and licensure.",
+NewQuestion,MC,
+Title,,
+QuestionText,EMS as we know it today had its origins in 1966 with the publication of:,
+Points,1,
+Difficulty,1,
+Option,0,a) the Emergency Medical Services Act.
+Option,0,b) the Department of Transportation’s White Paper: Death and Dying.
+Option,0,c) Emergency Care and Transportation of the Sick and Injured.
+Option,100,d) Accidental Death and Disability: The Neglected Disease of Modern Society.
+Hint,"Complexity: Easy			Ahead: Overview of the EMS System			Subject: EMS Systems	, Page 8			Title: EMS Systems			Feedback: See Overview of the EMS System			Taxonomy: Recall			Objective: 1-4 Discuss the historical background of the development of the EMS system.",

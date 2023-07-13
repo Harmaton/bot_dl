@@ -1,0 +1,390 @@
+NewQuestion,MC,
+Title,,
+QuestionText,Dyspnea is MOST accurately defined as:,
+Points,1,
+Difficulty,1,
+Option,100,a) shortness of breath or difficulty breathing.
+Option,0,b) a complete cessation of respiratory effort.
+Option,0,c) a marked increase in the exhalation phase.
+Option,0,d) labored breathing with reduced tidal volume.
+Hint,"Complexity: Easy			Ahead: Introduction			Subject:Respiratory Emergencies, Page 628			Title: Respiratory Emergencies			Feedback: See Introduction			Taxonomy: Recall			Objective: 16-5 Describe different respiratory conditions that cause dyspnea, including their causes, assessment findings and symptoms, complications, and specific prehospital management and transport decisions.",
+NewQuestion,MC,
+Title,,
+QuestionText,In what area of the lungs does respiration occur?,
+Points,1,
+Difficulty,1,
+Option,100,a) Alveoli
+Option,0,b) Trachea
+Option,0,c) Bronchi
+Option,0,d) Capillaries
+Hint,"Complexity: Moderate			Ahead: Anatomy of the Respiratory System			Subject:Respiratory Emergencies, Page 629			Title: Respiratory Emergencies			Feedback: See Anatomy of the Respiratory System			Taxonomy: Recall			Objective: 16-1 List the structures and functions of the upper and lower airways, lungs, and accessory structures of the respiratory system.",
+NewQuestion,MC,
+Title,,
+QuestionText,The two processes that occur during respiration are:,
+Points,1,
+Difficulty,1,
+Option,0,a) ventilation and diffusion.
+Option,100,b) inspiration and expiration.
+Option,0,c) diffusion and oxygenation.
+Option,0,d) oxygenation and ventilation.
+Hint,"Complexity: Easy			Ahead: Physiology of Respiration			Subject:Respiratory Emergencies, Page 629			Title: Respiratory Emergencies			Feedback: See Physiology of Respiration			Taxonomy: Recall			Objective: 16-2 Explain the physiology of respiration; include the signs of normal breathing.",
+NewQuestion,MC,
+Title,,
+QuestionText,In order for efficient pulmonary gas exchange to occur:,
+Points,1,
+Difficulty,1,
+Option,0,a) the percentage of inhaled carbon dioxide must exceed the percentage of inhaled oxygen.
+Option,0,b) there must be low quantities of pulmonary surfactant to allow for full alveolar expansion.
+Option,0,c) the pulmonary capillaries must be completely constricted and the alveoli must be collapsed.
+Option,100,d) oxygen and carbon dioxide must be able to freely diffuse across the alveolar–capillary membrane.
+Hint,"Complexity: Moderate			Ahead: Physiology of Respiration			Subject:Respiratory Emergencies, Page 630			Title: Respiratory Emergencies			Feedback: See Physiology of Respiration			Taxonomy: Recall			Objective: 16-2 Explain the physiology of respiration; include the signs of normal breathing.",
+NewQuestion,MC,
+Title,,
+QuestionText,"In a healthy individual, the brain stem stimulates breathing on the basis of:",
+Points,1,
+Difficulty,1,
+Option,0,a) increased oxygen levels.
+Option,0,b) decreased oxygen levels.
+Option,100,c) increased carbon dioxide levels.
+Option,0,d) decreased carbon dioxide levels.
+Hint,"Complexity: Moderate			Ahead: Physiology of Respiration			Subject:Respiratory Emergencies, Page 631			Title: Respiratory Emergencies			Feedback: See Physiology of Respiration			Taxonomy: Recall			Objective: 16-2 Explain the physiology of respiration; include the signs of normal breathing.",
+NewQuestion,MC,
+Title,,
+QuestionText,When the level of arterial carbon dioxide rises above normal:,
+Points,1,
+Difficulty,1,
+Option,0,a) the brain stem inhibits respirations.
+Option,100,b) respirations increase in rate and depth.
+Option,0,c) exhalation lasts longer than inhalation.
+Option,0,d) respirations decrease in rate and depth.
+Hint,"Complexity: Moderate			Ahead: Physiology of Respiration			Subject:Respiratory Emergencies, Page 633			Title: Respiratory Emergencies			Feedback: See Physiology of Respiration			Taxonomy: Recall			Objective: 16-2 Explain the physiology of respiration; include the signs of normal breathing.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following is MOST characteristic of adequate breathing?,
+Points,1,
+Difficulty,1,
+Option,0,a) 22 breaths/min with an irregular pattern of breathing and cyanosis
+Option,0,b) 20 breaths/min with shallow movement of the chest wall and pallor
+Option,100,c) 24 breaths/min with bilaterally equal breath sounds and pink skin
+Option,0,d) 30 breaths/min with supraclavicular retractions and clammy skin
+Hint,"Complexity: Easy			Ahead: Pathophysiology			Subject:Respiratory Emergencies, Page 631			Title: Respiratory Emergencies			Feedback: See Pathophysiology			Taxonomy: Analysis			Objective: 16-3 Discuss the pathophysiology of respiration, including examples of the common signs and symptoms a patient with inadequate breathing may present with in an emergency situation.",
+NewQuestion,MC,
+Title,,
+QuestionText,An alert patient presents with a regular pattern of inhalation and exhalation and breath sounds that are clear and equal on both sides of the chest. These findings are consistent with:,
+Points,1,
+Difficulty,1,
+Option,0,a) an obstructed airway.
+Option,100,b) adequate air exchange.
+Option,0,c) respiratory difficulty.
+Option,0,d) respiratory insufficiency.
+Hint,"Complexity: Easy			Ahead: Pathophysiology			Subject:Respiratory Emergencies, Page 631			Title: Respiratory Emergencies			Feedback: See Pathophysiology			Taxonomy: Analysis			Objective: 16-3 Discuss the pathophysiology of respiration, including examples of the common signs and symptoms a patient with inadequate breathing may present with in an emergency situation.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following statements regarding the hypoxic drive is correct?,
+Points,1,
+Difficulty,1,
+Option,100,a) The hypoxic drive stimulates a person to breathe on the basis of low oxygen levels.
+Option,0,b) Chronic carbon dioxide elimination often results in activation of the hypoxic drive.
+Option,0,c) The hypoxic drive serves as the primary stimulus for breathing in healthy individuals.
+Option,0,d) 100% supplemental oxygen will always cause apnea in patients with a hypoxic drive.
+Hint,"Complexity: Moderate			Ahead: Pathophysiology			Subject:Respiratory Emergencies, Page 631			Title: Respiratory Emergencies			Feedback: See Pathophysiology			Taxonomy: Recall			Objective: 16-3 Discuss the pathophysiology of respiration, including examples of the common signs and symptoms a patient with inadequate breathing may present with in an emergency situation.",
+NewQuestion,MC,
+Title,,
+QuestionText,"When administering supplemental oxygen to a hypoxemic patient with a chronic lung disease, you should:",
+Points,1,
+Difficulty,1,
+Option,0,a) recall that most patients with chronic lung diseases are stimulated to breathe by increased carbon dioxide levels.
+Option,100,"b) adjust the flow rate accordingly until you see symptom improvement, but be prepared to assist his or her ventilations."
+Option,0,"c) begin with a low oxygen flow rate, even if the patient is unresponsive, because high-flow oxygen may depress his or her breathing."
+Option,0,d) avoid positive-pressure ventilation because the majority of patients with chronic lung disease are at increased risk for lung trauma.
+Hint,"Complexity: Moderate			Ahead: Pathophysiology			Subject:Respiratory Emergencies, Page 631			Title: Respiratory Emergencies			Feedback: See Pathophysiology			Taxonomy: Recall			Objective: 16-3 Discuss the pathophysiology of respiration, including examples of the common signs and symptoms a patient with inadequate breathing may present with in an emergency situation.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following conditions would be LEAST likely to result in hypoxia?,
+Points,1,
+Difficulty,1,
+Option,0,a) Pleural effusion
+Option,100,b) Severe anxiety
+Option,0,c) Pulmonary edema
+Option,0,d) Narcotic overdose
+Hint,"Complexity: Moderate			Ahead: Causes of Dyspnea			Subject:Respiratory Emergencies, Page 633			Title: Respiratory Emergencies			Feedback: See Causes of Dyspnea			Taxonomy: Recall			Objective: 16-5 Describe different respiratory conditions that cause dyspnea, including their causes, assessment findings and symptoms, complications, and specific prehospital management and transport decisions.",
+NewQuestion,MC,
+Title,,
+QuestionText,Treatment with continuous positive airway pressure (CPAP) would MOST likely be contraindicated in which of the following situations?,
+Points,1,
+Difficulty,1,
+Option,0,"a) Pulmonary edema, history of hypertension, and anxiety"
+Option,0,"b) Difficulty breathing, two-word dyspnea, and tachycardia"
+Option,100,c) Shortness of breath and a blood pressure of 76/56 mm Hg
+Option,0,d) Conscious and alert patient with an oxygen saturation of 85%
+Hint,"Complexity: Moderate			Ahead: Treatment of Specific Conditions			Subject:Respiratory Emergencies, Page 663			Title: Respiratory Emergencies			Feedback: See Treatment of Specific Conditions			Taxonomy: Analysis			Objective: 16-5 Describe different respiratory conditions that cause dyspnea, including their causes, assessment findings and symptoms, complications, and specific prehospital management and transport decisions.",
+NewQuestion,MC,
+Title,,
+QuestionText,Acute pulmonary edema would MOST likely develop as the result of:,
+Points,1,
+Difficulty,1,
+Option,0,a) right-sided heart failure.
+Option,0,b) severe hyperventilation.
+Option,100,c) toxic chemical inhalation.
+Option,0,d) an upper airway infection.
+Hint,"Complexity: Moderate			Ahead: Causes of Dyspnea			Subject:Respiratory Emergencies, Page 634			Title: Respiratory Emergencies			Feedback: See Causes of Dyspnea			Taxonomy: Recall			Objective: 16-5 Describe different respiratory conditions that cause dyspnea, including their causes, assessment findings and symptoms, complications, and specific prehospital management and transport decisions.",
+NewQuestion,MC,
+Title,,
+QuestionText,The respiratory distress that accompanies emphysema is caused by:,
+Points,1,
+Difficulty,1,
+Option,0,a) repeated exposure to cigarette smoke.
+Option,100,b) chronic stretching of the alveolar walls.
+Option,0,c) massive constriction of the bronchioles.
+Option,0,d) acute fluid accumulation in the alveoli.
+Hint,"Complexity: Difficult			Ahead: Causes of Dyspnea			Subject:Respiratory Emergencies, Page 633			Title: Respiratory Emergencies			Feedback: See Causes of Dyspnea			Taxonomy: Recall			Objective: 16-5 Describe different respiratory conditions that cause dyspnea, including their causes, assessment findings and symptoms, complications, and specific prehospital management and transport decisions.",
+NewQuestion,MC,
+Title,,
+QuestionText,Asthma is caused by a response of the:,
+Points,1,
+Difficulty,1,
+Option,100,a) immune system.
+Option,0,b) endocrine system.
+Option,0,c) respiratory system.
+Option,0,d) cardiovascular system.
+Hint,"Complexity: Easy			Ahead: Causes of Dyspnea			Subject:Respiratory Emergencies, Page 642			Title: Respiratory Emergencies			Feedback: See Causes of Dyspnea			Taxonomy: Recall			Objective: 16-5 Describe different respiratory conditions that cause dyspnea, including their causes, assessment findings and symptoms, complications, and specific prehospital management and transport decisions.",
+NewQuestion,MC,
+Title,,
+QuestionText,"At the onset of an acute asthma attack, patients commonly experience difficulty breathing and:",
+Points,1,
+Difficulty,1,
+Option,100,a) audible stridor.
+Option,0,b) rales and rhonchi.
+Option,0,c) profound cyanosis.
+Option,0,d) expiratory wheezing.
+Hint,"Complexity: Moderate			Ahead: Causes of Dyspnea			Subject:Respiratory Emergencies, Page 642			Title: Respiratory Emergencies			Feedback: See Causes of Dyspnea			Taxonomy: Recall			Objective: 16-5 Describe different respiratory conditions that cause dyspnea, including their causes, assessment findings and symptoms, complications, and specific prehospital management and transport decisions.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following statements regarding anaphylaxis is correct?,
+Points,1,
+Difficulty,1,
+Option,0,a) Patients with asthma are at lower risk of developing anaphylaxis.
+Option,100,b) Anaphylaxis is characterized by airway swelling and hypotension.
+Option,0,c) Most anaphylactic reactions occur within 60 minutes of exposure.
+Option,0,d) The signs of anaphylaxis are caused by widespread vasoconstriction.
+Hint,"Complexity: Moderate			Ahead: Causes of Dyspnea			Subject:Respiratory Emergencies, Page 643			Title: Respiratory Emergencies			Feedback: See Causes of Dyspnea			Taxonomy: Recall			Objective: 16-5 Describe different respiratory conditions that cause dyspnea, including their causes, assessment findings and symptoms, complications, and specific prehospital management and transport decisions.",
+NewQuestion,MC,
+Title,,
+QuestionText,"A 30-year-old male presents with acute shortness of breath, widespread hives, and facial swelling. He denies any past medical history and takes no medications. During your assessment, you hear wheezing over all lung fields. His blood pressure is 90/50 mm Hg, and his heart rate is 110 beats/min. In addition to giving him high-flow oxygen, the MOST important treatment for this patient is:",
+Points,1,
+Difficulty,1,
+Option,0,a) albuterol.
+Option,100,b) epinephrine.
+Option,0,c) an antihistamine.
+Option,0,d) a beta-antagonist.
+Hint,"Complexity: Moderate			Ahead: Causes of Dyspnea			Subject:Respiratory Emergencies, Page 644			Title: Respiratory Emergencies			Feedback: See Causes of Dyspnea			Taxonomy: Application			Objective: 16-5 Describe different respiratory conditions that cause dyspnea, including their causes, assessment findings and symptoms, complications, and specific prehospital management and transport decisions.",
+NewQuestion,MC,
+Title,,
+QuestionText,"A 59-year-old male with a history of emphysema complains of an acute worsening of his dyspnea and pleuritic chest pain following a forceful cough. Your assessment reveals that he has a barrel-shaped chest, unilaterally diminished breath sounds, and tachycardia. What is the MOST likely cause of this patient’s condition?",
+Points,1,
+Difficulty,1,
+Option,0,a) Rupture of the diaphragm
+Option,0,b) Exacerbation of his COPD
+Option,0,c) Acute pulmonary embolism
+Option,100,d) Spontaneous pneumothorax
+Hint,"Complexity: Difficult			Ahead: Causes of Dyspnea			Subject:Respiratory Emergencies, Page 644			Title: Respiratory Emergencies			Feedback: See Causes of Dyspnea			Taxonomy: Analysis			Objective: 16-5 Describe different respiratory conditions that cause dyspnea, including their causes, assessment findings and symptoms, complications, and specific prehospital management and transport decisions.",
+NewQuestion,MC,
+Title,,
+QuestionText,A pleural effusion is MOST accurately defined as:,
+Points,1,
+Difficulty,1,
+Option,0,a) a unilaterally collapsed lung.
+Option,0,b) diffuse collapsing of the alveoli.
+Option,100,c) fluid accumulation outside the lung.
+Option,0,d) a bacterial infection of the lung tissue.
+Hint,"Complexity: Moderate			Ahead: Causes of Dyspnea			Subject:Respiratory Emergencies, Page 644			Title: Respiratory Emergencies			Feedback: See Causes of Dyspnea			Taxonomy: Recall			Objective: 16-5 Describe different respiratory conditions that cause dyspnea, including their causes, assessment findings and symptoms, complications, and specific prehospital management and transport decisions.",
+NewQuestion,MC,
+Title,,
+QuestionText,"You are dispatched to a residence for a 67-year-old female who was awakened by shortness of breath and sharp chest pain. Her husband tells you that she was recently discharged from the hospital after having hip surgery. Your assessment reveals dried blood around her mouth, facial cyanosis, and an oxygen saturation of 88%. You should suspect:",
+Points,1,
+Difficulty,1,
+Option,0,a) acute pulmonary edema.
+Option,0,b) right-sided heart failure.
+Option,100,c) acute pulmonary embolism.
+Option,0,d) spontaneous pneumothorax.
+Hint,"Complexity: Difficult			Ahead: Causes of Dyspnea			Subject:Respiratory Emergencies, Page 645			Title: Respiratory Emergencies			Feedback: See Causes of Dyspnea			Taxonomy: Analysis			Objective: 16-5 Describe different respiratory conditions that cause dyspnea, including their causes, assessment findings and symptoms, complications, and specific prehospital management and transport decisions.",
+NewQuestion,MC,
+Title,,
+QuestionText,"Hyperventilation could be associated with all of the following, EXCEPT:",
+Points,1,
+Difficulty,1,
+Option,100,a) a narcotic overdose.
+Option,0,b) a respiratory infection.
+Option,0,c) an overdose of aspirin.
+Option,0,d) high blood glucose levels.
+Hint,"Complexity: Easy			Ahead: Causes of Dyspnea			Subject:Respiratory Emergencies, Page 646			Title: Respiratory Emergencies			Feedback: See Causes of Dyspnea			Taxonomy: Recall			Objective: 16-5 Describe different respiratory conditions that cause dyspnea, including their causes, assessment findings and symptoms, complications, and specific prehospital management and transport decisions.",
+NewQuestion,MC,
+Title,,
+QuestionText,A young female is unconscious after intentionally ingesting a large amount of aspirin. You will MOST likely find her respirations:,
+Points,1,
+Difficulty,1,
+Option,0,a) slow and deep.
+Option,100,b) deep and rapid.
+Option,0,c) slow and shallow.
+Option,0,d) rapid and shallow.
+Hint,"Complexity: Difficult			Ahead: Causes of Dyspnea			Subject:Respiratory Emergencies, Page 646			Title: Respiratory Emergencies			Feedback: See Causes of Dyspnea			Taxonomy: Analysis			Objective: 16-5 Describe different respiratory conditions that cause dyspnea, including their causes, assessment findings and symptoms, complications, and specific prehospital management and transport decisions.",
+NewQuestion,MC,
+Title,,
+QuestionText,Alkalosis is a condition that occurs when:,
+Points,1,
+Difficulty,1,
+Option,100,a) blood acidity is reduced by excessive breathing.
+Option,0,b) dangerous acids accumulate in the bloodstream.
+Option,0,c) the level of carbon dioxide in the blood increases.
+Option,0,"d) slow, shallow breathing eliminates too much carbon dioxide."
+Hint,"Complexity: Moderate			Ahead: Causes of Dyspnea			Subject:Respiratory Emergencies, Page 646			Title: Respiratory Emergencies			Feedback: See Causes of Dyspnea			Taxonomy: Recall			Objective: 16-5 Describe different respiratory conditions that cause dyspnea, including their causes, assessment findings and symptoms, complications, and specific prehospital management and transport decisions.",
+NewQuestion,MC,
+Title,,
+QuestionText,Common signs and symptoms of acute hyperventilation syndrome include:,
+Points,1,
+Difficulty,1,
+Option,0,a) altered mental status and bradycardia.
+Option,0,b) unilateral paralysis and slurred speech.
+Option,0,"c) anxiety, dizziness, and severe bradypnea."
+Option,100,d) tachypnea and tingling in the extremities.
+Hint,"Complexity: Moderate			Ahead: Causes of Dyspnea			Subject:Respiratory Emergencies, Page 646			Title: Respiratory Emergencies			Feedback: See Causes of Dyspnea			Taxonomy: Recall			Objective: 16-5 Describe different respiratory conditions that cause dyspnea, including their causes, assessment findings and symptoms, complications, and specific prehospital management and transport decisions.",
+NewQuestion,MC,
+Title,,
+QuestionText,"A 60-year-old male presents with acute respiratory distress. He is conscious and alert, has pink and dry skin, and has respirations of 22 breaths/min with adequate depth. Which of the following treatments is MOST appropriate for this patient?",
+Points,1,
+Difficulty,1,
+Option,0,a) Assisted ventilation with a bag-valve mask and a head-to-toe exam
+Option,100,b) Oxygen via nonrebreathing mask and a focused secondary assessment
+Option,0,c) Positive-pressure ventilations and immediate transport to the closest hospital
+Option,0,"d) Oxygen via a nasal cannula, vital signs, and prompt transport to the hospital"
+Hint,"Complexity: Difficult			Ahead: Patient Assessment			Subject:Respiratory Emergencies, Page 649			Title: Respiratory Emergencies			Feedback: See Patient Assessment			Taxonomy: Application			Objective: 16-9 Describe the assessment of a patient who is in respiratory distress and the relationship of the assessment findings to patient management and transport decisions.",
+NewQuestion,MC,
+Title,,
+QuestionText,"You receive a call for a 70-year-old female with respiratory distress. Her husband tells you that she has congestive heart failure; however, he does not think that she has been taking her medications as prescribed. The patient is laboring to breathe, appears tired, and has cyanosis around her lips. You should:",
+Points,1,
+Difficulty,1,
+Option,100,a) assist her ventilations with a bag-mask device.
+Option,0,b) apply a pulse oximeter and assess her vital signs.
+Option,0,c) administer oxygen via a nonrebreathing mask.
+Option,0,d) obtain a complete list of all of her medications.
+Hint,"Complexity: Difficult			Ahead: Patient Assessment			Subject:Respiratory Emergencies, Page 648			Title: Respiratory Emergencies			Feedback: See Patient Assessment			Taxonomy: Application			Objective: 16-9 Describe the assessment of a patient who is in respiratory distress and the relationship of the assessment findings to patient management and transport decisions.",
+NewQuestion,MC,
+Title,,
+QuestionText,"When auscultating the lungs of a patient with respiratory distress, you hear adventitious sounds. This means that the patient has:",
+Points,1,
+Difficulty,1,
+Option,0,a) normal breath sounds.
+Option,100,b) abnormal breath sounds.
+Option,0,c) diminished breath sounds.
+Option,0,d) an absence of breath sounds.
+Hint,"Complexity: Moderate			Ahead: Patient Assessment			Subject:Respiratory Emergencies, Page 650			Title: Respiratory Emergencies			Feedback: See Patient Assessment			Taxonomy: Recall			Objective: 16-9 Describe the assessment of a patient who is in respiratory distress and the relationship of the assessment findings to patient management and transport decisions.",
+NewQuestion,MC,
+Title,,
+QuestionText,"When assessing for fluid collection in the lungs during auscultation of lung sounds, you should:",
+Points,1,
+Difficulty,1,
+Option,0,"a) note the presence of a high-pitched whistling sound, which is an indicator of fluid in the lungs."
+Option,0,b) pay special attention to the exhalation phase because this is when you will likely hear rales or rhonchi.
+Option,0,c) auscultate the posterior chest first and compare the apex of one lung to the base of the opposite lung.
+Option,100,d) start at the lower lung fields and determine at which level you start hearing clear breath sounds.
+Hint,"Complexity: Moderate			Ahead: Patient Assessment			Subject:Respiratory Emergencies, Page 650			Title: Respiratory Emergencies			Feedback: See Patient Assessment			Taxonomy: Recall			Objective: 16-9 Describe the assessment of a patient who is in respiratory distress and the relationship of the assessment findings to patient management and transport decisions.",
+NewQuestion,MC,
+Title,,
+QuestionText,"While auscultating an elderly woman’s breath sounds, you hear low-pitched “rattling” sounds at the bases of both of her lungs. This finding is MOST consistent with which of the following conditions?",
+Points,1,
+Difficulty,1,
+Option,0,a) Acute asthma attack
+Option,0,b) Widespread atelectasis
+Option,100,c) Aspiration pneumonia
+Option,0,d) Early pulmonary edema
+Hint,"Complexity: Difficult			Ahead: Patient Assessment			Subject:Respiratory Emergencies, Page 647			Title: Respiratory Emergencies			Feedback: See Patient Assessment			Taxonomy: Application			Objective: 16-9 Describe the assessment of a patient who is in respiratory distress and the relationship of the assessment findings to patient management and transport decisions.",
+NewQuestion,MC,
+Title,,
+QuestionText,"Harsh, high-pitched inspiratory sounds are characteristic of:",
+Points,1,
+Difficulty,1,
+Option,0,a) rales.
+Option,100,b) stridor.
+Option,0,c) rhonchi.
+Option,0,d) wheezing.
+Hint,"Complexity: Easy			Ahead: Patient Assessment			Subject:Respiratory Emergencies, Page 651			Title: Respiratory Emergencies			Feedback: See Patient Assessment			Taxonomy: Recall			Objective: 16-9 Describe the assessment of a patient who is in respiratory distress and the relationship of the assessment findings to patient management and transport decisions.",
+NewQuestion,MC,
+Title,,
+QuestionText,"A conscious and alert 29-year-old female with a history of asthma complains of difficulty breathing that began after her morning jog. The temperature outside is 40°F (5°C). On exam, you hear bilateral expiratory wheezing. After providing supplemental oxygen, you should:",
+Points,1,
+Difficulty,1,
+Option,0,a) place her in a recumbent position to facilitate breathing.
+Option,0,b) contact medical control and administer an antihistamine.
+Option,0,c) call medical control and ask how to proceed with treatment.
+Option,100,d) determine if she has been prescribed a beta-agonist inhaler.
+Hint,"Complexity: Easy			Ahead: Patient Assessment			Subject:Respiratory Emergencies, Page 656			Title: Respiratory Emergencies			Feedback: See Patient Assessment			Taxonomy: Application			Objective: 16-9 Describe the assessment of a patient who is in respiratory distress and the relationship of the assessment findings to patient management and transport decisions.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following statements regarding pulse oximetry is correct?,
+Points,1,
+Difficulty,1,
+Option,0,a) The pulse oximeter is a valuable assessment tool that measures the percentage of red blood cells that contain hemoglobin molecules.
+Option,0,b) Caution must be exercised when using the pulse oximeter on a patient with carbon monoxide poisoning because falsely low readings are common.
+Option,100,c) Pulse oximetry measures the percentage of hemoglobin that is saturated with oxygen but does not measure the actual hemoglobin content of the blood.
+Option,0,d) Most otherwise healthy patients can maintain adequate oxygenation and good skin color with oxygen saturation readings as low as 70% to 80%.
+Hint,"Complexity: Moderate			Ahead: Patient Assessment			Subject:Respiratory Emergencies, Page 654			Title: Respiratory Emergencies			Feedback: See Patient Assessment			Taxonomy: Recall			Objective: 16-9 Describe the assessment of a patient who is in respiratory distress and the relationship of the assessment findings to patient management and transport decisions.",
+NewQuestion,MC,
+Title,,
+QuestionText,"You are dispatched to an apartment complex where a 21-year-old female has apparently overdosed on several narcotic medications. She is semiconscious and has slow, shallow respirations. You should:",
+Points,1,
+Difficulty,1,
+Option,0,a) insert an oropharyngeal airway and perform oral suctioning.
+Option,0,b) apply oxygen via a nonrebreathing mask and transport at once.
+Option,100,c) insert a nasopharyngeal airway and begin assisted ventilation.
+Option,0,d) place her in the recovery position and monitor for vomiting.
+Hint,"Complexity: Difficult			Ahead: Patient Assessment			Subject:Respiratory Emergencies, Page 657			Title: Respiratory Emergencies			Feedback: See Patient Assessment			Taxonomy: Analysis			Objective: 16-9 Describe the assessment of a patient who is in respiratory distress and the relationship of the assessment findings to patient management and transport decisions.",
+NewQuestion,MC,
+Title,,
+QuestionText,Albuterol is a generic name for:,
+Points,1,
+Difficulty,1,
+Option,0,a) Alupent.
+Option,0,b) Atrovent.
+Option,100,c) Ventolin.
+Option,0,d) Singulair.
+Hint,"Complexity: Easy			Ahead: Emergency Medical Care			Subject:Respiratory Emergencies, Page 658			Title: Respiratory Emergencies			Feedback: See Emergency Medical Care			Taxonomy: Recall			Objective: 16-12 State the generic name, medication forms, dose, administration, indications, actions, and contraindications for medications that are administered via metered-dose inhalers (MDIs) and small-volume nebulizers.",
+NewQuestion,MC,
+Title,,
+QuestionText,"You are assisting an asthma patient with his prescribed metered-dose inhaler. After the patient exhales, and before inhaling, the patient should put his or her lips around the inhaler, take a deep breath, and depress the inhale. You should:",
+Points,1,
+Difficulty,1,
+Option,100,a) instruct him to hold his breath for as long as he comfortably can.
+Option,0,b) immediately reapply the oxygen mask and reassess his condition.
+Option,0,c) advise him to exhale forcefully to ensure medication absorption.
+Option,0,d) allow him to breathe room air and assess his oxygen saturation.
+Hint,"Complexity: Difficult			Ahead: Emergency Medical Care			Subject:Respiratory Emergencies, Page 656			Title: Respiratory Emergencies			Feedback: See Emergency Medical Care			Taxonomy: Application			Objective: 16-12 State the generic name, medication forms, dose, administration, indications, actions, and contraindications for medications that are administered via metered-dose inhalers (MDIs) and small-volume nebulizers.",
+NewQuestion,MC,
+Title,,
+QuestionText,A 22-year-old female patient is complaining of dyspnea and numbness and tingling in her hands and feet after an argument with her fiancé. Her respirations are 40 breaths/min. You should:,
+Points,1,
+Difficulty,1,
+Option,0,a) have her breathe into a paper or plastic bag.
+Option,100,b) provide reassurance and give oxygen as needed.
+Option,0,c) request a paramedic to give her a sedative.
+Option,0,d) position her on her left side and transport at once.
+Hint,"Complexity: Difficult			Ahead: Treatment of Specific Conditions			Subject:Respiratory Emergencies, Page 665			Title: Respiratory Emergencies			Feedback: See Treatment of Specific Conditions			Taxonomy: Analysis			Objective: 16-10 Describe the primary emergency medical care of a person who is in respiratory distress.",
+NewQuestion,MC,
+Title,,
+QuestionText,"A 62-year-old man with a history of congestive heart failure presents with severe respiratory distress and with an oxygen saturation of 82%. When you auscultate his lungs, you hear widespread rales. He is conscious and alert, is able to follow simple commands, and can only speak in two- to three-word sentences at a time. You should:",
+Points,1,
+Difficulty,1,
+Option,0,"a) place him in a position of comfort, deliver oxygen via nasal cannula, and closely monitor his breathing."
+Option,100,"b) apply a CPAP device, monitor his blood pressure, and observe him for signs of improvement or deterioration."
+Option,0,c) force fluid from his alveoli by hyperventilating him with a bag-valve mask at a rate of at least 20 breaths/min.
+Option,0,d) place him in a supine position and assist his ventilations with a bag-valve mask and high-flow oxygen.
+Hint,"Complexity: Difficult			Ahead: Treatment of Specific Conditions			Subject:Respiratory Emergencies, Page 663			Title: Respiratory Emergencies			Feedback: See Treatment of Specific Conditions			Taxonomy: Analysis			Objective: 16-10 Describe the primary emergency medical care of a person who is in respiratory distress.",
+NewQuestion,MC,
+Title,,
+QuestionText,You are assessing a patient with respiratory distress and are unsure if the cause is congestive heart failure or chronic obstructive pulmonary disease (COPD). Which of the following clinical signs would be the MOST helpful in determining whether the patient has chronic heart failure or COPD?,
+Points,1,
+Difficulty,1,
+Option,0,a) Rapid breathing
+Option,0,b) Cyanosis of the skin
+Option,0,c) Altered mental status
+Option,100,d) Jugular vein distention
+Hint,"Complexity: Difficult			Ahead: Causes of Dyspnea			Subject:Respiratory Emergencies, Page 640			Title: Respiratory Emergencies			Feedback: See Causes of Dyspnea			Taxonomy: Analysis			Objective: 16-5 Describe different respiratory conditions that cause dyspnea, including their causes, assessment findings and symptoms, complications, and specific prehospital management and transport decisions.",

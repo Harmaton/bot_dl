@@ -1,0 +1,370 @@
+NewQuestion,MC,
+Title,,
+QuestionText,Shock is the result of:,
+Points,1,
+Difficulty,1,
+Option,100,a) hypoperfusion to the cells of the body.
+Option,0,b) the body’s maintenance of homeostasis.
+Option,0,c) temporary dysfunction of a major organ.
+Option,0,d) widespread constriction of the blood vessels.
+Hint,"Complexity: Moderate			Ahead: Introduction			Subject:Shock, Page 531			Title: Shock			Feedback: See Introduction			Taxonomy: Recall			Objective: 13-1 Describe the pathophysiology of shock (hypoperfusion).",
+NewQuestion,MC,
+Title,,
+QuestionText,Capillary sphincters are:,
+Points,1,
+Difficulty,1,
+Option,0,a) under complete control of the voluntary portion of the nervous system.
+Option,0,b) capable of dilating in order to increase perfusion to crucial body organs.
+Option,0,c) responsible for constricting to compensate for decreased cell perfusion.
+Option,100,d) circular muscular walls that regulate blood flow through the capillaries.
+Hint,"Complexity: Easy			Ahead: Pathophysiology			Subject:Shock, Page 533			Title: Shock			Feedback: See Pathophysiology			Taxonomy: Recall			Objective: 13-1 Describe the pathophysiology of shock (hypoperfusion).",
+NewQuestion,MC,
+Title,,
+QuestionText,One of the primary waste products of normal cellular metabolism that must be removed from the body by the lungs is:,
+Points,1,
+Difficulty,1,
+Option,0,a) lactic acid.
+Option,100,b) carbon dioxide.
+Option,0,c) pyruvic acid.
+Option,0,d) carbon monoxide.
+Hint,"Complexity: Easy			Ahead: Pathophysiology			Subject:Shock, Page 531			Title: Shock			Feedback: See Pathophysiology			Taxonomy: Recall			Objective: 13-1 Describe the pathophysiology of shock (hypoperfusion).",
+NewQuestion,MC,
+Title,,
+QuestionText,"To protect vital organs, the body compensates by directing blood flow away from organs that are more tolerant of low flow, such as:",
+Points,1,
+Difficulty,1,
+Option,100,a) the skin.
+Option,0,b) the heart.
+Option,0,c) the brain.
+Option,0,d) the lungs.
+Hint,"Complexity: Moderate			Ahead: Pathophysiology			Subject:Shock, Page 532			Title: Shock			Feedback: See Pathophysiology			Taxonomy: Recall			Objective: 13-1 Describe the pathophysiology of shock (hypoperfusion).",
+NewQuestion,MC,
+Title,,
+QuestionText,Pulmonary edema and impaired ventilation occur during:,
+Points,1,
+Difficulty,1,
+Option,0,a) septic shock.
+Option,0,b) neurogenic shock.
+Option,100,c) cardiogenic shock.
+Option,0,d) anaphylactic shock.
+Hint,"Complexity: Moderate			Ahead: Types of Shock			Subject:Shock, Page 534			Title: Shock			Feedback: See Types of Shock			Taxonomy: Analysis			Objective: 13-3 Differentiate among the various types of shock.",
+NewQuestion,MC,
+Title,,
+QuestionText,"Cardiogenic shock may result from all of the following, EXCEPT:",
+Points,1,
+Difficulty,1,
+Option,0,a) heart attack.
+Option,0,b) increased afterload.
+Option,100,c) increased preload.
+Option,0,d) poor contractility.
+Hint,"Complexity: Moderate			Ahead: Types of Shock			Subject:Shock, Page 534			Title: Shock			Feedback: See Types of Shock			Taxonomy: Recall			Objective: 13-3 Differentiate among the various types of shock.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following injuries would MOST likely cause obstructive shock?,
+Points,1,
+Difficulty,1,
+Option,0,a) Liver laceration
+Option,100,b) Cardiac tamponade
+Option,0,c) Simple pneumothorax
+Option,0,d) Spinal cord injury
+Hint,"Complexity: Easy			Ahead: Types of Shock			Subject:Shock, Page 536			Title: Shock			Feedback: See Types of Shock			Taxonomy: Recall			Objective: 13-3 Differentiate among the various types of shock.",
+NewQuestion,MC,
+Title,,
+QuestionText,Distributive shock occurs when:,
+Points,1,
+Difficulty,1,
+Option,0,a) an injury causes restriction of the heart muscle and impairs its pumping function.
+Option,0,b) severe bleeding causes tachycardia in order to distribute blood to the organs faster.
+Option,0,c) temporary but severe vasodilation causes a decrease in blood supply to the brain.
+Option,100,d) widespread dilation of the blood vessels causes blood to pool in the vascular beds.
+Hint,"Complexity: Moderate			Ahead: Types of Shock			Subject:Shock, Page 537			Title: Shock			Feedback: See Types of Shock			Taxonomy: Recall			Objective: 13-3 Differentiate among the various types of shock.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following MOST accurately describes septic shock?,
+Points,1,
+Difficulty,1,
+Option,0,a) Bacterial infection of the nervous system with widespread vasodilation
+Option,0,b) Widespread vasoconstriction and plasma loss due to a severe viral infection
+Option,100,"c) Bacterial damage to the vessel wall, leaking blood vessels, and vasodilation"
+Option,0,"d) Viral infection of the blood vessels, vascular damage, and vasoconstriction"
+Hint,"Complexity: Moderate			Ahead: Types of Shock			Subject:Shock, Page 537			Title: Shock			Feedback: See Types of Shock			Taxonomy: Recall			Objective: 13-3 Differentiate among the various types of shock.",
+NewQuestion,MC,
+Title,,
+QuestionText,Patients develop septic shock secondary to:,
+Points,1,
+Difficulty,1,
+Option,100,a) poor vessel function and severe volume loss.
+Option,0,b) an infection that weakens cardiac contractions.
+Option,0,c) failure of the blood vessels to adequately dilate.
+Option,0,d) weak vessel tone caused by nervous system damage.
+Hint,"Complexity: Difficult			Ahead: Types of Shock			Subject:Shock, Page 537			Title: Shock			Feedback: See Types of Shock			Taxonomy: Recall			Objective: 13-3 Differentiate among the various types of shock.",
+NewQuestion,MC,
+Title,,
+QuestionText,"A 70-year-old female was recently discharged from the hospital following a total hip replacement. Today, she presents with restlessness, tachycardia, and a blood pressure of 90/64 mm Hg. Her skin is hot and moist. You should be MOST suspicious that she is experiencing:",
+Points,1,
+Difficulty,1,
+Option,100,a) septic shock.
+Option,0,b) pump failure.
+Option,0,c) a local infection.
+Option,0,d) decompensated shock.
+Hint,"Complexity: Moderate			Ahead: Types of Shock			Subject:Shock, Page 537			Title: Shock			Feedback: See Types of Shock			Taxonomy: Application			Objective: 13-3 Differentiate among the various types of shock.",
+NewQuestion,MC,
+Title,,
+QuestionText,Neurogenic shock occurs when:,
+Points,1,
+Difficulty,1,
+Option,100,a) failure of the nervous system causes widespread vasodilation.
+Option,0,b) the spinal cord is severed and causes massive hemorrhaging.
+Option,0,c) there is too much blood to fill a smaller vascular container.
+Option,0,d) massive vasoconstriction occurs distal to a spinal cord injury.
+Hint,"Complexity: Moderate			Ahead: Types of Shock			Subject:Shock, Page 538			Title: Shock			Feedback: See Types of Shock			Taxonomy: Recall			Objective: 13-3 Differentiate among the various types of shock.",
+NewQuestion,MC,
+Title,,
+QuestionText,"In an acute injury setting, neurogenic shock is commonly accompanied by:",
+Points,1,
+Difficulty,1,
+Option,0,a) hypovolemia.
+Option,0,b) tachycardia.
+Option,0,c) diaphoresis.
+Option,100,d) hypothermia.
+Hint,"Complexity: Moderate			Ahead: Types of Shock			Subject:Shock, Page 538			Title: Shock			Feedback: See Types of Shock			Taxonomy: Recall			Objective: 13-3 Differentiate among the various types of shock.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following statements regarding anaphylactic shock is correct?,
+Points,1,
+Difficulty,1,
+Option,0,a) Anaphylactic shock occurs immediately after a person is sensitized to an allergen.
+Option,0,b) Sensitized people will experience less severe reactions upon subsequent exposure.
+Option,0,c) Anaphylactic shock is caused by immune system failure due to a toxic exposure.
+Option,100,d) Subsequent exposure after sensitization often produces a more severe reaction.
+Hint,"Complexity: Moderate			Ahead: Types of Shock			Subject:Shock, Page 538			Title: Shock			Feedback: See Types of Shock			Taxonomy: Recall			Objective: 13-3 Differentiate among the various types of shock.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following clinical signs is unique to anaphylactic shock?,
+Points,1,
+Difficulty,1,
+Option,0,a) Pallor
+Option,0,b) Dizziness
+Option,100,c) Wheezing
+Option,0,d) Hypotension
+Hint,"Complexity: Easy			Ahead: Types of Shock			Subject:Shock, Page 538			Title: Shock			Feedback: See Types of Shock			Taxonomy: Recall			Objective: 13-3 Differentiate among the various types of shock.",
+NewQuestion,MC,
+Title,,
+QuestionText,"Temporary, widespread vasodilation and syncope caused by a sudden nervous system reaction MOST accurately describes:",
+Points,1,
+Difficulty,1,
+Option,0,a) vasovagal shock.
+Option,0,b) neurogenic shock.
+Option,100,c) psychogenic shock.
+Option,0,d) neurologic shock.
+Hint,"Complexity: Moderate			Ahead: Types of Shock			Subject:Shock, Page 539			Title: Shock			Feedback: See Types of Shock			Taxonomy: Recall			Objective: 13-3 Differentiate among the various types of shock.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following would MOST likely result in hemorrhagic shock?,
+Points,1,
+Difficulty,1,
+Option,0,a) Severe vomiting
+Option,100,b) Liver laceration
+Option,0,c) Excessive sweating
+Option,0,d) Repeated diarrhea
+Hint,"Complexity: Moderate			Ahead: Types of Shock			Subject:Shock, Page 539			Title: Shock			Feedback: See Types of Shock			Taxonomy: Application			Objective: 13-3 Differentiate among the various types of shock.",
+NewQuestion,MC,
+Title,,
+QuestionText,Hypovolemic shock caused by severe burns is the result of a loss of:,
+Points,1,
+Difficulty,1,
+Option,100,a) plasma.
+Option,0,b) platelets.
+Option,0,c) whole blood.
+Option,0,d) red blood cells.
+Hint,"Complexity: Easy			Ahead: Types of Shock			Subject:Shock, Page 539			Title: Shock			Feedback: See Types of Shock			Taxonomy: Recall			Objective: 13-3 Differentiate among the various types of shock.",
+NewQuestion,MC,
+Title,,
+QuestionText,"When assessing a patient with signs and symptoms of shock, it is important to remember that:",
+Points,1,
+Difficulty,1,
+Option,0,a) the patient’s respirations are deep during the early stages of shock.
+Option,100,b) blood pressure may be the last measurable factor to change in shock.
+Option,0,c) multiple fractures are the most common cause of hypovolemic shock.
+Option,0,d) irreversible shock often responds well to a prompt blood transfusion.
+Hint,"Complexity: Moderate			Ahead: The Progression of Shock			Subject:Shock, Page 540			Title: Shock			Feedback: See The Progression of Shock			Taxonomy: Application			Objective: 13-5 Discuss key components of patient assessment for shock.",
+NewQuestion,MC,
+Title,,
+QuestionText,Hypotension in a child with blunt or penetrating trauma is particularly significant because:,
+Points,1,
+Difficulty,1,
+Option,0,a) it typically develops earlier in children than it does in adults.
+Option,0,b) the most likely cause of the hypotension is respiratory failure.
+Option,100,c) it often indicates the loss of half of his or her blood volume.
+Option,0,d) most children with hypotension die in the prehospital setting.
+Hint,"Complexity: Moderate			Ahead: The Progression of Shock			Subject:Shock, Page 540			Title: Shock			Feedback: See The Progression of Shock			Taxonomy: Recall			Objective: 13-5 Discuss key components of patient assessment for shock.",
+NewQuestion,MC,
+Title,,
+QuestionText,"Clinical signs of compensated shock include all of the following, EXCEPT:",
+Points,1,
+Difficulty,1,
+Option,0,a) cool and clammy skin.
+Option,100,b) absent peripheral pulses.
+Option,0,c) restlessness or anxiety.
+Option,0,"d) rapid, shallow breathing."
+Hint,"Complexity: Moderate			Ahead: The Progression of Shock			Subject:Shock, Page 540			Title: Shock			Feedback: See The Progression of Shock			Taxonomy: Recall			Objective: 13-4 Describe the signs and symptoms of shock including compensated and decompensated.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following patients is in decompensated shock?,
+Points,1,
+Difficulty,1,
+Option,100,a) A 20-year-old female with absent radial pulses and dilated pupils
+Option,0,"b) A 23-year-old restless male with cool, clammy skin and tachycardia"
+Option,0,"c) A 28-year-old female with pale skin and rapid, shallow respirations"
+Option,0,d) A 32-year-old male with anxiety and a systolic blood pressure of 110 mm Hg
+Hint,"Complexity: Moderate			Ahead: The Progression of Shock			Subject:Shock, Page 540			Title: Shock			Feedback: See The Progression of Shock			Taxonomy: Analysis			Objective: 13-4 Describe the signs and symptoms of shock including compensated and decompensated.",
+NewQuestion,MC,
+Title,,
+QuestionText,"In infants and children, a capillary refill time that is greater than ______ second(s) is a sign of poor peripheral perfusion.",
+Points,1,
+Difficulty,1,
+Option,0,a) 1
+Option,100,b) 2
+Option,0,c) 3
+Option,0,d) 4
+Hint,"Complexity: Difficult			Ahead: The Progression of Shock			Subject:Shock, Page 540			Title: Shock			Feedback: See The Progression of Shock			Taxonomy: Recall			Objective: 13-5 Discuss key components of patient assessment for shock.",
+NewQuestion,MC,
+Title,,
+QuestionText,"When treating an 80-year-old patient who is in shock, it is important to remember that:",
+Points,1,
+Difficulty,1,
+Option,0,a) compensation from the respiratory system usually manifests with increased tidal volume.
+Option,0,b) the older patient’s central nervous system usually reacts more briskly to compensate for shock.
+Option,0,c) medications older patients take for hypertension often cause an unusually fast heart rate.
+Option,100,"d) changes in gastric motility may delay gastric emptying, which increases the risk for vomiting."
+Hint,"Complexity: Moderate			Ahead: Emergency Medical Care for Shock			Subject:Shock, Page 548			Title: Shock			Feedback: See Emergency Medical Care for Shock			Taxonomy: Recall			Objective: 13-6 Describe the steps to follow in the emergency care of the patient with various types of shock.",
+NewQuestion,MC,
+Title,,
+QuestionText,"All of the following conditions should make you suspect shock, EXCEPT:",
+Points,1,
+Difficulty,1,
+Option,0,a) anaphylaxis.
+Option,0,b) spinal injury.
+Option,0,c) severe infection.
+Option,100,d) ischemic stroke.
+Hint,"Complexity: Easy			Ahead: The Progression of Shock			Subject:Shock, Page 541			Title: Shock			Feedback: See The Progression of Shock			Taxonomy: Recall			Objective: 13-5 Discuss key components of patient assessment for shock.",
+NewQuestion,MC,
+Title,,
+QuestionText,"A 59-year-old male presents with severe vomiting and diarrhea of 3 days’ duration. He is confused and diaphoretic, and his radial pulses are absent. His blood pressure is 78/50 mm Hg. After applying supplemental oxygen, you should:",
+Points,1,
+Difficulty,1,
+Option,0,a) perform a head-to-toe exam.
+Option,0,b) allow him to drink plain water.
+Option,0,c) obtain a repeat blood pressure in 5 minutes.
+Option,100,d) prepare for immediate transport.
+Hint,"Complexity: Difficult			Ahead: Emergency Medical Care for Shock			Subject:Shock, Page 546			Title: Shock			Feedback: See Emergency Medical Care for Shock			Taxonomy: Application			Objective: 13-6 Describe the steps to follow in the emergency care of the patient with various types of shock.",
+NewQuestion,MC,
+Title,,
+QuestionText,"A 25-year-old unrestrained female struck the steering wheel with her chest when her car hit a tree while traveling at a high rate of speed. She has signs and symptoms of shock, which you suspect are the result of intrathoracic bleeding. Which of the following interventions will provide this patient with the greatest chance for survival?",
+Points,1,
+Difficulty,1,
+Option,0,a) High-flow oxygen administration
+Option,0,b) Full immobilization of her spine
+Option,0,c) Intravenous fluid administration
+Option,100,d) Rapid transport to a trauma center
+Hint,"Complexity: Difficult			Ahead: Emergency Medical Care for Shock			Subject:Shock, Page 546			Title: Shock			Feedback: See Emergency Medical Care for Shock			Taxonomy: Application			Objective: 13-6 Describe the steps to follow in the emergency care of the patient with various types of shock.",
+NewQuestion,MC,
+Title,,
+QuestionText,"You are transporting a 33-year-old male who was involved in a major motor vehicle crash. You have addressed all immediate and potentially life-threatening conditions and have stabilized his condition with the appropriate treatment. With an estimated time of arrival at the hospital of 20 minutes, you should:",
+Points,1,
+Difficulty,1,
+Option,0,a) take his vital signs in 15 minutes.
+Option,0,b) arrange for an ALS rendezvous.
+Option,100,c) reassess his condition in 5 minutes.
+Option,0,d) repeat your secondary assessment.
+Hint,"Complexity: Difficult			Ahead: Emergency Medical Care for Shock			Subject:Shock, Page 547			Title: Shock			Feedback: See Emergency Medical Care for Shock			Taxonomy: Application			Objective: 13-6 Describe the steps to follow in the emergency care of the patient with various types of shock.",
+NewQuestion,MC,
+Title,,
+QuestionText,"A 27-year-old male was stabbed in the chest during a disagreement at a poker game. As you approach him, you see that a knife is impaled in his chest. Before you make physical contact with the patient, it is MOST important to:",
+Points,1,
+Difficulty,1,
+Option,0,a) form a general impression.
+Option,0,b) call for an ALS ambulance.
+Option,100,c) follow standard precautions.
+Option,0,d) ask bystanders what happened.
+Hint,"Complexity: Difficult			Ahead: Emergency Medical Care for Shock			Subject:Shock, Page 543			Title: Shock			Feedback: See Emergency Medical Care for Shock			Taxonomy: Application			Objective: 13-6 Describe the steps to follow in the emergency care of the patient with various types of shock.",
+NewQuestion,MC,
+Title,,
+QuestionText,"You respond to a residence for a patient with a severe leg injury following an accident with a chainsaw. When you arrive, you find the patient, a 44-year-old male, lying supine in the backyard. He has a partial amputation of his right lower leg that is actively bleeding. The patient is conscious and breathing adequately; however, he is restless and his skin is diaphoretic. You should:",
+Points,1,
+Difficulty,1,
+Option,0,a) immediately evaluate his airway.
+Option,100,b) apply direct pressure to the wound.
+Option,0,c) assess the rate and quality of his pulse.
+Option,0,d) administer 100% supplemental oxygen.
+Hint,"Complexity: Difficult			Ahead: Emergency Medical Care for Shock			Subject:Shock, Page 543			Title: Shock			Feedback: See Emergency Medical Care for Shock			Taxonomy: Application			Objective: 13-6 Describe the steps to follow in the emergency care of the patient with various types of shock.",
+NewQuestion,MC,
+Title,,
+QuestionText,"A 56-year-old male is found semiconscious by his wife. Your assessment reveals that his respirations are rapid and shallow, his pulse is rapid and irregular, and his blood pressure is low. The patient’s wife states that he complained of left arm pain and nausea the day before, but would not allow her to call 9-1-1. The MOST likely cause of this patient’s present condition is:",
+Points,1,
+Difficulty,1,
+Option,100,a) acute myocardial infarction.
+Option,0,b) dehydration from GI virus.
+Option,0,c) severe septic hypoperfusion.
+Option,0,d) a ruptured aortic aneurysm.
+Hint,"Complexity: Difficult			Ahead: Emergency Medical Care for Shock			Subject:Shock, Page 543			Title: Shock			Feedback: See Emergency Medical Care for Shock			Taxonomy: Application			Objective: 13-6 Describe the steps to follow in the emergency care of the patient with various types of shock.",
+NewQuestion,MC,
+Title,,
+QuestionText,"A construction worker fell approximately 30 feet. He is semiconscious with rapid, shallow respirations. Further assessment reveals deformity to the thoracic region of his spine. His blood pressure is 70/50 mm Hg, his pulse is 66 beats/min and weak, and his skin is warm and dry. In addition to spinal immobilization and rapid transport, the MOST appropriate treatment for this patient includes:",
+Points,1,
+Difficulty,1,
+Option,0,"a) oxygen via nonrebreathing mask, blankets for warmth, and elevation of his head."
+Option,100,"b) assisted ventilation, thermal management, and elevation of the lower extremities."
+Option,0,"c) oxygen via nonrebreathing mask, thermal management, and elevation of his legs."
+Option,0,"d) assisted ventilation, preventing hyperthermia, and elevating his lower extremities."
+Hint,"Complexity: Difficult			Ahead: Emergency Medical Care for Shock			Subject:Shock, Page 548			Title: Shock			Feedback: See Emergency Medical Care for Shock			Taxonomy: Application			Objective: 13-6 Describe the steps to follow in the emergency care of the patient with various types of shock.",
+NewQuestion,MC,
+Title,,
+QuestionText,"A 19-year-old male was stung multiple times by fire ants. He is experiencing obvious signs and symptoms of anaphylactic shock. You administer high-flow oxygen and give him epinephrine via intramuscular injection. Upon reassessment, you determine that his condition has not improved. You should:",
+Points,1,
+Difficulty,1,
+Option,0,a) transport him immediately and provide supportive care while en route.
+Option,0,b) consider that he may actually be experiencing an acute asthma attack.
+Option,100,c) repeat the epinephrine injection after consulting with medical control.
+Option,0,d) request a paramedic unit that is stationed approximately 15 miles away.
+Hint,"Complexity: Difficult			Ahead: Emergency Medical Care for Shock			Subject:Shock, Page 546			Title: Shock			Feedback: See Emergency Medical Care for Shock			Taxonomy: Application			Objective: 13-6 Describe the steps to follow in the emergency care of the patient with various types of shock.",
+NewQuestion,MC,
+Title,,
+QuestionText,"You are dispatched to a residence for a 40-year-old female who fainted. Upon your arrival, the patient is conscious and alert, and states that she is fine. Her husband tells you that she fainted after receiving news that her sister was killed in a car crash. You offer oxygen to the patient, but she refuses to accept it. At this point, your primary concern should be to:",
+Points,1,
+Difficulty,1,
+Option,100,a) determine if she was injured when she fainted.
+Option,0,b) provide emotional support regarding her sister.
+Option,0,c) advise her that she needs to go to the hospital.
+Option,0,d) obtain baseline vital signs and a medical history.
+Hint,"Complexity: Difficult			Ahead: Emergency Medical Care for Shock			Subject:Shock, Page 547			Title: Shock			Feedback: See Emergency Medical Care for Shock			Taxonomy: Application			Objective: 13-6 Describe the steps to follow in the emergency care of the patient with various types of shock.",
+NewQuestion,MC,
+Title,,
+QuestionText,"A 20-year-old male has a large laceration to his wrist. He is holding a blood-soaked towel over the wound, but it continues to bleed rapidly. You should:",
+Points,1,
+Difficulty,1,
+Option,0,a) apply pressure to the brachial artery.
+Option,100,b) apply a tourniquet proximal to the wrist.
+Option,0,c) administer high-flow supplemental oxygen.
+Option,0,d) wrap the towel with pressure bandages.
+Hint,"Complexity: Moderate			Ahead: Emergency Medical Care for Shock			Subject:Shock, Page 543			Title: Shock			Feedback: See Emergency Medical Care for Shock			Taxonomy: Application			Objective: 13-6 Describe the steps to follow in the emergency care of the patient with various types of shock.",
+NewQuestion,MC,
+Title,,
+QuestionText,Your assessment of an unresponsive patient reveals that her breathing is inadequate. Your MOST immediate action should be to:,
+Points,1,
+Difficulty,1,
+Option,0,a) administer high-flow oxygen.
+Option,100,b) check her airway for obstructions.
+Option,0,c) move her to the ambulance stretcher.
+Option,0,d) ventilate her with a bag-mask device.
+Hint,"Complexity: Difficult			Ahead: Emergency Medical Care for Shock			Subject:Shock, Page 544			Title: Shock			Feedback: See Emergency Medical Care for Shock			Taxonomy: Analysis			Objective: 13-6 Describe the steps to follow in the emergency care of the patient with various types of shock.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following is the ONLY action that can prevent death from a tension pneumothorax?,
+Points,1,
+Difficulty,1,
+Option,0,a) Early administration of high-flow oxygen
+Option,0,b) Rapid administration of intravenous fluids
+Option,100,c) Decompression of the injured side of the chest
+Option,0,d) Positive-pressure ventilation with a bag-valve mask
+Hint,"Complexity: Moderate			Ahead: Emergency Medical Care for Shock			Subject:Shock, Page 546			Title: Shock			Feedback: See Emergency Medical Care for Shock			Taxonomy: Recall			Objective: 13-6 Describe the steps to follow in the emergency care of the patient with various types of shock.",

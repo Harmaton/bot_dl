@@ -1,0 +1,400 @@
+NewQuestion,MC,
+Title,,
+QuestionText,"When a person is lying supine at the end of exhalation, the diaphragm:",
+Points,1,
+Difficulty,1,
+Option,0,a) contracts and flattens inferiorly.
+Option,100,b) might rise as high as the nipple line.
+Option,0,c) is less prone to penetrating trauma.
+Option,0,d) descends below the level of the navel.
+Hint,"Complexity: Easy			Ahead: Anatomy and Physiology			Subject:Chest Injuries, Page 1092			Title: Chest Injuries			Feedback: See Anatomy and Physiology			Taxonomy: Recall			Objective: 30-1 Explain the mechanics of ventilation in relation to chest injuries.",
+NewQuestion,MC,
+Title,,
+QuestionText,A spinal cord injury at the level of C7 would most likely result in:,
+Points,1,
+Difficulty,1,
+Option,0,a) immediate cardiac arrest.
+Option,0,b) paralysis of the diaphragm.
+Option,100,c) paralysis of the intercostal muscles.
+Option,0,d) paralysis of all the respiratory muscles.
+Hint,"Complexity: Moderate			Ahead: Mechanics of Ventilation			Subject:Chest Injuries, Page 1094			Title: Chest Injuries			Feedback: See Mechanics of Ventilation			Taxonomy: Recall			Objective: 30-1 Explain the mechanics of ventilation in relation to chest injuries.",
+NewQuestion,MC,
+Title,,
+QuestionText,Very young children tend to breathe predominantly with their diaphragm because:,
+Points,1,
+Difficulty,1,
+Option,0,a) their chest wall and ribs are very pliable.
+Option,0,b) they require less tidal volume per breath.
+Option,100,c) their intercostal muscles are not fully developed.
+Option,0,d) there is no nerve innervation of the intercostal muscles.
+Hint,"Complexity: Moderate			Ahead: Anatomy and Physiology			Subject:Chest Injuries, Page 1092			Title: Chest Injuries			Feedback: See Anatomy and Physiology			Taxonomy: Application			Objective: 30-1 Explain the mechanics of ventilation in relation to chest injuries.",
+NewQuestion,MC,
+Title,,
+QuestionText,Pleural fluid is contained between the:,
+Points,1,
+Difficulty,1,
+Option,100,a) visceral and parietal pleurae.
+Option,0,b) parietal pleura and the heart.
+Option,0,c) visceral pleura and the lung.
+Option,0,d) parietal pleura and the chest wall.
+Hint,"Complexity: Moderate			Ahead: Anatomy and Physiology			Subject:Chest Injuries, Page 1093			Title: Chest Injuries			Feedback: See Anatomy and Physiology			Taxonomy: Recall			Objective: 30-1 Explain the mechanics of ventilation in relation to chest injuries.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following organs or structures does not reside within the mediastinum?,
+Points,1,
+Difficulty,1,
+Option,100,a) Lungs
+Option,0,b) Trachea
+Option,0,c) Vena cavae
+Option,0,d) Esophagus
+Hint,"Complexity: Easy			Ahead: Anatomy and Physiology			Subject:Chest Injuries, Page 1093			Title: Chest Injuries			Feedback: See Anatomy and Physiology			Taxonomy: Recall			Objective: 30-1 Explain the mechanics of ventilation in relation to chest injuries.",
+NewQuestion,MC,
+Title,,
+QuestionText,The thoracic cavity is separated from the abdominal cavity by the:,
+Points,1,
+Difficulty,1,
+Option,100,a) diaphragm.
+Option,0,b) anterior rib cage.
+Option,0,c) intercostal margin.
+Option,0,d) costovertebral angle.
+Hint,"Complexity: Moderate			Ahead: Anatomy and Physiology			Subject:Chest Injuries, Page 1093			Title: Chest Injuries			Feedback: See Anatomy and Physiology			Taxonomy: Recall			Objective: 30-1 Explain the mechanics of ventilation in relation to chest injuries.",
+NewQuestion,MC,
+Title,,
+QuestionText,Elevation of the rib cage during inhalation occurs when:,
+Points,1,
+Difficulty,1,
+Option,0,a) the diaphragm descends.
+Option,0,b) abdominal contents descend.
+Option,0,c) intrathoracic pressure decreases.
+Option,100,d) the intercostal muscles contract.
+Hint,"Complexity: Easy			Ahead: Mechanics of Ventilation			Subject:Chest Injuries, Page 1094			Title: Chest Injuries			Feedback: See Mechanics of Ventilation			Taxonomy: Recall			Objective: 30-1 Explain the mechanics of ventilation in relation to chest injuries.",
+NewQuestion,MC,
+Title,,
+QuestionText,The phrenic nerves control the diaphragm and exit the spinal cord at:,
+Points,1,
+Difficulty,1,
+Option,0,a) C1 and C2.
+Option,0,b) C3 and C4.
+Option,0,"c) C1, C2, and C3."
+Option,100,"d) C3, C4, and C5."
+Hint,"Complexity: Moderate			Ahead: Mechanics of Ventilation			Subject:Chest Injuries, Page 1094			Title: Chest Injuries			Feedback: See Mechanics of Ventilation			Taxonomy: Recall			Objective: 30-1 Explain the mechanics of ventilation in relation to chest injuries.",
+NewQuestion,MC,
+Title,,
+QuestionText,The ________ nerves supply the diaphragm.,
+Points,1,
+Difficulty,1,
+Option,0,a) vagus
+Option,0,b) costal
+Option,100,c) phrenic
+Option,0,d) intercostal
+Hint,"Complexity: Easy			Ahead: Mechanics of Ventilation			Subject:Chest Injuries, Page 1094			Title: Chest Injuries			Feedback: See Mechanics of Ventilation			Taxonomy: Recall			Objective: 30-1 Explain the mechanics of ventilation in relation to chest injuries.",
+NewQuestion,MC,
+Title,,
+QuestionText,"If a person’s tidal volume decreases, but his or her respiratory rate remains unchanged:",
+Points,1,
+Difficulty,1,
+Option,0,a) minute volume will increase.
+Option,100,b) minute volume will decrease.
+Option,0,c) minute volume will remain unchanged.
+Option,0,d) excess carbon dioxide will be eliminated.
+Hint,"Complexity: Moderate			Ahead: Mechanics of Ventilation			Subject:Chest Injuries, Page 1095			Title: Chest Injuries			Feedback: See Mechanics of Ventilation			Taxonomy: Application			Objective: 30-1 Explain the mechanics of ventilation in relation to chest injuries.",
+NewQuestion,MC,
+Title,,
+QuestionText,"If a patient with a chest injury only inhales small amounts of air per breath, he or she:",
+Points,1,
+Difficulty,1,
+Option,0,a) often breathes at a slower rate because of lung damage caused by the injury.
+Option,0,b) will eliminate more carbon dioxide than if he or she were breathing deeply.
+Option,100,c) must increase his or her respiratory rate to maintain adequate minute volume.
+Option,0,d) will maintain adequate minute volume if his or her respiratory rate stays the same.
+Hint,"Complexity: Moderate			Ahead: Mechanics of Ventilation			Subject:Chest Injuries, Page 1095			Title: Chest Injuries			Feedback: See Mechanics of Ventilation			Taxonomy: Application			Objective: 30-1 Explain the mechanics of ventilation in relation to chest injuries.",
+NewQuestion,MC,
+Title,,
+QuestionText,Immediate death from blunt chest trauma following a motor vehicle crash is most often the result of:,
+Points,1,
+Difficulty,1,
+Option,0,a) a tension pneumothorax.
+Option,100,b) traumatic aortic rupture.
+Option,0,c) penetrating lung injuries.
+Option,0,d) a massive cardiac contusion.
+Hint,"Complexity: Moderate			Ahead: Injuries of the Chest			Subject:Chest Injuries, Page 1096			Title: Chest Injuries			Feedback: See Injuries of the Chest			Taxonomy: Recall			Objective: 30-3 Recognize the signs of chest injury.",
+NewQuestion,MC,
+Title,,
+QuestionText,Hemoptysis is defined as:,
+Points,1,
+Difficulty,1,
+Option,0,a) vomiting blood.
+Option,100,b) coughing up blood.
+Option,0,c) abnormal blood clotting.
+Option,0,d) blood in the pleural space.
+Hint,"Complexity: Easy			Ahead: Injuries of the Chest			Subject:Chest Injuries, Page 1097			Title: Chest Injuries			Feedback: See Injuries of the Chest			Taxonomy: Recall			Objective: 30-3 Recognize the signs of chest injury.",
+NewQuestion,MC,
+Title,,
+QuestionText,"Common signs and symptoms of a chest injury include all of the following, except:",
+Points,1,
+Difficulty,1,
+Option,0,a) tachypnea.
+Option,100,b) hematemesis.
+Option,0,c) localized pain.
+Option,0,d) chest wall ecchymosis.
+Hint,"Complexity: Moderate			Ahead: Injuries of the Chest			Subject:Chest Injuries, Pages 1096-1097			Title: Chest Injuries			Feedback: See Injuries of the Chest			Taxonomy: Recall			Objective: 30-3 Recognize the signs of chest injury.",
+NewQuestion,MC,
+Title,,
+QuestionText,Irritation or damage to the pleural surfaces that causes sharp chest pain during inhalation is called:,
+Points,1,
+Difficulty,1,
+Option,100,a) pleurisy.
+Option,0,b) dyspnea.
+Option,0,c) pneumonitis.
+Option,0,d) pneumothorax.
+Hint,"Complexity: Easy			Ahead: Injuries of the Chest			Subject:Chest Injuries, Page 1097			Title: Chest Injuries			Feedback: See Injuries of the Chest			Taxonomy: Recall			Objective: 30-3 Recognize the signs of chest injury.",
+NewQuestion,MC,
+Title,,
+QuestionText,A patient who presents with profound cyanosis following a chest injury:,
+Points,1,
+Difficulty,1,
+Option,0,a) should be placed in Trendelenburg’s position.
+Option,0,b) is most likely experiencing severe blood loss.
+Option,0,c) has most likely experienced a ruptured aorta.
+Option,100,d) requires prompt ventilation and oxygenation.
+Hint,"Complexity: Easy			Ahead: Injuries of the Chest			Subject:Chest Injuries, Page 1097			Title: Chest Injuries			Feedback: See Injuries of the Chest			Taxonomy: Recall			Objective: 30-3 Recognize the signs of chest injury.",
+NewQuestion,MC,
+Title,,
+QuestionText,"Following blunt trauma to the chest, an 18-year-old female presents with respiratory distress, shallow breathing, and cyanosis. Her blood pressure is 80/50 mm Hg and her pulse is 130 beats/min and thready. You should:",
+Points,1,
+Difficulty,1,
+Option,0,a) apply 100% oxygen via a nonrebreathing mask.
+Option,0,b) place her supine and elevate her lower extremities.
+Option,0,c) perform a rapid head-to-toe physical assessment.
+Option,100,d) provide ventilation assistance with a bag valve mask.
+Hint,"Complexity: Difficult			Ahead: Patient Assessment			Subject:Chest Injuries, Page 1098			Title: Chest Injuries			Feedback: See Patient Assessment			Taxonomy: Application			Objective: 30-4 Describe the management of a patient with a suspected chest injury, including pneumothorax, hemothorax, cardiac tamponade, rib fractures, flail chest, pulmonary contusion, traumatic asphyxia, blunt myocardial injury, commotio cordis, and laceration of the great vessels.",
+NewQuestion,MC,
+Title,,
+QuestionText,"During your assessment of a patient with blunt chest trauma, you note that the patient has shallow breathing and paradoxical movement of the left chest wall. You should:",
+Points,1,
+Difficulty,1,
+Option,0,a) request a paramedic to decompress the chest.
+Option,0,b) make note of it and continue your assessment.
+Option,100,c) assist ventilations with a bag valve mask.
+Option,0,d) apply high-flow oxygen via nonrebreathing mask.
+Hint,"Complexity: Difficult			Ahead: Patient Assessment			Subject:Chest Injuries, Page 1098			Title: Chest Injuries			Feedback: See Patient Assessment			Taxonomy: Application			Objective: 30-4 Describe the management of a patient with a suspected chest injury, including pneumothorax, hemothorax, cardiac tamponade, rib fractures, flail chest, pulmonary contusion, traumatic asphyxia, blunt myocardial injury, commotio cordis, and laceration of the great vessels.",
+NewQuestion,MC,
+Title,,
+QuestionText,"To avoid exacerbating a patient’s injury, it is especially important to use extreme caution when providing positive-pressure ventilation to patients with a:",
+Points,1,
+Difficulty,1,
+Option,0,a) flail chest.
+Option,100,b) pneumothorax.
+Option,0,c) cardiac tamponade.
+Option,0,d) myocardial contusion.
+Hint,"Complexity: Moderate			Ahead: Patient Assessment			Subject:Chest Injuries, Page 1098			Title: Chest Injuries			Feedback: See Patient Assessment			Taxonomy: Application			Objective: 30-4 Describe the management of a patient with a suspected chest injury, including pneumothorax, hemothorax, cardiac tamponade, rib fractures, flail chest, pulmonary contusion, traumatic asphyxia, blunt myocardial injury, commotio cordis, and laceration of the great vessels.",
+NewQuestion,MC,
+Title,,
+QuestionText,Pneumothorax is defined as:,
+Points,1,
+Difficulty,1,
+Option,0,a) accumulation of air between the lungs.
+Option,0,b) blood collection within the lung tissue.
+Option,100,c) accumulation of air in the pleural space.
+Option,0,d) blood collection within the pleural space.
+Hint,"Complexity: Easy			Ahead: Complications and Management of Chest Injuries			Subject:Chest Injuries, Page 1102			Title: Chest Injuries			Feedback: See Complications and Management of Chest Injuries			Taxonomy: Recall			Objective: 30-5 Recognize the complications that can accompany chest injuries.",
+NewQuestion,MC,
+Title,,
+QuestionText,An open pneumothorax is:,
+Points,1,
+Difficulty,1,
+Option,0,a) a fractured rib that perforates the tissue of the lung surface.
+Option,100,b) an open chest wound through which air moves during breathing.
+Option,0,c) extreme pleural pressure that causes the lung to rupture.
+Option,0,d) the entry of air into the pleural space from a perforated lung.
+Hint,"Complexity: Moderate			Ahead: Complications and Management of Chest Injuries			Subject:Chest Injuries, Page 1103			Title: Chest Injuries			Feedback: See Complications and Management of Chest Injuries			Taxonomy: Recall			Objective: 30-6 Explain the complications of a patient with an open pneumothorax (sucking chest wound).",
+NewQuestion,MC,
+Title,,
+QuestionText,"You have sealed the open chest wound of a 40-year-old male who was stabbed in the anterior chest. Your reassessment reveals that he is experiencing increasing respiratory distress and tachycardia, and is developing cyanosis. You should:",
+Points,1,
+Difficulty,1,
+Option,0,a) begin ventilatory assistance.
+Option,100,b) partially remove the dressing.
+Option,0,c) begin rapid transport at once.
+Option,0,d) call for a paramedic ambulance.
+Hint,"Complexity: Difficult			Ahead: Patient Assessment			Subject:Chest Injuries, Page 1098			Title: Chest Injuries			Feedback: See Patient Assessment			Taxonomy: Application			Objective: 30-4 Describe the management of a patient with a suspected chest injury, including pneumothorax, hemothorax, cardiac tamponade, rib fractures, flail chest, pulmonary contusion, traumatic asphyxia, blunt myocardial injury, commotio cordis, and laceration of the great vessels.",
+NewQuestion,MC,
+Title,,
+QuestionText,A simple pneumothorax:,
+Points,1,
+Difficulty,1,
+Option,100,a) is commonly caused by blunt chest trauma.
+Option,0,b) often has a nontraumatic cause.
+Option,0,c) is caused by penetrating chest trauma.
+Option,0,d) heals on its own without any treatment.
+Hint,"Complexity: Easy			Ahead: Complications and Management of Chest Injuries			Subject:Chest Injuries, Page 1104			Title: Chest Injuries			Feedback: See Complications and Management of Chest Injuries			Taxonomy: Recall			Objective: 30-7 Differentiate between a pneumothorax (open, simple, and tension) and a hemothorax.",
+NewQuestion,MC,
+Title,,
+QuestionText,"While jogging, a 19-year-old male experienced an acute onset of shortness of breath and pleuritic chest pain. He is conscious and alert with stable vital signs. Your assessment reveals that he has diminished breath sounds over the left side of the chest. You should:",
+Points,1,
+Difficulty,1,
+Option,100,a) administer oxygen and transport to the hospital.
+Option,0,b) immediately perform a rapid head-to-toe exam.
+Option,0,c) recognize that he needs a needle decompression.
+Option,0,d) circumferentially tape a dressing around his chest.
+Hint,"Complexity: Difficult			Ahead: Complications and Management of Chest Injuries			Subject:Chest Injuries, Pages 1102-1103			Title: Chest Injuries			Feedback: See Complications and Management of Chest Injuries			Taxonomy: Application			Objective: 30-4 Describe the management of a patient with a suspected chest injury, including pneumothorax, hemothorax, cardiac tamponade, rib fractures, flail chest, pulmonary contusion, traumatic asphyxia, blunt myocardial injury, commotio cordis, and laceration of the great vessels.",
+NewQuestion,MC,
+Title,,
+QuestionText,"You are transporting a stable patient with a possible pneumothorax. The patient is receiving high-flow oxygen and has an oxygen saturation of 95%. During your reassessment, you find that the patient is now confused, hypotensive, and profusely diaphoretic. What is most likely causing this patient’s deterioration?",
+Points,1,
+Difficulty,1,
+Option,0,a) A total collapse of the affected lung
+Option,0,b) Hidden bleeding in the thoracic cavity
+Option,100,c) Compression of the aorta and vena cava
+Option,0,d) Blood accumulation in the pleural space
+Hint,"Complexity: Difficult			Ahead: Complications and Management of Chest Injuries			Subject:Chest Injuries, Page 1105			Title: Chest Injuries			Feedback: See Complications and Management of Chest Injuries			Taxonomy: Analysis			Objective: 30-4 Describe the management of a patient with a suspected chest injury, including pneumothorax, hemothorax, cardiac tamponade, rib fractures, flail chest, pulmonary contusion, traumatic asphyxia, blunt myocardial injury, commotio cordis, and laceration of the great vessels.",
+NewQuestion,MC,
+Title,,
+QuestionText,"Signs and symptoms of a tension pneumothorax include all of the following, except:",
+Points,1,
+Difficulty,1,
+Option,0,a) profound cyanosis.
+Option,100,b) collapsed jugular veins.
+Option,0,c) altered mental status.
+Option,0,d) unilaterally absent breath sounds.
+Hint,"Complexity: Moderate			Ahead: Complications and Management of Chest Injuries			Subject:Chest Injuries, Page 1105			Title: Chest Injuries			Feedback: See Complications and Management of Chest Injuries			Taxonomy: Recall			Objective: 30-7 Differentiate between a pneumothorax (open, simple, and tension) and a hemothorax.",
+NewQuestion,MC,
+Title,,
+QuestionText,"You respond to a residence for a 40-year-old female who was assaulted by her husband; the scene has been secured by law enforcement. Upon your arrival, you find the patient lying supine on the floor in the kitchen. She is semiconscious with severely labored breathing. Further assessment reveals a large bruise to the left anterior chest, jugular venous distention, and unilaterally absent breath sounds. As your partner is supporting her ventilations, you should:",
+Points,1,
+Difficulty,1,
+Option,0,a) insert an oropharyngeal airway.
+Option,0,b) obtain a set of baseline vital signs.
+Option,0,c) perform a focused secondary exam.
+Option,100,d) immediately request ALS support.
+Hint,"Complexity: Easy			Ahead: Complications and Management of Chest Injuries			Subject:Chest Injuries, Page 1105			Title: Chest Injuries			Feedback: See Complications and Management of Chest Injuries			Taxonomy: Application			Objective: 30-4 Describe the management of a patient with a suspected chest injury, including pneumothorax, hemothorax, cardiac tamponade, rib fractures, flail chest, pulmonary contusion, traumatic asphyxia, blunt myocardial injury, commotio cordis, and laceration of the great vessels.",
+NewQuestion,MC,
+Title,,
+QuestionText,The most critical treatment for a tension pneumothorax involves:,
+Points,1,
+Difficulty,1,
+Option,0,a) placing a bulky dressing over the affected side of the chest.
+Option,0,b) assisting the patient’s breathing with increased tidal volume.
+Option,0,c) surgically removing the portion of the lung that is damaged.
+Option,100,d) inserting a needle through the rib cage into the pleural space.
+Hint,"Complexity: Moderate			Ahead: Complications and Management of Chest Injuries			Subject:Chest Injuries, Page 1105			Title: Chest Injuries			Feedback: See Complications and Management of Chest Injuries			Taxonomy: Application			Objective: 30-7 Differentiate between a pneumothorax (open, simple, and tension) and a hemothorax.",
+NewQuestion,MC,
+Title,,
+QuestionText,"When assessing a patient with a hemothorax, you will most likely find:",
+Points,1,
+Difficulty,1,
+Option,0,a) jugular venous engorgement.
+Option,0,b) ipsilateral tracheal deviation.
+Option,0,c) distant or muffled heart tones.
+Option,100,d) signs and symptoms of shock.
+Hint,"Complexity: Moderate			Ahead: Complications and Management of Chest Injuries			Subject:Chest Injuries, Page 1105			Title: Chest Injuries			Feedback: See Complications and Management of Chest Injuries			Taxonomy: Recall			Objective: 30-7 Differentiate between a pneumothorax (open, simple, and tension) and a hemothorax.",
+NewQuestion,MC,
+Title,,
+QuestionText,"Following a stab wound to the left anterior chest, a 25-year-old male presents with a decreased level of consciousness and signs of shock. Which of the following additional assessment findings should increase your index of suspicion for a cardiac tamponade?",
+Points,1,
+Difficulty,1,
+Option,100,a) Engorged jugular veins
+Option,0,b) Widening pulse pressure
+Option,0,c) Diminished breath sounds
+Option,0,"d) A rapid, irregular pulse"
+Hint,"Complexity: Difficult			Ahead: Complications and Management of Chest Injuries			Subject:Chest Injuries, Page 1106			Title: Chest Injuries			Feedback: See Complications and Management of Chest Injuries			Taxonomy: Analysis			Objective: 30-8 Describe the complications of cardiac tamponade.",
+NewQuestion,MC,
+Title,,
+QuestionText,Subcutaneous emphysema is an indication that:,
+Points,1,
+Difficulty,1,
+Option,0,a) at least half of one lung has completely collapsed.
+Option,0,b) your patient is experiencing a pericardial tamponade.
+Option,100,c) air is escaping into the chest wall from a damaged lung.
+Option,0,d) blood is slowly accumulating within the tissue of the lung.
+Hint,"Complexity: Moderate			Ahead: Complications and Management of Chest Injuries			Subject:Chest Injuries, Page 1104			Title: Chest Injuries			Feedback: See Complications and Management of Chest Injuries			Taxonomy: Application			Objective: 30-5 Recognize the complications that can accompany chest injuries.",
+NewQuestion,MC,
+Title,,
+QuestionText,Patients with rib fractures will commonly:,
+Points,1,
+Difficulty,1,
+Option,100,a) breathe rapidly and shallowly.
+Option,0,b) take a series of deep breaths.
+Option,0,c) prefer to lie in a supine position.
+Option,0,d) develop a sucking chest wound.
+Hint,"Complexity: Easy			Ahead: Complications and Management of Chest Injuries			Subject:Chest Injuries, Page 1107			Title: Chest Injuries			Feedback: See Complications and Management of Chest Injuries			Taxonomy: Application			Objective: 30-9 Describe the complications of rib fractures.",
+NewQuestion,MC,
+Title,,
+QuestionText,A flail chest occurs when:,
+Points,1,
+Difficulty,1,
+Option,100,a) a segment of the chest wall is detached from the thoracic cage.
+Option,0,b) more than three ribs are fractured on the same side of the chest.
+Option,0,c) multiple ribs are fractured on both sides of the thoracic cage.
+Option,0,d) a segment of fractured ribs bulges during the inhalation phase.
+Hint,"Complexity: Easy			Ahead: Complications and Management of Chest Injuries			Subject:Chest Injuries, Page 1107			Title: Chest Injuries			Feedback: See Complications and Management of Chest Injuries			Taxonomy: Recall			Objective: 30-10 Describe the complications of a patient with a flail chest.",
+NewQuestion,MC,
+Title,,
+QuestionText,"A rapid, irregular pulse following blunt trauma to the chest is most suggestive of a:",
+Points,1,
+Difficulty,1,
+Option,0,a) ruptured aorta.
+Option,100,b) myocardial contusion.
+Option,0,c) pericardial tamponade.
+Option,0,d) tension pneumothorax.
+Hint,"Complexity: Moderate			Ahead: Other Chest Injuries			Subject:Chest Injuries, Page 1109			Title: Chest Injuries			Feedback: See Other Chest Injuries			Taxonomy: Analysis			Objective: 30-4 Describe the management of a patient with a suspected chest injury, including pneumothorax, hemothorax, cardiac tamponade, rib fractures, flail chest, pulmonary contusion, traumatic asphyxia, blunt myocardial injury, commotio cordis, and laceration of the great vessels.",
+NewQuestion,MC,
+Title,,
+QuestionText,"A 37-year-old male was pinned between a flatbed truck and a loading dock. On exam, you find bruising to the chest, distended neck veins, bilaterally diminished breath sounds, and bilateral scleral hemorrhaging. You should:",
+Points,1,
+Difficulty,1,
+Option,100,a) aggressively manage his airway.
+Option,0,b) request a paramedic ambulance.
+Option,0,c) perform a secondary assessment.
+Option,0,d) suspect a severe hemopneumothorax.
+Hint,"Complexity: Difficult			Ahead: Other Chest Injuries			Subject:Chest Injuries, Page 1109			Title: Chest Injuries			Feedback: See Other Chest Injuries			Taxonomy: Application			Objective: 30-5 Recognize the complications that can accompany chest injuries.",
+NewQuestion,MC,
+Title,,
+QuestionText,"A 28-year-old male was struck in the chest with a baseball bat during an altercation. He is conscious and alert and complains of severe chest pain. Your assessment reveals a large area of ecchymosis over the sternum and a rapid, irregular pulse. In addition to providing supplemental oxygen, you should:",
+Points,1,
+Difficulty,1,
+Option,0,a) apply an AED and assess his BP.
+Option,100,b) prepare for immediate transport.
+Option,0,c) determine if he has cardiac problems.
+Option,0,d) apply bulky dressings to the sternum.
+Hint,"Complexity: Difficult			Ahead: Patient Assessment			Subject:Chest Injuries, Page 1098			Title: Chest Injuries			Feedback: See Patient Assessment			Taxonomy: Application			Objective: 30-4 Describe the management of a patient with a suspected chest injury, including pneumothorax, hemothorax, cardiac tamponade, rib fractures, flail chest, pulmonary contusion, traumatic asphyxia, blunt myocardial injury, commotio cordis, and laceration of the great vessels.",
+NewQuestion,MC,
+Title,,
+QuestionText,"A 19-year-old male is unresponsive, apneic, and pulseless after being struck in the center of the chest with a softball. Based on the mechanism of injury, what most likely occurred?",
+Points,1,
+Difficulty,1,
+Option,100,a) Ventricular fibrillation when the impact occurred during a critical portion of the cardiac cycle
+Option,0,b) Asystole secondary to massive intrathoracic hemorrhage due to traumatic rupture of the aorta
+Option,0,c) Fracture of the sternum that caused a rupture of the myocardium and led to a cardiac dysrhythmia
+Option,0,d) Collapse of both lungs due to fractured ribs that perforated the lung tissue and caused cardiac arrest
+Hint,"Complexity: Difficult			Ahead: Other Chest Injuries			Subject:Chest Injuries, Page 1109			Title: Chest Injuries			Feedback: See Other Chest Injuries			Taxonomy: Analysis			Objective: 30-4 Describe the management of a patient with a suspected chest injury, including pneumothorax, hemothorax, cardiac tamponade, rib fractures, flail chest, pulmonary contusion, traumatic asphyxia, blunt myocardial injury, commotio cordis, and laceration of the great vessels.",
+NewQuestion,MC,
+Title,,
+QuestionText,"You arrive at the scene of a major motor vehicle crash. The patient, a 50-year-old female, was removed from her vehicle prior to your arrival. Bystanders who removed her state that she was not wearing a seatbelt. The patient is unresponsive, tachycardic, and diaphoretic. Your assessment reveals bilaterally clear and equal breath sounds, a midline trachea, and collapsed jugular veins. You should be most suspicious that this patient has experienced a:",
+Points,1,
+Difficulty,1,
+Option,0,a) massive hemothorax.
+Option,0,b) tension pneumothorax.
+Option,0,c) pericardial tamponade.
+Option,100,d) laceration of the aorta.
+Hint,"Complexity: Difficult			Ahead: Other Chest Injuries			Subject:Chest Injuries, Page 1110			Title: Chest Injuries			Feedback: See Other Chest Injuries			Taxonomy: Analysis			Objective: 30-4 Describe the management of a patient with a suspected chest injury, including pneumothorax, hemothorax, cardiac tamponade, rib fractures, flail chest, pulmonary contusion, traumatic asphyxia, blunt myocardial injury, commotio cordis, and laceration of the great vessels.",
+NewQuestion,MC,
+Title,,
+QuestionText,"A man called EMS 12 hours after injuring his chest. Your assessment reveals a flail segment to the right side of the chest. The patient is experiencing respiratory distress, and his oxygen saturation is 78%. His breath sounds are equal bilaterally, and his jugular veins are normal. You should suspect:",
+Points,1,
+Difficulty,1,
+Option,0,a) traumatic asphyxia.
+Option,100,b) pulmonary contusion.
+Option,0,c) massive hemothorax.
+Option,0,d) tension pneumothorax.
+Hint,"Complexity: Difficult			Ahead: Other Chest Injuries			Subject:Chest Injuries, Page 1108			Title: Chest Injuries			Feedback: See Other Chest Injuries			Taxonomy: Analysis			Objective: 30-4 Describe the management of a patient with a suspected chest injury, including pneumothorax, hemothorax, cardiac tamponade, rib fractures, flail chest, pulmonary contusion, traumatic asphyxia, blunt myocardial injury, commotio cordis, and laceration of the great vessels.",
+NewQuestion,MC,
+Title,,
+QuestionText,A patient with a chest injury has a blood pressure of 100/60 mm Hg and a pulse rate of 120 beats/min. Which of the following additional findings should make you suspect a pericardial tamponade?,
+Points,1,
+Difficulty,1,
+Option,0,a) A pulse that becomes irregular
+Option,100,b) Repeat BP of 90/68 mm Hg
+Option,0,c) Flattening of the jugular veins
+Option,0,d) Unilaterally absent breath sounds
+Hint,"Complexity: Difficult			Ahead: Complications and Management of Chest Injuries			Subject:Chest Injuries, Page 1106			Title: Chest Injuries			Feedback: See Complications and Management of Chest Injuries			Taxonomy: Application			Objective: 30-4 Describe the management of a patient with a suspected chest injury, including pneumothorax, hemothorax, cardiac tamponade, rib fractures, flail chest, pulmonary contusion, traumatic asphyxia, blunt myocardial injury, commotio cordis, and laceration of the great vessels.",

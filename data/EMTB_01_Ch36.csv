@@ -1,0 +1,700 @@
+NewQuestion,MC,
+Title,,
+QuestionText,"To minimize distractions and confusion when assessing an older patient, you should:",
+Points,1,
+Difficulty,1,
+Option,0,a) dismiss the family members from the room or area.
+Option,100,b) have only one EMT speak to the patient at a time.
+Option,0,c) elevate your voice and speak directly to the patient.
+Option,0,d) perform a physical exam and then talk to the patient.
+Hint,"Complexity: Easy			Ahead: Communication and Older Adults			Subject:Geriatric Emergencies, Page 1352			Title: Geriatric Emergencies			Feedback: See Communication and Older Adults			Taxonomy: Application			Objective: 36-3 Know generational considerations when communicating with a geriatric patient.",
+NewQuestion,MC,
+Title,,
+QuestionText,Good general communication techniques with the elderly include:,
+Points,1,
+Difficulty,1,
+Option,0,a) using medical terms to ensure patient understanding.
+Option,0,b) explaining procedures while you are performing them.
+Option,100,c) frequently asking the patient if he or she understands.
+Option,0,d) having at least two EMTs talk to the patient at a time.
+Hint,"Complexity: Easy			Ahead: Communication and Older Adults			Subject:Geriatric Emergencies, Page 1351			Title: Geriatric Emergencies			Feedback: See Communication and Older Adults			Taxonomy: Recall			Objective: 36-3 Know generational considerations when communicating with a geriatric patient.",
+NewQuestion,MC,
+Title,,
+QuestionText,"When explaining the need for a particular procedure to an elderly patient, you should:",
+Points,1,
+Difficulty,1,
+Option,100,a) use plain language and simple terms.
+Option,0,b) use the appropriate medical terminology.
+Option,0,c) be complex so the patient fully understands.
+Option,0,d) realize that he or she will not understand you.
+Hint,"Complexity: Difficult			Ahead: Communication and Older Adults			Subject:Geriatric Emergencies, Page 1352			Title: Geriatric Emergencies			Feedback: See Communication and Older Adults			Taxonomy: Application			Objective: 36-3 Know generational considerations when communicating with a geriatric patient.",
+NewQuestion,MC,
+Title,,
+QuestionText,Talking about an elderly patient in front of him or her to other members of the family:,
+Points,1,
+Difficulty,1,
+Option,0,a) often causes the patient to become paranoid and untrusting of your help.
+Option,100,b) might cause the patient to think that he or she has no say in making decisions.
+Option,0,c) will anger the patient and result in his or her refusal to accept care or transport.
+Option,0,d) is usually beneficial because the patient’s cognitive skills are typically impaired.
+Hint,"Complexity: Difficult			Ahead: Communication and Older Adults			Subject:Geriatric Emergencies, Page 1352			Title: Geriatric Emergencies			Feedback: See Communication and Older Adults			Taxonomy: Analysis			Objective: 36-3 Know generational considerations when communicating with a geriatric patient.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following statements regarding communications with the elderly is correct?,
+Points,1,
+Difficulty,1,
+Option,0,a) The majority of elderly patients are hearing or visually impaired.
+Option,0,b) Attempt to calm the elderly patient by using his or her first name.
+Option,0,c) Explain the justification for a procedure after it has been completed.
+Option,100,d) Older patients have difficulty understanding when they are stressed.
+Hint,"Complexity: Difficult			Ahead: Communication and Older Adults			Subject:Geriatric Emergencies, Page 1352			Title: Geriatric Emergencies			Feedback: See Communication and Older Adults			Taxonomy: Analysis			Objective: 36-3 Know generational considerations when communicating with a geriatric patient.",
+NewQuestion,MC,
+Title,,
+QuestionText,Sedentary behavior while healing from a hip fracture would most likely predispose the older patient to:,
+Points,1,
+Difficulty,1,
+Option,100,a) pneumonia.
+Option,0,b) osteoporosis.
+Option,0,c) heart failure.
+Option,0,d) ischemic stroke.
+Hint,"Complexity: Moderate			Ahead: Common Complaints and the Leading Causes of Death in Older People			Subject:Geriatric Emergencies, Page 1352			Title: Geriatric Emergencies			Feedback: See Common Complaints and the Leading Causes of Death in Older People			Taxonomy: Recall			Objective: 36-4 Describe the common complaints and the leading causes of death in older people.",
+NewQuestion,MC,
+Title,,
+QuestionText,The leading cause of death in the geriatric patient is:,
+Points,1,
+Difficulty,1,
+Option,0,a) hypertension.
+Option,0,b) altered mental status.
+Option,0,c) arthritis.
+Option,100,d) heart disease.
+Hint,"Complexity: Moderate			Ahead: Common Complaints and the Leading Causes of Death in Older People			Subject:Geriatric Emergencies, Page 1352			Title: Geriatric Emergencies			Feedback: See Common Complaints and the Leading Causes of Death in Older People			Taxonomy: Recall			Objective: 36-4 Describe the common complaints and the leading causes of death in older people.",
+NewQuestion,MC,
+Title,,
+QuestionText,"When caring for a geriatric patient with a traumatic injury, it is important to consider that:",
+Points,1,
+Difficulty,1,
+Option,0,a) geriatric patients usually present with little to no pain.
+Option,0,b) decreased bone density often results in incomplete fractures.
+Option,100,c) the injury might have been preceded by a medical condition.
+Option,0,d) geriatric patients typically present with classic signs of shock.
+Hint,"Complexity: Moderate			Ahead: Common Complaints and the Leading Causes of Death in Older People			Subject:Geriatric Emergencies, Page 1352			Title: Geriatric Emergencies			Feedback: See Common Complaints and the Leading Causes of Death in Older People			Taxonomy: Recall			Objective: 36-4 Describe the common complaints and the leading causes of death in older people.",
+NewQuestion,MC,
+Title,,
+QuestionText,"Because of the complexity of the older patient and the vagueness of his or her complaint, you should:",
+Points,1,
+Difficulty,1,
+Option,0,a) limit your physical examination to the area of pain or injury.
+Option,0,b) rely exclusively on family members for the medical history.
+Option,100,c) attempt to differentiate between chronic and acute problems.
+Option,0,d) perform a rapid assessment on all geriatric patients you treat.
+Hint,"Complexity: Difficult			Ahead: Special Considerations in Assessing a Geriatric Medical Patient			Subject:Geriatric Emergencies, Page 1370			Title: Geriatric Emergencies			Feedback: See Special Considerations in Assessing a Geriatric Medical Patient			Taxonomy: Recall			Objective: 36-9 Explain special considerations when performing the patient assessment process on a geriatric patient with a medical condition.",
+NewQuestion,MC,
+Title,,
+QuestionText,"When transporting a stable older patient to the hospital, the most effective way to reduce his or her anxiety is to:",
+Points,1,
+Difficulty,1,
+Option,0,a) allow at least two family members to accompany the patient.
+Option,100,b) transport him or her to a hospital that he or she is familiar with.
+Option,0,"c) avoid the use of a long backboard, even if trauma is suspected."
+Option,0,d) perform frequent detailed assessments to gain the patient’s trust.
+Hint,"Complexity: Easy			Ahead: Special Considerations in Assessing a Geriatric Medical Patient			Subject:Geriatric Emergencies, Page 1351			Title: Geriatric Emergencies			Feedback: See Special Considerations in Assessing a Geriatric Medical Patient			Taxonomy: Application			Objective: 36-3 Know generational considerations when communicating with a geriatric patient.",
+NewQuestion,MC,
+Title,,
+QuestionText,An elderly patient might understate or minimize the symptoms of his or her illness because:,
+Points,1,
+Difficulty,1,
+Option,0,a) the nervous system has deteriorated.
+Option,0,b) of decreased perception of pain.
+Option,0,c) of conditions such as dementia.
+Option,100,d) he or she fears hospitalization.
+Hint,"Complexity: Easy			Ahead: Changes in the Immune System			Subject:Geriatric Emergencies, Page 1363			Title: Geriatric Emergencies			Feedback: See Changes in the Immune System			Taxonomy: Recall			Objective: 36-5 Discuss the physiologic changes associated with the aging process and the age-related assessment and treatment modifications that result.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following statements regarding a decreased level of consciousness in the elderly patient is correct?,
+Points,1,
+Difficulty,1,
+Option,100,a) A decreased level of consciousness is not a normal part of the aging process.
+Option,0,b) Most elderly patients have some deterioration in their level of consciousness.
+Option,0,c) A decreased level of consciousness is most often the result of chronic dementia.
+Option,0,d) The AVPU scale is an ineffective tool when assessing an elderly patient’s level of consciousness.
+Hint,"Complexity: Easy			Ahead: Changes in the Nervous System			Subject:Geriatric Emergencies, Page 1359			Title: Geriatric Emergencies			Feedback: See Changes in the Nervous System			Taxonomy: Recall			Objective: 36-5 Discuss the physiologic changes associated with the aging process and the age-related assessment and treatment modifications that result.",
+NewQuestion,MC,
+Title,,
+QuestionText,You are dispatched to a skilled nursing care facility for an 80-year-old female with abnormal behavior. The patient is clearly confused and asks you if you are her husband. You should:,
+Points,1,
+Difficulty,1,
+Option,100,a) determine the patient’s baseline mental status.
+Option,0,b) inquire about a history of Alzheimer disease.
+Option,0,c) obtain a complete list of the patient’s medications.
+Option,0,d) ask an attendant for the patient’s medical records.
+Hint,"Complexity: Difficult			Ahead: Response to Nursing and Skilled Care Facilities			Subject:Geriatric Emergencies, Page 1379			Title: Geriatric Emergencies			Feedback: See Response to Nursing and Skilled Care Facilities			Taxonomy: Application			Objective: 36-12 Explain special considerations when responding to calls at nursing and skilled care facilities.",
+NewQuestion,MC,
+Title,,
+QuestionText,"A 69-year-old female was involved in a motor vehicle crash. She is semiconscious with a blood pressure of 80/50 mm Hg and a heart rate of 74 beats/min that is weak. Her daughter, who was uninjured in the crash, tells you that her mother has a history of hypertension and takes beta-blockers. Because this patient is probably in shock, what is the most likely explanation for the absence of tachycardia?",
+Points,1,
+Difficulty,1,
+Option,0,a) Deterioration of the cardiac conduction system
+Option,0,b) Intrathoracic bleeding and cardiac compression
+Option,100,c) The effects of her antihypertensive medication
+Option,0,d) Failure of the parasympathetic nervous system
+Hint,"Complexity: Difficult			Ahead: Special Considerations in Assessing a Geriatric Medical Patient			Subject:Geriatric Emergencies, Page 1372			Title: Geriatric Emergencies			Feedback: See Special Considerations in Assessing a Geriatric Medical Patient			Taxonomy: Application			Objective: 36-9 Explain special considerations when performing the patient assessment process on a geriatric patient with a medical condition.",
+NewQuestion,MC,
+Title,,
+QuestionText,The purpose of the GEMS diamond is to:,
+Points,1,
+Difficulty,1,
+Option,100,a) help EMS personnel remember what is different about elderly patients.
+Option,0,b) provide the EMT with a standard format for assessing elderly patients.
+Option,0,c) replace the typical ABC approach to patient care when caring for the elderly.
+Option,0,d) provide clues about an elderly patient’s problem by observing his or her home.
+Hint,"Complexity: Easy			Ahead: The GEMS Diamond			Subject:Geriatric Emergencies, Page 1368			Title: Geriatric Emergencies			Feedback: See The GEMS Diamond			Taxonomy: Recall			Objective: 36-8 Explain the GEMS diamond and its role in the assessment and care of the geriatric patient.",
+NewQuestion,MC,
+Title,,
+QuestionText,"Upon entering the residence of a geriatric patient with a medical or trauma complaint, the EMT should:",
+Points,1,
+Difficulty,1,
+Option,0,a) immediately seek out a family member or other caregiver.
+Option,100,b) observe for conditions that might make the residence unsafe.
+Option,0,c) begin his or her assessment after gathering any medication bottles.
+Option,0,d) talk to the patient after performing his or her primary assessment.
+Hint,"Complexity: Moderate			Ahead: The GEMS Diamond			Subject:Geriatric Emergencies, Page 1369			Title: Geriatric Emergencies			Feedback: See The GEMS Diamond			Taxonomy: Recall			Objective: 36-8 Explain the GEMS diamond and its role in the assessment and care of the geriatric patient.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following observations or statements represents the “E” in the GEMS diamond?,
+Points,1,
+Difficulty,1,
+Option,0,a) Elderly patients present atypically and deserve your respect.
+Option,100,b) The patient’s residence is cold due to a malfunctioning heater.
+Option,0,c) A patient is assisted with his or her activities of daily living.
+Option,0,d) The patient’s medications have not been filled in 2 months.
+Hint,"Complexity: Easy			Ahead: The GEMS Diamond			Subject:Geriatric Emergencies, Page 1368			Title: Geriatric Emergencies			Feedback: See The GEMS Diamond			Taxonomy: Application			Objective: 36-8 Explain the GEMS diamond and its role in the assessment and care of the geriatric patient.",
+NewQuestion,MC,
+Title,,
+QuestionText,"Findings during the social assessment of an older patient include all of the following, except:",
+Points,1,
+Difficulty,1,
+Option,0,a) interaction with others.
+Option,0,b) daily activity assistance.
+Option,100,c) outdated medications.
+Option,0,d) delays in obtaining meals.
+Hint,"Complexity: Easy			Ahead: The GEMS Diamond			Subject:Geriatric Emergencies, Page 1368			Title: Geriatric Emergencies			Feedback: See The GEMS Diamond			Taxonomy: Recall			Objective: 36-8 Explain the GEMS diamond and its role in the assessment and care of the geriatric patient.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following statements regarding the aging process is correct?,
+Points,1,
+Difficulty,1,
+Option,100,"a) The process of aging is gradual, and the rate at which a person loses functions does not increase with age."
+Option,0,"b) Because he or she is younger and healthier, a 35-year-old person ages slower than a 75-year-old person."
+Option,0,"c) Human growth and development peaks in the late 40s or early 50s, at which point the aging process sets in."
+Option,0,"d) The older a person gets, the slower the decline in the function of vital organs, such as the kidneys and liver."
+Hint,"Complexity: Easy			Ahead: Changes in the Body			Subject:Geriatric Emergencies, Page 1352			Title: Geriatric Emergencies			Feedback: See Changes in the Body			Taxonomy: Recall			Objective: 36-5 Discuss the physiologic changes associated with the aging process and the age-related assessment and treatment modifications that result.",
+NewQuestion,MC,
+Title,,
+QuestionText,"During the natural process of aging, the number of functional cilia in the respiratory system decreases, resulting in:",
+Points,1,
+Difficulty,1,
+Option,100,a) a decreased ability to cough.
+Option,0,b) baseline respiratory distress.
+Option,0,c) an increased risk of COPD.
+Option,0,d) air-trapping within the alveoli.
+Hint,"Complexity: Moderate			Ahead: Changes in the Respiratory System			Subject:Geriatric Emergencies, Page 1353			Title: Geriatric Emergencies			Feedback: See Changes in the Respiratory System			Taxonomy: Recall			Objective: 36-5 Discuss the physiologic changes associated with the aging process and the age-related assessment and treatment modifications that result.",
+NewQuestion,MC,
+Title,,
+QuestionText,"A productive cough, fever, and chills in an 80-year-old patient with a compromised immune system should make you most suspicious for:",
+Points,1,
+Difficulty,1,
+Option,0,a) heart failure.
+Option,0,b) bronchitis.
+Option,0,c) emphysema.
+Option,100,d) pneumonia.
+Hint,"Complexity: Easy			Ahead: Changes in the Respiratory System			Subject:Geriatric Emergencies, Page 1353			Title: Geriatric Emergencies			Feedback: See Changes in the Respiratory System			Taxonomy: Application			Objective: 36-5 Discuss the physiologic changes associated with the aging process and the age-related assessment and treatment modifications that result.",
+NewQuestion,MC,
+Title,,
+QuestionText,"As a person ages, the heart might enlarge as a result of:",
+Points,1,
+Difficulty,1,
+Option,0,a) widespread vascular dilation.
+Option,100,b) chronically increased afterload.
+Option,0,c) an overall decrease in blood volume.
+Option,0,d) decreased blood return to the heart.
+Hint,"Complexity: Difficult			Ahead: Changes in the Cardiovascular System			Subject:Geriatric Emergencies, Page 1354			Title: Geriatric Emergencies			Feedback: See Changes in the Cardiovascular System			Taxonomy: Recall			Objective: 36-5 Discuss the physiologic changes associated with the aging process and the age-related assessment and treatment modifications that result.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following patients is at highest risk for a pulmonary embolism?,
+Points,1,
+Difficulty,1,
+Option,0,a) 59-year-old male who is recovering from pneumonia
+Option,0,b) 66-year-old active female with a history of hypertension
+Option,100,c) 71-year-old male with recent surgery to a lower extremity
+Option,0,d) 78-year-old female who takes blood-thinning medications
+Hint,"Complexity: Moderate			Ahead: Changes in the Respiratory System			Subject:Geriatric Emergencies, Page 1353			Title: Geriatric Emergencies			Feedback: See Changes in the Respiratory System			Taxonomy: Recall			Objective: 36-5 Discuss the physiologic changes associated with the aging process and the age-related assessment and treatment modifications that result.",
+NewQuestion,MC,
+Title,,
+QuestionText,"In contrast to younger patients, older patients are more prone to a decrease in blood pressure (BP) upon standing because:",
+Points,1,
+Difficulty,1,
+Option,0,a) their red blood cells are destroyed at a faster than normal rate.
+Option,0,b) the aging process results in an overall increase in blood volume.
+Option,100,c) the body is less able to adapt the BP to rapid postural changes.
+Option,0,d) any change in position causes blood to be shunted to the brain.
+Hint,"Complexity: Moderate			Ahead: Changes in the Cardiovascular System			Subject:Geriatric Emergencies, Page 1355			Title: Geriatric Emergencies			Feedback: See Changes in the Cardiovascular System			Taxonomy: Analysis			Objective: 36-5 Discuss the physiologic changes associated with the aging process and the age-related assessment and treatment modifications that result.",
+NewQuestion,MC,
+Title,,
+QuestionText,A “silent” heart attack occurs when:,
+Points,1,
+Difficulty,1,
+Option,0,a) sweating is the only presentation.
+Option,100,b) the usual chest pain is not present.
+Option,0,c) a sudden dysrhythmia causes death.
+Option,0,d) the patient minimizes the chest pain.
+Hint,"Complexity: Moderate			Ahead: Changes in the Cardiovascular System			Subject:Geriatric Emergencies, Page 1355			Title: Geriatric Emergencies			Feedback: See Changes in the Cardiovascular System			Taxonomy: Recall			Objective: 36-5 Discuss the physiologic changes associated with the aging process and the age-related assessment and treatment modifications that result.",
+NewQuestion,MC,
+Title,,
+QuestionText,The EMT should suspect left-sided heart failure in the geriatric patient who presents with:,
+Points,1,
+Difficulty,1,
+Option,0,a) fever and a cough that produces green sputum.
+Option,100,b) tachypnea and paroxysmal nocturnal dyspnea.
+Option,0,c) jugular venous distention and peripheral edema.
+Option,0,d) swelling of the lower extremities and weakness.
+Hint,"Complexity: Easy			Ahead: Changes in the Cardiovascular System			Subject:Geriatric Emergencies, Page 1356			Title: Geriatric Emergencies			Feedback: See Changes in the Cardiovascular System			Taxonomy: Application			Objective: 36-5 Discuss the physiologic changes associated with the aging process and the age-related assessment and treatment modifications that result.",
+NewQuestion,MC,
+Title,,
+QuestionText,"When assessing a 78-year-old female who complains of shortness of breath, the EMT should:",
+Points,1,
+Difficulty,1,
+Option,0,a) give oxygen only if the patient has labored breathing.
+Option,0,b) conclude that the patient is experiencing a heart attack.
+Option,100,c) determine the position in which the patient normally sleeps.
+Option,0,d) place the patient supine to see if the problem worsens.
+Hint,"Complexity: Easy			Ahead: Changes in the Cardiovascular System			Subject:Geriatric Emergencies, Page 1356			Title: Geriatric Emergencies			Feedback: See Changes in the Cardiovascular System			Taxonomy: Application			Objective: 36-5 Discuss the physiologic changes associated with the aging process and the age-related assessment and treatment modifications that result.",
+NewQuestion,MC,
+Title,,
+QuestionText,"When assessing a geriatric patient who has possibly experienced an acute ischemic stroke, it is most important to:",
+Points,1,
+Difficulty,1,
+Option,100,a) determine the onset of the patient’s symptoms.
+Option,0,b) ascertain about a history of atrial fibrillation.
+Option,0,c) administer 324 mg of aspirin as soon as possible.
+Option,0,d) determine if the patient has risk factors for a stroke.
+Hint,"Complexity: Easy			Ahead: Changes in the Cardiovascular System			Subject:Geriatric Emergencies, Page 1356			Title: Geriatric Emergencies			Feedback: See Changes in the Cardiovascular System			Taxonomy: Application			Objective: 36-5 Discuss the physiologic changes associated with the aging process and the age-related assessment and treatment modifications that result.",
+NewQuestion,MC,
+Title,,
+QuestionText,The reduction in brain weight and volume increases an older person’s risk for:,
+Points,1,
+Difficulty,1,
+Option,0,a) stroke.
+Option,0,b) delirium.
+Option,0,c) dementia.
+Option,100,d) head trauma.
+Hint,"Complexity: Easy			Ahead: Changes in the Nervous System			Subject:Geriatric Emergencies, Page 1357			Title: Geriatric Emergencies			Feedback: See Changes in the Nervous System			Taxonomy: Application			Objective: 36-5 Discuss the physiologic changes associated with the aging process and the age-related assessment and treatment modifications that result.",
+NewQuestion,MC,
+Title,,
+QuestionText,Clouding of the lenses of the eyes is called:,
+Points,1,
+Difficulty,1,
+Option,0,a) retinitis.
+Option,100,b) cataracts.
+Option,0,c) glaucoma.
+Option,0,d) conjunctivitis.
+Hint,"Complexity: Easy			Ahead: Changes in the Nervous System			Subject:Geriatric Emergencies, Page 1357			Title: Geriatric Emergencies			Feedback: See Changes in the Nervous System			Taxonomy: Recall			Objective: 36-5 Discuss the physiologic changes associated with the aging process and the age-related assessment and treatment modifications that result.",
+NewQuestion,MC,
+Title,,
+QuestionText,"When caring for an elderly patient who is hearing-impaired, you should:",
+Points,1,
+Difficulty,1,
+Option,0,a) speak directly into his or her ear with an elevated tone.
+Option,0,b) remember that most hearing-impaired patients can read lips.
+Option,0,c) request that he or she communicate with you by writing on paper.
+Option,100,d) recall that elderly patients have difficulty hearing high-frequency sounds.
+Hint,"Complexity: Easy			Ahead: Changes in the Nervous System			Subject:Geriatric Emergencies, Page 1358			Title: Geriatric Emergencies			Feedback: See Changes in the Nervous System			Taxonomy: Application			Objective: 36-5 Discuss the physiologic changes associated with the aging process and the age-related assessment and treatment modifications that result.",
+NewQuestion,MC,
+Title,,
+QuestionText,"The slow onset of progressive disorientation, shortened attention span, and loss of cognitive function is known as:",
+Points,1,
+Difficulty,1,
+Option,0,a) delirium.
+Option,0,b) delusion.
+Option,0,c) paranoia.
+Option,100,d) dementia.
+Hint,"Complexity: Easy			Ahead: Changes in the Nervous System			Subject:Geriatric Emergencies, Page 1358			Title: Geriatric Emergencies			Feedback: See Changes in the Nervous System			Taxonomy: Recall			Objective: 36-5 Discuss the physiologic changes associated with the aging process and the age-related assessment and treatment modifications that result.",
+NewQuestion,MC,
+Title,,
+QuestionText,"In contrast to delirium, dementia:",
+Points,1,
+Difficulty,1,
+Option,100,a) is usually considered irreversible.
+Option,0,b) is the result of an acute condition.
+Option,0,c) is reversible with certain treatment.
+Option,0,d) often develops over a period of days.
+Hint,"Complexity: Moderate			Ahead: Changes in the Nervous System			Subject:Geriatric Emergencies, Page 1358			Title: Geriatric Emergencies			Feedback: See Changes in the Nervous System			Taxonomy: Recall			Objective: 36-5 Discuss the physiologic changes associated with the aging process and the age-related assessment and treatment modifications that result.",
+NewQuestion,MC,
+Title,,
+QuestionText,"A 77-year-old female presents with an acute onset of altered mental status. Her son is present and advises that she has a history of hypertension, atrial fibrillation, type 2 diabetes, and glaucoma. He further advises that she takes numerous medications and is normally alert. When you assess this patient, it is important to note that:",
+Points,1,
+Difficulty,1,
+Option,0,"a) because of her age and medical history, you should suspect Alzheimer disease."
+Option,100,"b) the patient is experiencing delirious behavior, which suggests a new health problem."
+Option,0,c) her mental status is likely the result of hypoglycemia and you should give her sugar.
+Option,0,d) dementia typically presents as an acute onset of deterioration of cognitive function.
+Hint,"Complexity: Difficult			Ahead: Changes in the Nervous System			Subject:Geriatric Emergencies, Page 1359			Title: Geriatric Emergencies			Feedback: See Changes in the Nervous System			Taxonomy: Application			Objective: 36-5 Discuss the physiologic changes associated with the aging process and the age-related assessment and treatment modifications that result.",
+NewQuestion,MC,
+Title,,
+QuestionText,"Causes of delirium in the older patient include all of the following, except:",
+Points,1,
+Difficulty,1,
+Option,0,a) acute hypovolemia.
+Option,100,b) Alzheimer disease.
+Option,0,c) low blood sugar level.
+Option,0,d) decreased cerebral perfusion.
+Hint,"Complexity: Easy			Ahead: Changes in the Nervous System			Subject:Geriatric Emergencies, Page 1359			Title: Geriatric Emergencies			Feedback: See Changes in the Nervous System			Taxonomy: Recall			Objective: 36-5 Discuss the physiologic changes associated with the aging process and the age-related assessment and treatment modifications that result.",
+NewQuestion,MC,
+Title,,
+QuestionText,Syncope in the older patient is:,
+Points,1,
+Difficulty,1,
+Option,100,a) caused by an interruption of blood flow to the brain.
+Option,0,b) generally of no concern unless the patient was injured.
+Option,0,c) most commonly caused by a silent myocardial infarction.
+Option,0,d) rarely life threatening but should be evaluated by a physician.
+Hint,"Complexity: Easy			Ahead: Changes in the Nervous System			Subject:Geriatric Emergencies, Page 1360			Title: Geriatric Emergencies			Feedback: See Changes in the Nervous System			Taxonomy: Recall			Objective: 36-5 Discuss the physiologic changes associated with the aging process and the age-related assessment and treatment modifications that result.",
+NewQuestion,MC,
+Title,,
+QuestionText,Motor nerve neuropathy is characterized by:,
+Points,1,
+Difficulty,1,
+Option,0,"a) numbness, tingling, and severe muscle pain."
+Option,0,b) loss of bladder control and sensitivity to touch.
+Option,100,"c) loss of balance, muscle weakness, and spasms."
+Option,0,"d) constipation, low blood pressure, and bradycardia."
+Hint,"Complexity: Easy			Ahead: Changes in the Nervous System			Subject:Geriatric Emergencies, Page			Title: Geriatric Emergencies			Feedback: See Changes in the Nervous System			Taxonomy: Recall			Objective: 36-5 Discuss the physiologic changes associated with the aging process and the age-related assessment and treatment modifications that result.",
+NewQuestion,MC,
+Title,,
+QuestionText,"Common causes of syncope in older patients include all of the following, except:",
+Points,1,
+Difficulty,1,
+Option,0,a) venous pooling.
+Option,100,b) vasoconstriction.
+Option,0,c) acute hypotension.
+Option,0,d) blood volume loss.
+Hint,"Complexity: Easy			Ahead: Changes in the Nervous System			Subject:Geriatric Emergencies, Page 1360			Title: Geriatric Emergencies			Feedback: See Changes in the Nervous System			Taxonomy: Recall			Objective: 36-5 Discuss the physiologic changes associated with the aging process and the age-related assessment and treatment modifications that result.",
+NewQuestion,MC,
+Title,,
+QuestionText,An abdominal aortic aneurysm:,
+Points,1,
+Difficulty,1,
+Option,0,"a) is usually not repairable, even if discovered early."
+Option,0,b) causes dull pain that often radiates to the shoulders.
+Option,100,c) is often the result of hypertension and atherosclerosis.
+Option,0,d) can sometimes be palpated as a mass in the groin area.
+Hint,"Complexity: Easy			Ahead: Changes in the Gastrointestinal System			Subject:Geriatric Emergencies, Page 1362			Title: Geriatric Emergencies			Feedback: See Changes in the Gastrointestinal System			Taxonomy: Recall			Objective: 36-5 Discuss the physiologic changes associated with the aging process and the age-related assessment and treatment modifications that result.",
+NewQuestion,MC,
+Title,,
+QuestionText,"A 73-year-old female experienced a syncopal episode while watching TV. She is now conscious but diaphoretic, tachycardic, and hypotensive. Your assessment reveals abdominal tenderness and a pulsating mass to the left of her umbilicus. You should suspect:",
+Points,1,
+Difficulty,1,
+Option,100,a) an aortic aneurysm.
+Option,0,b) acute appendicitis.
+Option,0,c) a strangulated bowel.
+Option,0,d) myocardial infarction.
+Hint,"Complexity: Difficult			Ahead: Changes in the Gastrointestinal System			Subject:Geriatric Emergencies, Page 1362			Title: Geriatric Emergencies			Feedback: See Changes in the Gastrointestinal System			Taxonomy: Application			Objective: 36-5 Discuss the physiologic changes associated with the aging process and the age-related assessment and treatment modifications that result.",
+NewQuestion,MC,
+Title,,
+QuestionText,"You are assessing a 70-year-old female who complains of intense thirst, frequent urination, and dizziness. She has a history of type 2 diabetes, heart disease, rheumatoid arthritis, and gout. Her blood glucose reads “high.” She is conscious but confused. Her blood pressure is 92/52 mm Hg, her pulse rate is 130 beats/min and weak, and her respirations are 22 breaths/min and shallow. This patient’s clinical presentation is most consistent with:",
+Points,1,
+Difficulty,1,
+Option,0,a) diabetic ketoacidosis.
+Option,0,b) hyperglycemia with moderate dehydration.
+Option,100,c) hyperosmolar hyperglycemic nonketotic syndrome.
+Option,0,d) acute renal failure with associated hyperglycemia.
+Hint,"Complexity: Difficult			Ahead: Changes in the Endocrine System			Subject:Geriatric Emergencies, Page 1363			Title: Geriatric Emergencies			Feedback: See Changes in the Endocrine System			Taxonomy: Analysis			Objective: 36-5 Discuss the physiologic changes associated with the aging process and the age-related assessment and treatment modifications that result.",
+NewQuestion,MC,
+Title,,
+QuestionText,"The stooped posture of some older people, which gives them a humpback appearance, is called:",
+Points,1,
+Difficulty,1,
+Option,100,a) kyphosis.
+Option,0,b) arthritis.
+Option,0,c) scoliosis.
+Option,0,d) miosis.
+Hint,"Complexity: Easy			Ahead: Changes in the Musculoskeletal System			Subject:Geriatric Emergencies, Page 1364			Title: Geriatric Emergencies			Feedback: See Changes in the Musculoskeletal System			Taxonomy: Recall			Objective: 36-5 Discuss the physiologic changes associated with the aging process and the age-related assessment and treatment modifications that result.",
+NewQuestion,MC,
+Title,,
+QuestionText,Osteoporosis is defined as:,
+Points,1,
+Difficulty,1,
+Option,0,a) increased flexibility of bone mass.
+Option,0,b) decreased bone marrow production.
+Option,100,c) a decrease in bone mass and density.
+Option,0,d) an abnormality near the growth plate.
+Hint,"Complexity: Easy			Ahead: Changes in the Musculoskeletal System			Subject:Geriatric Emergencies, Page 1364			Title: Geriatric Emergencies			Feedback: See Changes in the Musculoskeletal System			Taxonomy: Recall			Objective: 36-5 Discuss the physiologic changes associated with the aging process and the age-related assessment and treatment modifications that result.",
+NewQuestion,MC,
+Title,,
+QuestionText,"A 70-year-old man complains of a sudden onset of difficulty breathing. He has dried blood on his lips and is very anxious. His left leg is red, swollen, and painful. The EMT should:",
+Points,1,
+Difficulty,1,
+Option,0,a) position the patient supine.
+Option,0,b) suspect severe pneumonia.
+Option,0,c) apply a cold pack to his leg.
+Option,100,d) administer high-flow oxygen.
+Hint,"Complexity: Moderate			Ahead: Changes in the Respiratory System			Subject:Geriatric Emergencies, Page 1354			Title: Geriatric Emergencies			Feedback: See Changes in the Respiratory System			Taxonomy: Application			Objective: 36-5 Discuss the physiologic changes associated with the aging process and the age-related assessment and treatment modifications that result.",
+NewQuestion,MC,
+Title,,
+QuestionText,"Blood levels of medications might rise in the elderly, sometimes to toxic levels. This is most likely due to:",
+Points,1,
+Difficulty,1,
+Option,0,a) pancreatic failure.
+Option,100,b) renal insufficiency.
+Option,0,c) intentional overdose.
+Option,0,d) splenic dysfunction.
+Hint,"Complexity: Easy			Ahead: Toxicology			Subject:Geriatric Emergencies, Page 1365			Title: Geriatric Emergencies			Feedback: See Toxicology			Taxonomy: Application			Objective: 36-5 Discuss the physiologic changes associated with the aging process and the age-related assessment and treatment modifications that result.",
+NewQuestion,MC,
+Title,,
+QuestionText,"When an elderly patient presents you with multiple over-the-counter medications that he or she is taking, it is most important to:",
+Points,1,
+Difficulty,1,
+Option,100,a) recall that the patient is at risk for negative medication interactions.
+Option,0,b) ask the patient to explain what each medication is used for.
+Option,0,c) look up all of the medications before providing care to the patient.
+Option,0,d) contact each of the physicians whose names are on the medications.
+Hint,"Complexity: Easy			Ahead: Toxicology			Subject:Geriatric Emergencies, Page 1366			Title: Geriatric Emergencies			Feedback: See Toxicology			Taxonomy: Application			Objective: 36-6 Define polypharmacy and the toxicity issues that can result.",
+NewQuestion,MC,
+Title,,
+QuestionText,"The use of multiple prescription drugs by a single patient, causing the potential for negative effects such as overdosing or drug interaction, is called:",
+Points,1,
+Difficulty,1,
+Option,0,a) potentiation.
+Option,100,b) polypharmacy.
+Option,0,c) drug tolerance.
+Option,0,d) drug dependency.
+Hint,"Complexity: Easy			Ahead: Toxicology			Subject:Geriatric Emergencies, Page 1365			Title: Geriatric Emergencies			Feedback: See Toxicology			Taxonomy: Recall			Objective: 36-6 Define polypharmacy and the toxicity issues that can result.",
+NewQuestion,MC,
+Title,,
+QuestionText,"Common causes of depression in the elderly include all of the following, except:",
+Points,1,
+Difficulty,1,
+Option,0,a) chronic medical conditions.
+Option,0,b) prescription medication use.
+Option,100,c) an acute onset of dementia.
+Option,0,d) alcohol abuse and dependence.
+Hint,"Complexity: Easy			Ahead: Behavioral Emergencies			Subject:Geriatric Emergencies, Page 1367			Title: Geriatric Emergencies			Feedback: See Behavioral Emergencies			Taxonomy: Recall			Objective: 36-7 Discuss the effect of aging on behavioral emergencies.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following statements regarding suicide in the older patient is correct?,
+Points,1,
+Difficulty,1,
+Option,100,a) Older patients tend to use more lethal means than younger patients.
+Option,0,b) Older females have a higher rate of suicide than any other group.
+Option,0,c) Depression and hopeless feelings are often not predisposing factors.
+Option,0,d) Most suicidal patients readily seek care and do not deny the problem.
+Hint,"Complexity: Easy			Ahead: Behavioral Emergencies			Subject:Geriatric Emergencies, Page 1367			Title: Geriatric Emergencies			Feedback: See Behavioral Emergencies			Taxonomy: Recall			Objective: 36-7 Discuss the effect of aging on behavioral emergencies.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following is the most common mechanism of injury in older patients?,
+Points,1,
+Difficulty,1,
+Option,100,a) Falls
+Option,0,b) Burns
+Option,0,c) Abuse
+Option,0,d) Suicide
+Hint,"Complexity: Easy			Ahead: Trauma and Geriatric Patients			Subject:Geriatric Emergencies, Page 1374			Title: Geriatric Emergencies			Feedback: See Trauma and Geriatric Patients			Taxonomy: Recall			Objective: 36-11 Explain special considerations when performing the patient assessment process on a geriatric patient with a traumatic injury.",
+NewQuestion,MC,
+Title,,
+QuestionText,"When performing your secondary assessment on an older patient who has been injured, it is important to:",
+Points,1,
+Difficulty,1,
+Option,0,a) routinely perform a focused exam to minimize time at the scene.
+Option,0,b) perform an in-depth physical exam prior to initiating any treatment.
+Option,100,c) recall that it will take a less severe mechanism of injury to cause significant injuries.
+Option,0,d) focus your assessment just on the area(s) of pain or obvious injury.
+Hint,"Complexity: Moderate			Ahead: Trauma and Geriatric Patients			Subject:Geriatric Emergencies, Page 1374			Title: Geriatric Emergencies			Feedback: See Trauma and Geriatric Patients			Taxonomy: Application			Objective: 36-11 Explain special considerations when performing the patient assessment process on a geriatric patient with a traumatic injury.",
+NewQuestion,MC,
+Title,,
+QuestionText,"Upon arriving at the residence of an elderly female who apparently fainted, you find the patient lying supine on her living room floor. She is not moving, and her eyes are closed. A neighbor tells you that she found the patient this way but did not move her. When you gently tap the patient, she does not respond. You should:",
+Points,1,
+Difficulty,1,
+Option,0,"a) suction her airway, apply a cervical collar, administer high-flow oxygen via a nonrebreathing mask, and perform a rapid assessment."
+Option,0,"b) open her airway with the head tilt–chin lift maneuver, insert an oral or nasal airway, and assess her blood glucose level to rule out hypoglycemia."
+Option,100,c) direct your partner to manually stabilize her head while you quickly visualize her chest for signs of breathing.
+Option,0,d) begin assisting her ventilations with a bag-valve mask while your partner auscultates her lung sounds to ensure adequate positive-pressure ventilation.
+Hint,"Complexity: Difficult			Ahead: Special Considerations in Assessing Geriatric Trauma Patients			Subject:Geriatric Emergencies, Page 1376			Title: Geriatric Emergencies			Feedback: See Special Considerations in Assessing Geriatric Trauma Patients			Taxonomy: Application			Objective: 36-11 Explain special considerations when performing the patient assessment process on a geriatric patient with a traumatic injury.",
+NewQuestion,MC,
+Title,,
+QuestionText,"When immobilizing a patient with a kyphotic spine to a long backboard, the EMT would most likely have to:",
+Points,1,
+Difficulty,1,
+Option,0,a) force the head into a neutral alignment.
+Option,100,b) place blankets behind the patient’s head.
+Option,0,c) secure the patient’s head before the torso.
+Option,0,d) use a scoop stretcher instead of a log roll.
+Hint,"Complexity: Moderate			Ahead: Special Considerations in Assessing Geriatric Trauma Patients			Subject:Geriatric Emergencies, Page 1378			Title: Geriatric Emergencies			Feedback: See Special Considerations in Assessing Geriatric Trauma Patients			Taxonomy: Recall			Objective: 36-11 Explain special considerations when performing the patient assessment process on a geriatric patient with a traumatic injury.",
+NewQuestion,MC,
+Title,,
+QuestionText,"You are dispatched to a residence for an 80-year-old female who fell. When you arrive, you find the patient conscious, lying in a recumbent position on the floor in her living room. In addition to providing the appropriate treatment, you should ask the patient if:",
+Points,1,
+Difficulty,1,
+Option,100,a) she became dizzy or fainted before falling.
+Option,0,b) she attempted to catch herself before falling.
+Option,0,c) a family member regularly checks up on her.
+Option,0,d) she takes medications for Alzheimer disease.
+Hint,"Complexity: Difficult			Ahead: Assessment of Falls			Subject:Geriatric Emergencies, Page 1378			Title: Geriatric Emergencies			Feedback: See Assessment of Falls			Taxonomy: Application			Objective: 36-11 Explain special considerations when performing the patient assessment process on a geriatric patient with a traumatic injury.",
+NewQuestion,MC,
+Title,,
+QuestionText,An older woman with osteoporosis presents with pain and deformity to her left hip after she shifted her weight onto her other foot. She has most likely experienced a(n):,
+Points,1,
+Difficulty,1,
+Option,100,a) pathologic fracture.
+Option,0,b) idiopathic fracture.
+Option,0,c) compression fracture.
+Option,0,d) comminuted fracture.
+Hint,"Complexity: Easy			Ahead: Trauma and Geriatric Patients			Subject:Geriatric Emergencies, Page 1378			Title: Geriatric Emergencies			Feedback: See Trauma and Geriatric Patients			Taxonomy: Application			Objective: 36-11 Explain special considerations when performing the patient assessment process on a geriatric patient with a traumatic injury.",
+NewQuestion,MC,
+Title,,
+QuestionText,Fractures of the pelvis in older patients often occur as the result of a combination of:,
+Points,1,
+Difficulty,1,
+Option,100,a) osteoporosis and low-energy trauma.
+Option,0,b) increased bone density and car crashes.
+Option,0,c) arthritic joints and high-energy trauma.
+Option,0,d) acetabular separation and severe falls.
+Hint,"Complexity: Easy			Ahead: Trauma and Geriatric Patients			Subject:Geriatric Emergencies, Page 1374			Title: Geriatric Emergencies			Feedback: See Trauma and Geriatric Patients			Taxonomy: Application			Objective: 36-11 Explain special considerations when performing the patient assessment process on a geriatric patient with a traumatic injury.",
+NewQuestion,MC,
+Title,,
+QuestionText,"With age, the spine stiffens as a result of shrinkage of the intervertebral disc spaces, and the vertebrae become brittle. This increases the risk of:",
+Points,1,
+Difficulty,1,
+Option,0,a) severe kyphosis.
+Option,0,b) distracting injuries.
+Option,0,c) spinal cord tearing.
+Option,100,d) compression fractures.
+Hint,"Complexity: Easy			Ahead: Trauma and Geriatric Patients			Subject:Geriatric Emergencies, Page 1375			Title: Geriatric Emergencies			Feedback: See Trauma and Geriatric Patients			Taxonomy: Application			Objective: 36-11 Explain special considerations when performing the patient assessment process on a geriatric patient with a traumatic injury.",
+NewQuestion,MC,
+Title,,
+QuestionText,"You receive a call for a sick person. When you arrive, you find the patient, a 75-year-old male, lying unresponsive in his bed. His respirations are slow and irregular, and his pulse is slow and weak. His daughter tells you that he fell the day before but refused to allow her to call 9-1-1. His past medical history is significant for hypothyroidism, deep vein thrombosis, heavy alcohol use, and liver cirrhosis. His medications include blood thinners and vitamins. You should be most suspicious that this patient is experiencing:",
+Points,1,
+Difficulty,1,
+Option,0,a) acute hyperglycemia.
+Option,100,b) a subdural hematoma.
+Option,0,c) acute ischemic stroke.
+Option,0,d) diabetic ketoacidosis.
+Hint,"Complexity: Difficult			Ahead: Trauma and Geriatric Patients			Subject:Geriatric Emergencies, Page 1375			Title: Geriatric Emergencies			Feedback: See Trauma and Geriatric Patients			Taxonomy: Analysis			Objective: 36-11 Explain special considerations when performing the patient assessment process on a geriatric patient with a traumatic injury.",
+NewQuestion,MC,
+Title,,
+QuestionText,"Patients who have experienced even minor-appearing head injuries should be suspected of having a brain injury, especially if they:",
+Points,1,
+Difficulty,1,
+Option,0,a) have minor abrasions to the head area.
+Option,100,b) are taking blood-thinning medications.
+Option,0,c) do not have deformities to the skull.
+Option,0,d) have a history of Alzheimer disease.
+Hint,"Complexity: Easy			Ahead: Trauma and Geriatric Patients			Subject:Geriatric Emergencies, Page 1376			Title: Geriatric Emergencies			Feedback: See Trauma and Geriatric Patients			Taxonomy: Recall			Objective: 36-11 Explain special considerations when performing the patient assessment process on a geriatric patient with a traumatic injury.",
+NewQuestion,MC,
+Title,,
+QuestionText,A specific legal document that directs relatives and caregivers regarding the medical treatment that may be given to patients who cannot speak for themselves is called a(n):,
+Points,1,
+Difficulty,1,
+Option,0,a) statute of care.
+Option,0,b) power of attorney.
+Option,0,c) physician directive.
+Option,100,d) advance directive.
+Hint,"Complexity: Easy			Ahead: Dying Patients			Subject:Geriatric Emergencies, Page 1380			Title: Geriatric Emergencies			Feedback: See Dying Patients			Taxonomy: Recall			Objective: 36-13 Define an advance directive and considerations with older patients.",
+NewQuestion,MC,
+Title,,
+QuestionText,"In contrast to a living will, a “do not resuscitate” (DNR) order becomes valid when:",
+Points,1,
+Difficulty,1,
+Option,0,a) the patient has a terminal illness.
+Option,100,b) the patient develops cardiac arrest.
+Option,0,c) the patient is in a healthcare setting.
+Option,0,d) it is signed by three or more physicians.
+Hint,"Complexity: Easy			Ahead: Dying Patients			Subject:Geriatric Emergencies, Page 1380			Title: Geriatric Emergencies			Feedback: See Dying Patients			Taxonomy: Recall			Objective: 36-13 Define an advance directive and considerations with older patients.",
+NewQuestion,MC,
+Title,,
+QuestionText,"When faced with a situation in which an older patient with a terminal illness is in cardiac arrest, but written documentation regarding the patient’s wishes cannot be located, the EMT should:",
+Points,1,
+Difficulty,1,
+Option,0,a) try to locate the documentation.
+Option,100,b) attempt to resuscitate the patient.
+Option,0,c) allow the patient to die in peace.
+Option,0,d) contact medical control for advice.
+Hint,"Complexity: Easy			Ahead: Dying Patients			Subject:Geriatric Emergencies, Page 1381			Title: Geriatric Emergencies			Feedback: See Dying Patients			Taxonomy: Application			Objective: 36-13 Define an advance directive and considerations with older patients.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following is not a reason why the exact extent and prevalence of elder abuse is unknown?,
+Points,1,
+Difficulty,1,
+Option,0,a) It has been largely hidden from society.
+Option,0,b) The definitions of abuse and neglect vary.
+Option,100,c) Human resource agencies fail to investigate.
+Option,0,d) Victims of elder abuse are hesitant to report it.
+Hint,"Complexity: Easy			Ahead: Elder Abuse and Neglect			Subject:Geriatric Emergencies, Page 1381			Title: Geriatric Emergencies			Feedback: See Elder Abuse and Neglect			Taxonomy: Recall			Objective: 36-14 Discuss the prevalence of elder abuse and neglect; include why the extent of elder abuse is not well known.",
+NewQuestion,MC,
+Title,,
+QuestionText,"Poor maintenance of home, poor personal care, and dietary neglect are all possible indicators of ____________ elder abuse.",
+Points,1,
+Difficulty,1,
+Option,100,a) physical
+Option,0,b) financial
+Option,0,c) emotional
+Option,0,d) psychological
+Hint,"Complexity: Easy			Ahead: Elder Abuse and Neglect			Subject:Geriatric Emergencies, Page 1382			Title: Geriatric Emergencies			Feedback: See Elder Abuse and Neglect			Taxonomy: Recall			Objective: 36-16 Explain the assessment and care of a geriatric patient who has potentially been abused or neglected.",
+NewQuestion,MC,
+Title,,
+QuestionText,Many older victims of physical abuse might make false statements or lie about the origin of their injuries because:,
+Points,1,
+Difficulty,1,
+Option,0,a) they are protective of the abuser.
+Option,0,b) they do not want to be bothersome.
+Option,0,c) most elderly patients have dementia.
+Option,100,d) they fear retribution from the abuser.
+Hint,"Complexity: Easy			Ahead: Elder Abuse and Neglect			Subject:Geriatric Emergencies, Page 1382			Title: Geriatric Emergencies			Feedback: See Elder Abuse and Neglect			Taxonomy: Recall			Objective: 36-16 Explain the assessment and care of a geriatric patient who has potentially been abused or neglected.",
+NewQuestion,MC,
+Title,,
+QuestionText,"When assessing an older patient who has multiple bruises in various stages of healing, the EMT should do all of the following, except:",
+Points,1,
+Difficulty,1,
+Option,0,a) factually document all findings.
+Option,100,b) accuse a caregiver of physical abuse.
+Option,0,c) ask the patient how the bruises occurred.
+Option,0,d) review the patient’s activities of daily living.
+Hint,"Complexity: Moderate			Ahead: Elder Abuse and Neglect			Subject:Geriatric Emergencies, Page 1383			Title: Geriatric Emergencies			Feedback: See Elder Abuse and Neglect			Taxonomy: Application			Objective: 36-16 Explain the assessment and care of a geriatric patient who has potentially been abused or neglected.",
+NewQuestion,MC,
+Title,,
+QuestionText,"When documenting a case of suspected elder abuse, it is most important for the EMT to:",
+Points,1,
+Difficulty,1,
+Option,0,a) theorize as to why the patient was abused.
+Option,0,b) document his or her perceptions of the event.
+Option,0,c) list the names of all of the suspected abusers.
+Option,100,d) avoid documenting any unsupported opinions.
+Hint,"Complexity: Easy			Ahead: Elder Abuse and Neglect			Subject:Geriatric Emergencies, Page 1383			Title: Geriatric Emergencies			Feedback: See Elder Abuse and Neglect			Taxonomy: Recall			Objective: 36-16 Explain the assessment and care of a geriatric patient who has potentially been abused or neglected.",
+NewQuestion,MC,
+Title,,
+QuestionText,"EMTs are dispatched to a residence for an 80-year-old woman who is ill. The patient’s daughter states that her mother almost fainted after going to the bathroom and that her pulse was very slow. The patient’s pulse rate is 80 beats/min and irregular, and she is conscious and alert. The EMTs should suspect that the patient:",
+Points,1,
+Difficulty,1,
+Option,100,a) experienced a vasovagal response.
+Option,0,b) has a gastrointestinal hemorrhage.
+Option,0,c) took too much of her medication.
+Option,0,d) has an abdominal aortic aneurysm.
+Hint,"Complexity: Difficult			Ahead: Changes in the Gastrointestinal System			Subject:Geriatric Emergencies, Page 1361			Title: Geriatric Emergencies			Feedback: See Changes in the Gastrointestinal System			Taxonomy: Analysis			Objective: 36-5 Discuss the physiologic changes associated with the aging process and the age-related assessment and treatment modifications that result.",
+NewQuestion,MC,
+Title,,
+QuestionText,"An 84-year-old male fell a week ago and has been bedridden since then. Today, he presents with an altered mental status. His skin is pale and cold, and his respirations are rapid and shallow. The EMT should suspect:",
+Points,1,
+Difficulty,1,
+Option,0,a) acute hyperglycemia.
+Option,0,b) hypovolemic shock.
+Option,0,c) a subdural hematoma.
+Option,100,d) a systemic infection.
+Hint,"Complexity: Difficult			Ahead: Changes in the Immune System			Subject:Geriatric Emergencies, Page 1363			Title: Geriatric Emergencies			Feedback: See Changes in the Immune System			Taxonomy: Analysis			Objective: 36-5 Discuss the physiologic changes associated with the aging process and the age-related assessment and treatment modifications that result.",
+NewQuestion,MC,
+Title,,
+QuestionText,A 75-year-old woman complains of shortness of breath. Which of the following findings should alert the EMT to the possibility of a pulmonary embolism?,
+Points,1,
+Difficulty,1,
+Option,0,a) Frequent urinary tract infections
+Option,0,b) The patient is prescribed an inhaler
+Option,100,c) History of deep venous thrombosis
+Option,0,d) The patient’s abdomen is swollen
+Hint,"Complexity: Difficult			Ahead: Changes in the Respiratory System			Subject:Geriatric Emergencies, Page 1353			Title: Geriatric Emergencies			Feedback: See Changes in the Respiratory System			Taxonomy: Application			Objective: 36-5 Discuss the physiologic changes associated with the aging process and the age-related assessment and treatment modifications that result.",

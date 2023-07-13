@@ -1,0 +1,290 @@
+NewQuestion,MC,
+Title,,
+QuestionText,Each ovary produces an ovum in alternating months and releases it into the:,
+Points,1,
+Difficulty,1,
+Option,0,a) vagina.
+Option,0,b) uterus.
+Option,0,c) cervical os.
+Option,100,d) fallopian tube.
+Hint,"Complexity: Easy			Ahead: Anatomy and Physiology			Subject:Gynecologic Emergencies, Page 883			Title: Gynecologic Emergencies			Feedback: See Anatomy and Physiology			Taxonomy: Recall			Objective: 24-1 Describe the anatomy and physiology of the female reproductive system; include the developmental changes that occur during puberty and menopause.",
+NewQuestion,MC,
+Title,,
+QuestionText,"In anticipation of receiving a fertilized ovum, the lining of the uterine wall:",
+Points,1,
+Difficulty,1,
+Option,0,a) thins and begins to separate.
+Option,100,b) becomes engorged with blood.
+Option,0,c) diverts blood flow to the vagina.
+Option,0,d) sheds and is expelled externally.
+Hint,"Complexity: Moderate			Ahead: Anatomy and Physiology			Subject:Gynecologic Emergencies, Page 883			Title: Gynecologic Emergencies			Feedback: See Anatomy and Physiology			Taxonomy: Recall			Objective: 24-1 Describe the anatomy and physiology of the female reproductive system; include the developmental changes that occur during puberty and menopause.",
+NewQuestion,MC,
+Title,,
+QuestionText,The onset of menstruation usually occurs in females who are:,
+Points,1,
+Difficulty,1,
+Option,0,a) between 8 and 10 years of age.
+Option,100,b) between 11 and 16 years of age.
+Option,0,c) between 18 and 23 years of age.
+Option,0,d) between 25 and 28 years of age.
+Hint,"Complexity: Easy			Ahead: Anatomy and Physiology			Subject:Gynecologic Emergencies, Page 883			Title: Gynecologic Emergencies			Feedback: See Anatomy and Physiology			Taxonomy: Recall			Objective: 24-1 Describe the anatomy and physiology of the female reproductive system; include the developmental changes that occur during puberty and menopause.",
+NewQuestion,MC,
+Title,,
+QuestionText,When a female has reached menarche:,
+Points,1,
+Difficulty,1,
+Option,100,a) she is capable of becoming pregnant.
+Option,0,b) she can no longer produce an ovum.
+Option,0,c) she usually requires hormone therapy.
+Option,0,d) menstrual periods become less frequent.
+Hint,"Complexity: Easy			Ahead: Anatomy and Physiology			Subject:Gynecologic Emergencies, Page 883			Title: Gynecologic Emergencies			Feedback: See Anatomy and Physiology			Taxonomy: Recall			Objective: 24-1 Describe the anatomy and physiology of the female reproductive system; include the developmental changes that occur during puberty and menopause.",
+NewQuestion,MC,
+Title,,
+QuestionText,It is common for young females who experience their first menstrual period to:,
+Points,1,
+Difficulty,1,
+Option,0,a) have a false positive home pregnancy test result.
+Option,0,b) lose up to 500 mL of blood within the first 24 hours.
+Option,100,"c) experience abdominal cramping, which may be misinterpreted."
+Option,0,d) become so emotionally distraught that they contemplate suicide.
+Hint,"Complexity: Easy			Ahead: Anatomy and Physiology			Subject:Gynecologic Emergencies, Page 883			Title: Gynecologic Emergencies			Feedback: See Anatomy and Physiology			Taxonomy: Recall			Objective: 24-1 Describe the anatomy and physiology of the female reproductive system; include the developmental changes that occur during puberty and menopause.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following statements regarding pelvic inflammatory disease (PID) is correct?,
+Points,1,
+Difficulty,1,
+Option,0,a) The most severe cases of PID occur in women who are not sexually active.
+Option,100,"b) PID can scar the fallopian tubes, which increases the risk of an ectopic pregnancy."
+Option,0,c) PID most commonly affects women who have had an ectopic pregnancy in the past.
+Option,0,d) The most common presenting symptom of PID is generalized upper abdominal pain.
+Hint,"Complexity: Moderate			Ahead: Pathophysiology			Subject:Gynecologic Emergencies, Page 884			Title: Gynecologic Emergencies			Feedback: See Pathophysiology			Taxonomy: Analysis			Objective: 24-3 List common examples of gynecologic emergencies; include the causes, risk factors, assessment findings, and patient management considerations.",
+NewQuestion,MC,
+Title,,
+QuestionText,Pelvic inflammatory disease (PID) typically does NOT affect the:,
+Points,1,
+Difficulty,1,
+Option,0,a) uterus.
+Option,0,b) ovaries.
+Option,100,c) urinary bladder.
+Option,0,d) fallopian tubes.
+Hint,"Complexity: Easy			Ahead: Pathophysiology			Subject:Gynecologic Emergencies, Page 884			Title: Gynecologic Emergencies			Feedback: See Pathophysiology			Taxonomy: Recall			Objective: 24-3 List common examples of gynecologic emergencies; include the causes, risk factors, assessment findings, and patient management considerations.",
+NewQuestion,MC,
+Title,,
+QuestionText,Potentially life-threatening consequences of pelvic inflammatory disease (PID) include:,
+Points,1,
+Difficulty,1,
+Option,0,a) ovarian cysts and gonorrhea.
+Option,0,b) bacterial vaginosis and chlamydia.
+Option,0,c) uterine rupture with severe bleeding.
+Option,100,d) ovarian abscess and ectopic pregnancy.
+Hint,"Complexity: Moderate			Ahead: Pathophysiology			Subject:Gynecologic Emergencies, Page 884			Title: Gynecologic Emergencies			Feedback: See Pathophysiology			Taxonomy: Recall			Objective: 24-3 List common examples of gynecologic emergencies; include the causes, risk factors, assessment findings, and patient management considerations.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following clinical presentations is MOST consistent with pelvic inflammatory disease (PID)?,
+Points,1,
+Difficulty,1,
+Option,0,"a) Left lower quadrant pain, referred pain to the left shoulder, and fever"
+Option,0,"b) Pain around the umbilicus, low-grade fever, and generalized weakness"
+Option,0,"c) Upper abdominal cramping, severe headache, and heavy vaginal bleeding"
+Option,100,"d) Lower abdominal pain, fever, general malaise, and foul-smelling vaginal discharge"
+Hint,"Complexity: Moderate			Ahead: Pathophysiology			Subject:Gynecologic Emergencies, Page 884			Title: Gynecologic Emergencies			Feedback: See Pathophysiology			Taxonomy: Application			Objective: 24-3 List common examples of gynecologic emergencies; include the causes, risk factors, assessment findings, and patient management considerations.",
+NewQuestion,MC,
+Title,,
+QuestionText,As a woman approaches menopause:,
+Points,1,
+Difficulty,1,
+Option,100,a) her menstrual periods may become irregular and vary in severity.
+Option,0,b) she cannot become pregnant because of fluctuating hormone levels.
+Option,0,c) she usually experiences abdominal cramping without vaginal bleeding.
+Option,0,d) her risk of developing pelvic inflammatory disease lowers significantly.
+Hint,"Complexity: Easy			Ahead: Anatomy and Physiology			Subject:Gynecologic Emergencies, Page 884			Title: Gynecologic Emergencies			Feedback: See Anatomy and Physiology			Taxonomy: Recall			Objective: 24-1 Describe the anatomy and physiology of the female reproductive system; include the developmental changes that occur during puberty and menopause.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following conditions would MOST likely lead to pelvic inflammatory disease if left untreated?,
+Points,1,
+Difficulty,1,
+Option,100,a) Chlamydia
+Option,0,b) Ovarian cysts
+Option,0,c) Genital herpes
+Option,0,d) Ectopic pregnancy
+Hint,"Complexity: Moderate			Ahead: Pathophysiology			Subject:Gynecologic Emergencies, Page 885			Title: Gynecologic Emergencies			Feedback: See Pathophysiology			Taxonomy: Analysis			Objective: 24-3 List common examples of gynecologic emergencies; include the causes, risk factors, assessment findings, and patient management considerations.",
+NewQuestion,MC,
+Title,,
+QuestionText,Bacterial vaginosis is a condition that occurs when:,
+Points,1,
+Difficulty,1,
+Option,0,"a) harmful bacteria infect and cause damage to the uterus, cervix, and fallopian tubes."
+Option,100,b) normal bacteria in the vagina are replaced by an overgrowth of other bacterial forms.
+Option,0,c) numerous bacteria enter the uterus through the cervix and cause severe tissue damage.
+Option,0,d) abnormal bacteria enter the vagina and cause damage without causing any symptoms.
+Hint,"Complexity: Moderate			Ahead: Pathophysiology			Subject:Gynecologic Emergencies, Page 885			Title: Gynecologic Emergencies			Feedback: See Pathophysiology			Taxonomy: Recall			Objective: 24-3 List common examples of gynecologic emergencies; include the causes, risk factors, assessment findings, and patient management considerations.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following statements regarding gonorrhea is correct?,
+Points,1,
+Difficulty,1,
+Option,0,a) Most men who are infected with gonorrhea do not experience symptoms.
+Option,100,b) Painful urination is a common symptom of gonorrhea in men and women.
+Option,0,c) Symptoms of gonorrhea usually appear within 3 months after being infected.
+Option,0,"d) Mild infections with gonorrhea cause abdominal pain, vomiting, and fever."
+Hint,"Complexity: Moderate			Ahead: Pathophysiology			Subject:Gynecologic Emergencies, Page 885			Title: Gynecologic Emergencies			Feedback: See Pathophysiology			Taxonomy: Analysis			Objective: 24-3 List common examples of gynecologic emergencies; include the causes, risk factors, assessment findings, and patient management considerations.",
+NewQuestion,MC,
+Title,,
+QuestionText,"In contrast to bleeding caused by external trauma to the vagina, bleeding caused by conditions such as polyps or cancer:",
+Points,1,
+Difficulty,1,
+Option,100,a) may be relatively painless.
+Option,0,b) is typically not as severe.
+Option,0,c) can be controlled in the field.
+Option,0,d) often presents with acute pain.
+Hint,"Complexity: Easy			Ahead: Pathophysiology			Subject:Gynecologic Emergencies, Page 885			Title: Gynecologic Emergencies			Feedback: See Pathophysiology			Taxonomy: Recall			Objective: 24-3 List common examples of gynecologic emergencies; include the causes, risk factors, assessment findings, and patient management considerations.",
+NewQuestion,MC,
+Title,,
+QuestionText,"Whenever possible, a female sexual assault victim should be:",
+Points,1,
+Difficulty,1,
+Option,100,a) given the option of being treated by a female EMT.
+Option,0,b) encouraged to take a shower and change her clothes.
+Option,0,"c) thoroughly assessed, even if no signs of injury exist."
+Option,0,d) asked to provide a brief description of the perpetrator.
+Hint,"Complexity: Easy			Ahead: Patient Assessment			Subject:Gynecologic Emergencies, Page 886			Title: Gynecologic Emergencies			Feedback: See Patient Assessment			Taxonomy: Application			Objective: 24-5 Discuss the assessment and management of a patient who is experiencing a gynecologic emergency; include a discussion of specific assessment findings.",
+NewQuestion,MC,
+Title,,
+QuestionText,"When a woman presents with abdominal pain or other vague symptoms, the EMT is often unable to determine the nature of the problem until he or she:",
+Points,1,
+Difficulty,1,
+Option,100,a) has gathered patient history information.
+Option,0,b) has obtained a complete set of vital signs.
+Option,0,c) ascertains if the patient was ever pregnant.
+Option,0,d) has formed a general impression of the patient.
+Hint,"Complexity: Easy			Ahead: Patient Assessment			Subject:Gynecologic Emergencies, Page 886			Title: Gynecologic Emergencies			Feedback: See Patient Assessment			Taxonomy: Recall			Objective: 24-5 Discuss the assessment and management of a patient who is experiencing a gynecologic emergency; include a discussion of specific assessment findings.",
+NewQuestion,MC,
+Title,,
+QuestionText,"During your assessment of a young female with nontraumatic vaginal bleeding, you note that her level of consciousness is decreased, her respirations are rapid and shallow, her skin is cool and moist, and her pulse is rapid and weak. You should:",
+Points,1,
+Difficulty,1,
+Option,0,a) perform a rapid secondary assessment.
+Option,100,b) assist her ventilations with a bag-mask device.
+Option,0,c) assess her blood pressure and elevate her legs.
+Option,0,d) perform a visual assessment of her vaginal area.
+Hint,"Complexity: Difficult			Ahead: Patient Assessment			Subject:Gynecologic Emergencies, Page 887			Title: Gynecologic Emergencies			Feedback: See Patient Assessment			Taxonomy: Application			Objective: 24-5 Discuss the assessment and management of a patient who is experiencing a gynecologic emergency; include a discussion of specific assessment findings.",
+NewQuestion,MC,
+Title,,
+QuestionText,"If a woman with vaginal bleeding reports syncope, the EMT should assume that she:",
+Points,1,
+Difficulty,1,
+Option,0,a) is pregnant.
+Option,100,b) is in shock.
+Option,0,c) has an infection.
+Option,0,d) has an ectopic pregnancy.
+Hint,"Complexity: Moderate			Ahead: Patient Assessment			Subject:Gynecologic Emergencies, Page 888			Title: Gynecologic Emergencies			Feedback: See Patient Assessment			Taxonomy: Recall			Objective: 24-5 Discuss the assessment and management of a patient who is experiencing a gynecologic emergency; include a discussion of specific assessment findings.",
+NewQuestion,MC,
+Title,,
+QuestionText,"When caring for a woman who is experiencing a gynecologic emergency, the EMT’s main focus should be to:",
+Points,1,
+Difficulty,1,
+Option,0,a) determine the underlying cause of her problem.
+Option,0,b) ask questions related to her gynecologic history.
+Option,100,c) maintain her ABCs and transport without delay.
+Option,0,d) keep assessment and treatment to a minimum.
+Hint,"Complexity: Easy			Ahead: Patient Assessment			Subject:Gynecologic Emergencies, Page 889			Title: Gynecologic Emergencies			Feedback: See Patient Assessment			Taxonomy: Recall			Objective: 24-5 Discuss the assessment and management of a patient who is experiencing a gynecologic emergency; include a discussion of specific assessment findings.",
+NewQuestion,MC,
+Title,,
+QuestionText,"A 26-year-old female presents with heavy vaginal bleeding. She is conscious, but restless. Her blood pressure is 84/54 mm Hg, her pulse is 120 beats/min and weak, and her respirations are 22 breaths/min with adequate depth. She tells you that she inserted a tampon about 2 hours ago. You should:",
+Points,1,
+Difficulty,1,
+Option,0,"a) administer high-flow oxygen, ask her to remove the tampon, perform a detailed secondary assessment, and transport promptly."
+Option,0,"b) administer high-flow oxygen, perform a detailed assessment of her vaginal area for signs of trauma, place her on her side, and transport."
+Option,100,"c) administer high-flow oxygen, place a sterile pad over her vagina, keep her warm, elevate her lower extremities, and transport without delay."
+Option,0,"d) assist her ventilations with a bag-valve mask, place one sterile dressing into her vagina, perform a rapid secondary assessment, and transport."
+Hint,"Complexity: Difficult			Ahead: Emergency Medical Care			Subject:Gynecologic Emergencies, Page 889			Title: Gynecologic Emergencies			Feedback: See Emergency Medical Care			Taxonomy: Application			Objective: 24-5 Discuss the assessment and management of a patient who is experiencing a gynecologic emergency; include a discussion of specific assessment findings.",
+NewQuestion,MC,
+Title,,
+QuestionText,"General treatment for a woman with vaginal bleeding and shock following sexual assault includes all of the following, EXCEPT:",
+Points,1,
+Difficulty,1,
+Option,0,a) supplemental oxygen and keeping the patient supine.
+Option,0,b) refraining from placing any dressings into the vagina.
+Option,100,c) carefully removing any foreign bodies from the vagina.
+Option,0,d) treating external lacerations with sterile compresses.
+Hint,"Complexity: Moderate			Ahead: Emergency Medical Care			Subject:Gynecologic Emergencies, Page 889			Title: Gynecologic Emergencies			Feedback: See Emergency Medical Care			Taxonomy: Application			Objective: 24-5 Discuss the assessment and management of a patient who is experiencing a gynecologic emergency; include a discussion of specific assessment findings.",
+NewQuestion,MC,
+Title,,
+QuestionText,"You are dispatched to a residence for a 40-year-old female who complains of lower abdominal pain, fever and chills, and a foul-smelling vaginal discharge. Which of the following additional assessment findings would increase your index of suspicion for pelvic inflammatory disease?",
+Points,1,
+Difficulty,1,
+Option,100,a) A shuffling gait when walking
+Option,0,b) Bright red blood in the urine
+Option,0,c) A history of ectopic pregnancy
+Option,0,d) Vaginal passage of blood clots
+Hint,"Complexity: Difficult			Ahead: Assessment and Management of Specific Conditions			Subject:Gynecologic Emergencies, Page 890			Title: Gynecologic Emergencies			Feedback: See Assessment and Management of Specific Conditions			Taxonomy: Analysis			Objective: 24-5 Discuss the assessment and management of a patient who is experiencing a gynecologic emergency; include a discussion of specific assessment findings.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following statements regarding rape is correct?,
+Points,1,
+Difficulty,1,
+Option,0,a) The EMT should try to determine if rape occurred.
+Option,100,"b) Rape is a legal term, not a medical diagnosis."
+Option,0,c) Rape causes more physical than emotional harm.
+Option,0,d) Only a licensed physician can make a diagnosis of rape.
+Hint,"Complexity: Moderate			Ahead: Assessment and Management of Specific Conditions			Subject:Gynecologic Emergencies, Page 892			Title: Gynecologic Emergencies			Feedback: See Assessment and Management of Specific Conditions			Taxonomy: Application			Objective: 24-8 Discuss the special considerations and precautions EMTs must observe when arriving at the scene of a suspected case of sexual assault or rape.",
+NewQuestion,MC,
+Title,,
+QuestionText,"When caring for a female patient who has been sexually assaulted, you should:",
+Points,1,
+Difficulty,1,
+Option,0,"a) ask the patient for a concise, detailed report of what happened to her."
+Option,0,b) allow law enforcement to take her statement before you begin treatment.
+Option,0,c) advise her that she will not be allowed to shower or change her clothes.
+Option,100,d) place any bloodstained clothing or other articles in separate paper bags.
+Hint,"Complexity: Moderate			Ahead: Assessment and Management of Specific Conditions			Subject:Gynecologic Emergencies, Page 891			Title: Gynecologic Emergencies			Feedback: See Assessment and Management of Specific Conditions			Taxonomy: Application			Objective: 24-8 Discuss the special considerations and precautions EMTs must observe when arriving at the scene of a suspected case of sexual assault or rape.",
+NewQuestion,MC,
+Title,,
+QuestionText,"Law enforcement personnel request your assistance to assess a 31-year-old female who was sexually assaulted. When you arrive at the scene, you find the patient sitting on a curb outside her apartment. She is conscious, alert, and crying. When you ask her what happened, she tells you that she does not want to be treated or transported to the hospital. She further tells you that all she wants to do is clean up. You should:",
+Points,1,
+Difficulty,1,
+Option,100,a) provide emotional support and visually assess her for obvious trauma.
+Option,0,b) advise her that she cannot clean herself up because this will destroy evidence.
+Option,0,"c) ask her if there is anyone you can contact, such as a friend or relative."
+Option,0,d) defer any physical assessment so that you do not destroy potential evidence.
+Hint,"Complexity: Difficult			Ahead: Assessment and Management of Specific Conditions			Subject:Gynecologic Emergencies, Page 892			Title: Gynecologic Emergencies			Feedback: See Assessment and Management of Specific Conditions			Taxonomy: Application			Objective: 24-9 Discuss the assessment and management of a patient who has been sexually assaulted or raped; include the additional steps EMTs must take on behalf of the patient.",
+NewQuestion,MC,
+Title,,
+QuestionText,The physical examination of a sexual assault victim should be:,
+Points,1,
+Difficulty,1,
+Option,100,a) limited to a brief survey for life-threatening injuries.
+Option,0,b) performed in the presence of at least two police officers.
+Option,0,c) as detailed as possible so all injuries can be documented.
+Option,0,d) deferred until the patient can be evaluated by a physician.
+Hint,"Complexity: Moderate			Ahead: Assessment and Management of Specific Conditions			Subject:Gynecologic Emergencies, Page 892			Title: Gynecologic Emergencies			Feedback: See Assessment and Management of Specific Conditions			Taxonomy: Application			Objective: 24-9 Discuss the assessment and management of a patient who has been sexually assaulted or raped; include the additional steps EMTs must take on behalf of the patient.",
+NewQuestion,MC,
+Title,,
+QuestionText,"When documenting a call in which a female was sexually assaulted, you should:",
+Points,1,
+Difficulty,1,
+Option,0,a) only use quotation marks when recording any statements made by witnesses.
+Option,0,b) translate the patient’s words or statements using proper medical terminology.
+Option,0,c) record your opinion only if you have reasonable proof to justify the statement.
+Option,100,d) keep the report concise and record only what the patient stated in her own words.
+Hint,"Complexity: Easy			Ahead: Assessment and Management of Specific Conditions			Subject:Gynecologic Emergencies, Page 892			Title: Gynecologic Emergencies			Feedback: See Assessment and Management of Specific Conditions			Taxonomy: Application			Objective: 24-9 Discuss the assessment and management of a patient who has been sexually assaulted or raped; include the additional steps EMTs must take on behalf of the patient.",
+NewQuestion,MC,
+Title,,
+QuestionText,"EMTs receive a call for a possible sexual assault. The patient is a young female who is conscious and alert and has no apparent injuries. She states, “I can’t remember anything, but I know I was raped.” The EMTs should suspect that:",
+Points,1,
+Difficulty,1,
+Option,100,a) the patient was given a drug prior to the incident.
+Option,0,"b) the patient knew her attacker, but is afraid to say."
+Option,0,c) an underlying head injury is causing her amnesia.
+Option,0,d) the traumatic experience has created a mental block.
+Hint,"Complexity: Moderate			Ahead: Assessment and Management of Specific Conditions			Subject:Gynecologic Emergencies, Page 890			Title: Gynecologic Emergencies			Feedback: See Assessment and Management of Specific Conditions			Taxonomy: Application			Objective: 24-8 Discuss the special considerations and precautions EMTs must observe when arriving at the scene of a suspected case of sexual assault or rape.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following drugs is commonly referred to as “roofies”?,
+Points,1,
+Difficulty,1,
+Option,0,a) GHB
+Option,0,b) MDMA
+Option,0,c) Ketamine
+Option,100,d) Rohypnol
+Hint,"Complexity: Easy			Ahead: Assessment and Management of Specific Conditions			Subject:Gynecologic Emergencies, Page 890			Title: Gynecologic Emergencies			Feedback: See Assessment and Management of Specific Conditions			Taxonomy: Recall			Objective: 24-8 Discuss the assessment and management of a patient who has been sexually assaulted or raped; include the additional steps EMTs must take on behalf of the patient.",

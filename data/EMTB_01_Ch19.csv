@@ -1,0 +1,420 @@
+NewQuestion,MC,
+Title,,
+QuestionText,Solid abdominal organs include the:,
+Points,1,
+Difficulty,1,
+Option,0,a) stomach and small intestine.
+Option,100,"b) spleen, kidneys, and pancreas."
+Option,0,c) gallbladder and large intestine.
+Option,0,"d) urinary bladder, colon, and ureters."
+Hint,"Complexity: Easy			Ahead: Anatomy and Physiology			Subject:Gastrointestinal and Urologic Emergencies, Page 756			Title: Gastrointestinal and Urologic Emergencies			Feedback: See Anatomy and Physiology			Taxonomy: Recall			Objective: 19-1 Describe the basic anatomy and physiology of the gastrointestinal, genital, and urinary systems.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following organs would MOST likely bleed profusely if injured?,
+Points,1,
+Difficulty,1,
+Option,100,a) Liver
+Option,0,b) Stomach
+Option,0,c) Appendix
+Option,0,d) Gallbladder
+Hint,"Complexity: Easy			Ahead: Anatomy and Physiology			Subject:Gastrointestinal and Urologic Emergencies, Page 757			Title: Gastrointestinal and Urologic Emergencies			Feedback: See Anatomy and Physiology			Taxonomy: Recall			Objective: 19-1 Describe the basic anatomy and physiology of the gastrointestinal, genital, and urinary systems.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following organs lies in the retroperitoneal space?,
+Points,1,
+Difficulty,1,
+Option,0,a) Liver
+Option,0,b) Spleen
+Option,100,c) Pancreas
+Option,0,d) Gallbladder
+Hint,"Complexity: Easy			Ahead: Anatomy and Physiology			Subject:Gastrointestinal and Urologic Emergencies, Page 756			Title: Gastrointestinal and Urologic Emergencies			Feedback: See Anatomy and Physiology			Taxonomy: Recall			Objective: 19-1 Describe the basic anatomy and physiology of the gastrointestinal, genital, and urinary systems.",
+NewQuestion,MC,
+Title,,
+QuestionText,Injury to a hollow abdominal organ would MOST likely result in:,
+Points,1,
+Difficulty,1,
+Option,0,a) pain secondary to blood in the peritoneum.
+Option,0,b) profound shock due to severe internal bleeding.
+Option,0,c) impairment in the blood’s clotting abilities.
+Option,100,d) leakage of contents into the abdominal cavity.
+Hint,"Complexity: Moderate			Ahead: Anatomy and Physiology			Subject:Gastrointestinal and Urologic Emergencies, Page 756			Title: Gastrointestinal and Urologic Emergencies			Feedback: See Anatomy and Physiology			Taxonomy: Recall			Objective: 19-1 Describe the basic anatomy and physiology of the gastrointestinal, genital, and urinary systems.",
+NewQuestion,MC,
+Title,,
+QuestionText,Functions of the liver include:,
+Points,1,
+Difficulty,1,
+Option,0,a) absorption of nutrients and toxins.
+Option,100,b) secretion of bile and filtration of toxic substances.
+Option,0,c) production of hormones that regulate blood sugar levels.
+Option,0,"d) release of amylase, which breaks down starches into sugar."
+Hint,"Complexity: Moderate			Ahead: Anatomy and Physiology			Subject:Gastrointestinal and Urologic Emergencies, Page 757			Title: Gastrointestinal and Urologic Emergencies			Feedback: See Anatomy and Physiology			Taxonomy: Recall			Objective: 19-1 Describe the basic anatomy and physiology of the gastrointestinal, genital, and urinary systems.",
+NewQuestion,MC,
+Title,,
+QuestionText,"Which of the following organs assists in the filtration of blood, serves as a blood reservoir, and produces antibodies?",
+Points,1,
+Difficulty,1,
+Option,0,a) Liver
+Option,0,b) Kidneys
+Option,100,c) Spleen
+Option,0,d) Pancreas
+Hint,"Complexity: Moderate			Ahead: Anatomy and Physiology			Subject:Gastrointestinal and Urologic Emergencies, Page 757			Title: Gastrointestinal and Urologic Emergencies			Feedback: See Anatomy and Physiology			Taxonomy: Recall			Objective: 19-1 Describe the basic anatomy and physiology of the gastrointestinal, genital, and urinary systems.",
+NewQuestion,MC,
+Title,,
+QuestionText,The kidneys help to regulate blood pressure by:,
+Points,1,
+Difficulty,1,
+Option,0,"a) retaining key electrolytes, such as potassium."
+Option,0,b) eliminating toxic waste products from the body.
+Option,100,c) removing sodium and water from the body.
+Option,0,d) accommodating a large amount of blood volume.
+Hint,"Complexity: Moderate			Ahead: Anatomy and Physiology			Subject:Gastrointestinal and Urologic Emergencies, Page 758			Title: Gastrointestinal and Urologic Emergencies			Feedback: See Anatomy and Physiology			Taxonomy: Recall			Objective: 19-1 Describe the basic anatomy and physiology of the gastrointestinal, genital, and urinary systems.",
+NewQuestion,MC,
+Title,,
+QuestionText,The parietal peritoneum lines the:,
+Points,1,
+Difficulty,1,
+Option,0,a) retroperitoneal space.
+Option,0,b) lungs and chest cavity.
+Option,100,c) walls of the abdominal cavity.
+Option,0,d) surface of the abdominal organs.
+Hint,"Complexity: Moderate			Ahead: Pathophysiology			Subject:Gastrointestinal and Urologic Emergencies, Page 758			Title: Gastrointestinal and Urologic Emergencies			Feedback: See Pathophysiology			Taxonomy: Recall			Objective: 19-1 Describe the basic anatomy and physiology of the gastrointestinal, genital, and urinary systems.",
+NewQuestion,MC,
+Title,,
+QuestionText,The MOST common and significant complication associated with an acute abdomen is:,
+Points,1,
+Difficulty,1,
+Option,100,a) peritonitis.
+Option,0,b) high fever.
+Option,0,c) severe pain.
+Option,0,d) internal bleeding.
+Hint,"Complexity: Easy			Ahead: Pathophysiology			Subject:Gastrointestinal and Urologic Emergencies, Page 758			Title: Gastrointestinal and Urologic Emergencies			Feedback: See Pathophysiology			Taxonomy: Recall			Objective: 19-2 Define the term acute abdomen.",
+NewQuestion,MC,
+Title,,
+QuestionText,"In the presence of ileus, the only way the stomach can empty itself is by:",
+Points,1,
+Difficulty,1,
+Option,0,a) diarrhea.
+Option,100,b) vomiting.
+Option,0,c) muscular contraction.
+Option,0,d) spontaneous rupture.
+Hint,"Complexity: Moderate			Ahead: Pathophysiology			Subject:Gastrointestinal and Urologic Emergencies, Page 758			Title: Gastrointestinal and Urologic Emergencies			Feedback: See Pathophysiology			Taxonomy: Recall			Objective: 19-3 Describe pathologic conditions of the gastrointestinal, genital, and urinary systems.",
+NewQuestion,MC,
+Title,,
+QuestionText,Peritonitis may result in shock because:,
+Points,1,
+Difficulty,1,
+Option,0,a) intra-abdominal hemorrhage is typically present.
+Option,100,b) fluid shifts from the bloodstream into body tissues.
+Option,0,c) abdominal distention impairs cardiac contractions.
+Option,0,d) severe pain causes systemic dilation of the vasculature.
+Hint,"Complexity: Moderate			Ahead: Pathophysiology			Subject:Gastrointestinal and Urologic Emergencies, Page 759			Title: Gastrointestinal and Urologic Emergencies			Feedback: See Pathophysiology			Taxonomy: Recall			Objective: 19-3 Describe pathologic conditions of the gastrointestinal, genital, and urinary systems.",
+NewQuestion,MC,
+Title,,
+QuestionText,"In contrast to the parietal peritoneum, the visceral peritoneum:",
+Points,1,
+Difficulty,1,
+Option,0,a) is supplied by the same nerves from the spinal cord that supply the skin of the abdomen.
+Option,0,b) lines the walls of the abdominal cavity and is stimulated when the solid abdominal organs contract.
+Option,0,c) is less likely to become inflamed or infected because it lines the abdominal organs themselves.
+Option,100,"d) is supplied by nerves of the autonomic nervous system, which are less able to localize pain or sensation."
+Hint,"Complexity: Moderate			Ahead: Pathophysiology			Subject:Gastrointestinal and Urologic Emergencies, Page 759			Title: Gastrointestinal and Urologic Emergencies			Feedback: See Pathophysiology			Taxonomy: Recall			Objective: 19-3 Describe pathologic conditions of the gastrointestinal, genital, and urinary systems.",
+NewQuestion,MC,
+Title,,
+QuestionText,"Pain that may be perceived at a distant point on the surface of the body, such as the back or shoulder, is called:",
+Points,1,
+Difficulty,1,
+Option,100,a) referred pain.
+Option,0,b) radiating pain.
+Option,0,c) visceral pain.
+Option,0,d) remote pain.
+Hint,"Complexity: Easy			Ahead: Pathophysiology			Subject:Gastrointestinal and Urologic Emergencies, Page 760			Title: Gastrointestinal and Urologic Emergencies			Feedback: See Pathophysiology			Taxonomy: Recall			Objective: 19-4 Explain the concept of referred pain.",
+NewQuestion,MC,
+Title,,
+QuestionText,A 35-year-old obese woman is complaining of localized pain in the right upper quadrant with referred pain to the right shoulder. The MOST likely cause of her pain is:,
+Points,1,
+Difficulty,1,
+Option,0,a) acute cystitis.
+Option,100,b) acute cholecystitis.
+Option,0,c) appendicitis.
+Option,0,d) pancreatitis.
+Hint,"Complexity: Difficult			Ahead: Pathophysiology			Subject:Gastrointestinal and Urologic Emergencies, Page 759			Title: Gastrointestinal and Urologic Emergencies			Feedback: See Pathophysiology			Taxonomy: Application			Objective: 19-4 Explain the concept of referred pain.",
+NewQuestion,MC,
+Title,,
+QuestionText,A young female presents with costovertebral angle tenderness. She is conscious and alert with stable vital signs. Which of the following organs is MOST likely causing her pain?,
+Points,1,
+Difficulty,1,
+Option,0,a) Liver
+Option,100,b) Kidney
+Option,0,c) Pancreas
+Option,0,d) Gallbladder
+Hint,"Complexity: Moderate			Ahead: Pathophysiology			Subject:Gastrointestinal and Urologic Emergencies, Page 760			Title: Gastrointestinal and Urologic Emergencies			Feedback: See Pathophysiology			Taxonomy: Application			Objective: 19-5 Describe other organ systems that can cause abdominal pain.",
+NewQuestion,MC,
+Title,,
+QuestionText,Pain that is localized to the lower back and/or lower abdominal quadrants is MOST suggestive of:,
+Points,1,
+Difficulty,1,
+Option,0,a) acute pancreatitis.
+Option,100,b) an aortic aneurysm.
+Option,0,c) a kidney infection.
+Option,0,d) acute appendicitis.
+Hint,"Complexity: Moderate			Ahead: Pathophysiology			Subject:Gastrointestinal and Urologic Emergencies, Page 760			Title: Gastrointestinal and Urologic Emergencies			Feedback: See Pathophysiology			Taxonomy: Recall			Objective: 19-5 Describe other organ systems that can cause abdominal pain.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following statements regarding the acute abdomen is correct?,
+Points,1,
+Difficulty,1,
+Option,0,a) The most common cause of an acute abdomen is inflammation of the gallbladder and liver.
+Option,0,b) The parietal peritoneum is typically the first abdominal layer that becomes inflamed or irritated.
+Option,100,c) The initial pain associated with an acute abdomen tends to be vague and poorly localized.
+Option,0,d) An acute abdomen almost always occurs as the result of blunt trauma to solid abdominal organs.
+Hint,"Complexity: Easy			Ahead: Pathophysiology			Subject:Gastrointestinal and Urologic Emergencies, Page 760			Title: Gastrointestinal and Urologic Emergencies			Feedback: See Pathophysiology			Taxonomy: Recall			Objective: 19-6 Identify the signs and symptoms, and common causes, of an acute abdomen.",
+NewQuestion,MC,
+Title,,
+QuestionText,Erosion of the protective layer of the stomach or duodenum secondary to overactivity of digestive juices results in:,
+Points,1,
+Difficulty,1,
+Option,0,a) ileus.
+Option,100,b) an ulcer.
+Option,0,c) appendicitis.
+Option,0,d) cholecystitis.
+Hint,"Complexity: Easy			Ahead: Pathophysiology			Subject:Gastrointestinal and Urologic Emergencies, Page 760			Title: Gastrointestinal and Urologic Emergencies			Feedback: See Pathophysiology			Taxonomy: Recall			Objective: 19-7 Describe the assessment and management of acute and chronic gastrointestinal hemorrhage, peritonitis, and ulcerative diseases.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following is characteristic of peptic ulcer disease (PUD)?,
+Points,1,
+Difficulty,1,
+Option,0,a) The passage of bright red blood in the stool or coughing up blood
+Option,0,b) Symptom relief after taking nonsteroidal anti-inflammatory drugs
+Option,0,c) Sharp pain that is typically located in both lower abdominal quadrants
+Option,100,d) Burning or gnawing stomach pain that subsides immediately after eating
+Hint,"Complexity: Easy			Ahead: Pathophysiology			Subject:Gastrointestinal and Urologic Emergencies, Page 760			Title: Gastrointestinal and Urologic Emergencies			Feedback: See Pathophysiology			Taxonomy: Recall			Objective: 19-7 Describe the assessment and management of acute and chronic gastrointestinal hemorrhage, peritonitis, and ulcerative diseases.",
+NewQuestion,MC,
+Title,,
+QuestionText,"Pain that radiates to the right lower quadrant from the umbilical area, nausea and vomiting, and lack of appetite are MOST indicative of:",
+Points,1,
+Difficulty,1,
+Option,0,a) pancreatitis.
+Option,100,b) appendicitis.
+Option,0,c) cholecystitis.
+Option,0,d) gastroenteritis.
+Hint,"Complexity: Easy			Ahead: Pathophysiology			Subject:Gastrointestinal and Urologic Emergencies, Page 761			Title: Gastrointestinal and Urologic Emergencies			Feedback: See Pathophysiology			Taxonomy: Recall			Objective: 19-8 List the most common abdominal emergencies, along with the most common locations of direct and referred pain.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following statements regarding gastrointestinal bleeding is correct?,
+Points,1,
+Difficulty,1,
+Option,0,"a) In the majority of cases, bleeding within the gastrointestinal tract occurs acutely and is severe."
+Option,100,"b) Bleeding within the gastrointestinal tract is a symptom of another disease, not a disease itself."
+Option,0,c) Lower gastrointestinal bleeding results from conditions such as Mallory–Weiss syndrome.
+Option,0,d) Chronic bleeding within the gastrointestinal tract is usually more severe than bleeding that occurs acutely.
+Hint,"Complexity: Moderate			Ahead: Pathophysiology			Subject:Gastrointestinal and Urologic Emergencies, Page 762			Title: Gastrointestinal and Urologic Emergencies			Feedback: See Pathophysiology			Taxonomy: Recall			Objective: 19-7 Describe the assessment and management of acute and chronic gastrointestinal hemorrhage, peritonitis, and ulcerative diseases.",
+NewQuestion,MC,
+Title,,
+QuestionText,Esophageal varices MOST commonly occur in patients who:,
+Points,1,
+Difficulty,1,
+Option,100,a) consume a lot of alcohol.
+Option,0,b) have uncontrolled diabetes.
+Option,0,c) have a history of esophagitis.
+Option,0,d) have weak immune systems.
+Hint,"Complexity: Moderate			Ahead: Pathophysiology			Subject:Gastrointestinal and Urologic Emergencies, Page 762			Title: Gastrointestinal and Urologic Emergencies			Feedback: See Pathophysiology			Taxonomy: Recall			Objective: 19-7 Describe the assessment and management of acute and chronic gastrointestinal hemorrhage, peritonitis, and ulcerative diseases.",
+NewQuestion,MC,
+Title,,
+QuestionText,"A 29-year-old pregnant woman has had severe vomiting for the last 2 days. Today, she is vomiting large amounts of blood. Her skin is cool and pale, and she is tachycardic. The EMT should suspect:",
+Points,1,
+Difficulty,1,
+Option,0,a) esophagitis.
+Option,0,b) esophageal varices.
+Option,100,c) Mallory–Weiss tear.
+Option,0,d) acute pancreatitis.
+Hint,"Complexity: Difficult			Ahead: Pathophysiology			Subject:Gastrointestinal and Urologic Emergencies, Page 763			Title: Gastrointestinal and Urologic Emergencies			Feedback: See Pathophysiology			Taxonomy: Analysis			Objective: 19-7 Describe the assessment and management of acute and chronic gastrointestinal hemorrhage, peritonitis, and ulcerative diseases.",
+NewQuestion,MC,
+Title,,
+QuestionText,The principal symptom in both infectious and noninfectious gastroenteritis is:,
+Points,1,
+Difficulty,1,
+Option,0,a) vomiting.
+Option,100,b) diarrhea.
+Option,0,c) dysuria.
+Option,0,d) high fever.
+Hint,"Complexity: Easy			Ahead: Pathophysiology			Subject:Gastrointestinal and Urologic Emergencies, Page 763			Title: Gastrointestinal and Urologic Emergencies			Feedback: See Pathophysiology			Taxonomy: Recall			Objective: 19-7 Describe the assessment and management of acute and chronic gastrointestinal hemorrhage, peritonitis, and ulcerative diseases.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following conditions is more common in women than in men?,
+Points,1,
+Difficulty,1,
+Option,100,a) Cystitis
+Option,0,b) Hepatitis
+Option,0,c) Pancreatitis
+Option,0,d) Cholecystitis
+Hint,"Complexity: Moderate			Ahead: Pathophysiology			Subject:Gastrointestinal and Urologic Emergencies, Page 764			Title: Gastrointestinal and Urologic Emergencies			Feedback: See Pathophysiology			Taxonomy: Recall			Objective: 19-7 Describe the assessment and management of acute and chronic gastrointestinal hemorrhage, peritonitis, and ulcerative diseases.",
+NewQuestion,MC,
+Title,,
+QuestionText,Chronic renal failure is a condition that:,
+Points,1,
+Difficulty,1,
+Option,0,a) can be reversed with prompt treatment.
+Option,0,b) occurs from conditions such as dehydration.
+Option,100,c) is often caused by hypertension or diabetes.
+Option,0,d) causes dehydration from excessive urination.
+Hint,"Complexity: Moderate			Ahead: Pathophysiology			Subject:Gastrointestinal and Urologic Emergencies, Page 765			Title: Gastrointestinal and Urologic Emergencies			Feedback: See Pathophysiology			Taxonomy: Recall			Objective: 19-8 List the most common abdominal emergencies, along with the most common locations of direct and referred pain.",
+NewQuestion,MC,
+Title,,
+QuestionText,"Your patient’s past medical history includes hypertension, congestive heart failure, diabetes, and seizures. Today, he presents with signs of acute renal failure. Which of his medical problems MOST likely caused this?",
+Points,1,
+Difficulty,1,
+Option,0,a) Seizures
+Option,0,b) Diabetes
+Option,0,c) Hypertension
+Option,100,d) Heart failure
+Hint,"Complexity: Moderate			Ahead: Pathophysiology			Subject:Gastrointestinal and Urologic Emergencies, Page 765			Title: Gastrointestinal and Urologic Emergencies			Feedback: See Pathophysiology			Taxonomy: Application			Objective: 19-8 List the most common abdominal emergencies, along with the most common locations of direct and referred pain.",
+NewQuestion,MC,
+Title,,
+QuestionText,A strangulated hernia is one that:,
+Points,1,
+Difficulty,1,
+Option,0,a) spontaneously reduces without any surgical intervention.
+Option,0,b) can be pushed back into the body cavity to which it belongs.
+Option,0,c) is reducible if surgical intervention occurs within 2 hours.
+Option,100,d) loses its blood supply due to compression by local tissues.
+Hint,"Complexity: Moderate			Ahead: Pathophysiology			Subject:Gastrointestinal and Urologic Emergencies, Page 766			Title: Gastrointestinal and Urologic Emergencies			Feedback: See Pathophysiology			Taxonomy: Recall			Objective: 19-8 List the most common abdominal emergencies, along with the most common locations of direct and referred pain.",
+NewQuestion,MC,
+Title,,
+QuestionText,You are dispatched to an apartment complex for a young male with abdominal pain. Your priority upon arriving at the scene should be to:,
+Points,1,
+Difficulty,1,
+Option,0,a) quickly gain access to the patient.
+Option,0,b) notify the dispatcher of your arrival.
+Option,100,c) assess the scene for potential hazards.
+Option,0,d) place a paramedic ambulance on standby.
+Hint,"Complexity: Difficult			Ahead: Patient Assessment			Subject:Gastrointestinal and Urologic Emergencies, Page 766			Title: Gastrointestinal and Urologic Emergencies			Feedback: See Patient Assessment			Taxonomy: Application			Objective: 19-9 Describe the assessment of a patient with a gastrointestinal or urologic emergency.",
+NewQuestion,MC,
+Title,,
+QuestionText,Most patients with abdominal pain prefer to:,
+Points,1,
+Difficulty,1,
+Option,100,a) lie on their side with their knees drawn into the abdomen.
+Option,0,b) sit in a semi-Fowler position with their knees slightly bent.
+Option,0,c) lie in a supine position with their knees in a flexed position.
+Option,0,d) sit fully upright because it helps relax the abdominal muscles.
+Hint,"Complexity: Moderate			Ahead: Patient Assessment			Subject:Gastrointestinal and Urologic Emergencies, Page 767			Title: Gastrointestinal and Urologic Emergencies			Feedback: See Patient Assessment			Taxonomy: Recall			Objective: 19-9 Describe the assessment of a patient with a gastrointestinal or urologic emergency.",
+NewQuestion,MC,
+Title,,
+QuestionText,"A 60-year-old female presents with a tearing sensation in her lower back. Her skin is sweaty, and she is tachycardic. The EMT should suspect:",
+Points,1,
+Difficulty,1,
+Option,0,a) kidney stones.
+Option,100,b) aortic aneurysm.
+Option,0,c) strangulated hernia.
+Option,0,d) acute pancreatitis.
+Hint,"Complexity: Moderate			Ahead: Pathophysiology			Subject:Gastrointestinal and Urologic Emergencies, Page 765			Title: Gastrointestinal and Urologic Emergencies			Feedback: See Pathophysiology			Taxonomy: Analysis			Objective: 19-9 Describe the assessment of a patient with a gastrointestinal or urologic emergency.",
+NewQuestion,MC,
+Title,,
+QuestionText,"A 30-year-old woman with a history of alcoholism presents with severe upper abdominal pain and is vomiting large amounts of bright red blood. Her skin is cool, pale, and clammy; her heart rate is 120 beats/min and weak; and her blood pressure is 70/50 mm Hg. Your MOST immediate action should be to:",
+Points,1,
+Difficulty,1,
+Option,100,a) protect her airway from aspiration.
+Option,0,b) keep her supine and keep her warm.
+Option,0,c) rapidly transport her to the hospital.
+Option,0,d) give her high-flow supplemental oxygen.
+Hint,"Complexity: Difficult			Ahead: Emergency Medical Care			Subject:Gastrointestinal and Urologic Emergencies, Page 770			Title: Gastrointestinal and Urologic Emergencies			Feedback: See Emergency Medical Care			Taxonomy: Analysis			Objective: 19-9 Describe the assessment of a patient with a gastrointestinal or urologic emergency.",
+NewQuestion,MC,
+Title,,
+QuestionText,Patients with acute abdominal pain should not be given anything to eat or drink because:,
+Points,1,
+Difficulty,1,
+Option,0,a) it will create referred pain and obscure the diagnosis.
+Option,0,b) food will rapidly travel through the digestive system.
+Option,100,c) substances in the stomach increase the risk of aspiration.
+Option,0,d) digestion prevents accurate auscultation of bowel sounds.
+Hint,"Complexity: Moderate			Ahead: History Taking			Subject:Gastrointestinal and Urologic Emergencies, Page 768			Title: Gastrointestinal and Urologic Emergencies			Feedback: See History Taking			Taxonomy: Analysis			Objective: 19-9 Describe the assessment of a patient with a gastrointestinal or urologic emergency.",
+NewQuestion,MC,
+Title,,
+QuestionText,"When assessing a patient with abdominal pain, you should:",
+Points,1,
+Difficulty,1,
+Option,100,"a) palpate the abdomen in a clockwise direction, beginning with the quadrant after the one the patient indicates is painful."
+Option,0,b) ask the patient to point to the area of pain or tenderness and assess for rebound tenderness over that specific area.
+Option,0,"c) visually assess the painful area of the abdomen, but avoid palpation because this could worsen his or her condition."
+Option,0,"d) observe for abdominal guarding, which is characterized by sudden relaxation of the abdominal muscles when palpated."
+Hint,"Complexity: Moderate			Ahead: Secondary Assessment			Subject:Gastrointestinal and Urologic Emergencies, Page 769			Title: Gastrointestinal and Urologic Emergencies			Feedback: See Secondary Assessment			Taxonomy: Application			Objective: 19-9 Describe the assessment of a patient with a gastrointestinal or urologic emergency.",
+NewQuestion,MC,
+Title,,
+QuestionText,Older patients with abdominal problems may not exhibit the same pain response as younger patients because of:,
+Points,1,
+Difficulty,1,
+Option,0,"a) chronic dementia, which inhibits communication."
+Option,0,b) interactions of the numerous medications they take.
+Option,0,c) progressive deterioration of abdominal organ function.
+Option,100,d) age-related deterioration of their sensory systems.
+Hint,"Complexity: Moderate			Ahead: Pathophysiology			Subject:Gastrointestinal and Urologic Emergencies, Page 766			Title: Gastrointestinal and Urologic Emergencies			Feedback: See Pathophysiology			Taxonomy: Recall			Objective: 19-9 Describe the assessment of a patient with a gastrointestinal or urologic emergency.",
+NewQuestion,MC,
+Title,,
+QuestionText,An important aspect in the treatment of a patient with severe abdominal pain is to:,
+Points,1,
+Difficulty,1,
+Option,100,a) provide emotional support en route to the hospital.
+Option,0,b) administer analgesic medications to alleviate pain.
+Option,0,c) encourage the patient to remain in a supine position.
+Option,0,d) give 100% oxygen only if signs of shock are present.
+Hint,"Complexity: Moderate			Ahead: Reassessment			Subject:Gastrointestinal and Urologic Emergencies, Page 770			Title: Gastrointestinal and Urologic Emergencies			Feedback: See Reassessment			Taxonomy: Application			Objective: 19-11 Describe the emergency medical care of the patient with a gastrointestinal or urologic emergency.",
+NewQuestion,MC,
+Title,,
+QuestionText,A 47-year-old male presents with severe abdominal pain of 3 hours’ duration. His abdomen is distended and guarded. Your MOST important consideration for this patient should be to:,
+Points,1,
+Difficulty,1,
+Option,0,a) transport him in a supine position.
+Option,100,b) be alert for signs and symptoms of shock.
+Option,0,c) assess his blood pressure to determine perfusion adequacy.
+Option,0,d) determine the exact location and cause of his pain.
+Hint,"Complexity: Difficult			Ahead: Reassessment			Subject:Gastrointestinal and Urologic Emergencies, Page 770			Title: Gastrointestinal and Urologic Emergencies			Feedback: See Reassessment			Taxonomy: Analysis			Objective: 19-10 Describe the procedures to follow in managing the patient with shock associated with abdominal emergencies.",
+NewQuestion,MC,
+Title,,
+QuestionText,The MOST important treatment for a patient with severe abdominal pain and signs of shock is:,
+Points,1,
+Difficulty,1,
+Option,0,a) administering high-flow oxygen.
+Option,0,b) giving oral fluids to maintain perfusion.
+Option,100,c) transporting the patient without delay.
+Option,0,d) positioning the patient on his or her side.
+Hint,"Complexity: Moderate			Ahead: Reassessment			Subject:Gastrointestinal and Urologic Emergencies, Page 770			Title: Gastrointestinal and Urologic Emergencies			Feedback: See Reassessment			Taxonomy: Analysis			Objective: 19-10 Describe the procedures to follow in managing the patient with shock associated with abdominal emergencies.",
+NewQuestion,MC,
+Title,,
+QuestionText,"A 59-year-old male presents with sudden-onset severe lower back pain. He is conscious and alert, but very restless and diaphoretic. Your assessment reveals a pulsating mass to the left of his umbilicus. You should:",
+Points,1,
+Difficulty,1,
+Option,0,a) vigorously palpate the abdomen to establish pain severity.
+Option,100,b) administer oxygen and prepare for immediate transport.
+Option,0,c) place the patient in a sitting position and transport at once.
+Option,0,d) request a paramedic unit to give the patient pain medication.
+Hint,"Complexity: Difficult			Ahead: Pathophysiology			Subject:Gastrointestinal and Urologic Emergencies, Page 765			Title: Gastrointestinal and Urologic Emergencies			Feedback: See Pathophysiology			Taxonomy: Application			Objective: 19-10 Describe the procedures to follow in managing the patient with shock associated with abdominal emergencies.",
+NewQuestion,MC,
+Title,,
+QuestionText,"You are transporting a 49-year-old male with “tearing” abdominal pain. You are approximately 30 miles away from the closest hospital. During your reassessment, you determine that the patient’s condition has deteriorated significantly. You should:",
+Points,1,
+Difficulty,1,
+Option,0,a) assist his ventilations with a bag-valve mask.
+Option,0,b) immediately perform a rapid physical examination.
+Option,0,c) continue transporting and alert the receiving hospital.
+Option,100,d) consider requesting a rendezvous with an ALS unit.
+Hint,"Complexity: Difficult			Ahead: Patient Assessment			Subject:Gastrointestinal and Urologic Emergencies, Page 768			Title: Gastrointestinal and Urologic Emergencies			Feedback: See Patient Assessment			Taxonomy: Application			Objective: 19-11 Describe the emergency medical care of the patient with a gastrointestinal or urologic emergency.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following statements regarding dialysis is correct?,
+Points,1,
+Difficulty,1,
+Option,0,a) Acute hypertension is a common adverse effect of dialysis.
+Option,0,b) Hemodialysis is effective but carries a high risk of peritonitis.
+Option,100,c) Patients who miss a dialysis treatment often present with weakness.
+Option,0,d) The purpose of dialysis is to help the kidneys retain salt and water.
+Hint,"Complexity: Moderate			Ahead: Dialysis Emergencies			Subject:Gastrointestinal and Urologic Emergencies, Page 771			Title: Gastrointestinal and Urologic Emergencies			Feedback: See Dialysis Emergencies			Taxonomy: Recall			Objective: 19-12 Explain the principles of kidney dialysis.",
+NewQuestion,MC,
+Title,,
+QuestionText,"You respond to the residence of a 70-year-old male who complains of weakness and severe shortness of breath. His wife tells you that he is a dialysis patient, but has missed his last two treatments. After applying oxygen, you auscultate his lungs and hear diffuse rhonchi. The patient is conscious, but appears confused. His blood pressure is 98/54 mm Hg, his pulse rate is 120 beats/min and irregular, and his respirations are 24 breaths/min and labored. You should:",
+Points,1,
+Difficulty,1,
+Option,100,"a) leave him in a sitting position, keep him warm, and prepare for immediate transport."
+Option,0,"b) place him in a supine position, elevate his lower extremities, and transport at once."
+Option,0,c) treat for shock and request a paramedic unit to respond to the scene and assist you.
+Option,0,d) perform a detailed secondary assessment and then transport him to a dialysis center.
+Hint,"Complexity: Difficult			Ahead: Dialysis Emergencies			Subject:Gastrointestinal and Urologic Emergencies, Page 772			Title: Gastrointestinal and Urologic Emergencies			Feedback: See Dialysis Emergencies			Taxonomy: Application			Objective: 19-12 Explain the principles of kidney dialysis.",

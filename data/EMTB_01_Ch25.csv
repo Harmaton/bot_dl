@@ -1,0 +1,500 @@
+NewQuestion,MC,
+Title,,
+QuestionText,The index of suspicion is MOST accurately defined as:,
+Points,1,
+Difficulty,1,
+Option,0,a) the way in which traumatic injuries occur.
+Option,0,b) a predictable pattern that leads to serious injuries.
+Option,100,c) your awareness and concern for potentially serious underlying injuries.
+Option,0,d) the detection of less obvious life-threatening injuries.
+Hint,"Complexity: Easy			Ahead: Introduction			Subject:Trauma Overview, Page 901			Title: Trauma Overview			Feedback: See Introduction			Taxonomy: Recall			Objective: 25-1 Define the terms mechanism of injury (MOI), blunt trauma, and penetrating trauma.",
+NewQuestion,MC,
+Title,,
+QuestionText,"When assessing the interior of a crashed motor vehicle for damage, you are gathering information regarding the:",
+Points,1,
+Difficulty,1,
+Option,0,a) index of suspicion.
+Option,100,b) mechanism of injury.
+Option,0,c) kinetic energy.
+Option,0,d) potential energy.
+Hint,"Complexity: Easy			Ahead: Energy and Trauma			Subject:Trauma Overview, Page 901			Title: Trauma Overview			Feedback: See Energy and Trauma			Taxonomy: Recall			Objective: 25-1 Define the terms mechanism of injury (MOI), blunt trauma, and penetrating trauma.",
+NewQuestion,MC,
+Title,,
+QuestionText,"When a motor vehicle strikes a tree while traveling at 40 mph, the unrestrained occupant:",
+Points,1,
+Difficulty,1,
+Option,0,a) will most likely be thrown over the steering column.
+Option,100,b) remains in motion until acted upon by an external force.
+Option,0,c) will decelerate at the same rate as the motor vehicle.
+Option,0,d) is thrust under the steering column onto the floorboard.
+Hint,"Complexity: Moderate			Ahead: Energy and Trauma			Subject:Trauma Overview, Page 902			Title: Trauma Overview			Feedback: See Energy and Trauma			Taxonomy: Application			Objective: 25-2 Explain the relationship of the MOI to potential energy, kinetic energy, and work.",
+NewQuestion,MC,
+Title,,
+QuestionText,Force acting over a distance is the definition of:,
+Points,1,
+Difficulty,1,
+Option,100,a) work.
+Option,0,b) latent energy.
+Option,0,c) kinetic energy.
+Option,0,d) potential energy.
+Hint,"Complexity: Easy			Ahead: Energy and Trauma			Subject:Trauma Overview, Page 902			Title: Trauma Overview			Feedback: See Energy and Trauma			Taxonomy: Recall			Objective: 25-2 Explain the relationship of the MOI to potential energy, kinetic energy, and work.",
+NewQuestion,MC,
+Title,,
+QuestionText,The energy of a moving object is called:,
+Points,1,
+Difficulty,1,
+Option,0,a) latent energy.
+Option,100,b) kinetic energy.
+Option,0,c) potential energy.
+Option,0,d) converted energy.
+Hint,"Complexity: Easy			Ahead: Energy and Trauma			Subject:Trauma Overview, Page 902			Title: Trauma Overview			Feedback: See Energy and Trauma			Taxonomy: Recall			Objective: 25-2 Explain the relationship of the MOI to potential energy, kinetic energy, and work.",
+NewQuestion,MC,
+Title,,
+QuestionText,"When the speed of a motor vehicle doubles, the amount of kinetic energy:",
+Points,1,
+Difficulty,1,
+Option,0,a) doubles.
+Option,0,b) triples.
+Option,100,c) quadruples.
+Option,0,d) is not affected.
+Hint,"Complexity: Easy			Ahead: Energy and Trauma			Subject:Trauma Overview, Page 902			Title: Trauma Overview			Feedback: See Energy and Trauma			Taxonomy: Recall			Objective: 25-2 Explain the relationship of the MOI to potential energy, kinetic energy, and work.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following statements regarding gunshot wounds is correct?,
+Points,1,
+Difficulty,1,
+Option,0,a) High-velocity bullets will cause less severe internal injuries.
+Option,0,b) The size of a bullet has the greatest impact on the injury produced.
+Option,0,c) Low-velocity bullets will cause the greatest amount of trauma.
+Option,100,d) The speed of a bullet has the greatest impact on the injury produced.
+Hint,"Complexity: Moderate			Ahead: Energy and Trauma			Subject:Trauma Overview, Page 902			Title: Trauma Overview			Feedback: See Energy and Trauma			Taxonomy: Recall			Objective: 25-2 Explain the relationship of the MOI to potential energy, kinetic energy, and work.",
+NewQuestion,MC,
+Title,,
+QuestionText,By what mechanism is a person injured when he or she falls from a significant height?,
+Points,1,
+Difficulty,1,
+Option,0,a) Kinetic energy is converted to potential energy; the potential energy is then converted into the work of bringing the body to a stop.
+Option,0,b) Potential energy is created as the person is falling; the potential energy is then converted into kinetic energy upon impact.
+Option,0,"c) As the person falls, the amount of kinetic energy is converted into work; work is then converted to kinetic energy upon impact."
+Option,100,d) Potential energy is converted to kinetic energy; the kinetic energy is then converted into the work of bringing the body to a stop.
+Hint,"Complexity: Moderate			Ahead: Energy and Trauma			Subject:Trauma Overview, Page 904			Title: Trauma Overview			Feedback: See Energy and Trauma			Taxonomy: Recall			Objective: 25-2 Explain the relationship of the MOI to potential energy, kinetic energy, and work.",
+NewQuestion,MC,
+Title,,
+QuestionText,Two of the MOST common mechanisms of injury for blunt trauma are:,
+Points,1,
+Difficulty,1,
+Option,100,a) falls and motor vehicle collisions.
+Option,0,b) low-caliber gunshot wounds and falls.
+Option,0,c) gunshot wounds and vehicle ejections.
+Option,0,d) motor vehicle collisions and stabbings.
+Hint,"Complexity: Easy			Ahead: Blunt Trauma			Subject:Trauma Overview, Page 904			Title: Trauma Overview			Feedback: See Blunt Trauma			Taxonomy: Recall			Objective: 25-3 Provide examples of the MOI that would cause blunt and penetrating trauma to occur.",
+NewQuestion,MC,
+Title,,
+QuestionText,What types of motor vehicle collisions present the greatest potential for multiple impacts?,
+Points,1,
+Difficulty,1,
+Option,0,a) Lateral and rollover
+Option,0,b) Frontal and rotational
+Option,0,c) Rear-end and rotational
+Option,100,d) Rotational and rollover
+Hint,"Complexity: Moderate			Ahead: Blunt Trauma			Subject:Trauma Overview, Page 904			Title: Trauma Overview			Feedback: See Blunt Trauma			Taxonomy: Recall			Objective: 25-4 Describe the five types of motor vehicle crashes, the injury patterns associated with each one, and how each relates to the index of suspicion of life-threatening injuries.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following is NOT one of the three types of collisions in a typical impact in a motor vehicular crash?,
+Points,1,
+Difficulty,1,
+Option,0,a) Collision of the passenger against the in¬terior of the car
+Option,0,b) Collision of the internal organs against the body’s solid structures
+Option,100,c) Collision of two passenger bodies within the same vehicle
+Option,0,"d) Collision of a car against another car, a tree, or another object"
+Hint,"Complexity: Moderate			Ahead: Blunt Trauma			Subject:Trauma Overview, Page 904			Title: Trauma Overview			Feedback: See Blunt Trauma			Taxonomy: Analysis			Objective: 25-4 Describe the five types of motor vehicle crashes, the injury patterns associated with each one, and how each relates to the index of suspicion of life-threatening injuries.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following findings would be LEAST suggestive of the presence of high-energy trauma?,
+Points,1,
+Difficulty,1,
+Option,0,a) Dismounted seats
+Option,0,b) Steering wheel collapse
+Option,0,c) Intrusion into the vehicle
+Option,100,d) Deployment of the airbag
+Hint,"Complexity: Moderate			Ahead: Blunt Trauma			Subject:Trauma Overview, Page 905			Title: Trauma Overview			Feedback: See Blunt Trauma			Taxonomy: Analysis			Objective: 25-4 Describe the five types of motor vehicle crashes, the injury patterns associated with each one, and how each relates to the index of suspicion of life-threatening injuries.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following would MOST likely occur as the direct result of the second collision in a motor vehicle crash?,
+Points,1,
+Difficulty,1,
+Option,0,a) Collapsed dashboard
+Option,100,b) Deformed steering wheel
+Option,0,c) Caved-in passenger door
+Option,0,d) Intrathoracic hemorrhage
+Hint,"Complexity: Moderate			Ahead: Blunt Trauma			Subject:Trauma Overview, Page 905			Title: Trauma Overview			Feedback: See Blunt Trauma			Taxonomy: Recall			Objective: 25-4 Describe the five types of motor vehicle crashes, the injury patterns associated with each one, and how each relates to the index of suspicion of life-threatening injuries.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following injuries would MOST likely occur as a direct result of the third collision in a motor vehicle crash?,
+Points,1,
+Difficulty,1,
+Option,0,a) Flail chest
+Option,100,b) Aortic rupture
+Option,0,c) Extremity fractures
+Option,0,d) Forehead lacerations
+Hint,"Complexity: Moderate			Ahead: Blunt Trauma			Subject:Trauma Overview, Page 905			Title: Trauma Overview			Feedback: See Blunt Trauma			Taxonomy: Recall			Objective: 25-4 Describe the five types of motor vehicle crashes, the injury patterns associated with each one, and how each relates to the index of suspicion of life-threatening injuries.",
+NewQuestion,MC,
+Title,,
+QuestionText,"If one or more occupants in the same vehicle are killed in a crash, the EMT should:",
+Points,1,
+Difficulty,1,
+Option,100,a) suspect that all living occupants experienced the same serious trauma.
+Option,0,b) transport the survivors only if they have injuries or complain of pain.
+Option,0,c) allow the survivors to refuse transport if they have no obvious injuries.
+Option,0,d) rapidly assess only the survivors who have experienced obvious trauma.
+Hint,"Complexity: Easy			Ahead: Blunt Trauma			Subject:Trauma Overview, Page 906			Title: Trauma Overview			Feedback: See Blunt Trauma			Taxonomy: Application			Objective: 25-4 Describe the five types of motor vehicle crashes, the injury patterns associated with each one, and how each relates to the index of suspicion of life-threatening injuries.",
+NewQuestion,MC,
+Title,,
+QuestionText,"The driver of a sport utility vehicle lost control and struck a utility pole head-on. The driver was killed instantly. The passenger, a young female, is conscious and alert and has several small abrasions and lacerations to her left forearm. Treatment for the passenger should include:",
+Points,1,
+Difficulty,1,
+Option,100,a) transport to a trauma center.
+Option,0,b) a focused exam of her forearm.
+Option,0,c) transport to a community hospital.
+Option,0,d) a secondary assessment at the scene.
+Hint,"Ahead: Blunt Trauma			Complexity: Moderate			Subject:Trauma Overview, Page 907			Title: Trauma Overview			Feedback: See Blunt Trauma			Taxonomy: Application			Objective: 25-4 Describe the five types of motor vehicle crashes, the injury patterns associated with each one, and how each relates to the index of suspicion of life-threatening injuries.",
+NewQuestion,MC,
+Title,,
+QuestionText,Airbags are designed to:,
+Points,1,
+Difficulty,1,
+Option,0,a) prevent a second collision inside the car.
+Option,0,b) be used with or without a shoulder harness.
+Option,100,c) decrease the severity of deceleration injuries.
+Option,0,d) prevent the driver from sustaining head trauma.
+Hint,"Complexity: Easy			Ahead: Blunt Trauma			Subject:Trauma Overview, Page 907			Title: Trauma Overview			Feedback: See Blunt Trauma			Taxonomy: Recall			Objective: 25-4 Describe the five types of motor vehicle crashes, the injury patterns associated with each one, and how each relates to the index of suspicion of life-threatening injuries.",
+NewQuestion,MC,
+Title,,
+QuestionText,"When caring for an occupant inside a motor vehicle equipped with an airbag that did not deploy upon impact, you should:",
+Points,1,
+Difficulty,1,
+Option,0,a) realize that the airbag malfunctioned at the time of impact.
+Option,100,b) remember that it could still deploy and seriously injure you.
+Option,0,c) suspect that the patient may have experienced serious injuries.
+Option,0,d) recognize that the force of impact was most likely not severe.
+Hint,"Complexity: Moderate			Ahead: Blunt Trauma			Subject:Trauma Overview, Page 908			Title: Trauma Overview			Feedback: See Blunt Trauma			Taxonomy: Recall			Objective: 25-4 Describe the five types of motor vehicle crashes, the injury patterns associated with each one, and how each relates to the index of suspicion of life-threatening injuries.",
+NewQuestion,MC,
+Title,,
+QuestionText,"When a driver is in a car equipped with an airbag, but is not wearing a seatbelt, he or she will MOST likely strike the __________ when the airbag deploys upon impact.",
+Points,1,
+Difficulty,1,
+Option,100,a) door
+Option,0,b) dashboard
+Option,0,c) windshield
+Option,0,d) steering wheel
+Hint,"Complexity: Moderate			Ahead: Blunt Trauma			Subject:Trauma Overview, Page 908			Title: Trauma Overview			Feedback: See Blunt Trauma			Taxonomy: Recall			Objective: 25-4 Describe the five types of motor vehicle crashes, the injury patterns associated with each one, and how each relates to the index of suspicion of life-threatening injuries.",
+NewQuestion,MC,
+Title,,
+QuestionText,"While en route to a major motor vehicle crash, an on-scene police officer advises you that a 6-year-old male who was riding in the front seat is involved. He further states that the child was only wearing a lap belt and that the airbag deployed. On the basis of this information, you should be MOST suspicious that the child has experienced:",
+Points,1,
+Difficulty,1,
+Option,0,a) open abdominal trauma.
+Option,100,b) neck and facial injuries.
+Option,0,c) blunt trauma to the head.
+Option,0,d) lower extremity fractures.
+Hint,"Complexity: Moderate			Ahead: Blunt Trauma			Subject:Trauma Overview, Page 908			Title: Trauma Overview			Feedback: See Blunt Trauma			Taxonomy: Application			Objective: 25-4 Describe the five types of motor vehicle crashes, the injury patterns associated with each one, and how each relates to the index of suspicion of life-threatening injuries.",
+NewQuestion,MC,
+Title,,
+QuestionText,Evaluation of the interior of a crashed motor vehicle during extrication will allow the EMT to:,
+Points,1,
+Difficulty,1,
+Option,0,a) determine the vehicle’s speed at the time of impact.
+Option,0,b) assess the severity of the third collision of the crash.
+Option,0,c) recognize if the driver hit the brakes before impact.
+Option,100,d) identify contact points and predict potential injuries.
+Hint,"Complexity: Easy			Ahead: Blunt Trauma			Subject:Trauma Overview, Page 908			Title: Trauma Overview			Feedback: See Blunt Trauma			Taxonomy: Recall			Objective: 25-4 Describe the five types of motor vehicle crashes, the injury patterns associated with each one, and how each relates to the index of suspicion of life-threatening injuries.",
+NewQuestion,MC,
+Title,,
+QuestionText,The cervical spine is MOST protected from whiplash-type injuries when the:,
+Points,1,
+Difficulty,1,
+Option,100,a) headrest is appropriately positioned.
+Option,0,b) airbag correctly deploys upon impact.
+Option,0,c) patient tenses up at the time of impact.
+Option,0,d) rear end of the vehicle is initially struck.
+Hint,"Complexity: Moderate			Ahead: Blunt Trauma			Subject:Trauma Overview, Page 909			Title: Trauma Overview			Feedback: See Blunt Trauma			Taxonomy: Recall			Objective: 25-4 Describe the five types of motor vehicle crashes, the injury patterns associated with each one, and how each relates to the index of suspicion of life-threatening injuries.",
+NewQuestion,MC,
+Title,,
+QuestionText,Passengers who are seated in the rear of a vehicle and are wearing only lap belts have a higher incidence of injuries to the _____________ spine during a rear-end crash.,
+Points,1,
+Difficulty,1,
+Option,0,a) thoracic and sacral
+Option,0,b) lumbar and coccygeal
+Option,100,c) thoracic and lumbar
+Option,0,d) lumbar and sacral
+Hint,"Complexity: Moderate			Ahead: Blunt Trauma			Subject:Trauma Overview, Page 909			Title: Trauma Overview			Feedback: See Blunt Trauma			Taxonomy: Recall			Objective: 25-4 Describe the five types of motor vehicle crashes, the injury patterns associated with each one, and how each relates to the index of suspicion of life-threatening injuries.",
+NewQuestion,MC,
+Title,,
+QuestionText,Approximately 25% of severe injuries to the aorta occur during:,
+Points,1,
+Difficulty,1,
+Option,0,a) frontal collisions.
+Option,100,b) lateral collisions.
+Option,0,c) rollover collisions.
+Option,0,d) rear-end collisions.
+Hint,"Complexity: Moderate			Ahead: Blunt Trauma			Subject:Trauma Overview, Page 910			Title: Trauma Overview			Feedback: See Blunt Trauma			Taxonomy: Recall			Objective: 25-4 Describe the five types of motor vehicle crashes, the injury patterns associated with each one, and how each relates to the index of suspicion of life-threatening injuries.",
+NewQuestion,MC,
+Title,,
+QuestionText,A driver involved in a rollover motor vehicle crash will MOST likely experience serious injuries or death if he or she:,
+Points,1,
+Difficulty,1,
+Option,0,a) is wearing only a lap belt.
+Option,0,b) remains within the vehicle.
+Option,0,c) experiences multiple impacts.
+Option,100,d) is ejected or partially ejected.
+Hint,"Complexity: Easy			Ahead: Blunt Trauma			Subject:Trauma Overview, Page 910			Title: Trauma Overview			Feedback: See Blunt Trauma			Taxonomy: Recall			Objective: 25-4 Describe the five types of motor vehicle crashes, the injury patterns associated with each one, and how each relates to the index of suspicion of life-threatening injuries.",
+NewQuestion,MC,
+Title,,
+QuestionText,"A small compact car was involved in a rollover crash. As you are approaching the vehicle, you note that the roof is significantly collapsed. The patient, a 29-year-old male, is complaining of severe pain in his neck and to the top of his head as well as numbness and tingling in his extremities. Witnesses who removed the patient from the vehicle state that he was wearing his seatbelt. What injury mechanism is MOST likely responsible for this patient’s condition?",
+Points,1,
+Difficulty,1,
+Option,100,a) Compression of the head against the roof
+Option,0,b) Lateral bending of the neck during the crash
+Option,0,c) Impact of the head against the steering wheel
+Option,0,d) Whiplash injury to the neck during the rollover
+Hint,"Complexity: Difficult			Ahead: Blunt Trauma			Subject:Trauma Overview, Page 911			Title: Trauma Overview			Feedback: See Blunt Trauma			Taxonomy: Application			Objective: 25-4 Describe the five types of motor vehicle crashes, the injury patterns associated with each one, and how each relates to the index of suspicion of life-threatening injuries.",
+NewQuestion,MC,
+Title,,
+QuestionText,"When evaluating the mechanism of injury of a car versus pedestrian collision, you should first:",
+Points,1,
+Difficulty,1,
+Option,0,a) determine if the patient was propelled away from the vehicle.
+Option,100,b) approximate the speed of the vehicle that struck the pedestrian.
+Option,0,c) evaluate the vehicle that struck the patient for structural damage.
+Option,0,d) determine if the patient was struck and pulled under the vehicle.
+Hint,"Complexity: Moderate			Ahead: Blunt Trauma			Subject:Trauma Overview, Page 911			Title: Trauma Overview			Feedback: See Blunt Trauma			Taxonomy: Recall			Objective: 25-4 Describe the five types of motor vehicle crashes, the injury patterns associated with each one, and how each relates to the index of suspicion of life-threatening injuries.",
+NewQuestion,MC,
+Title,,
+QuestionText,"A 15-year-old female was struck by a small car while riding her bicycle. She was wearing a helmet and was thrown to the ground, striking her head. In addition to managing problems associated with airway, breathing, and circulation, it is MOST important for you to:",
+Points,1,
+Difficulty,1,
+Option,100,a) stabilize her entire spine.
+Option,0,b) obtain baseline vital signs.
+Option,0,c) inspect the helmet for cracks.
+Option,0,d) leave her bicycle helmet on.
+Hint,"Complexity: Moderate			Ahead: Blunt Trauma			Subject:Trauma Overview, Page 911			Title: Trauma Overview			Feedback: See Blunt Trauma			Taxonomy: Application			Objective: 25-4 Describe the five types of motor vehicle crashes, the injury patterns associated with each one, and how each relates to the index of suspicion of life-threatening injuries.",
+NewQuestion,MC,
+Title,,
+QuestionText,A 12-year-old male jumped approximately 12 feet from a tree and landed on his feet. He complains of pain to his lower back. What injury mechanism is MOST likely responsible for his back pain?,
+Points,1,
+Difficulty,1,
+Option,0,a) Lateral impact to the spine
+Option,100,b) Energy transmission to the spine
+Option,0,c) Direct trauma to the spinal column
+Option,0,d) Secondary fall after the initial impact
+Hint,"Complexity: Moderate			Ahead: Blunt Trauma			Subject:Trauma Overview, Page 913			Title: Trauma Overview			Feedback: See Blunt Trauma			Taxonomy: Application			Objective: 25-5 Discuss the three specific factors to consider during assessment of a patient who has been injured in a fall, plus additional considerations for pediatric and geriatric patients.",
+NewQuestion,MC,
+Title,,
+QuestionText,"Factors that should be considered when assessing a patient who has fallen include all of the following, EXCEPT:",
+Points,1,
+Difficulty,1,
+Option,100,a) the speed of the fall.
+Option,0,b) the surface struck.
+Option,0,c) the height of the fall.
+Option,0,d) the primary impact point.
+Hint,"Complexity: Easy			Ahead: Blunt Trauma			Subject:Trauma Overview, Page 913			Title: Trauma Overview			Feedback: See Blunt Trauma			Taxonomy: Recall			Objective: 25-5 Describe the five types of motor vehicle crashes, the injury patterns associated with each one, and how each relates to the index of suspicion of life-threatening injuries.",
+NewQuestion,MC,
+Title,,
+QuestionText,"When assessing an elderly patient who fell, it is important to remember that:",
+Points,1,
+Difficulty,1,
+Option,100,a) osteoporosis can cause a fracture as a result of a fall from a standing position.
+Option,0,b) any fall in the elderly is considered to be high-energy trauma.
+Option,0,c) elderly patients who fall usually have a secondary head injury.
+Option,0,d) bilateral hip fractures usually occur when an elderly person falls.
+Hint,"Complexity: Easy			Ahead: Blunt Trauma			Subject:Trauma Overview, Page 913			Title: Trauma Overview			Feedback: See Blunt Trauma			Taxonomy: Recall			Objective: 25-5 Discuss the three specific factors to consider during assessment of a patient who has been injured in a fall, plus additional considerations for pediatric and geriatric patients.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following statements regarding low-energy penetrating injuries is correct?,
+Points,1,
+Difficulty,1,
+Option,0,a) Internal injuries caused by low-velocity bullets are usually easy to predict.
+Option,0,b) Exit wounds are typically easy to locate with low-energy penetrating injuries.
+Option,0,c) It is usually easy to differentiate between an entrance wound and an exit wound.
+Option,100,d) The area of injury is usually close to the path the object took through the body.
+Hint,"Complexity: Moderate			Ahead: Penetrating Trauma			Subject:Trauma Overview, Page 913			Title: Trauma Overview			Feedback: See Penetrating Trauma			Taxonomy: Recall			Objective: 25-6 Discuss the effects of high-, medium-, and low-velocity penetrating trauma on the body and how an understanding of each type helps EMTs form an index of suspicion about unseen life-threatening injuries.",
+NewQuestion,MC,
+Title,,
+QuestionText,Internal injuries caused by gunshot wounds are difficult to predict because:,
+Points,1,
+Difficulty,1,
+Option,0,a) the caliber of the bullet is frequently unknown.
+Option,0,b) the area of damage is usually smaller than the bullet.
+Option,100,c) the bullet may tumble or ricochet within the body.
+Option,0,d) exit wounds caused by the bullet are usually small.
+Hint,"Complexity: Moderate			Ahead: Penetrating Trauma			Subject:Trauma Overview, Page 914			Title: Trauma Overview			Feedback: See Penetrating Trauma			Taxonomy: Recall			Objective: 25-6 Discuss the effects of high-, medium-, and low-velocity penetrating trauma on the body and how an understanding of each type helps EMTs form an index of suspicion about unseen life-threatening injuries.",
+NewQuestion,MC,
+Title,,
+QuestionText,"The phenomenon of pressure waves emanating from the bullet, causing damage remote from its path, is known as:",
+Points,1,
+Difficulty,1,
+Option,0,a) capitation.
+Option,100,b) cavitation.
+Option,0,c) congruent.
+Option,0,d) conversion.
+Hint,"Complexity: Easy			Ahead: Penetrating Trauma			Subject:Trauma Overview, Page 914			Title: Trauma Overview			Feedback: See Penetrating Trauma			Taxonomy: Recall			Objective: 25-6 Discuss the effects of high-, medium-, and low-velocity penetrating trauma on the body and how an understanding of each type helps EMTs form an index of suspicion about unseen life-threatening injuries.",
+NewQuestion,MC,
+Title,,
+QuestionText,"A young male sustained a gunshot wound to the abdomen during an altercation. As your partner is assessing and managing his airway, you should control the obvious bleeding and then:",
+Points,1,
+Difficulty,1,
+Option,0,a) apply a cervical collar.
+Option,0,b) obtain baseline vital signs.
+Option,0,c) auscultate bowel sounds.
+Option,100,d) assess for an exit wound.
+Hint,"Complexity: Difficult			Ahead: Penetrating Trauma			Subject:Trauma Overview, Page 914			Title: Trauma Overview			Feedback: See Penetrating Trauma			Taxonomy: Application			Objective: 25-6 Discuss the effects of high-, medium-, and low-velocity penetrating trauma on the body and how an understanding of each type helps EMTs form an index of suspicion about unseen life-threatening injuries.",
+NewQuestion,MC,
+Title,,
+QuestionText,"A 40-year-old unrestrained female impacted the steering wheel of her vehicle with her chest when she hit a tree while traveling at 45 mph. She is conscious and alert, but is experiencing significant chest pain and shortness of breath. Which of the following injuries is the LEAST likely?",
+Points,1,
+Difficulty,1,
+Option,100,a) Head injury
+Option,0,b) Cardiac contusion
+Option,0,c) Pulmonary contusion
+Option,0,d) Multiple rib fractures
+Hint,"Complexity: Difficult			Ahead: Blunt Trauma			Subject:Trauma Overview, Page 905			Title: Trauma Overview			Feedback: See Blunt Trauma			Taxonomy: Application			Objective: 25-4 Describe the five types of motor vehicle crashes, the injury patterns associated with each one, and how each relates to the index of suspicion of life-threatening injuries.",
+NewQuestion,MC,
+Title,,
+QuestionText,"If a person is standing near a building that explodes, which of the following injuries would he or she MOST likely experience as a result of the pressure wave?",
+Points,1,
+Difficulty,1,
+Option,0,a) Severe burns
+Option,0,b) Fractured bones
+Option,100,c) Eardrum rupture
+Option,0,d) Impaled objects
+Hint,"Complexity: Moderate			Ahead: Blast Injuries			Subject:Trauma Overview, Page 915			Title: Trauma Overview			Feedback: See Blast Injuries			Taxonomy: Application			Objective: 25-7 Discuss primary, secondary, tertiary, and miscellaneous blast injuries and the anticipated damage each one will cause to the body.",
+NewQuestion,MC,
+Title,,
+QuestionText,"During your assessment of a patient who experienced a blast injury, you note that he has a depressed area to the front of his skull. This injury MOST likely occurred:",
+Points,1,
+Difficulty,1,
+Option,100,a) when the patient was hurled against a stationary object.
+Option,0,b) as a result of flying debris.
+Option,0,c) by inhaling toxic gases.
+Option,0,d) as a direct result of the pressure wave.
+Hint,"Complexity: Moderate			Ahead: Blast Injuries			Subject:Trauma Overview, Page 917			Title: Trauma Overview			Feedback: See Blast Injuries			Taxonomy: Application			Objective: 25-7 Discuss primary, secondary, tertiary, and miscellaneous blast injuries and the anticipated damage each one will cause to the body.",
+NewQuestion,MC,
+Title,,
+QuestionText,"When assessing a patient who experienced a blast injury, it is important to remember that:",
+Points,1,
+Difficulty,1,
+Option,0,a) secondary blast injuries are usually the least obvious.
+Option,0,b) primary blast injuries are typically the most obvious.
+Option,0,c) solid organs usually rupture from the pressure wave.
+Option,100,d) primary blast injuries are the most easily overlooked.
+Hint,"Complexity: Moderate			Ahead: Blast Injuries			Subject:Trauma Overview, Page 917			Title: Trauma Overview			Feedback: See Blast Injuries			Taxonomy: Application			Objective: 25-7 Discuss primary, secondary, tertiary, and miscellaneous blast injuries and the anticipated damage each one will cause to the body.",
+NewQuestion,MC,
+Title,,
+QuestionText,Signs of a pulmonary blast injury include:,
+Points,1,
+Difficulty,1,
+Option,0,a) vomiting blood.
+Option,100,b) coughing up blood.
+Option,0,c) an irregular pulse.
+Option,0,d) multiple rib fractures.
+Hint,"Complexity: Easy			Ahead: Blast Injuries			Subject:Trauma Overview, Page 918			Title: Trauma Overview			Feedback: See Blast Injuries			Taxonomy: Analysis			Objective: 25-7 Discuss primary, secondary, tertiary, and miscellaneous blast injuries and the anticipated damage each one will cause to the body.",
+NewQuestion,MC,
+Title,,
+QuestionText,"When treating a patient who experienced a pulmonary blast injury, you should:",
+Points,1,
+Difficulty,1,
+Option,0,a) use a demand valve to ventilate the patient.
+Option,0,b) suspect an accompanying cardiac tamponade.
+Option,100,c) avoid giving oxygen under positive pressure.
+Option,0,d) administer large amounts of intravenous fluid.
+Hint,"Complexity: Easy			Ahead: Blast Injuries			Subject:Trauma Overview, Page 918			Title: Trauma Overview			Feedback: See Blast Injuries			Taxonomy: Recall			Objective: 25-7 Discuss primary, secondary, tertiary, and miscellaneous blast injuries and the anticipated damage each one will cause to the body.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following interventions is the MOST critical to the outcome of a patient with multisystem trauma?,
+Points,1,
+Difficulty,1,
+Option,0,a) Intravenous fluid administration
+Option,0,b) Early administration of oxygen
+Option,0,c) Elevation of the lower extremities
+Option,100,d) Rapid transport to a trauma center
+Hint,"Complexity: Easy			Ahead: Multisystem Trauma			Subject:Trauma Overview, Page 919			Title: Trauma Overview			Feedback: See Multisystem Trauma			Taxonomy: Application			Objective: 25-8 Describe multisystem trauma and the special considerations that are required for patients who fit this category.",
+NewQuestion,MC,
+Title,,
+QuestionText,"Following a blunt injury to the head, a 22-year-old female is confused and complains of a severe headache and nausea. On the basis of these signs and symptoms, you should be MOST concerned with the possibility of:",
+Points,1,
+Difficulty,1,
+Option,0,a) spinal cord injury.
+Option,0,b) airway compromise.
+Option,100,c) intracranial bleeding.
+Option,0,d) a fracture of the skull.
+Hint,"Complexity: Difficult			Ahead: Patient Assessment			Subject:Trauma Overview, Page 920			Title: Trauma Overview			Feedback: See Patient Assessment			Taxonomy: Application			Objective: 25-8 Describe multisystem trauma and the special considerations that are required for patients who fit this category.",
+NewQuestion,MC,
+Title,,
+QuestionText,"A 30-year-old male sustained a stab wound to the neck when he was attacked outside a nightclub. During your assessment, you should be MOST alert for:",
+Points,1,
+Difficulty,1,
+Option,0,a) injury to the cervical spine.
+Option,100,b) potential airway compromise.
+Option,0,c) damage to internal structures.
+Option,0,d) alterations in his mental status.
+Hint,"Complexity: Difficult			Ahead: Penetrating Trauma			Subject:Trauma Overview, Page 913			Title: Trauma Overview			Feedback: See Penetrating Trauma			Taxonomy: Application			Objective: 25-6 Discuss the effects of high-, medium-, and low-velocity penetrating trauma on the body and how an understanding of each type helps EMTs form an index of suspicion about unseen life-threatening injuries.",
+NewQuestion,MC,
+Title,,
+QuestionText,"While assessing a young male who was struck in the chest with a steel pipe, you note that his pulse is rapid and irregular. You should be MOST suspicious for:",
+Points,1,
+Difficulty,1,
+Option,0,a) underlying cardiac disease.
+Option,0,b) a lacerated coronary artery.
+Option,100,c) bruising of the heart muscle.
+Option,0,d) traumatic rupture of the aorta.
+Hint,"Complexity: Difficult			Ahead: Patient Assessment			Subject:Trauma Overview, Page 920			Title: Trauma Overview			Feedback: See Patient Assessment			Taxonomy: Application			Objective: 25-6 Discuss the effects of high-, medium-, and low-velocity penetrating trauma on the body and how an understanding of each type helps EMTs form an index of suspicion about unseen life-threatening injuries.",
+NewQuestion,MC,
+Title,,
+QuestionText,You should consider air medical transport of a trauma patient if:,
+Points,1,
+Difficulty,1,
+Option,100,a) traffic conditions hamper the ability to get the patient to a trauma center by ground within the ideal time frame for the best clinical outcome.
+Option,0,"b) ground transport will take your ambulance out of service for an extended period of time, regardless of the severity of the patient’s injuries."
+Option,0,"c) the patient requires advanced life support care and stabilization, and the nearest ALS-ground ambulance is more than 5 to 10 minutes away."
+Option,0,"d) he or she was involved in a motor vehicle crash in which another occupant in the same vehicle was killed, even if your patient’s injuries are minor."
+Hint,"Complexity: Moderate			Ahead: Management: Transport and Destinations			Subject:Trauma Overview, Page 926			Title: Trauma Overview			Feedback: See Management: Transport and Destinations			Taxonomy: Recall			Objective: 25-13 List the criteria for the appropriate use of helicopter emergency medical services.",
+NewQuestion,MC,
+Title,,
+QuestionText,"In contrast to a Level III trauma center, a Level I trauma center must:",
+Points,1,
+Difficulty,1,
+Option,0,a) be involved in trauma prevention programs.
+Option,100,b) have general surgeons in-house 24 hours a day.
+Option,0,c) have access to an emergency physician within 30 minutes.
+Option,0,d) be able to stabilize patients before transferring to a higher level facility.
+Hint,"Complexity: Easy			Ahead: Management: Transport and Destinations			Subject:Trauma Overview, Page 923			Title: Trauma Overview			Feedback: See Management: Transport and Destinations			Taxonomy: Recall			Objective: 25-14 Discuss the American College of Surgeons Committee on Trauma classification of trauma centers.",
+NewQuestion,MC,
+Title,,
+QuestionText,"Your patient has a Glasgow Coma Scale (GCS) score of 13, a systolic blood pressure of 80 mm Hg, and a respiratory rate of 8 breaths/min. His revised trauma score (RTS) is:",
+Points,1,
+Difficulty,1,
+Option,0,a) 8.
+Option,100,b) 9.
+Option,0,c) 10.
+Option,0,d) 11.
+Hint,"Complexity: Difficult			Ahead: Management: Transport and Destinations			Subject:Trauma Overview, Page 926			Title: Trauma Overview			Feedback: See Management: Transport and Destinations			Taxonomy: Application			Objective: 25-15 Explain the American College of Surgeons Committee on Trauma and the Centers for Disease Control and Prevention field triage decision scheme as it relates to making an appropriate destination selection for a trauma patient.",
+NewQuestion,MC,
+Title,,
+QuestionText,"During your assessment of a patient with a head injury, you note that he opens his eyes when you pinch his trapezius muscle, is mumbling, and has his arms curled in toward his chest. You should assign him a GCS score of:",
+Points,1,
+Difficulty,1,
+Option,100,a) 7.
+Option,0,b) 8.
+Option,0,c) 9.
+Option,0,d) 10.
+Hint,"Complexity: Difficult			Ahead: Management: Transport and Destinations			Subject:Trauma Overview, Page 926			Title: Trauma Overview			Feedback: See Management: Transport and Destinations			Taxonomy: Application			Objective: 25-15 Explain the American College of Surgeons Committee on Trauma and the Centers for Disease Control and Prevention field triage decision scheme as it relates to making an appropriate destination selection for a trauma patient.",
+NewQuestion,MC,
+Title,,
+QuestionText,"According to the American College of Surgeons Committee on Trauma (ACS-COT), an adult trauma patient should be transported to the highest level of trauma center if he or she:",
+Points,1,
+Difficulty,1,
+Option,0,a) was involved in a motor vehicle crash in which another patient in the same vehicle was killed.
+Option,0,b) has a systolic blood pressure of less than 110 mm Hg or a heart rate greater than 110 beats/min.
+Option,0,c) has a bleeding disorder or takes anticoagulant medications and has any blunt or penetrating injury.
+Option,100,d) has a GCS score of less than or equal to 13 with a mechanism attributed to trauma.
+Hint,"Complexity: Moderate			Ahead: Management: Transport and Destinations			Subject:Trauma Overview, Page 925			Title: Trauma Overview			Feedback: See Management: Transport and Destinations			Taxonomy: Recall			Objective: 25-14 Discuss the American College of Surgeons Committee on Trauma classification of trauma centers.",

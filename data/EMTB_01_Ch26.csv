@@ -1,0 +1,450 @@
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following body systems or components is the least critical for supplying and maintaining adequate blood flow to the body?,
+Points,1,
+Difficulty,1,
+Option,0,a) An effectively pumping heart
+Option,0,b) An intact system of blood vessels
+Option,0,c) Adequate blood in the vasculature
+Option,100,d) The filtering of blood cells in the spleen
+Hint,"Complexity: Easy			Ahead: Anatomy and Physiology of the Cardiovascular System			Subject:Bleeding, Page 934			Title: Bleeding			Feedback: See Anatomy and Physiology of the Cardiovascular System			Taxonomy: Recall			Objective: 26-1 Describe the general structure of the circulatory system and the function of its parts, including the heart, arteries, veins, and capillaries.",
+NewQuestion,MC,
+Title,,
+QuestionText,Capillaries link the arterioles and the:,
+Points,1,
+Difficulty,1,
+Option,100,a) venules.
+Option,0,b) aorta.
+Option,0,c) veins.
+Option,0,d) cells.
+Hint,"Complexity: Easy			Ahead: Anatomy and Physiology of the Cardiovascular System			Subject:Bleeding, Page 935			Title: Bleeding			Feedback: See Anatomy and Physiology of the Cardiovascular System			Taxonomy: Recall			Objective: 26-1 Describe the general structure of the circulatory system and the function of its parts, including the heart, arteries, veins, and capillaries.",
+NewQuestion,MC,
+Title,,
+QuestionText,The smaller vessels that carry blood away from the heart and connect the arteries to the capillaries are called the:,
+Points,1,
+Difficulty,1,
+Option,0,a) venules.
+Option,100,b) arterioles.
+Option,0,c) vena cavae.
+Option,0,d) capillary arteries.
+Hint,"Complexity: Easy			Ahead: Anatomy and Physiology of the Cardiovascular System			Subject:Bleeding, Page 935			Title: Bleeding			Feedback: See Anatomy and Physiology of the Cardiovascular System			Taxonomy: Recall			Objective: 26-1 Describe the general structure of the circulatory system and the function of its parts, including the heart, arteries, veins, and capillaries.",
+NewQuestion,MC,
+Title,,
+QuestionText,"Blood stasis, changes in the vessel wall, and certain medications affect the:",
+Points,1,
+Difficulty,1,
+Option,0,a) systolic blood pressure exclusively.
+Option,100,b) ability of the blood to effectively clot.
+Option,0,c) ability of red blood cells to carry oxygen.
+Option,0,d) white blood cells’ ability to fight infection.
+Hint,"Complexity: Moderate			Ahead: Anatomy and Physiology of the Cardiovascular System			Subject:Bleeding, Page 936			Title: Bleeding			Feedback: See Anatomy and Physiology of the Cardiovascular System			Taxonomy: Recall			Objective: 26-1 Describe the general structure of the circulatory system and the function of its parts, including the heart, arteries, veins, and capillaries.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following occurs after tissues are injured?,
+Points,1,
+Difficulty,1,
+Option,0,a) Local blood vessels begin to dilate.
+Option,0,b) Red blood cells separate from plasma.
+Option,100,c) Platelets collect at the injury site.
+Option,0,d) Red blood cells become less sticky.
+Hint,"Complexity: Moderate			Ahead: Anatomy and Physiology of the Cardiovascular System			Subject:Bleeding, Page 936			Title: Bleeding			Feedback: See Anatomy and Physiology of the Cardiovascular System			Taxonomy: Recall			Objective: 26-1 Describe the general structure of the circulatory system and the function of its parts, including the heart, arteries, veins, and capillaries.",
+NewQuestion,MC,
+Title,,
+QuestionText,Hypoperfusion is another name for:,
+Points,1,
+Difficulty,1,
+Option,100,a) shock.
+Option,0,b) cyanosis.
+Option,0,c) hypoxemia.
+Option,0,d) cellular death.
+Hint,"Complexity: Easy			Ahead: Anatomy and Physiology of the Cardiovascular System			Subject:Bleeding, Page 936			Title: Bleeding			Feedback: See Anatomy and Physiology of the Cardiovascular System			Taxonomy: Recall			Objective: 26-1 Describe the general structure of the circulatory system and the function of its parts, including the heart, arteries, veins, and capillaries.",
+NewQuestion,MC,
+Title,,
+QuestionText,Perfusion is most accurately defined as the:,
+Points,1,
+Difficulty,1,
+Option,0,a) effective transfer of oxygen from the venules across the systemic capillary membrane walls.
+Option,0,b) ability of the systemic arteries to constrict as needed to maintain an adequate blood pressure.
+Option,0,c) effective removal of carbon dioxide and other metabolic waste products from the body’s cells.
+Option,100,d) circulation of blood within an organ in adequate amounts to meet the body’s metabolic needs.
+Hint,"Complexity: Easy			Ahead: Pathophysiology and Perfusion			Subject:Bleeding, Page 937			Title: Bleeding			Feedback: See Pathophysiology and Perfusion			Taxonomy: Recall			Objective: 26-2 Explain the significance of bleeding caused by blunt force trauma, including the importance of perfusion.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following organs can tolerate inadequate perfusion for two to three hours?,
+Points,1,
+Difficulty,1,
+Option,0,a) Brain
+Option,0,b) Heart
+Option,0,c) Kidneys
+Option,100,d) Skeletal muscle
+Hint,"Complexity: Easy			Ahead: Pathophysiology and Perfusion			Subject:Bleeding, Page 937			Title: Bleeding			Feedback: See Pathophysiology and Perfusion			Taxonomy: Recall			Objective: 26-2 Explain the significance of bleeding caused by blunt force trauma, including the importance of perfusion.",
+NewQuestion,MC,
+Title,,
+QuestionText,An organ or tissue might better resist damage from hypoperfusion if the:,
+Points,1,
+Difficulty,1,
+Option,0,a) body’s demand for oxygen is markedly increased.
+Option,100,b) body’s temperature is considerably less than 98.6°F (37.0°C).
+Option,0,c) systolic arterial blood pressure is at least 60 mm Hg.
+Option,0,d) heart rate is maintained at more than 100 beats/min.
+Hint,"Complexity: Easy			Ahead: Pathophysiology and Perfusion			Subject:Bleeding, Page 937			Title: Bleeding			Feedback: See Pathophysiology and Perfusion			Taxonomy: Recall			Objective: 26-2 Explain the significance of bleeding caused by blunt force trauma, including the importance of perfusion.",
+NewQuestion,MC,
+Title,,
+QuestionText,Significant vital sign changes will occur if the typical adult acutely loses more than ______ of his or her total blood volume.,
+Points,1,
+Difficulty,1,
+Option,0,a) 5%
+Option,0,b) 10%
+Option,0,c) 15%
+Option,100,d) 20%
+Hint,"Complexity: Easy			Ahead: External Bleeding			Subject:Bleeding, Page 938			Title: Bleeding			Feedback: See External Bleeding			Taxonomy: Recall			Objective: 26-2 Explain the significance of bleeding caused by blunt force trauma, including the importance of perfusion.",
+NewQuestion,MC,
+Title,,
+QuestionText,What is the approximate blood volume of an 80-kg adult male?,
+Points,1,
+Difficulty,1,
+Option,0,a) 5.25 L
+Option,100,b) 6.0 L
+Option,0,c) 6.25 L
+Option,0,d) 6.50 L
+Hint,"Complexity: Moderate			Ahead: External Bleeding			Subject:Bleeding, Page 938			Title: Bleeding			Feedback: See External Bleeding			Taxonomy: Recall			Objective: 26-2 Explain the significance of bleeding caused by blunt force trauma, including the importance of perfusion.",
+NewQuestion,MC,
+Title,,
+QuestionText,An infant with a total blood volume of 800 mL would start showing signs of shock when as little as ______ of blood is lost.,
+Points,1,
+Difficulty,1,
+Option,0,a) 50 mL
+Option,100,b) 100 mL
+Option,0,c) 150 mL
+Option,0,d) 200 mL
+Hint,"Complexity: Moderate			Ahead: External Bleeding			Subject:Bleeding, Page 938			Title: Bleeding			Feedback: See External Bleeding			Taxonomy: Recall			Objective: 26-2 Explain the significance of bleeding caused by blunt force trauma, including the importance of perfusion.",
+NewQuestion,MC,
+Title,,
+QuestionText,The ability of a person’s cardiovascular system to compensate for blood loss is most related to:,
+Points,1,
+Difficulty,1,
+Option,0,a) his or her baseline blood pressure.
+Option,0,b) the part of the body injured.
+Option,100,c) how rapidly he or she bleeds.
+Option,0,d) how fast his or her heart beats.
+Hint,"Complexity: Easy			Ahead: External Bleeding			Subject:Bleeding, Page 938			Title: Bleeding			Feedback: See External Bleeding			Taxonomy: Recall			Objective: 26-2 Explain the significance of bleeding caused by blunt force trauma, including the importance of perfusion.",
+NewQuestion,MC,
+Title,,
+QuestionText,Hypovolemic shock occurs when:,
+Points,1,
+Difficulty,1,
+Option,0,a) the clotting ability of the blood is enhanced.
+Option,100,b) low fluid volume leads to inadequate perfusion.
+Option,0,c) the patient’s systolic BP is less than 100 mm Hg.
+Option,0,d) at least 10% of the patient’s blood volume is lost.
+Hint,"Complexity: Easy			Ahead: External Bleeding			Subject:Bleeding, Page 938			Title: Bleeding			Feedback: See External Bleeding			Taxonomy: Application			Objective: 26-3 Discuss hypovolemic shock as a result of bleeding, including the signs of shock.",
+NewQuestion,MC,
+Title,,
+QuestionText,"The severity of bleeding should be based on all of the following findings, except:",
+Points,1,
+Difficulty,1,
+Option,100,a) systolic blood pressure.
+Option,0,b) poor general appearance.
+Option,0,c) the mechanism of injury.
+Option,0,d) clinical signs and symptoms.
+Hint,"Complexity: Easy			Ahead: External Bleeding			Subject:Bleeding, Page 938			Title: Bleeding			Feedback: See External Bleeding			Taxonomy: Recall			Objective: 26-4 Explain the importance of following standard precautions when treating a patient with external bleeding.",
+NewQuestion,MC,
+Title,,
+QuestionText,In which of the following situations would external bleeding be the most difficult to control?,
+Points,1,
+Difficulty,1,
+Option,100,a) Femoral artery laceration and a blood pressure of 140/90 mm Hg
+Option,0,b) Jugular vein laceration and a systolic blood pressure of 90 mm Hg
+Option,0,c) Carotid artery laceration and a systolic blood pressure of 60 mm Hg
+Option,0,d) Antecubital vein laceration and a blood pressure of 138/92 mm Hg
+Hint,"Complexity: Difficult			Ahead: External Bleeding			Subject:Bleeding, Page 939			Title: Bleeding			Feedback: See External Bleeding			Taxonomy: Recall			Objective: 26-5 Describe the characteristics of external bleeding, including the identification of the following types of bleeding: arterial, venous, and capillary.",
+NewQuestion,MC,
+Title,,
+QuestionText,External bleeding from a vein is relatively easy to control because:,
+Points,1,
+Difficulty,1,
+Option,0,a) veins carry deoxygenated blood.
+Option,0,b) veins hold smaller blood volume.
+Option,100,c) veins are under a lower pressure.
+Option,0,d) blood typically oozes from a vein.
+Hint,"Complexity: Easy			Ahead: External Bleeding			Subject:Bleeding, Page 939			Title: Bleeding			Feedback: See External Bleeding			Taxonomy: Recall			Objective: 26-5 Describe the characteristics of external bleeding, including the identification of the following types of bleeding: arterial, venous, and capillary.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following statements regarding the clotting of blood is correct?,
+Points,1,
+Difficulty,1,
+Option,0,a) Venous and capillary blood typically do not clot spontaneously.
+Option,0,b) Bleeding begins to clot when the end of a damaged vessel dilates.
+Option,0,c) Direct contact with the environment prevents blood from clotting.
+Option,100,d) A person taking blood thinners will experience slower blood clotting.
+Hint,"Complexity: Moderate			Ahead: External Bleeding			Subject:Bleeding, Page 939			Title: Bleeding			Feedback: See External Bleeding			Taxonomy: Recall			Objective: 26-4 Explain the importance of following standard precautions when treating a patient with external bleeding.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following statements regarding hemophilia is correct?,
+Points,1,
+Difficulty,1,
+Option,0,a) Hemophilia is defined as a total lack of platelets.
+Option,100,b) Patients with hemophilia might bleed spontaneously.
+Option,0,c) Hemophiliacs take aspirin to enhance blood clotting.
+Option,0,d) Approximately 25% of the population has hemophilia.
+Hint,"Complexity: Moderate			Ahead: External Bleeding			Subject:Bleeding, Page 939			Title: Bleeding			Feedback: See External Bleeding			Taxonomy: Recall			Objective: 26-4 Explain the importance of following standard precautions when treating a patient with external bleeding.",
+NewQuestion,MC,
+Title,,
+QuestionText,A fractured femur can result in the loss of ______ or more of blood into the soft tissues of the thigh.,
+Points,1,
+Difficulty,1,
+Option,0,a) 250 mL
+Option,0,b) 500 mL
+Option,100,c) 1 L
+Option,0,d) 2 L
+Hint,"Complexity: Easy			Ahead: Internal Bleeding			Subject:Bleeding, Page 940			Title: Bleeding			Feedback: See Internal Bleeding			Taxonomy: Recall			Objective: 26-7 Identify the signs and symptoms of internal bleeding.",
+NewQuestion,MC,
+Title,,
+QuestionText,"In older patients, the first indicator of nontraumatic internal bleeding might be:",
+Points,1,
+Difficulty,1,
+Option,100,a) weakness or dizziness.
+Option,0,b) a low blood pressure.
+Option,0,c) diaphoresis and pale skin.
+Option,0,d) a heart rate over 120 beats/min.
+Hint,"Complexity: Easy			Ahead: Internal Bleeding			Subject:Bleeding, Page 940			Title: Bleeding			Feedback: See Internal Bleeding			Taxonomy: Recall			Objective: 26-7 Identify the signs and symptoms of internal bleeding.",
+NewQuestion,MC,
+Title,,
+QuestionText,Early signs and symptoms of intra-abdominal bleeding include:,
+Points,1,
+Difficulty,1,
+Option,0,a) bruising only.
+Option,100,b) pain and distention.
+Option,0,c) widespread ecchymosis.
+Option,0,d) significant hypotension.
+Hint,"Complexity: Easy			Ahead: Internal Bleeding			Subject:Bleeding, Page 941			Title: Bleeding			Feedback: See Internal Bleeding			Taxonomy: Recall			Objective: 26-7 Identify the signs and symptoms of internal bleeding.",
+NewQuestion,MC,
+Title,,
+QuestionText,"A 67-year-old male presents with weakness, dizziness, and melena that began approximately two days ago. He denies a history of trauma. His blood pressure is 90/50 mm Hg and his pulse is 120 beats/min and thready. You should be most suspicious that this patient is experiencing:",
+Points,1,
+Difficulty,1,
+Option,0,a) an aortic aneurysm.
+Option,0,b) acute appendicitis.
+Option,100,c) gastrointestinal bleeding.
+Option,0,d) intrathoracic hemorrhaging.
+Hint,"Complexity: Difficult			Ahead: Internal Bleeding			Subject:Bleeding, Page 941			Title: Bleeding			Feedback: See Internal Bleeding			Taxonomy: Analysis			Objective: 26-7 Identify the signs and symptoms of internal bleeding.",
+NewQuestion,MC,
+Title,,
+QuestionText,Gastrointestinal bleeding should be suspected if a patient presents with:,
+Points,1,
+Difficulty,1,
+Option,0,a) dyspnea.
+Option,0,b) hematuria.
+Option,0,c) hemoptysis.
+Option,100,d) hematemesis.
+Hint,"Complexity: Easy			Ahead: Internal Bleeding			Subject:Bleeding, Page 941			Title: Bleeding			Feedback: See Internal Bleeding			Taxonomy: Recall			Objective: 26-7 Identify the signs and symptoms of internal bleeding.",
+NewQuestion,MC,
+Title,,
+QuestionText,A 22-year-old male was kicked in the abdomen multiple times during an assault. He is conscious but restless and his pulse is rapid. His skin is cold and moist. Your assessment reveals a large area of bruising to the right upper quadrant of his abdomen. The most appropriate treatment for this patient includes:,
+Points,1,
+Difficulty,1,
+Option,100,a) preparing for immediate transport.
+Option,0,b) applying oxygen via nasal cannula.
+Option,0,c) performing a focused physical exam.
+Option,0,d) a detailed assessment of his abdomen.
+Hint,"Complexity: Difficult			Ahead: Internal Bleeding			Subject:Bleeding, Page 941			Title: Bleeding			Feedback: See Internal Bleeding			Taxonomy: Analysis			Objective: 26-7 Identify the signs and symptoms of internal bleeding.",
+NewQuestion,MC,
+Title,,
+QuestionText,"After blunt trauma to the abdomen, a 21-year-old female complains of diffuse abdominal pain and pain to the left shoulder. Your assessment reveals that her abdomen is distended and tender to palpation. On the basis of these findings, you should be most suspicious of injury to the:",
+Points,1,
+Difficulty,1,
+Option,0,a) kidneys.
+Option,100,b) spleen.
+Option,0,c) pancreas.
+Option,0,d) gallbladder.
+Hint,"Complexity: Difficult			Ahead: Internal Bleeding			Subject:Bleeding, Page 941			Title: Bleeding			Feedback: See Internal Bleeding			Taxonomy: Analysis			Objective: 26-7 Identify the signs and symptoms of internal bleeding.",
+NewQuestion,MC,
+Title,,
+QuestionText,"In nontrauma patients, an early indicator of internal bleeding is:",
+Points,1,
+Difficulty,1,
+Option,0,"a) a rapid, thready pulse."
+Option,0,"b) rapid, shallow breathing."
+Option,100,c) dizziness upon standing.
+Option,0,d) a decreasing blood pressure.
+Hint,"Complexity: Easy			Ahead: Internal Bleeding			Subject:Bleeding, Page 941			Title: Bleeding			Feedback: See Internal Bleeding			Taxonomy: Recall			Objective: 26-7 Identify the signs and symptoms of internal bleeding.",
+NewQuestion,MC,
+Title,,
+QuestionText,"A young male was shot in the abdomen by an unknown type of gun. Law enforcement personnel have ensured that the scene is safe. The patient is semiconscious, has shallow breathing, and is bleeding externally from the wound. As you control the external bleeding, your partner should:",
+Points,1,
+Difficulty,1,
+Option,0,a) obtain baseline vital signs.
+Option,0,b) apply a nonrebreathing mask.
+Option,0,c) perform a secondary assessment.
+Option,100,d) assist the patient’s ventilations.
+Hint,"Complexity: Difficult			Ahead: Patient Assessment for External and Internal Bleeding			Subject:Bleeding, Page 941			Title: Bleeding			Feedback: See Patient Assessment for External and Internal Bleeding			Taxonomy: Application			Objective: 26-9 Explain how to conduct a primary assessment, including identification of life threats beyond bleeding, ensuring a patent airway, and making a transport decision.",
+NewQuestion,MC,
+Title,,
+QuestionText,A 39-year-old male accidentally cut his wrist while sharpening his hunting knife. He is conscious and alert with adequate breathing but is bleeding significantly from the wound. You should:,
+Points,1,
+Difficulty,1,
+Option,0,a) ensure the patient has a patent airway.
+Option,100,b) control the bleeding with direct pressure.
+Option,0,c) apply oxygen with a nonrebreathing mask.
+Option,0,d) apply a tourniquet proximal to the wound.
+Hint,"Complexity: Moderate			Ahead: Patient Assessment for External and Internal Bleeding			Subject:Bleeding, Page 942			Title: Bleeding			Feedback: See Patient Assessment for External and Internal Bleeding			Taxonomy: Application			Objective: 26-9 Explain how to conduct a primary assessment, including identification of life threats beyond bleeding, ensuring a patent airway, and making a transport decision.",
+NewQuestion,MC,
+Title,,
+QuestionText,All of the following should be addressed during the primary assessment except:,
+Points,1,
+Difficulty,1,
+Option,0,a) severe hemorrhage.
+Option,0,"b) slow, shallow breathing."
+Option,0,c) airway obstruction.
+Option,100,d) capillary bleeding.
+Hint,"Complexity: Difficult			Subject:Bleeding, Page 943			Ahead: Patient Assessment for External and Internal Bleeding			Title: Bleeding			Feedback: See Patient Assessment for External and Internal Bleeding			Taxonomy: Application			Objective: 26-9 Explain how to conduct a primary assessment, including identification of life threats beyond bleeding, ensuring a patent airway, and making a transport decision.",
+NewQuestion,MC,
+Title,,
+QuestionText,A 39-year-old male sustained a large laceration to his leg during an accident with a chainsaw and is experiencing signs and symptoms of shock. You should first:,
+Points,1,
+Difficulty,1,
+Option,100,a) apply direct pressure to the wound.
+Option,0,b) provide high-flow oxygen.
+Option,0,c) cover the patient with a blanket.
+Option,0,d) obtain baseline vital signs.
+Hint,"Complexity: Moderate			Ahead: Patient Assessment for External and Internal Bleeding			Subject:Bleeding, Page 944			Title: Bleeding			Feedback: See Patient Assessment for External and Internal Bleeding			Taxonomy: Application			Objective: 26-9 Explain how to conduct a primary assessment, including identification of life threats beyond bleeding, ensuring a patent airway, and making a transport decision.",
+NewQuestion,MC,
+Title,,
+QuestionText,Most cases of external bleeding from an extremity can be controlled by:,
+Points,1,
+Difficulty,1,
+Option,0,a) elevating the injured extremity.
+Option,0,b) packing the wound with gauze.
+Option,0,c) compressing a pressure point.
+Option,100,d) applying local direct pressure.
+Hint,"Complexity: Easy			Ahead: Emergency Medical Care for External Bleeding			Subject:Bleeding, Page 944			Title: Bleeding			Feedback: See Patient Assessment for External and Internal Bleeding			Taxonomy: Application			Objective: 26-11 Explain the emergency medical care of the patient with external bleeding.",
+NewQuestion,MC,
+Title,,
+QuestionText,"After applying a pressure dressing to a laceration on a patient’s arm, you notice that blood is slowly beginning to saturate it. You should:",
+Points,1,
+Difficulty,1,
+Option,0,a) replace the dressing with another dressing.
+Option,0,b) apply a tourniquet proximal to the wound.
+Option,0,c) splint the arm and keep it below heart level.
+Option,100,d) place additional dressings over the wound.
+Hint,"Complexity: Difficult			Ahead: Emergency Medical Care for External Bleeding			Subject:Bleeding, Page 945			Title: Bleeding			Feedback: See Emergency Medical Care for External Bleeding			Taxonomy: Application			Objective: 26-11 Explain the emergency medical care of the patient with external bleeding.",
+NewQuestion,MC,
+Title,,
+QuestionText,"If direct pressure fails to immediately stop severe bleeding from an extremity, you should apply:",
+Points,1,
+Difficulty,1,
+Option,0,a) additional sterile dressings.
+Option,0,b) a splint and elevate the extremity.
+Option,100,c) a tourniquet proximal to the injury.
+Option,0,d) digital pressure to a proximal artery.
+Hint,"Complexity: Easy			Ahead: Emergency Medical Care for External Bleeding			Subject:Bleeding, Page 945			Title: Bleeding			Feedback: See Emergency Medical Care for External Bleeding			Taxonomy: Application			Objective: 26-11 Explain the emergency medical care of the patient with external bleeding.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following is not considered a basic technique when controlling bleeding?,
+Points,1,
+Difficulty,1,
+Option,0,a) Pack the wound with a hemostatic impregnated gauze.
+Option,100,b) Apply a cervical collar and place the patient on a long backboard.
+Option,0,c) Apply a tourniquet to an extremity above the level of the bleeding.
+Option,0,"d) Apply direct pressure over the wound with a dry, sterile dressing."
+Hint,"Complexity: Difficult			Ahead: Emergency Medical Care for External Bleeding			Subject:Bleeding, Page 946			Title: Bleeding			Feedback: See Emergency Medical Care for External Bleeding			Taxonomy: Application			Objective: 26-11 Explain the emergency medical care of the patient with external bleeding.",
+NewQuestion,MC,
+Title,,
+QuestionText,"Regardless of the type of tourniquet used, it is important to remember that:",
+Points,1,
+Difficulty,1,
+Option,0,a) you should try to control the bleeding by applying pressure to a proximal arterial pressure point first.
+Option,100,b) the tourniquet should only be removed at the hospital because bleeding might return if the tourniquet is released.
+Option,0,c) bulky dressings should be securely applied over the tourniquet to further assist in controlling the bleeding.
+Option,0,d) the tourniquet should be applied directly over a joint if possible because this provides better bleeding control.
+Hint,"Complexity: Moderate			Ahead: Emergency Medical Care for External Bleeding			Subject:Bleeding, Page 950			Title: Bleeding			Feedback: See Emergency Medical Care for External Bleeding			Taxonomy: Application			Objective: Demonstrate the emergency medical care of the patient with external bleeding using a commercial tourniquet.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following splinting devices would be most appropriate to use for a patient who has an open fracture of the forearm with external bleeding?,
+Points,1,
+Difficulty,1,
+Option,100,a) Air splint
+Option,0,b) Vacuum splint
+Option,0,c) Sling and swathe
+Option,0,d) Cardboard splint
+Hint,"Complexity: Easy			Ahead: Emergency Medical Care for External Bleeding			Subject:Bleeding, Page 951			Title: Bleeding			Feedback: See Emergency Medical Care for External Bleeding			Taxonomy: Application			Objective: 26-11 Explain the emergency medical care of the patient with external bleeding.",
+NewQuestion,MC,
+Title,,
+QuestionText,"You arrive at the home of a 50-year-old female with severe epistaxis. As you are treating her, it is most important to recall that:",
+Points,1,
+Difficulty,1,
+Option,0,a) the patient might be significantly hypertensive.
+Option,100,b) the patient is at risk for vomiting and aspiration.
+Option,0,c) a detailed exam is needed to determine the cause.
+Option,0,d) many medications interfere with blood clotting.
+Hint,"Complexity: Moderate			Ahead: Emergency Medical Care for External Bleeding			Subject:Bleeding, Page 952			Title: Bleeding			Feedback: See Emergency Medical Care for External Bleeding			Taxonomy: Application			Objective: 26-11 Explain the emergency medical care of the patient with external bleeding.",
+NewQuestion,MC,
+Title,,
+QuestionText,A 43-year-old man is experiencing a severe nosebleed. His blood pressure is 190/110 mm Hg and his heart rate is 90 beats/min and bounding. Preferred treatment for this patient includes:,
+Points,1,
+Difficulty,1,
+Option,0,a) having the patient pinch his own nostrils and then lie supine.
+Option,100,b) pinching the patient’s nostrils and having him lean forward.
+Option,0,c) placing a rolled 4 × 4-inch dressing between his lower lip and gum.
+Option,0,d) packing both nostrils with gauze pads until the bleeding stops.
+Hint,"Complexity: Difficult			Ahead: Emergency Medical Care for External Bleeding			Subject:Bleeding, Page 952			Title: Bleeding			Feedback: See Emergency Medical Care for External Bleeding			Taxonomy: Application			Objective: 26-11 Explain the emergency medical care of the patient with external bleeding.",
+NewQuestion,MC,
+Title,,
+QuestionText,Bleeding from the nose following head trauma:,
+Points,1,
+Difficulty,1,
+Option,100,a) is a sign of a skull fracture and should not be stopped.
+Option,0,b) should be controlled by packing the nostril with gauze.
+Option,0,c) should be assumed to be caused by a fractured septum.
+Option,0,d) is usually due to hypertension caused by the head injury.
+Hint,"Complexity: Easy			Ahead: Emergency Medical Care for External Bleeding			Subject:Bleeding, Page 954			Title: Bleeding			Feedback: See Emergency Medical Care for External Bleeding			Taxonomy: Application			Objective: 26-11 Explain the emergency medical care of the patient with external bleeding.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following findings would be the most significant when assessing a patient with possible internal bleeding?,
+Points,1,
+Difficulty,1,
+Option,0,a) The patient had a stroke five years prior.
+Option,0,b) The patient has not eaten in 24 hours.
+Option,100,c) The patient takes rivaroxaban (Xarelto).
+Option,0,d) The patient has a history of hypertension.
+Hint,"Complexity: Difficult			Ahead: Patient Assessment for External and Internal Bleeding			Subject:Bleeding, Page 943			Title: Bleeding			Feedback: See Patient Assessment for External and Internal Bleeding			Taxonomy: Application			Objective: 26-7 Identify the signs and symptoms of internal bleeding.",
+NewQuestion,MC,
+Title,,
+QuestionText,A patient is bleeding severely from a severed femoral artery high in the groin region. Which of the following would most likely control the bleeding?,
+Points,1,
+Difficulty,1,
+Option,0,a) Position the patient with his injured side down.
+Option,0,b) Apply a pelvic binder device to stabilize the pelvis.
+Option,0,c) Apply chemical ice packs to the wound and transport.
+Option,100,d) Apply a topical hemostatic agent with direct pressure.
+Hint,"Complexity: Difficult			Ahead: Emergency Medical Care for External Bleeding			Subject:Bleeding, Page 944			Title: Bleeding			Feedback: See Emergency Medical Care for External Bleeding			Taxonomy: Application			Objective: 26-11 Explain the emergency medical care of the patient with external bleeding.",
+NewQuestion,MC,
+Title,,
+QuestionText,"A 48-year-old male has a suspected open-book pelvic fracture. He is conscious but restless, and his skin is pale and diaphoretic. His respirations are 22 breaths/min and his pulse rate is 120 beats/min. There is no external bleeding noted. The EMT should:",
+Points,1,
+Difficulty,1,
+Option,100,a) apply a compression device around his pelvis.
+Option,0,b) assess his blood pressure to detect hypotension.
+Option,0,c) stabilize his pelvis by placing him onto his side.
+Option,0,"d) elevate his legs, keep him warm, and transport."
+Hint,"Complexity: Difficult			Ahead: Emergency Medical Care for External Bleeding			Subject:Bleeding, Page 951			Title: Bleeding			Feedback: See Emergency Medical Care for External Bleeding			Taxonomy: Application			Objective: 26-12 Explain the emergency medical care of the patient with internal bleeding.",
+NewQuestion,MC,
+Title,,
+QuestionText,"A 70-year-old man presents with a severe nosebleed. His medical history includes chronic obstructive pulmonary disease, depression, and a hemorrhagic stroke three years ago. His BP is 190/110 mm Hg, his pulse is 100 beats/min, and his respirations are 24 breaths/min. His medications include albuterol, sertraline (Zoloft), and multivitamins. Which of the following is most likely causing his nosebleed today?",
+Points,1,
+Difficulty,1,
+Option,100,a) High blood pressure
+Option,0,b) Diabetic complications
+Option,0,c) Hemorrhagic stroke
+Option,0,d) His prescribed albuterol
+Hint,"Complexity: Difficult			Ahead: Emergency Medical Care for External Bleeding			Subject:Bleeding, Page 952			Title: Bleeding			Feedback: See Emergency Medical Care for External Bleeding			Taxonomy: Analysis			Objective: 26-11 Explain the emergency medical care of the patient with external bleeding.",
+NewQuestion,MC,
+Title,,
+QuestionText,Internal bleeding into a fractured extremity is most often controlled by:,
+Points,1,
+Difficulty,1,
+Option,0,a) applying a tourniquet.
+Option,100,b) splinting the extremity.
+Option,0,c) keeping the patient warm.
+Option,0,d) applying chemical ice pack.
+Hint,"Complexity: Easy			Ahead: Emergency Medical Care for Internal Bleeding			Subject:Bleeding, Page 955			Title: Bleeding			Feedback: See Emergency Medical Care for Internal Bleeding			Taxonomy: Recall			Objective: 26-12 Explain the emergency medical care of the patient with internal bleeding.",

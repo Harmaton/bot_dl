@@ -1,0 +1,480 @@
+NewQuestion,MC,
+Title,,
+QuestionText,The upper jawbones are called the:,
+Points,1,
+Difficulty,1,
+Option,0,a) mandible.
+Option,0,b) mastoid.
+Option,0,c) zygoma.
+Option,100,d) maxillae.
+Hint,"Complexity: Easy			Ahead: Anatomy and Physiology			Subject:Face and Neck Injuries, Page 1006			Title: Face and Neck Injuries			Feedback: See Anatomy and Physiology			Taxonomy: Recall			Objective: 28-1 Describe the anatomy and physiology of the head, face, and neck; include major structures and specific important landmarks of which EMTs must be aware.",
+NewQuestion,MC,
+Title,,
+QuestionText,The lower jawbone is called the:,
+Points,1,
+Difficulty,1,
+Option,0,a) zygoma.
+Option,0,b) maxillae.
+Option,100,c) mandible.
+Option,0,d) mastoid.
+Hint,"Complexity: Easy			Ahead: Anatomy and Physiology			Subject:Face and Neck Injuries, Page 1006			Title: Face and Neck Injuries			Feedback: See Anatomy and Physiology			Taxonomy: Recall			Objective: 28-1 Describe the anatomy and physiology of the head, face, and neck; include major structures and specific important landmarks of which EMTs must be aware.",
+NewQuestion,MC,
+Title,,
+QuestionText,"The small, rounded, fleshy bulge immediately anterior to the ear canal is called the:",
+Points,1,
+Difficulty,1,
+Option,0,a) incus.
+Option,0,b) pinna.
+Option,100,c) tragus.
+Option,0,d) stapes.
+Hint,"Complexity: Easy			Ahead: Anatomy and Physiology			Subject:Face and Neck Injuries, Page 1007			Title: Face and Neck Injuries			Feedback: See Anatomy and Physiology			Taxonomy: Recall			Objective: 28-1 Describe the anatomy and physiology of the head, face, and neck; include major structures and specific important landmarks of which EMTs must be aware.",
+NewQuestion,MC,
+Title,,
+QuestionText,The superficial temporal artery can be palpated:,
+Points,1,
+Difficulty,1,
+Option,0,a) slightly above the ear.
+Option,0,b) at the angle of the jaw.
+Option,0,c) over the mastoid process.
+Option,100,d) just anterior to the tragus.
+Hint,"Complexity: Easy			Ahead: Anatomy and Physiology			Subject:Face and Neck Injuries, Page 1007			Title: Face and Neck Injuries			Feedback: See Anatomy and Physiology			Taxonomy: Recall			Objective: 28-1 Describe the anatomy and physiology of the head, face, and neck; include major structures and specific important landmarks of which EMTs must be aware.",
+NewQuestion,MC,
+Title,,
+QuestionText,The mastoid process is located approximately:,
+Points,1,
+Difficulty,1,
+Option,100,a) 1 inch posterior to the external opening of the ear.
+Option,0,b) ½ inch anterior to the external opening of the ear.
+Option,0,c) 1 inch inferior to the external opening of the ear.
+Option,0,d) 1 inch posterior to the angle of the mandible.
+Hint,"Complexity: Easy			Ahead: Anatomy and Physiology			Subject:Face and Neck Injuries, Page 1007			Title: Face and Neck Injuries			Feedback: See Anatomy and Physiology			Taxonomy: Recall			Objective: 28-1 Describe the anatomy and physiology of the head, face, and neck; include major structures and specific important landmarks of which EMTs must be aware.",
+NewQuestion,MC,
+Title,,
+QuestionText,The Adam’s apple is:,
+Points,1,
+Difficulty,1,
+Option,100,a) the upper part of the larynx that is formed by the thyroid cartilage.
+Option,0,b) the lower part of the larynx that is formed by the cricoid cartilage.
+Option,0,c) the small indentation in between the thyroid and cricoid cartilages.
+Option,0,d) below the thyroid cartilage and forms the upper part of the trachea.
+Hint,"Complexity: Moderate			Ahead: Anatomy and Physiology			Subject:Face and Neck Injuries, Page 1007			Title: Face and Neck Injuries			Feedback: See Anatomy and Physiology			Taxonomy: Recall			Objective: 28-1 Describe the anatomy and physiology of the head, face, and neck; include major structures and specific important landmarks of which EMTs must be aware.",
+NewQuestion,MC,
+Title,,
+QuestionText,The cricoid cartilage:,
+Points,1,
+Difficulty,1,
+Option,0,a) lies superior to the thyroid cartilage in the neck.
+Option,100,b) is the only complete circular cartilage of the trachea.
+Option,0,c) is easier to see and palpate than the thyroid cartilage.
+Option,0,d) lies superior to the cricothyroid membrane in the neck.
+Hint,"Complexity: Easy			Ahead: Anatomy and Physiology			Subject:Face and Neck Injuries, Pages 1007-1008			Title: Face and Neck Injuries			Feedback: See Anatomy and Physiology			Taxonomy: Recall			Objective: 28-1 Describe the anatomy and physiology of the head, face, and neck; include major structures and specific important landmarks of which EMTs must be aware.",
+NewQuestion,MC,
+Title,,
+QuestionText,What is the function of the sternocleidomastoid muscle?,
+Points,1,
+Difficulty,1,
+Option,0,a) Allows flexion of the neck
+Option,0,b) Provides respiration
+Option,0,c) Connects the scapulae together
+Option,100,d) Allows movement of the head
+Hint,"Complexity: Moderate			Ahead: Anatomy and Physiology			Subject:Face and Neck Injuries, Page 1008			Title: Face and Neck Injuries			Feedback: See Anatomy and Physiology			Taxonomy: Recall			Objective: 28-1 Describe the anatomy and physiology of the head, face, and neck; include major structures and specific important landmarks of which EMTs must be aware.",
+NewQuestion,MC,
+Title,,
+QuestionText,The eyeball itself is referred to as the:,
+Points,1,
+Difficulty,1,
+Option,0,a) orbit.
+Option,100,b) globe.
+Option,0,c) sclera.
+Option,0,d) cornea.
+Hint,"Complexity: Easy			Ahead: Anatomy and Physiology			Subject:Face and Neck Injuries, Page 1008			Title: Face and Neck Injuries			Feedback: See Anatomy and Physiology			Taxonomy: Recall			Objective: 28-1 Describe the anatomy and physiology of the head, face, and neck; include major structures and specific important landmarks of which EMTs must be aware.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following statements regarding the vitreous humor is correct?,
+Points,1,
+Difficulty,1,
+Option,0,"a) It is a clear, watery fluid that cannot be replaced if it is lost during an eye injury."
+Option,100,"b) It is a clear, jellylike fluid near the back of the eye that cannot be replaced if it is lost."
+Option,0,"c) It is a clear, watery fluid that is located in front of the lens and can be replaced if it is lost."
+Option,0,d) It is a clear fluid that is produced by the lacrimal glands and cannot be replaced if it is lost.
+Hint,"Complexity: Moderate			Ahead: Anatomy and Physiology			Subject:Face and Neck Injuries, Page 1009			Title: Face and Neck Injuries			Feedback: See Anatomy and Physiology			Taxonomy: Recall			Objective: 28-1 Describe the anatomy and physiology of the head, face, and neck; include major structures and specific important landmarks of which EMTs must be aware.",
+NewQuestion,MC,
+Title,,
+QuestionText,The inner surface of the eyelids and the exposed surface of the eye itself are covered by a delicate membrane called the:,
+Points,1,
+Difficulty,1,
+Option,0,a) sclera.
+Option,0,b) cornea.
+Option,0,c) retina.
+Option,100,d) conjunctiva.
+Hint,"Complexity: Easy			Ahead: Anatomy and Physiology			Subject:Face and Neck Injuries, Page 1009			Title: Face and Neck Injuries			Feedback: See Anatomy and Physiology			Taxonomy: Recall			Objective: 28-1 Describe the anatomy and physiology of the head, face, and neck; include major structures and specific important landmarks of which EMTs must be aware.",
+NewQuestion,MC,
+Title,,
+QuestionText,The conjunctiva are kept moist by fluid produced by the:,
+Points,1,
+Difficulty,1,
+Option,0,a) corneal duct.
+Option,0,b) posterior orbit.
+Option,0,c) optic chiasma.
+Option,100,d) lacrimal gland.
+Hint,"Complexity: Easy			Ahead: Anatomy and Physiology			Subject:Face and Neck Injuries, Page 1009			Title: Face and Neck Injuries			Feedback: See Anatomy and Physiology			Taxonomy: Recall			Objective: 28-1 Describe the anatomy and physiology of the head, face, and neck; include major structures and specific important landmarks of which EMTs must be aware.",
+NewQuestion,MC,
+Title,,
+QuestionText,The white portion of the eye is called the:,
+Points,1,
+Difficulty,1,
+Option,0,a) iris.
+Option,0,b) retina.
+Option,100,c) sclera.
+Option,0,d) cornea.
+Hint,"Complexity: Easy			Ahead: Anatomy and Physiology			Subject:Face and Neck Injuries, Page 1009			Title: Face and Neck Injuries			Feedback: See Anatomy and Physiology			Taxonomy: Recall			Objective: 28-1 Describe the anatomy and physiology of the head, face, and neck; include major structures and specific important landmarks of which EMTs must be aware.",
+NewQuestion,MC,
+Title,,
+QuestionText,"The opening in the center of the iris, which allows light to move to the back of the eye, is called the:",
+Points,1,
+Difficulty,1,
+Option,100,a) pupil.
+Option,0,b) sclera.
+Option,0,c) cornea.
+Option,0,d) conjunctiva.
+Hint,"Complexity: Moderate			Ahead: Anatomy and Physiology			Subject:Face and Neck Injuries, Page 1009			Title: Face and Neck Injuries			Feedback: See Anatomy and Physiology			Taxonomy: Recall			Objective: 28-1 Describe the anatomy and physiology of the head, face, and neck; include major structures and specific important landmarks of which EMTs must be aware.",
+NewQuestion,MC,
+Title,,
+QuestionText,When a light is shone into the pupil:,
+Points,1,
+Difficulty,1,
+Option,0,a) the opposite pupil should dilate.
+Option,100,b) it should become smaller in size.
+Option,0,c) it should become larger in size.
+Option,0,d) both pupils should dilate together.
+Hint,"Complexity: Easy			Ahead: Anatomy and Physiology			Subject:Face and Neck Injuries, Page 1009			Title: Face and Neck Injuries			Feedback: See Anatomy and Physiology			Taxonomy: Application			Objective: 28-1 Describe the anatomy and physiology of the head, face, and neck; include major structures and specific important landmarks of which EMTs must be aware.",
+NewQuestion,MC,
+Title,,
+QuestionText,Abnormal variations in pupil size and reaction would most likely be observed in a patient with:,
+Points,1,
+Difficulty,1,
+Option,0,a) retinitis.
+Option,0,b) contact lenses.
+Option,0,c) conjunctivitis.
+Option,100,d) a brain injury.
+Hint,"Complexity: Moderate			Ahead: Anatomy and Physiology			Subject:Face and Neck Injuries, Page 1009			Title: Face and Neck Injuries			Feedback: See Anatomy and Physiology			Taxonomy: Recall			Objective: 28-1 Describe the anatomy and physiology of the head, face, and neck; include major structures and specific important landmarks of which EMTs must be aware.",
+NewQuestion,MC,
+Title,,
+QuestionText,The optic nerve endings are located within the:,
+Points,1,
+Difficulty,1,
+Option,100,a) retina.
+Option,0,b) sclera.
+Option,0,c) pupil.
+Option,0,d) cornea.
+Hint,"Complexity: Easy			Ahead: Anatomy and Physiology			Subject:Face and Neck Injuries, Page 1009			Title: Face and Neck Injuries			Feedback: See Anatomy and Physiology			Taxonomy: Recall			Objective: 28-1 Describe the anatomy and physiology of the head, face, and neck; include major structures and specific important landmarks of which EMTs must be aware.",
+NewQuestion,MC,
+Title,,
+QuestionText,The most significant complication associated with facial injuries is:,
+Points,1,
+Difficulty,1,
+Option,0,a) damage to the eyes.
+Option,100,b) airway compromise.
+Option,0,c) cervical spine injury.
+Option,0,d) mandibular immobility.
+Hint,"Complexity: Easy			Ahead: Injuries of the Face and Neck			Subject:Face and Neck Injuries, Page 1009			Title: Face and Neck Injuries			Feedback: See Injuries of the Face and Neck			Taxonomy: Recall			Objective: 28-2 Describe the factors that may cause obstruction of the upper airway following a facial injury.",
+NewQuestion,MC,
+Title,,
+QuestionText,The skin and underlying tissues of the face:,
+Points,1,
+Difficulty,1,
+Option,100,a) have a rich blood supply and bleed profusely.
+Option,0,b) swell minimally when exposed to blunt trauma.
+Option,0,c) are well protected by the maxillae and mandible.
+Option,0,d) contain a relatively small number of nerve fibers.
+Hint,"Complexity: Easy			Ahead: Injuries of the Face and Neck			Subject:Face and Neck Injuries, Page 1010			Title: Face and Neck Injuries			Feedback: See Injuries of the Face and Neck			Taxonomy: Application			Objective: 28-3 Discuss the different types of facial injuries and the patient care considerations related to each one.",
+NewQuestion,MC,
+Title,,
+QuestionText,"When caring for a patient with an open facial injury, the EMT’s immediate priority should be to:",
+Points,1,
+Difficulty,1,
+Option,0,a) closely assess the patient’s airway.
+Option,0,b) consider the mechanism of injury.
+Option,100,c) wear gloves and facial protection.
+Option,0,d) manually stabilize the patient’s head.
+Hint,"Complexity: Moderate			Ahead: Patient Assessment			Subject:Face and Neck Injuries, Page 1011			Title: Face and Neck Injuries			Feedback: See Patient Assessment			Taxonomy: Recall			Objective: 28-4 Explain the emergency care of a patient who has sustained face and neck injuries; include assessment of the patient, review of signs and symptoms, and management of care.",
+NewQuestion,MC,
+Title,,
+QuestionText,Facial injuries should be identified and treated as soon as possible because:,
+Points,1,
+Difficulty,1,
+Option,100,a) of the risk for airway problems.
+Option,0,b) bleeding must be controlled early.
+Option,0,c) the spine might be injured as well.
+Option,0,d) swelling might mask hidden injuries.
+Hint,"Complexity: Easy			Ahead: Patient Assessment			Subject:Face and Neck Injuries, Page 1011			Title: Face and Neck Injuries			Feedback: See Patient Assessment			Taxonomy: Application			Objective: 28-3 Discuss the different types of facial injuries and the patient care considerations related to each one.",
+NewQuestion,MC,
+Title,,
+QuestionText,Significant trauma to the face should increase the EMT’s index of suspicion for a(n):,
+Points,1,
+Difficulty,1,
+Option,0,a) airway obstruction.
+Option,0,b) displaced mandible.
+Option,0,c) basilar skull fracture.
+Option,100,d) spinal column injury.
+Hint,"Complexity: Difficult			Ahead: Patient Assessment			Subject:Face and Neck Injuries, Page 1012			Title: Face and Neck Injuries			Feedback: See Patient Assessment			Taxonomy: Recall			Objective: 28-4 Explain the emergency care of a patient who has sustained face and neck injuries; include assessment of the patient, review of signs and symptoms, and management of care.",
+NewQuestion,MC,
+Title,,
+QuestionText,"A 30-year-old female was robbed and assaulted as she was leaving a nightclub. She has massive facial trauma and slow, gurgling respirations. As your partner manually stabilizes her head, you should:",
+Points,1,
+Difficulty,1,
+Option,0,a) begin immediate ventilatory assistance.
+Option,0,b) visualize her mouth for obvious wounds.
+Option,0,c) apply oxygen via a nonrebreathing mask.
+Option,100,d) suction her oropharynx.
+Hint,"Complexity: Difficult			Ahead: Patient Assessment			Subject:Face and Neck Injuries, Page 1014			Title: Face and Neck Injuries			Feedback: See Patient Assessment			Taxonomy: Application			Objective: 28-4 Explain the emergency care of a patient who has sustained face and neck injuries; include assessment of the patient, review of signs and symptoms and management of care.",
+NewQuestion,MC,
+Title,,
+QuestionText,"A young female was involved in a motor vehicle crash. She complains of pain to her left eye, which appears to have a piece of glass impaled in it. Further assessment reveals a large laceration to her left forearm with active venous bleeding. As your partner manually stabilizes the patient’s head, you should:",
+Points,1,
+Difficulty,1,
+Option,0,a) stabilize the impaled glass in her eye.
+Option,0,b) administer 100% supplemental oxygen.
+Option,100,c) apply direct pressure to her arm wound.
+Option,0,d) carefully remove the glass from her eye.
+Hint,"Complexity: Moderate			Ahead: Patient Assessment			Subject:Face and Neck Injuries, Page 1012			Title: Face and Neck Injuries			Feedback: See Patient Assessment			Taxonomy: Application			Objective: 28-4 Explain the emergency care of a patient who has sustained face and neck injuries; include assessment of the patient, review of signs and symptoms, and management of care.",
+NewQuestion,MC,
+Title,,
+QuestionText,"You are assessing a 59-year-old male and note that his pupils are unequal. He is conscious and alert. When obtaining his medical history, it is most pertinent to ask him if he:",
+Points,1,
+Difficulty,1,
+Option,0,a) is allergic to any medications.
+Option,100,b) has a history of eye surgeries.
+Option,0,c) regularly sees a family physician.
+Option,0,d) noticed the change during a meal.
+Hint,"Complexity: Difficult			Ahead: Patient Assessment			Subject:Face and Neck Injuries, Page 1013			Title: Face and Neck Injuries			Feedback: See Patient Assessment			Taxonomy: Application			Objective: 28-4 Explain the emergency care of a patient who has sustained face and neck injuries; include assessment of the patient, review of signs and symptoms, and management of care.",
+NewQuestion,MC,
+Title,,
+QuestionText,Frequent reassessments of the patient with face or neck injuries are most important because:,
+Points,1,
+Difficulty,1,
+Option,0,a) they lend credibility to your documentation.
+Option,100,b) such injuries can affect the respiratory system.
+Option,0,c) hospital staff require frequent patient updates.
+Option,0,d) rapid facial swelling might mask hidden injuries.
+Hint,"Complexity: Easy			Ahead: Patient Assessment			Subject:Face and Neck Injuries, Page 1014			Title: Face and Neck Injuries			Feedback: See Patient Assessment			Taxonomy: Application			Objective: 28-3 Discuss the different types of facial injuries and the patient care considerations related to each one.",
+NewQuestion,MC,
+Title,,
+QuestionText,"When transporting a patient with a facial injury, it is most important to be as descriptive as possible with the hospital regarding the patient’s injuries because:",
+Points,1,
+Difficulty,1,
+Option,0,a) they must make arrangements for an ICU bed.
+Option,100,b) they might need to call a specialist to see the patient.
+Option,0,c) it saves time on repeat assessments at the hospital.
+Option,0,d) most patients with facial trauma will need surgery.
+Hint,"Complexity: Easy			Ahead: Patient Assessment			Subject:Face and Neck Injuries, Page 1012			Title: Face and Neck Injuries			Feedback: See Patient Assessment			Taxonomy: Application			Objective: 28-4 Explain the emergency care of a patient who has sustained face and neck injuries; include assessment of the patient, review of signs and symptoms, and management of care.",
+NewQuestion,MC,
+Title,,
+QuestionText,"You are transporting an immobilized patient with severe facial trauma. As you are preparing to give your radio report to the hospital, the patient begins vomiting large amounts of blood. You should:",
+Points,1,
+Difficulty,1,
+Option,0,a) quickly suction his oropharynx.
+Option,100,b) turn the backboard onto its side.
+Option,0,c) reassess his breathing adequacy.
+Option,0,d) alert the hospital of the situation.
+Hint,"Complexity: Difficult			Ahead: Emergency Medical Care			Subject:Face and Neck Injuries, Page 1015			Title: Face and Neck Injuries			Feedback: See Emergency Medical Care			Taxonomy: Application			Objective: 28-4 Explain the emergency care of a patient who has sustained face and neck injuries; include assessment of the patient, review of signs and symptoms, and management of care.",
+NewQuestion,MC,
+Title,,
+QuestionText,Bleeding from soft-tissue injuries to the face is most effectively controlled with:,
+Points,1,
+Difficulty,1,
+Option,0,a) pressure dressings and chemical ice packs.
+Option,0,b) digital pressure to an adjacent pulse point.
+Option,100,"c) direct pressure using dry, sterile dressings."
+Option,0,d) ice packs and elevation of the patient’s head.
+Hint,"Complexity: Easy			Ahead: Emergency Medical Care			Subject:Face and Neck Injuries, Page 1015			Title: Face and Neck Injuries			Feedback: See Emergency Medical Care			Taxonomy: Recall			Objective: 28-5 Explain emergency medical care of a patient with soft-tissue wounds of the face and neck.",
+NewQuestion,MC,
+Title,,
+QuestionText,"A 30-year-old female presents with redness, inflammation, and pain to her left eye. During your assessment, you note that she is having difficulty keeping her eyes open. You should suspect that she is experiencing:",
+Points,1,
+Difficulty,1,
+Option,0,a) acute retinitis.
+Option,100,b) conjunctivitis.
+Option,0,c) a detached retina.
+Option,0,d) a corneal abrasion.
+Hint,"Complexity: Difficult			Ahead: Emergency Medical Care for Specific Injuries			Subject:Face and Neck Injuries, Page 1017			Title: Face and Neck Injuries			Feedback: See Emergency Medical Care for Specific Injuries			Taxonomy: Application			Objective: 28-6 Explain the emergency medical care of a patient with an eye injury based on the following scenarios: foreign object, impaled object, burns, lacerations, blunt trauma, closed head injuries, and blast injuries.",
+NewQuestion,MC,
+Title,,
+QuestionText,A 22-year-old male was walking on the beach and had sand blown into his eyes. He complains of pain and decreased vision to his right eye. Treatment should include:,
+Points,1,
+Difficulty,1,
+Option,100,a) irrigating his right eye laterally.
+Option,0,b) flushing his eye starting laterally.
+Option,0,c) irrigating both eyes simultaneously.
+Option,0,d) covering both eyes and transporting.
+Hint,"Complexity: Moderate			Ahead: Emergency Medical Care for Specific Injuries			Subject:Face and Neck Injuries, Page 1017			Title: Face and Neck Injuries			Feedback: See Emergency Medical Care for Specific Injuries			Taxonomy: Application			Objective: 28-6 Explain the emergency medical care of a patient with an eye injury based on the following scenarios: foreign object, impaled object, burns, lacerations, blunt trauma, closed head injuries, and blast injuries.",
+NewQuestion,MC,
+Title,,
+QuestionText,"A 40-year-old male was in his woodworking shop when he felt a sudden, sharp pain in his left eye. Your assessment reveals a small splinter of wood embedded in his cornea. You should:",
+Points,1,
+Difficulty,1,
+Option,0,"a) scrape the splinter away with moist, sterile gauze."
+Option,0,b) cover his right eye and flush the left eye with saline.
+Option,100,c) cover both of his eyes and transport to the hospital.
+Option,0,d) remove the object with a cotton-tipped applicator.
+Hint,"Complexity: Difficult			Ahead: Emergency Medical Care for Specific Injuries			Subject:Face and Neck Injuries, Page 1019			Title: Face and Neck Injuries			Feedback: See Emergency Medical Care for Specific Injuries			Taxonomy: Application			Objective: 28-6 Explain the emergency medical care of a patient with an eye injury based on the following scenarios: foreign object, impaled object, burns, lacerations, blunt trauma, closed head injuries, and blast injuries.",
+NewQuestion,MC,
+Title,,
+QuestionText,A factory worker was splashed in the eyes with a strong acid chemical. He complains of intense pain and blurred vision. Your ambulance does not carry bottles of sterile saline or water. You should:,
+Points,1,
+Difficulty,1,
+Option,0,a) flush both eyes with an alcohol-based solution and transport.
+Option,100,b) irrigate both eyes continuously for 20 minutes with plain water.
+Option,0,c) neutralize the acid chemical in his eye with an alkaline chemical.
+Option,0,d) mix baking soda with water and irrigate his eyes with the solution.
+Hint,"Complexity: Difficult			Ahead: Emergency Medical Care for Specific Injuries			Subject:Face and Neck Injuries, Page 1021			Title: Face and Neck Injuries			Feedback: See Emergency Medical Care for Specific Injuries			Taxonomy: Application			Objective: 28-6 Explain the emergency medical care of a patient with an eye injury based on the following scenarios: foreign object, impaled object, burns, lacerations, blunt trauma, closed head injuries, and blast injuries.",
+NewQuestion,MC,
+Title,,
+QuestionText,"A young female experienced a laceration to her left eyeball from flying glass when her boyfriend broke a soda bottle against a wall. There is moderate bleeding, and the patient states that she cannot see out of the injured eye. You should:",
+Points,1,
+Difficulty,1,
+Option,0,a) carefully examine her eye and remove any foreign objects if needed.
+Option,100,b) avoid applying pressure to the globe when you are covering the eye.
+Option,0,c) ask her to move the injured eye to assess the integrity of the optic nerve.
+Option,0,d) apply firm direct pressure to the injured eye and cover the opposite eye.
+Hint,"Complexity: Difficult			Ahead: Emergency Medical Care for Specific Injuries			Subject:Face and Neck Injuries, Page 1023			Title: Face and Neck Injuries			Feedback: See Emergency Medical Care for Specific Injuries			Taxonomy: Application			Objective: 28-6 Explain the emergency medical care of a patient with an eye injury based on the following scenarios: foreign object, impaled object, burns, lacerations, blunt trauma, closed head injuries, and blast injuries.",
+NewQuestion,MC,
+Title,,
+QuestionText,The term “hyphema” is defined as:,
+Points,1,
+Difficulty,1,
+Option,100,a) blood in the anterior chamber of the eye.
+Option,0,b) an acute rupture of the globe of the eye.
+Option,0,"c) inflammation of the iris, cornea, and lens."
+Option,0,d) compression of one or both optic nerves.
+Hint,"Complexity: Easy			Ahead: Emergency Medical Care for Specific Injuries			Subject:Face and Neck Injuries, Page 1024			Title: Face and Neck Injuries			Feedback: See Emergency Medical Care for Specific Injuries			Taxonomy: Recall			Objective: 28-6 Explain the emergency medical care of a patient with an eye injury based on the following scenarios: foreign object, impaled object, burns, lacerations, blunt trauma, closed head injuries, and blast injuries.",
+NewQuestion,MC,
+Title,,
+QuestionText,"Following blunt trauma to the face, a 21-year-old male complains of a severe headache and decreased ability to move his eyes. This patient’s clinical presentation is most consistent with:",
+Points,1,
+Difficulty,1,
+Option,0,a) a lacerated globe.
+Option,100,b) a blow-out fracture.
+Option,0,c) a ruptured eyeball.
+Option,0,d) optic vessel compression.
+Hint,"Complexity: Difficult			Ahead: Emergency Medical Care for Specific Injuries			Subject:Face and Neck Injuries, Page 1025			Title: Face and Neck Injuries			Feedback: See Emergency Medical Care for Specific Injuries			Taxonomy: Analysis			Objective: 28-6 Explain the emergency medical care of a patient with an eye injury based on the following scenarios: foreign object, impaled object, burns, lacerations, blunt trauma, closed head injuries, and blast injuries.",
+NewQuestion,MC,
+Title,,
+QuestionText,"A patient who is complaining of seeing flashing lights, specks, or “floaters” in his or her field of vision has most likely experienced:",
+Points,1,
+Difficulty,1,
+Option,0,a) conjunctivitis.
+Option,0,b) acute hyphema.
+Option,0,c) a blow-out fracture.
+Option,100,d) a detached retina.
+Hint,"Complexity: Moderate			Ahead: Emergency Medical Care for Specific Injuries			Subject:Face and Neck Injuries, Page 1025			Title: Face and Neck Injuries			Feedback: See Emergency Medical Care for Specific Injuries			Taxonomy: Application			Objective: 28-6 Explain the emergency medical care of a patient with an eye injury based on the following scenarios: foreign object, impaled object, burns, lacerations, blunt trauma, closed head injuries, and blast injuries.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following findings would be least suggestive of a head injury?,
+Points,1,
+Difficulty,1,
+Option,0,a) One pupil larger in size than the other pupil
+Option,0,b) Failure of the eyes to move in the same direction
+Option,100,c) Briskly constricting pupils when exposed to light
+Option,0,d) Failure of the eyes to follow movement of an object
+Hint,"Complexity: Moderate			Ahead: Emergency Medical Care for Specific Injuries			Subject:Face and Neck Injuries, Pages 1025-1026			Title: Face and Neck Injuries			Feedback: See Emergency Medical Care for Specific Injuries			Taxonomy: Application			Objective: 28-6 Explain the emergency medical care of a patient with an eye injury based on the following scenarios: foreign object, impaled object, burns, lacerations, blunt trauma, closed head injuries, and blast injuries.",
+NewQuestion,MC,
+Title,,
+QuestionText,"A 39-year-old female experienced a severe closed head injury. She is unresponsive with her eyes slightly open; her pupils are bilaterally dilated and slow to react. In addition to managing problems with airway, breathing, and circulation, you should:",
+Points,1,
+Difficulty,1,
+Option,100,a) close her eyes and cover them with a moist dressing.
+Option,0,b) secure her eyes open so you can reassess her pupils.
+Option,0,c) inspect her eyes and gently remove impaled objects.
+Option,0,d) irrigate her eyes with water to prevent mucosal drying.
+Hint,"Complexity: Difficult			Ahead: Emergency Medical Care for Specific Injuries			Subject:Face and Neck Injuries, Page 1026			Title: Face and Neck Injuries			Feedback: See Emergency Medical Care for Specific Injuries			Taxonomy: Application			Objective: 28-6 Explain the emergency medical care of a patient with an eye injury based on the following scenarios: foreign object, impaled object, burns, lacerations, blunt trauma, closed head injuries, and blast injuries.",
+NewQuestion,MC,
+Title,,
+QuestionText,"A 50-year-old male was splashed in the eyes with radiator fluid when he was working on his car. During your assessment, he tells you that he wears soft contact lenses. You should:",
+Points,1,
+Difficulty,1,
+Option,0,a) leave the contact lenses in place and flush his eyes with sterile water.
+Option,0,"b) remove the contact lenses and cover his eyes with a dry, sterile dressing."
+Option,0,c) leave the contact lenses in place and cover both eyes with a dry dressing.
+Option,100,d) carefully remove the contact lenses and then irrigate his eyes with saline.
+Hint,"Complexity: Difficult			Ahead: Emergency Medical Care for Specific Injuries			Subject:Face and Neck Injuries, Page 1021			Title: Face and Neck Injuries			Feedback: See Emergency Medical Care for Specific Injuries			Taxonomy: Application			Objective: 28-6 Explain the emergency medical care of a patient with an eye injury based on the following scenarios: foreign object, impaled object, burns, lacerations, blunt trauma, closed head injuries, and blast injuries.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following statements regarding anterior nosebleeds is correct?,
+Points,1,
+Difficulty,1,
+Option,0,a) They cause blood to drain into the posterior pharynx.
+Option,0,b) They are usually severe and require aggressive treatment to control.
+Option,0,c) They are usually caused by a fracture of the basilar skull.
+Option,100,d) They usually originate from the septum area and bleed slowly.
+Hint,"Complexity: Moderate			Ahead: Emergency Medical Care for Specific Injuries			Subject:Face and Neck Injuries, Page 1027			Title: Face and Neck Injuries			Feedback: See Emergency Medical Care for Specific Injuries			Taxonomy: Application			Objective: 28-8 Explain emergency medical care of a patient with injuries of the nose.",
+NewQuestion,MC,
+Title,,
+QuestionText,A 29-year-old male has an anterior nosebleed after he was accidentally elbowed in the nose. He is conscious and alert with adequate breathing. The most appropriate care for this patient includes:,
+Points,1,
+Difficulty,1,
+Option,100,a) leaning him forward and pinching his nostrils together.
+Option,0,"b) packing the nasopharynx with moist, sterile dressings."
+Option,0,c) applying a gauze pad in between his lower lip and gum.
+Option,0,d) placing him supine and pinching his nostrils together.
+Hint,"Complexity: Difficult			Ahead: Emergency Medical Care for Specific Injuries			Subject:Face and Neck Injuries, Page 1028			Title: Face and Neck Injuries			Feedback: See Emergency Medical Care for Specific Injuries			Taxonomy: Application			Objective: 28-8 Explain emergency medical care of a patient with injuries of the nose.",
+NewQuestion,MC,
+Title,,
+QuestionText,A 44-year-old male sustained a laceration to his left ear during a minor car accident. Your assessment reveals minimal bleeding. Appropriate care for this injury includes:,
+Points,1,
+Difficulty,1,
+Option,0,a) applying a tight pressure dressing.
+Option,100,b) padding between the ear and the scalp.
+Option,0,c) packing the ear with sterile gauze pads.
+Option,0,d) covering the wound with a moist dressing.
+Hint,"Complexity: Difficult			Ahead: Emergency Medical Care for Specific Injuries			Subject:Face and Neck Injuries, Page 1028			Title: Face and Neck Injuries			Feedback: See Emergency Medical Care for Specific Injuries			Taxonomy: Application			Objective: 28-9 Explain the emergency medical care of a patient with injuries of the ear, including lacerations and foreign body insertions.",
+NewQuestion,MC,
+Title,,
+QuestionText,A 4-year-old female has a peanut lodged in the external auditory canal of her right ear. You should:,
+Points,1,
+Difficulty,1,
+Option,0,a) use tweezers to try to remove the object.
+Option,0,b) remove the peanut with a cotton-tipped swab.
+Option,100,c) transport her to the emergency department.
+Option,0,d) thoroughly flush her ear with sterile saline.
+Hint,"Complexity: Difficult			Ahead: Emergency Medical Care for Specific Injuries			Subject:Face and Neck Injuries, Page 1030			Title: Face and Neck Injuries			Feedback: See Emergency Medical Care for Specific Injuries			Taxonomy: Application			Objective: 28-9 Explain the emergency medical care of a patient with injuries of the ear, including lacerations and foreign body insertions.",
+NewQuestion,MC,
+Title,,
+QuestionText,"A 52-year-old unrestrained female struck the steering wheel with her face when her truck collided with another vehicle. She has obvious swelling to her face and several dislodged teeth. A visual exam of her mouth reveals minimal bleeding. She is conscious and alert with a blood pressure of 130/80 mm Hg, a pulse of 110 beats/min, and respirations of 22 breaths/min with adequate tidal volume. You should:",
+Points,1,
+Difficulty,1,
+Option,100,"a) fully immobilize her spine, attempt to locate the dislodged teeth, suction as needed, and transport."
+Option,0,"b) assist ventilations with a BVM device, immobilize her spine, suction her oropharynx for 30 seconds, and transport."
+Option,0,"c) fully immobilize her spine, irrigate her empty tooth sockets, attempt to locate the dislodged teeth, and transport."
+Option,0,"d) apply oxygen via a nonrebreathing mask, suction her airway as needed, disregard the dislodged teeth, and transport."
+Hint,"Complexity: Difficult			Ahead: Emergency Medical Care for Specific Injuries			Subject:Face and Neck Injuries, Page 1032			Title: Face and Neck Injuries			Feedback: See Emergency Medical Care for Specific Injuries			Taxonomy: Application			Objective: 28-10 Explain the physical findings and emergency care of a patient with a facial fracture.",
+NewQuestion,MC,
+Title,,
+QuestionText,"A 6-year-old female was riding her bicycle and struck a clothesline with her throat. She is breathing but with obvious difficulty. Your assessment reveals a crackling sensation in the soft tissues of her neck and facial cyanosis. In addition to the appropriate airway management, the intervention that will most likely improve her chance of survival is:",
+Points,1,
+Difficulty,1,
+Option,0,a) requesting a paramedic ambulance.
+Option,0,b) carefully monitoring her vital signs.
+Option,100,c) rapidly transporting her to the hospital.
+Option,0,d) quickly immobilizing her spinal column.
+Hint,"Complexity: Difficult			Ahead: Emergency Medical Care for Specific Injuries			Subject:Face and Neck Injuries, Page 1032			Title: Face and Neck Injuries			Feedback: See Emergency Medical Care for Specific Injuries			Taxonomy: Application			Objective: 28-12 Explain the emergency medical care of a patient with an upper airway injury caused by blunt trauma.",
+NewQuestion,MC,
+Title,,
+QuestionText,"Following direct trauma to the upper part of the anterior neck, a young male presents with labored breathing, loss of voice, and subcutaneous emphysema in the soft tissues around his neck. You should suspect a(n):",
+Points,1,
+Difficulty,1,
+Option,0,a) esophageal tear.
+Option,0,b) crushed cricoid.
+Option,0,c) collapsed trachea.
+Option,100,d) laryngeal fracture.
+Hint,"Complexity: Difficult			Ahead: Emergency Medical Care for Specific Injuries			Subject:Face and Neck Injuries, Page 1033			Title: Face and Neck Injuries			Feedback: See Emergency Medical Care for Specific Injuries			Taxonomy: Analysis			Objective: 28-12 Explain the emergency medical care of a patient with an upper airway injury caused by blunt trauma.",
+NewQuestion,MC,
+Title,,
+QuestionText,"You are dispatched to a convenience store, where the clerk sustained a laceration to the side of his neck during a robbery attempt. During your assessment, you note bright red blood spurting from the laceration. You should:",
+Points,1,
+Difficulty,1,
+Option,0,a) apply direct pressure below the lacerated vessel.
+Option,0,b) circumferentially wrap a dressing around his neck.
+Option,0,c) apply pressure to the closest arterial pressure point.
+Option,100,d) apply direct pressure above and below the wound.
+Hint,"Complexity: Difficult			Ahead: Emergency Medical Care for Specific Injuries			Subject:Face and Neck Injuries, Page 1032			Title: Face and Neck Injuries			Feedback: See Emergency Medical Care for Specific Injuries			Taxonomy: Application			Objective: 28-13 Explain the emergency medical care of the patient with a penetrating injury to the neck; include how to control regular and life-threatening bleeding.",

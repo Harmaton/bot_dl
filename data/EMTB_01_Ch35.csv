@@ -1,0 +1,1100 @@
+NewQuestion,MC,
+Title,,
+QuestionText,The first month of life after birth is referred to as the:,
+Points,1,
+Difficulty,1,
+Option,100,a) neonatal period.
+Option,0,b) toddler period.
+Option,0,c) start of infancy.
+Option,0,d) premature phase.
+Hint,"Complexity: Easy			Ahead: Growth and Development			Subject:Pediatric Emergencies, Page 1285			Title: Pediatric Emergencies			Feedback: See Growth and Development			Taxonomy: Recall			Objective: 35-2 Discuss the physical and cognitive developmental stages of an infant, including health risks, signs that may indicate illness, and patient assessment.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following statements regarding a 3-month-old infant is correct?,
+Points,1,
+Difficulty,1,
+Option,0,a) The infant is unable to turn his or her head and focus.
+Option,0,b) The infant should be aroused easily from a sleeping state.
+Option,0,"c) At this age, the infant typically sleeps for up to 8 hours a day."
+Option,100,d) A 3-month-old infant can distinguish a parent from a stranger.
+Hint,"Complexity: Easy			Ahead: Growth and Development			Subject:Pediatric Emergencies, Page 1285			Title: Pediatric Emergencies			Feedback: See Growth and Development			Taxonomy: Recall			Objective: 35-2 Discuss the physical and cognitive developmental stages of an infant, including health risks, signs that may indicate illness, and patient assessment.",
+NewQuestion,MC,
+Title,,
+QuestionText,A child might begin to show signs of separation anxiety as early as:,
+Points,1,
+Difficulty,1,
+Option,0,a) 2 months.
+Option,100,b) 6 months.
+Option,0,c) 12 months.
+Option,0,d) 18 months.
+Hint,"Complexity: Easy			Ahead: Growth and Development			Subject:Pediatric Emergencies, Page 1285			Title: Pediatric Emergencies			Feedback: See Growth and Development			Taxonomy: Recall			Objective: 35-2 Discuss the physical and cognitive developmental stages of an infant, including health risks, signs that may indicate illness, and patient assessment.",
+NewQuestion,MC,
+Title,,
+QuestionText,"Unless he or she is critically ill or injured, you should generally begin your assessment of a toddler:",
+Points,1,
+Difficulty,1,
+Option,100,a) at the feet.
+Option,0,b) at the head.
+Option,0,c) in the ambulance.
+Option,0,d) en route to the hospital.
+Hint,"Complexity: Moderate			Ahead: Growth and Development			Subject:Pediatric Emergencies, Page 1286			Title: Pediatric Emergencies			Feedback: See Growth and Development			Taxonomy: Recall			Objective: 35-3 Discuss the physical and cognitive developmental stages of a toddler, including health risks, signs that may indicate illness, and patient assessment.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following statements regarding preschool-age children is correct?,
+Points,1,
+Difficulty,1,
+Option,0,a) They realize that injuries are not a form of punishment.
+Option,0,b) Preschoolers are usually not fearful of pain or separation.
+Option,0,c) The preschool age begins after the child turns 2 years old.
+Option,100,d) They can usually identify painful areas when questioned.
+Hint,"Complexity: Moderate			Ahead: Growth and Development			Subject:Pediatric Emergencies, Page 1287			Title: Pediatric Emergencies			Feedback: See Growth and Development			Taxonomy: Recall			Objective: 35-4 Discuss the physical and cognitive developmental stages of a preschool-age child, including health risks, signs that may indicate illness, and patient assessment.",
+NewQuestion,MC,
+Title,,
+QuestionText,"When assessing an 8-year-old child, you should:",
+Points,1,
+Difficulty,1,
+Option,0,a) refrain from taking a blood pressure.
+Option,100,"b) talk to the child, not just the caregiver."
+Option,0,c) use a toe-to-head assessment approach.
+Option,0,d) rely solely on the parent for information.
+Hint,"Complexity: Easy			Ahead: Growth and Development			Subject:Pediatric Emergencies, Page 1288			Title: Pediatric Emergencies			Feedback: See Growth and Development			Taxonomy: Recall			Objective: 35-5 Discuss the physical and cognitive developmental stages of a school-age child, including health risks, signs that may indicate illness, and patient assessment.",
+NewQuestion,MC,
+Title,,
+QuestionText,"When assessing or treating an adolescent patient, it is important to remember that:",
+Points,1,
+Difficulty,1,
+Option,100,a) they usually do not wish to be observed during a procedure.
+Option,0,b) it is generally not necessary to explain procedures in advance.
+Option,0,c) they often request medication to help in the relief of severe pain.
+Option,0,d) they cannot understand complex concepts and treatment options.
+Hint,"Complexity: Moderate			Ahead: Growth and Development			Subject:Pediatric Emergencies, Page 1289			Title: Pediatric Emergencies			Feedback: See Growth and Development			Taxonomy: Recall			Objective: 35-6 Discuss the physical and cognitive developmental stages of an adolescent, including health risks, patient assessment, and privacy issues.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following statements regarding a pediatric patient’s anatomy is correct?,
+Points,1,
+Difficulty,1,
+Option,0,a) The tracheal rings of a child are more rigid than an adult’s tracheal rings.
+Option,0,b) A child’s tongue is proportionately smaller than an adult’s tongue.
+Option,100,"c) Children have a larger, rounder occiput compared to adults."
+Option,0,d) The child’s epiglottis is less floppy and smaller than an adult’s epiglottis.
+Hint,"Complexity: Easy			Ahead: Anatomy and Physiology			Subject:Pediatric Emergencies, Page 1290			Title: Pediatric Emergencies			Feedback: See Anatomy and Physiology			Taxonomy: Recall			Objective: 35-7 Describe differences in the anatomy and physiology of the pediatric patient compared to the adult patient and their implications for EMTs, with a focus on the following body systems: respiratory, circulatory, nervous, gastrointestinal, musculoskeletal, and integumentary.",
+NewQuestion,MC,
+Title,,
+QuestionText,The normal respiratory rate for a newborn should not exceed ______ breaths/min.,
+Points,1,
+Difficulty,1,
+Option,0,a) 50
+Option,100,b) 60
+Option,0,c) 70
+Option,0,d) 80
+Hint,"Complexity: Moderate			Ahead: Anatomy and Physiology			Subject:Pediatric Emergencies, Page 1291			Title: Pediatric Emergencies			Feedback: See Anatomy and Physiology			Taxonomy: Recall			Objective: 35-7 Describe differences in the anatomy and physiology of the pediatric patient compared to the adult patient and their implications for EMTs, with a focus on the following body systems: respiratory, circulatory, nervous, gastrointestinal, musculoskeletal, and integumentary.",
+NewQuestion,MC,
+Title,,
+QuestionText,"Compared to an adult, the diaphragm dictates the amount of air that a child inspires because the:",
+Points,1,
+Difficulty,1,
+Option,100,a) intercostal muscles are not well developed.
+Option,0,b) rib cage is rigid and provides little flexibility.
+Option,0,c) abdominal organs force the diaphragm upward.
+Option,0,d) upper airway is smaller and easily collapsible.
+Hint,"Complexity: Moderate			Ahead: Anatomy and Physiology			Subject:Pediatric Emergencies, Page 1291			Title: Pediatric Emergencies			Feedback: See Anatomy and Physiology			Taxonomy: Recall			Objective: 35-7 Describe differences in the anatomy and physiology of the pediatric patient compared to the adult patient and their implications for EMTs, with a focus on the following body systems: respiratory, circulatory, nervous, gastrointestinal, musculoskeletal, and integumentary.",
+NewQuestion,MC,
+Title,,
+QuestionText,Pale skin in a child indicates that the:,
+Points,1,
+Difficulty,1,
+Option,0,a) child is in severe decompensated shock.
+Option,0,b) oxygen content in the blood is decreased.
+Option,100,c) blood vessels near the skin are constricted.
+Option,0,d) child’s core body temperature is elevated.
+Hint,"Complexity: Moderate			Ahead: Patient Assessment			Subject:Pediatric Emergencies, Page 1296			Title: Pediatric Emergencies			Feedback: See Patient Assessment			Taxonomy: Analysis			Objective: 35-9 Explain the steps in the primary assessment of a pediatric patient, including the elements of the pediatric assessment triangle (PAT), hands-on XABCs, transport decision considerations, and privacy issues.",
+NewQuestion,MC,
+Title,,
+QuestionText,Signs of vasoconstriction in the infant or child include:,
+Points,1,
+Difficulty,1,
+Option,0,"a) warm, dry skin."
+Option,100,b) weak distal pulses.
+Option,0,c) a rapid heart rate.
+Option,0,d) brisk capillary refill.
+Hint,"Complexity: Moderate			Ahead: Anatomy and Physiology			Subject:Pediatric Emergencies, Page 1292			Title: Pediatric Emergencies			Feedback: See Anatomy and Physiology			Taxonomy: Recall			Objective: 35-7 Describe differences in the anatomy and physiology of the pediatric patient compared to the adult patient and their implications for EMTs, with a focus on the following body systems: respiratory, circulatory, nervous, gastrointestinal, musculoskeletal, and integumentary.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following statements regarding spinal injuries in pediatric patients is correct?,
+Points,1,
+Difficulty,1,
+Option,0,"a) Because of a child’s proportionately large head, they are more prone to spinal cord injuries than adults."
+Option,0,"b) The majority of cervical spine injuries in children are partial transections of the spinal cord, resulting in partial paralysis."
+Option,0,c) Most cervical spine fractures in infants and children occur between the first and second cervical vertebrae.
+Option,100,"d) If the cervical spine is injured, it is most likely an injury to the ligaments because of rapid movement of the head."
+Hint,"Complexity: Moderate			Ahead: Anatomy and Physiology			Subject:Pediatric Emergencies, Page 1292			Title: Pediatric Emergencies			Feedback: See Anatomy and Physiology			Taxonomy: Application			Objective: 35-7 Describe differences in the anatomy and physiology of the pediatric patient compared to the adult patient and their implications for EMTs, with a focus on the following body systems: respiratory, circulatory, nervous, gastrointestinal, musculoskeletal, and integumentary.",
+NewQuestion,MC,
+Title,,
+QuestionText,"Compared to adults, the liver and spleen of pediatric patients are more prone to injury and bleeding because they are:",
+Points,1,
+Difficulty,1,
+Option,100,a) proportionately larger and situated more anteriorly.
+Option,0,b) more vascular even though they are proportionately smaller.
+Option,0,"c) spaced further apart, which causes them to shift following trauma."
+Option,0,"d) lower in the abdominal cavity, where the muscles are not as strong."
+Hint,"Complexity: Moderate			Ahead: Anatomy and Physiology			Subject:Pediatric Emergencies, Page 1292			Title: Pediatric Emergencies			Feedback: See Anatomy and Physiology			Taxonomy: Recall			Objective: 35-7 Describe differences in the anatomy and physiology of the pediatric patient compared to the adult patient and their implications for EMTs, with a focus on the following body systems: respiratory, circulatory, nervous, gastrointestinal, musculoskeletal, and integumentary.",
+NewQuestion,MC,
+Title,,
+QuestionText,"The suture of the anterior fontanelle is typically closed by _____ months of age, and the suture of the posterior fontanelle is typically closed by _____ months of age.",
+Points,1,
+Difficulty,1,
+Option,0,"a) 2, 4"
+Option,0,"b) 6, 12"
+Option,0,"c) 12, 4"
+Option,100,"d) 18, 6"
+Hint,"Complexity: Moderate			Ahead: Anatomy and Physiology			Subject:Pediatric Emergencies, Page 1293			Title: Pediatric Emergencies			Feedback: See Anatomy and Physiology			Taxonomy: Recall			Objective: 35-7 Describe differences in the anatomy and physiology of the pediatric patient compared to the adult patient and their implications for EMTs, with a focus on the following body systems: respiratory, circulatory, nervous, gastrointestinal, musculoskeletal, and integumentary.",
+NewQuestion,MC,
+Title,,
+QuestionText,The purpose of the pediatric assessment triangle (PAT) is to:,
+Points,1,
+Difficulty,1,
+Option,0,a) determine if the child’s vital signs are within the age-appropriate limits.
+Option,100,b) allow you to rapidly and visually form a general impression of the child.
+Option,0,c) facilitate a rapid head-to-toe assessment of the child by visualization only.
+Option,0,d) gather critical data by performing a rapid hands-on assessment of the child.
+Hint,"Complexity: Easy			Ahead: Patient Assessment			Subject:Pediatric Emergencies, Page 1294			Title: Pediatric Emergencies			Feedback: See Patient Assessment			Taxonomy: Application			Objective: 35-9 Explain the steps in the primary assessment of a pediatric patient, including the elements of the pediatric assessment triangle (PAT), hands-on XABCs, transport decision considerations, and privacy issues.",
+NewQuestion,MC,
+Title,,
+QuestionText,The components of the pediatric assessment triangle (PAT) are:,
+Points,1,
+Difficulty,1,
+Option,100,"a) appearance, work of breathing, and skin circulation."
+Option,0,"b) mental status, heart rate, and systolic blood pressure."
+Option,0,"c) skin condition, respiratory rate, and level of alertness."
+Option,0,"d) activity, respiratory quality, and level of consciousness."
+Hint,"Complexity: Easy			Ahead: Patient Assessment			Subject:Pediatric Emergencies, Page 1294			Title: Pediatric Emergencies			Feedback: See Patient Assessment			Taxonomy: Application			Objective: 35-9 Explain the steps in the primary assessment of a pediatric patient, including the elements of the pediatric assessment triangle (PAT), hands-on XABCs, transport decision considerations, and privacy issues.",
+NewQuestion,MC,
+Title,,
+QuestionText,"After using the pediatric assessment triangle (PAT) to form your general impression of a sick or injured child, you should:",
+Points,1,
+Difficulty,1,
+Option,0,a) evaluate the child’s baseline vital signs.
+Option,0,b) obtain a SAMPLE history from the parents.
+Option,100,c) perform a hands-on assessment of the ABCs.
+Option,0,d) assess the child’s heart rate and skin condition.
+Hint,"Complexity: Easy			Ahead: Patient Assessment			Subject:Pediatric Emergencies, Page 1294			Title: Pediatric Emergencies			Feedback: See Patient Assessment			Taxonomy: Application			Objective: 35-9 Explain the steps in the primary assessment of a pediatric patient, including the elements of the pediatric assessment triangle (PAT), hands-on XABCs, transport decision considerations, and privacy issues.",
+NewQuestion,MC,
+Title,,
+QuestionText,A normal level of consciousness in an infant or child is characterized by:,
+Points,1,
+Difficulty,1,
+Option,0,"a) normal interactiveness, awareness to time, and pink skin color."
+Option,0,"b) awareness to place, pink and dry skin, and consistent eye contact."
+Option,0,"c) crying or combativeness, good muscle tone, and awareness to time."
+Option,100,"d) age-appropriate behavior, good muscle tone, and good eye contact."
+Hint,"Complexity: Easy			Ahead: Patient Assessment			Subject:Pediatric Emergencies, Page 1294			Title: Pediatric Emergencies			Feedback: See Patient Assessment			Taxonomy: Application			Objective: 35-9 Explain the steps in the primary assessment of a pediatric patient, including the elements of the pediatric assessment triangle (PAT), hands-on XABCs, transport decision considerations, and privacy issues.",
+NewQuestion,MC,
+Title,,
+QuestionText,"You are dispatched to a residence for a child with respiratory distress. The patient, an 18-month-old female, is tachypneic, has sternal retractions, and is clinging to her mother. Her skin is pink and dry, and her heart rate is 120 beats/min. The most appropriate treatment for this child includes:",
+Points,1,
+Difficulty,1,
+Option,0,a) requesting a paramedic ambulance to insert an advanced airway device.
+Option,0,b) separating the child from her mother and providing ventilatory assistance.
+Option,100,c) administering blow-by oxygen and transporting the child with her mother.
+Option,0,d) allowing the child to remain with her mother and applying a nasal cannula.
+Hint,"Complexity: Difficult			Ahead: Patient Assessment			Subject:Pediatric Emergencies, Page 1295			Title: Pediatric Emergencies			Feedback: See Patient Assessment			Taxonomy: Application			Objective: 35-9 Explain the steps in the primary assessment of a pediatric patient, including the elements of the pediatric assessment triangle (PAT), hands-on XABCs, transport decision considerations, and privacy issues.",
+NewQuestion,MC,
+Title,,
+QuestionText,"Early signs of respiratory distress in the pediatric patient include all of the following, except:",
+Points,1,
+Difficulty,1,
+Option,100,a) cyanosis.
+Option,0,b) tachypnea.
+Option,0,c) retractions.
+Option,0,d) abnormal airway noise.
+Hint,"Complexity: Moderate			Ahead: Patient Assessment			Subject:Pediatric Emergencies, Page 1296			Title: Pediatric Emergencies			Feedback: See Patient Assessment			Taxonomy: Recall			Objective: 35-9 Explain the steps in the primary assessment of a pediatric patient, including the elements of the pediatric assessment triangle (PAT), hands-on XABCs, transport decision considerations, and privacy issues.",
+NewQuestion,MC,
+Title,,
+QuestionText,"Before assessing the respiratory adequacy of a semiconscious infant or child, you must:",
+Points,1,
+Difficulty,1,
+Option,0,a) routinely suction the mouth to remove oral secretions.
+Option,100,b) ensure that the airway is patent and clear of obstructions.
+Option,0,c) insert a nasopharyngeal or oropharyngeal airway adjunct.
+Option,0,d) ensure that his or her head is in a hyperextended position.
+Hint,"Complexity: Easy			Ahead: Patient Assessment			Subject:Pediatric Emergencies, Page 1296			Title: Pediatric Emergencies			Feedback: See Patient Assessment			Taxonomy: Recall			Objective: 35-9 Explain the steps in the primary assessment of a pediatric patient, including the elements of the pediatric assessment triangle (PAT), hands-on XABCs, transport decision considerations, and privacy issues.",
+NewQuestion,MC,
+Title,,
+QuestionText,"You are dispatched to a local elementary school for an injured child. As you approach the child, you note that he is lying at the base of the monkey bars. He is unresponsive, and there are no signs of breathing. You should:",
+Points,1,
+Difficulty,1,
+Option,0,a) begin immediate rescue breathing.
+Option,100,b) stabilize his head and check for a pulse.
+Option,0,c) perform a head tilt–chin lift maneuver.
+Option,0,d) open his airway and look in his mouth.
+Hint,"Complexity: Moderate			Ahead: Patient Assessment			Subject:Pediatric Emergencies, Page 1297			Title: Pediatric Emergencies			Feedback: See Patient Assessment			Taxonomy: Application			Objective: 35-9 Explain the steps in the primary assessment of a pediatric patient, including the elements of the pediatric assessment triangle (PAT), hands-on XABCs, transport decision considerations, and privacy issues.",
+NewQuestion,MC,
+Title,,
+QuestionText,"Before positioning an infant or child’s airway, you should:",
+Points,1,
+Difficulty,1,
+Option,0,a) put padding behind his or her head.
+Option,0,b) thoroughly suction his or her airway.
+Option,0,c) rule out an injury to the spinal cord.
+Option,100,d) place him or her on a firm surface.
+Hint,"Complexity: Easy			Ahead: Patient Assessment			Subject:Pediatric Emergencies, Page 1296			Title: Pediatric Emergencies			Feedback: See Patient Assessment			Taxonomy: Recall			Objective: 35-11 Describe the emergency care of a pediatric patient in respiratory distress, including the different causes of pediatric respiratory emergencies, the signs and symptoms of increased work of breathing, and the difference between respiratory distress and respiratory failure.",
+NewQuestion,MC,
+Title,,
+QuestionText,"To ensure that the airway of an infant or small child is correctly positioned, you might have to:",
+Points,1,
+Difficulty,1,
+Option,0,a) place bulky padding behind his or her occiput.
+Option,100,b) place a towel or folded sheet behind the shoulders.
+Option,0,c) slightly flex the neck to prevent tracheal kinking.
+Option,0,d) hyperextend the neck to ensure adequate alignment.
+Hint,"Complexity: Moderate			Ahead: Patient Assessment			Subject:Pediatric Emergencies, Page 1297			Title: Pediatric Emergencies			Feedback: See Patient Assessment			Taxonomy: Recall			Objective: 35-11 Describe the emergency care of a pediatric patient in respiratory distress, including the different causes of pediatric respiratory emergencies, the signs and symptoms of increased work of breathing, and the difference between respiratory distress and respiratory failure.",
+NewQuestion,MC,
+Title,,
+QuestionText,"When assessing an infant’s ventilation status, you should:",
+Points,1,
+Difficulty,1,
+Option,0,a) observe the chest for rise and fall.
+Option,0,b) rule out hypoxia if cyanosis is absent.
+Option,100,c) palpate the abdomen for rise and fall.
+Option,0,d) give oxygen if the SpO2 is less than 90%.
+Hint,"Complexity: Moderate			Ahead: Patient Assessment			Subject:Pediatric Emergencies, Page 1298			Title: Pediatric Emergencies			Feedback: See Patient Assessment			Taxonomy: Recall			Objective: 35-11 Describe the emergency care of a pediatric patient in respiratory distress, including the different causes of pediatric respiratory emergencies, the signs and symptoms of increased work of breathing, and the difference between respiratory distress and respiratory failure.",
+NewQuestion,MC,
+Title,,
+QuestionText,"All of the following are normal findings in an infant or child, except:",
+Points,1,
+Difficulty,1,
+Option,0,a) quiet breathing.
+Option,0,b) fear or anxiety.
+Option,0,c) belly breathing.
+Option,100,d) head bobbing.
+Hint,"Complexity: Easy			Ahead: Patient Assessment			Subject:Pediatric Emergencies, Page 1296			Title: Pediatric Emergencies			Feedback: See Patient Assessment			Taxonomy: Recall			Objective: 35-11 Describe the emergency care of a pediatric patient in respiratory distress, including the different causes of pediatric respiratory emergencies, the signs and symptoms of increased work of breathing, and the difference between respiratory distress and respiratory failure.",
+NewQuestion,MC,
+Title,,
+QuestionText,Drawing in of the muscles between the ribs or of the sternum during inspiration is called:,
+Points,1,
+Difficulty,1,
+Option,0,a) tenting.
+Option,100,b) retracting.
+Option,0,c) hyperpnea.
+Option,0,d) accessory muscle use.
+Hint,"Complexity: Easy			Ahead: Patient Assessment			Subject:Pediatric Emergencies, Page 1295			Title: Pediatric Emergencies			Feedback: See Patient Assessment			Taxonomy: Recall			Objective: 35-11 Describe the emergency care of a pediatric patient in respiratory distress, including the different causes of pediatric respiratory emergencies, the signs and symptoms of increased work of breathing, and the difference between respiratory distress and respiratory failure.",
+NewQuestion,MC,
+Title,,
+QuestionText,A high-pitched inspiratory sound that indicates a partial upper airway obstruction is called:,
+Points,1,
+Difficulty,1,
+Option,100,a) stridor.
+Option,0,b) rhonchi.
+Option,0,c) grunting.
+Option,0,d) wheezing.
+Hint,"Complexity: Easy			Ahead: Patient Assessment			Subject:Pediatric Emergencies, Page 1299			Title: Pediatric Emergencies			Feedback: See Patient Assessment			Taxonomy: Recall			Objective: 35-11 Describe the emergency care of a pediatric patient in respiratory distress, including the different causes of pediatric respiratory emergencies, the signs and symptoms of increased work of breathing, and the difference between respiratory distress and respiratory failure.",
+NewQuestion,MC,
+Title,,
+QuestionText,"When assessing the heart rate of a 6-month-old infant, you should palpate the brachial pulse or ________ pulse.",
+Points,1,
+Difficulty,1,
+Option,0,a) radial
+Option,0,b) carotid
+Option,100,c) femoral
+Option,0,d) popliteal
+Hint,"Complexity: Moderate			Ahead: Patient Assessment			Subject:Pediatric Emergencies, Page 1299			Title: Pediatric Emergencies			Feedback: See Patient Assessment			Taxonomy: Recall			Objective: 35-9 Explain the steps in the primary assessment of a pediatric patient, including the elements of the pediatric assessment triangle (PAT), hands-on XABCs, transport decision considerations, and privacy issues.",
+NewQuestion,MC,
+Title,,
+QuestionText,"After determining that an infant or child has strong central pulses, you should:",
+Points,1,
+Difficulty,1,
+Option,0,a) assume the child is hypertensive.
+Option,100,b) not rule out compensated shock.
+Option,0,c) conclude that the child is stable.
+Option,0,d) assess his or her respiratory effort.
+Hint,"Complexity: Easy			Ahead: Patient Assessment			Subject:Pediatric Emergencies, Page 1299			Title: Pediatric Emergencies			Feedback: See Patient Assessment			Taxonomy: Recall			Objective: 35-9 Explain the steps in the primary assessment of a pediatric patient, including the elements of the pediatric assessment triangle (PAT), hands-on XABCs, transport decision considerations, and privacy issues.",
+NewQuestion,MC,
+Title,,
+QuestionText,"After squeezing the end of a child’s finger or toe for a few seconds, blood should return to the area within:",
+Points,1,
+Difficulty,1,
+Option,100,a) 2 seconds.
+Option,0,b) 3 seconds.
+Option,0,c) 4 seconds.
+Option,0,d) 5 seconds.
+Hint,"Complexity: Moderate			Ahead: Patient Assessment			Subject:Pediatric Emergencies, Page 1300			Title: Pediatric Emergencies			Feedback: See Patient Assessment			Taxonomy: Recall			Objective: 35-9 Explain the steps in the primary assessment of a pediatric patient, including the elements of the pediatric assessment triangle (PAT), hands-on XABCs, transport decision considerations, and privacy issues.",
+NewQuestion,MC,
+Title,,
+QuestionText,Capillary refill time is most reliable as an indicator of end-organ perfusion in children younger than:,
+Points,1,
+Difficulty,1,
+Option,0,a) 4 years.
+Option,100,b) 6 years.
+Option,0,c) 8 years.
+Option,0,d) 10 years.
+Hint,"Complexity: Easy			Ahead: Patient Assessment			Subject:Pediatric Emergencies, Page 1300			Title: Pediatric Emergencies			Feedback: See Patient Assessment			Taxonomy: Recall			Objective: 35-9 Explain the steps in the primary assessment of a pediatric patient, including the elements of the pediatric assessment triangle (PAT), hands-on XABCs, transport decision considerations, and privacy issues.",
+NewQuestion,MC,
+Title,,
+QuestionText,Immediate transport is indicated for a child when he or she:,
+Points,1,
+Difficulty,1,
+Option,0,a) is experiencing mild to moderate pain.
+Option,0,b) falls from a height greater than 4 to 5 feet.
+Option,0,c) has a possible closed fracture of the radius.
+Option,100,d) has a history compatible with a serious illness.
+Hint,"Complexity: Easy			Ahead: Patient Assessment			Subject:Pediatric Emergencies, Page 1302			Title: Pediatric Emergencies			Feedback: See Patient Assessment			Taxonomy: Recall			Objective: 35-9 Explain the steps in the primary assessment of a pediatric patient, including the elements of the pediatric assessment triangle (PAT), hands-on XABCs, transport decision considerations, and privacy issues.",
+NewQuestion,MC,
+Title,,
+QuestionText,"You respond to a skate park where a 10-year-old male fell from his skateboard and struck his head on the ground; he was not wearing a helmet. He is responsive to painful stimuli only and has a large hematoma on the back of his head. After your partner stabilizes his head and opens his airway, you assess his breathing and determine that it is slow and irregular. His pulse is slow and bounding. You should:",
+Points,1,
+Difficulty,1,
+Option,0,"a) apply high-flow oxygen via a nonrebreathing mask, perform an in-depth secondary assessment, apply full spinal precautions, and transport."
+Option,0,"b) insert an oral airway, hyperventilate him with a bag-valve mask, apply full spinal precautions, and transport to the closest trauma center."
+Option,0,"c) apply high-flow oxygen via a nonrebreathing mask, obtain baseline vital signs, apply full spinal precautions, and perform a secondary assessment."
+Option,100,"d) assist his ventilations, be prepared to suction his mouth if he vomits, apply full spinal precautions, and prepare for immediate transport to a trauma center."
+Hint,"Complexity: Difficult			Ahead: Patient Assessment			Subject:Pediatric Emergencies, Page 1298			Title: Pediatric Emergencies			Feedback: See Patient Assessment			Taxonomy: Application			Objective: 35-11 Describe the emergency care of a pediatric patient in respiratory distress, including the different causes of pediatric respiratory emergencies, the signs and symptoms of increased work of breathing, and the difference between respiratory distress and respiratory failure.",
+NewQuestion,MC,
+Title,,
+QuestionText,"If the situation allows, a child should be transported in a car seat if he or she weighs less than _____ pounds.",
+Points,1,
+Difficulty,1,
+Option,100,a) 40
+Option,0,b) 50
+Option,0,c) 60
+Option,0,d) 70
+Hint,"Complexity: Moderate			Ahead: Patient Assessment			Subject:Pediatric Emergencies, Page 1302			Title: Pediatric Emergencies			Feedback: See Patient Assessment			Taxonomy: Recall			Objective: 35-9 Explain the steps in the primary assessment of a pediatric patient, including the elements of the pediatric assessment triangle (PAT), hands-on XABCs, transport decision considerations, and privacy issues.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following inquiries should you make in private when obtaining a SAMPLE history from an adolescent patient?,
+Points,1,
+Difficulty,1,
+Option,100,a) Sexual activity
+Option,0,b) Past medical history
+Option,0,c) Change in bladder habits
+Option,0,d) Duration of symptoms
+Hint,"Complexity: Moderate			Ahead: Patient Assessment			Subject:Pediatric Emergencies, Page 1303			Title: Pediatric Emergencies			Feedback: See Patient Assessment			Taxonomy: Recall			Objective: 35-9 Explain the steps in the primary assessment of a pediatric patient, including the elements of the pediatric assessment triangle (PAT), hands-on XABCs, transport decision considerations, and privacy issues.",
+NewQuestion,MC,
+Title,,
+QuestionText,The secondary assessment of a sick or injured child:,
+Points,1,
+Difficulty,1,
+Option,0,a) is a rapid head-to-toe exam to detect life threats.
+Option,0,"b) should be performed, regardless of the circumstances."
+Option,100,c) might not be possible if the child’s condition is critical.
+Option,0,d) is most appropriate when your transport time is short.
+Hint,"Complexity: Easy			Ahead: Patient Assessment			Subject:Pediatric Emergencies, Page 1304			Title: Pediatric Emergencies			Feedback: See Patient Assessment			Taxonomy: Recall			Objective: 35-10 Explain the steps in the secondary assessment of a pediatric patient, including what EMTs should look for related to different body areas and the method of injury.",
+NewQuestion,MC,
+Title,,
+QuestionText,Blood pressure is usually not assessed in children younger than _____ years.,
+Points,1,
+Difficulty,1,
+Option,100,a) 3
+Option,0,b) 4
+Option,0,c) 5
+Option,0,d) 6
+Hint,"Complexity: Moderate			Ahead: Patient Assessment			Subject:Pediatric Emergencies, Page 1306			Title: Pediatric Emergencies			Feedback: See Patient Assessment			Taxonomy: Recall			Objective: 35-10 Explain the steps in the secondary assessment of a pediatric patient, including what EMTs should look for related to different body areas and the method of injury.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following represents a low normal systolic blood pressure for a 6-year-old child?,
+Points,1,
+Difficulty,1,
+Option,100,a) 82 mm Hg
+Option,0,b) 88 mm Hg
+Option,0,c) 90 mm Hg
+Option,0,d) 98 mm Hg
+Hint,"Complexity: Moderate			Ahead: Patient Assessment			Subject:Pediatric Emergencies, Page 1306			Title: Pediatric Emergencies			Feedback: See Patient Assessment			Taxonomy: Application			Objective: 35-10 Explain the steps in the secondary assessment of a pediatric patient, including what EMTs should look for related to different body areas and the method of injury.",
+NewQuestion,MC,
+Title,,
+QuestionText,Early signs of respiratory distress in the child include:,
+Points,1,
+Difficulty,1,
+Option,0,a) cyanosis.
+Option,0,b) bradycardia.
+Option,100,c) restlessness.
+Option,0,d) decreased LOC.
+Hint,"Complexity: Moderate			Ahead: Respiratory Emergencies and Management			Subject:Pediatric Emergencies, Page 1308			Title: Pediatric Emergencies			Feedback: See Respiratory Emergencies and Management			Taxonomy: Recall			Objective: 35-11 Describe the emergency care of a pediatric patient in respiratory distress, including the different causes of pediatric respiratory emergencies, the signs and symptoms of increased work of breathing, and the difference between respiratory distress and respiratory failure.",
+NewQuestion,MC,
+Title,,
+QuestionText,An infant or child with respiratory distress will attempt to keep his or her alveoli expanded at the end of inhalation by:,
+Points,1,
+Difficulty,1,
+Option,100,a) grunting.
+Option,0,b) wheezing.
+Option,0,c) assuming a tripod position.
+Option,0,d) retracting the intercostal muscles.
+Hint,"Complexity: Easy			Ahead: Patient Assessment			Subject:Pediatric Emergencies, Page 1299			Title: Pediatric Emergencies			Feedback: See Patient Assessment			Taxonomy: Recall			Objective: 35-11 Describe the emergency care of a pediatric patient in respiratory distress, including the different causes of pediatric respiratory emergencies, the signs and symptoms of increased work of breathing, and the difference between respiratory distress and respiratory failure.",
+NewQuestion,MC,
+Title,,
+QuestionText,The most ominous sign of impending cardiopulmonary arrest in infants and children is:,
+Points,1,
+Difficulty,1,
+Option,0,a) pallor.
+Option,0,b) retractions.
+Option,0,c) nasal flaring.
+Option,100,d) bradycardia.
+Hint,"Complexity: Moderate			Ahead: Respiratory Emergencies and Management			Subject:Pediatric Emergencies, Page 1308			Title: Pediatric Emergencies			Feedback: See Respiratory Emergencies and Management			Taxonomy: Recall			Objective: 35-11 Describe the emergency care of a pediatric patient in respiratory distress, including the different causes of pediatric respiratory emergencies, the signs and symptoms of increased work of breathing, and the difference between respiratory distress and respiratory failure.",
+NewQuestion,MC,
+Title,,
+QuestionText,A viral infection that might cause obstruction of the upper airway in a child is called:,
+Points,1,
+Difficulty,1,
+Option,100,a) croup.
+Option,0,b) asthma.
+Option,0,c) bronchitis.
+Option,0,d) epiglottitis.
+Hint,"Complexity: Easy			Ahead: Respiratory Emergencies and Management			Subject:Pediatric Emergencies, Page 1308			Title: Pediatric Emergencies			Feedback: See Respiratory Emergencies and Management			Taxonomy: Recall			Objective: 35-12 List the possible causes of an upper and a lower airway obstruction in a pediatric patient and the steps in the management of foreign body airway obstruction.",
+NewQuestion,MC,
+Title,,
+QuestionText,"Infection should be considered a possible cause of an airway obstruction in an infant or child, especially if he or she presents with:",
+Points,1,
+Difficulty,1,
+Option,0,a) extreme restlessness.
+Option,100,b) drooling or congestion.
+Option,0,c) skin that is cool and dry.
+Option,0,d) acute respiratory distress.
+Hint,"Complexity: Difficult			Ahead: Respiratory Emergencies and Management			Subject:Pediatric Emergencies, Page 1308			Title: Pediatric Emergencies			Feedback: See Respiratory Emergencies and Management			Taxonomy: Analysis			Objective: 35-12 List the possible causes of an upper and a lower airway obstruction in a pediatric patient and the steps in the management of foreign body airway obstruction.",
+NewQuestion,MC,
+Title,,
+QuestionText,"Signs of an upper airway obstruction in an infant or child include all of the following, except:",
+Points,1,
+Difficulty,1,
+Option,100,a) wheezing.
+Option,0,b) a weak cough.
+Option,0,c) a cough that resembles the bark of a seal.
+Option,0,d) stridorous breathing.
+Hint,"Complexity: Easy			Ahead: Respiratory Emergencies and Management			Subject:Pediatric Emergencies, Page 1309			Title: Pediatric Emergencies			Feedback: See Respiratory Emergencies and Management			Taxonomy: Recall			Objective: 35-12 List the possible causes of an upper and a lower airway obstruction in a pediatric patient and the steps in the management of foreign body airway obstruction.",
+NewQuestion,MC,
+Title,,
+QuestionText,"A 6-year-old male presents with acute respiratory distress. His mother states that she saw him put a small toy into his mouth shortly before the episode began. The child is conscious, obviously frightened, and is coughing forcefully. You should:",
+Points,1,
+Difficulty,1,
+Option,0,a) carefully look into his mouth and remove the object if you see it.
+Option,100,"b) encourage him to cough, give oxygen as tolerated, and transport."
+Option,0,c) deliver a series of five back blows and then reassess his condition.
+Option,0,d) place the child in a supine position and perform abdominal thrusts.
+Hint,"Complexity: Difficult			Ahead: Respiratory Emergencies and Management			Subject:Pediatric Emergencies, Page 1309			Title: Pediatric Emergencies			Feedback: See Respiratory Emergencies and Management			Taxonomy: Application			Objective: 35-12 List the possible causes of an upper and a lower airway obstruction in a pediatric patient and the steps in the management of foreign body airway obstruction.",
+NewQuestion,MC,
+Title,,
+QuestionText,Signs of a severe airway obstruction in an infant or child include:,
+Points,1,
+Difficulty,1,
+Option,0,"a) pink, dry skin."
+Option,0,b) crying and anxiety.
+Option,100,c) an ineffective cough.
+Option,0,d) mild respiratory distress.
+Hint,"Complexity: Moderate			Ahead: Respiratory Emergencies and Management			Subject:Pediatric Emergencies, Page 1309			Title: Pediatric Emergencies			Feedback: See Respiratory Emergencies and Management			Taxonomy: Recall			Objective: 35-12 List the possible causes of an upper and a lower airway obstruction in a pediatric patient and the steps in the management of foreign body airway obstruction.",
+NewQuestion,MC,
+Title,,
+QuestionText,A 2-year-old child who has no recent history of illness suddenly appears cyanotic and cannot speak after playing with a small toy. You should:,
+Points,1,
+Difficulty,1,
+Option,100,a) perform abdominal thrusts.
+Option,0,b) visualize the child’s airway.
+Option,0,c) perform a blind finger sweep.
+Option,0,d) give oxygen and transport at once.
+Hint,"Complexity: Easy			Ahead: Respiratory Emergencies and Management			Subject:Pediatric Emergencies, Page 1310			Title: Pediatric Emergencies			Feedback: See Respiratory Emergencies and Management			Taxonomy: Recall			Objective: 35-12 List the possible causes of an upper and a lower airway obstruction in a pediatric patient and the steps in the management of foreign body airway obstruction.",
+NewQuestion,MC,
+Title,,
+QuestionText,"An 8-year-old female with a history of asthma continues to experience severe respiratory distress despite being given multiple doses of her prescribed albuterol by her mother. She is conscious but clearly restless. Her heart rate is 130 beats/min, and her respiratory rate is 30 breaths/min. She is receiving high-flow oxygen via a nonrebreathing mask. You should:",
+Points,1,
+Difficulty,1,
+Option,100,"a) be prepared to assist her ventilations, transport at once, and request an ALS intercept en route to the hospital."
+Option,0,"b) continue high-flow oxygen therapy, contact medical control, and request permission to administer more albuterol."
+Option,0,c) begin immediate ventilation assistance and ensure that you squeeze the bag forcefully to open her bronchioles.
+Option,0,d) begin chest compressions if she becomes unresponsive and her heart rate falls below 80 beats/min.
+Hint,"Complexity: Difficult			Ahead: Respiratory Emergencies and Management			Subject:Pediatric Emergencies, Page 1311			Title: Pediatric Emergencies			Feedback: See Respiratory Emergencies and Management			Taxonomy: Application			Objective: 35-13 Describe asthma, its possible causes, signs, and symptoms, and the steps in the management of a pediatric patient who is experiencing an asthma attack.",
+NewQuestion,MC,
+Title,,
+QuestionText,The most efficient way to identify the appropriately sized equipment for a pediatric patient is to:,
+Points,1,
+Difficulty,1,
+Option,0,a) estimate the child’s weight based on age.
+Option,100,b) use a length-based resuscitation tape measure.
+Option,0,c) estimate the child’s weight based on appearance.
+Option,0,d) ask a relative if he or she knows the child’s weight.
+Hint,"Complexity: Easy			Ahead: Respiratory Emergencies and Management			Subject:Pediatric Emergencies, Page 1313			Title: Pediatric Emergencies			Feedback: See Respiratory Emergencies and Management			Taxonomy: Recall			Objective: 35-14 Explain how to determine the correct size of an airway adjunct intended for a pediatric patient during an emergency.",
+NewQuestion,MC,
+Title,,
+QuestionText,An oropharyngeal airway should not be used in children who have ingested a caustic or petroleum-based product because it might:,
+Points,1,
+Difficulty,1,
+Option,0,a) depress the gag reflex.
+Option,100,b) cause the child to vomit.
+Option,0,c) result in airway swelling.
+Option,0,d) result in a soft-tissue injury.
+Hint,"Complexity: Moderate			Ahead: Respiratory Emergencies and Management			Subject:Pediatric Emergencies, Page 1313			Title: Pediatric Emergencies			Feedback: See Respiratory Emergencies and Management			Taxonomy: Recall			Objective: 35-14 Explain how to determine the correct size of an airway adjunct intended for a pediatric patient during an emergency.",
+NewQuestion,MC,
+Title,,
+QuestionText,"When inserting an oropharyngeal airway in an infant or child, you should:",
+Points,1,
+Difficulty,1,
+Option,0,a) place padding under the child’s head.
+Option,0,b) ensure that his or her neck is hyperextended.
+Option,0,c) insert it until the flange rests on the teeth.
+Option,100,d) depress the tongue with a tongue depressor.
+Hint,"Complexity: Moderate			Ahead: Respiratory Emergencies and Management			Subject:Pediatric Emergencies, Page 1313			Title: Pediatric Emergencies			Feedback: See Respiratory Emergencies and Management			Taxonomy: Recall			Objective: 35-14 Explain how to determine the correct size of an airway adjunct intended for a pediatric patient during an emergency.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following statements regarding the use of nasopharyngeal airways in children is correct?,
+Points,1,
+Difficulty,1,
+Option,100,a) They are rarely used in infants younger than 1 year.
+Option,0,b) It is the recommended adjunct for children with head trauma.
+Option,0,c) They are usually not well tolerated in children with a gag reflex.
+Option,0,d) Blanching of the nares after insertion indicates correct placement.
+Hint,"Complexity: Moderate			Ahead: Respiratory Emergencies and Management			Subject:Pediatric Emergencies, Page 1315			Title: Pediatric Emergencies			Feedback: See Respiratory Emergencies and Management			Taxonomy: Recall			Objective: 35-14 Explain how to determine the correct size of an airway adjunct intended for a pediatric patient during an emergency.",
+NewQuestion,MC,
+Title,,
+QuestionText,"If a nasopharyngeal airway is too long, it might:",
+Points,1,
+Difficulty,1,
+Option,0,a) result in tachycardia.
+Option,0,b) push the tongue anteriorly.
+Option,100,c) stimulate the vagus nerve.
+Option,0,d) become obstructed by mucus.
+Hint,"Complexity: Moderate			Ahead: Respiratory Emergencies and Management			Subject:Pediatric Emergencies, Page 1316			Title: Pediatric Emergencies			Feedback: See Respiratory Emergencies and Management			Taxonomy: Recall			Objective: 35-14 Explain how to determine the correct size of an airway adjunct intended for a pediatric patient during an emergency.",
+NewQuestion,MC,
+Title,,
+QuestionText,Use of a nonrebreathing mask or nasal cannula in a child is appropriate only if:,
+Points,1,
+Difficulty,1,
+Option,0,a) an oral airway has been inserted.
+Option,100,b) his or her tidal volume is adequate.
+Option,0,c) his or her respirations are shallow.
+Option,0,d) he or she is breathing inadequately.
+Hint,"Complexity: Easy			Ahead: Respiratory Emergencies and Management			Subject:Pediatric Emergencies, Page 1316			Title: Pediatric Emergencies			Feedback: See Respiratory Emergencies and Management			Taxonomy: Recall			Objective: 35-15 List the different oxygen delivery devices that are available for providing oxygen to a pediatric patient, including the indications for the use of each and precautions EMTs must take to ensure the patient’s safety.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following children would benefit the least from a nonrebreathing mask?,
+Points,1,
+Difficulty,1,
+Option,0,a) A conscious 4-year-old male with adequate tidal volume
+Option,0,b) A responsive 6-year-old male who responds appropriately
+Option,100,c) An unresponsive 5-year-old male with shallow respirations
+Option,0,d) A semiconscious 7-year-old female with normal ventilation
+Hint,"Complexity: Moderate			Ahead: Respiratory Emergencies and Management			Subject:Pediatric Emergencies, Page 1316			Title: Pediatric Emergencies			Feedback: See Respiratory Emergencies and Management			Taxonomy: Analysis			Objective: 35-14 Explain how to determine the correct size of an airway adjunct intended for a pediatric patient during an emergency.",
+NewQuestion,MC,
+Title,,
+QuestionText,"When administering oxygen to a frightened child, it would be most appropriate to:",
+Points,1,
+Difficulty,1,
+Option,100,a) place oxygen tubing through a hole in a paper cup.
+Option,0,b) tightly secure the oxygen mask straps to the face.
+Option,0,c) have a parent restrain the child as you give oxygen.
+Option,0,d) use a nasal cannula instead of a nonrebreathing mask.
+Hint,"Complexity: Easy			Ahead: Respiratory Emergencies and Management			Subject:Pediatric Emergencies, Page 1316			Title: Pediatric Emergencies			Feedback: See Respiratory Emergencies and Management			Taxonomy: Recall			Objective: 35-15 List the different oxygen delivery devices that are available for providing oxygen to a pediatric patient, including the indications for the use of each and precautions EMTs must take to ensure the patient’s safety.",
+NewQuestion,MC,
+Title,,
+QuestionText,"When ventilating a pediatric patient with a bag-valve mask, the EMT should:",
+Points,1,
+Difficulty,1,
+Option,100,a) block the pop-off valve if needed to achieve adequate chest rise.
+Option,0,b) squeeze the bag 40 times/min when ventilating an infant.
+Option,0,c) use a neonatal device for children younger than 12 months.
+Option,0,"d) ventilate the child with sharp, quick breaths at the appropriate rate."
+Hint,"Complexity: Moderate			Ahead: Respiratory Emergencies and Management			Subject:Pediatric Emergencies, Page 1318			Title: Pediatric Emergencies			Feedback: See Respiratory Emergencies and Management			Taxonomy: Recall			Objective: 35-15 List the different oxygen delivery devices that are available for providing oxygen to a pediatric patient, including the indications for the use of each and precautions EMTs must take to ensure the patient’s safety.",
+NewQuestion,MC,
+Title,,
+QuestionText,The most accurate method for determining if you are delivering adequate tidal volume to a child during bag-valve mask ventilations is to:,
+Points,1,
+Difficulty,1,
+Option,0,a) monitor the child’s heart rate.
+Option,0,b) observe the child’s skin color.
+Option,0,c) monitor the pulse oximeter reading.
+Option,100,d) observe the chest for adequate rise.
+Hint,"Complexity: Easy			Ahead: Respiratory Emergencies and Management			Subject:Pediatric Emergencies, Page 1316			Title: Pediatric Emergencies			Feedback: See Respiratory Emergencies and Management			Taxonomy: Application			Objective: 35-15 List the different oxygen delivery devices that are available for providing oxygen to a pediatric patient, including the indications for the use of each and precautions EMTs must take to ensure the patient’s safety.",
+NewQuestion,MC,
+Title,,
+QuestionText,Cardiac arrest in the pediatric population is most commonly the result of:,
+Points,1,
+Difficulty,1,
+Option,0,a) a complete airway obstruction.
+Option,100,b) failure of the respiratory system.
+Option,0,c) a congenital cardiovascular defect.
+Option,0,d) lethal cardiac rhythm disturbances.
+Hint,"Complexity: Moderate			Ahead: Respiratory Emergencies and Management			Subject:Pediatric Emergencies, Page 1319			Title: Pediatric Emergencies			Feedback: See Respiratory Emergencies and Management			Taxonomy: Recall			Objective: 35-15 List the different oxygen delivery devices that are available for providing oxygen to a pediatric patient, including the indications for the use of each and precautions EMTs must take to ensure the patient’s safety.",
+NewQuestion,MC,
+Title,,
+QuestionText,"In contrast to adults, deterioration to cardiac arrest in infants and children is usually associated with:",
+Points,1,
+Difficulty,1,
+Option,0,a) irritability of the left ventricle.
+Option,0,b) a sudden ventricular arrhythmia.
+Option,100,c) severe hypoxia and bradycardia.
+Option,0,d) acute hypoxia and tachycardia.
+Hint,"Complexity: Easy			Ahead: Respiratory Emergencies and Management			Subject:Pediatric Emergencies, Page 1318			Title: Pediatric Emergencies			Feedback: See Respiratory Emergencies and Management			Taxonomy: Recall			Objective: 35-15 List the different oxygen delivery devices that are available for providing oxygen to a pediatric patient, including the indications for the use of each and precautions EMTs must take to ensure the patient’s safety.",
+NewQuestion,MC,
+Title,,
+QuestionText,A common cause of shock in an infant is:,
+Points,1,
+Difficulty,1,
+Option,0,a) a cardiac dysrhythmia.
+Option,100,b) dehydration from vomiting and diarrhea.
+Option,0,c) excessive tachycardia.
+Option,0,d) cardiovascular disease.
+Hint,"Complexity: Moderate			Ahead: Circulation Emergencies and Management			Subject:Pediatric Emergencies, Page 1320			Title: Pediatric Emergencies			Feedback: See Circulation Emergencies and Management			Taxonomy: Recall			Objective: 35-16 Describe the emergency care of a pediatric patient who is in shock (hypoperfusion), including common causes, signs, and symptoms.",
+NewQuestion,MC,
+Title,,
+QuestionText,A 5-year-old child has had severe vomiting and diarrhea for 4 days. Which of the following assessment findings would be the most indicative of decompensated shock?,
+Points,1,
+Difficulty,1,
+Option,0,a) Capillary refill time of 4 seconds
+Option,0,b) Respiratory rate of 30 breaths/min
+Option,100,c) Blood pressure of 70/40 mm Hg
+Option,0,d) Pulse rate greater than 120/min
+Hint,"Complexity: Moderate			Ahead: Circulation Emergencies and Management			Subject:Pediatric Emergencies, Page 1320			Title: Pediatric Emergencies			Feedback: See Circulation Emergencies and Management			Taxonomy: Analysis			Objective: 35-16 Describe the emergency care of a pediatric patient who is in shock (hypoperfusion), including common causes, signs, and symptoms.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following is the least reliable assessment parameter to evaluate when determining the presence of shock in infants and children?,
+Points,1,
+Difficulty,1,
+Option,0,a) Pulse rate
+Option,100,b) Blood pressure
+Option,0,c) Skin condition
+Option,0,d) Capillary refill
+Hint,"Complexity: Moderate			Ahead: Circulation Emergencies and Management			Subject:Pediatric Emergencies, Page 1320			Title: Pediatric Emergencies			Feedback: See Circulation Emergencies and Management			Taxonomy: Recall			Objective: 35-16 Describe the emergency care of a pediatric patient who is in shock (hypoperfusion), including common causes, signs, and symptoms.",
+NewQuestion,MC,
+Title,,
+QuestionText,"Common causes of seizures in children include all of the following, except:",
+Points,1,
+Difficulty,1,
+Option,0,a) infection.
+Option,100,b) hyperglycemia.
+Option,0,c) electrolyte imbalances.
+Option,0,d) poisonings or ingestion.
+Hint,"Complexity: Moderate			Ahead: Neurologic Emergencies and Management			Subject:Pediatric Emergencies, Page 1323			Title: Pediatric Emergencies			Feedback: See Neurologic Emergencies and Management			Taxonomy: Recall			Objective: 35-18 Describe the emergency care of a pediatric patient who has experienced a seizure, including the different types of seizures and the common causes, signs, and symptoms.",
+NewQuestion,MC,
+Title,,
+QuestionText,Febrile seizures are most common in children between:,
+Points,1,
+Difficulty,1,
+Option,0,a) 3 months and 4 years.
+Option,100,b) 6 months and 6 years.
+Option,0,c) 8 months and 8 years.
+Option,0,d) 18 months and 10 years.
+Hint,"Complexity: Easy			Ahead: Neurologic Emergencies and Management			Subject:Pediatric Emergencies, Page 1323			Title: Pediatric Emergencies			Feedback: See Neurologic Emergencies and Management			Taxonomy: Recall			Objective: 35-18 Describe the emergency care of a pediatric patient who has experienced a seizure, including the different types of seizures and the common causes, signs, and symptoms.",
+NewQuestion,MC,
+Title,,
+QuestionText,"In most children, febrile seizures are characterized by:",
+Points,1,
+Difficulty,1,
+Option,0,"a) a blank stare, a duration of between 15 and 30 minutes, and a prolonged postictal phase."
+Option,0,"b) unresponsiveness, complete body relaxation, a fever greater than 105°F, and a short postictal phase."
+Option,100,"c) generalized tonic-clonic activity, a duration of less than 15 minutes, and a short or absent postictal phase."
+Option,0,"d) isolated tonic-clonic activity, a duration of greater than 15 minutes, and a short postictal phase."
+Hint,"Complexity: Moderate			Ahead: Fever Emergencies and Management			Subject:Pediatric Emergencies, Page 1328			Title: Pediatric Emergencies			Feedback: See Fever Emergencies and Management			Taxonomy: Recall			Objective: 35-18 Describe the emergency care of a pediatric patient who has experienced a seizure, including the different types of seizures and the common causes, signs, and symptoms.",
+NewQuestion,MC,
+Title,,
+QuestionText,Febrile seizures in a child:,
+Points,1,
+Difficulty,1,
+Option,0,a) typically last less than 30 minutes.
+Option,0,b) occur after a week of a febrile illness.
+Option,0,c) are usually caused by viral meningitis.
+Option,100,d) might indicate a serious underlying illness.
+Hint,"Complexity: Easy			Ahead: Fever Emergencies and Management			Subject:Pediatric Emergencies, Page 1328			Title: Pediatric Emergencies			Feedback: See Fever Emergencies and Management			Taxonomy: Application			Objective: 35-18 Describe the emergency care of a pediatric patient who has experienced a seizure, including the different types of seizures and the common causes, signs, and symptoms.",
+NewQuestion,MC,
+Title,,
+QuestionText,"A 2-year-old female has experienced a seizure. When you arrive at the scene, the child is conscious, crying, and clinging to her mother. Her skin is hot and moist. The mother tells you that the seizure lasted approximately 5 minutes. She further tells you that her daughter has no history of seizures but has had a recent ear infection. You should:",
+Points,1,
+Difficulty,1,
+Option,0,a) allow the mother to drive her daughter to the hospital.
+Option,100,b) cool the child with tepid water and transport to the hospital.
+Option,0,c) place the child in cold water to attempt to reduce her fever.
+Option,0,d) suspect that the child has meningitis and transport at once.
+Hint,"Complexity: Difficult			Ahead: Fever Emergencies and Management			Subject:Pediatric Emergencies, Page 1328			Title: Pediatric Emergencies			Feedback: See Fever Emergencies and Management			Taxonomy: Application			Objective: 35-18 Describe the emergency care of a pediatric patient who has experienced a seizure, including the different types of seizures and the common causes, signs, and symptoms.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following groups of people is associated with the lowest risk of meningitis?,
+Points,1,
+Difficulty,1,
+Option,0,a) Newborns
+Option,100,b) Females
+Option,0,c) Children with shunts
+Option,0,d) Children with HIV/AIDS
+Hint,"Complexity: Moderate			Ahead: Neurologic Emergencies and Management			Subject:Pediatric Emergencies, Page 1323			Title: Pediatric Emergencies			Feedback: See Neurologic Emergencies and Management			Taxonomy: Recall			Objective: 35-19 Describe the emergency care of a pediatric patient with meningitis, including common causes, signs, symptoms, and special precautions.",
+NewQuestion,MC,
+Title,,
+QuestionText,"Signs and symptoms of meningitis in the infant or child include all of the following, except:",
+Points,1,
+Difficulty,1,
+Option,100,a) sunken fontanelles.
+Option,0,b) headache and fever.
+Option,0,c) a stiff or painful neck.
+Option,0,d) altered mental status.
+Hint,"Complexity: Moderate			Ahead: Neurologic Emergencies and Management			Subject:Pediatric Emergencies, Page 1323			Title: Pediatric Emergencies			Feedback: See Neurologic Emergencies and Management			Taxonomy: Recall			Objective: 35-19 Describe the emergency care of a pediatric patient with meningitis, including common causes, signs, symptoms, and special precautions.",
+NewQuestion,MC,
+Title,,
+QuestionText,Children with N. meningitides would most likely present with:,
+Points,1,
+Difficulty,1,
+Option,100,a) cherry-red spots or a purplish rash.
+Option,0,b) a low-grade fever and tachycardia.
+Option,0,c) hypothermia and an irregular pulse.
+Option,0,d) a generalized rash with intense itching.
+Hint,"Complexity: Easy			Ahead: Neurologic Emergencies and Management			Subject:Pediatric Emergencies, Page 1324			Title: Pediatric Emergencies			Feedback: See Neurologic Emergencies and Management			Taxonomy: Recall			Objective: 35-19 Describe the emergency care of a pediatric patient with meningitis, including common causes, signs, symptoms, and special precautions.",
+NewQuestion,MC,
+Title,,
+QuestionText,The signs and symptoms of poisoning in children:,
+Points,1,
+Difficulty,1,
+Option,100,"a) vary widely, depending on the child’s age and weight."
+Option,0,b) are typically consistent among all age and weight groups.
+Option,0,c) usually present within the first 10 minutes of ingestion.
+Option,0,d) are most severe if the child ingested a poisonous substance.
+Hint,"Complexity: Easy			Ahead: Poisoning Emergencies and Management			Subject:Pediatric Emergencies, Page 1325			Title: Pediatric Emergencies			Feedback: See Poisoning Emergencies and Management			Taxonomy: Recall			Objective: 35-21 Describe the emergency care of a pediatric patient who has been poisoned, including common sources of poisoning, signs, and symptoms.",
+NewQuestion,MC,
+Title,,
+QuestionText,"When questioning the parent of a child who ingested a poisonous substance, which of the following questions would be of least pertinence initially?",
+Points,1,
+Difficulty,1,
+Option,0,a) What time did the ingestion occur?
+Option,0,b) Have you noticed any signs or symptoms?
+Option,100,c) Why did your child ingest the poison?
+Option,0,d) Do you know what substance was ingested?
+Hint,"Complexity: Easy			Ahead: Poisoning Emergencies and Management			Subject:Pediatric Emergencies, Page 1325			Title: Pediatric Emergencies			Feedback: See Poisoning Emergencies and Management			Taxonomy: Recall			Objective: 35-21 Describe the emergency care of a pediatric patient who has been poisoned, including common sources of poisoning, signs, and symptoms.",
+NewQuestion,MC,
+Title,,
+QuestionText,"A 4-year-old, 16-kg female ingested an unknown quantity of liquid drain cleaner. Your assessment reveals that she is conscious and alert, is breathing adequately, and has skin burns around her mouth. You should:",
+Points,1,
+Difficulty,1,
+Option,0,a) place her supine and elevate her legs.
+Option,100,b) monitor her airway and give oxygen.
+Option,0,c) determine why the ingestion occurred.
+Option,0,d) administer 16 g of activated charcoal.
+Hint,"Complexity: Difficult			Ahead: Poisoning Emergencies and Management			Subject:Pediatric Emergencies, Page 1325			Title: Pediatric Emergencies			Feedback: See Poisoning Emergencies and Management			Taxonomy: Application			Objective: 35-21 Describe the emergency care of a pediatric patient who has been poisoned, including common sources of poisoning, signs, and symptoms.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following is an appropriate dose of activated charcoal for a 20-kg child?,
+Points,1,
+Difficulty,1,
+Option,0,a) 12.5 g
+Option,100,b) 20 g
+Option,0,c) 25 g
+Option,0,d) 50 g
+Hint,"Complexity: Moderate			Ahead: Poisoning Emergencies and Management			Subject:Pediatric Emergencies, Page 1326			Title: Pediatric Emergencies			Feedback: See Poisoning Emergencies and Management			Taxonomy: Application			Objective: 35-21 Describe the emergency care of a pediatric patient who has been poisoned, including common sources of poisoning, signs, and symptoms.",
+NewQuestion,MC,
+Title,,
+QuestionText,The most common cause of dehydration in pediatric patients is:,
+Points,1,
+Difficulty,1,
+Option,0,a) high fever.
+Option,0,b) internal blood loss.
+Option,100,c) vomiting and diarrhea.
+Option,0,d) refusal to drink fluids.
+Hint,"Complexity: Moderate			Ahead: Poisoning Emergencies and Management			Subject:Pediatric Emergencies, Page 1326			Title: Pediatric Emergencies			Feedback: See Poisoning Emergencies and Management			Taxonomy: Recall			Objective: 35-22 Describe the emergency care of a pediatric patient who is dehydrated, including how to gauge the severity of dehydration based on key signs and symptoms.",
+NewQuestion,MC,
+Title,,
+QuestionText,An infant with severe dehydration would be expected to present with:,
+Points,1,
+Difficulty,1,
+Option,0,a) excessive tearing.
+Option,0,b) moist oral mucosa.
+Option,0,c) bulging fontanelles.
+Option,100,d) absent urine output.
+Hint,"Complexity: Easy			Ahead: Poisoning Emergencies and Management			Subject:Pediatric Emergencies, Page 1326			Title: Pediatric Emergencies			Feedback: See Poisoning Emergencies and Management			Taxonomy: Recall			Objective: 35-22 Describe the emergency care of a pediatric patient who is dehydrated, including how to gauge the severity of dehydration based on key signs and symptoms.",
+NewQuestion,MC,
+Title,,
+QuestionText,"Signs of severe dehydration in an infant include all of the following, except:",
+Points,1,
+Difficulty,1,
+Option,100,a) bulging fontanelles.
+Option,0,b) profound tachycardia.
+Option,0,c) delayed capillary refill.
+Option,0,d) dry mucous membranes.
+Hint,"Complexity: Easy			Ahead: Poisoning Emergencies and Management			Subject:Pediatric Emergencies, Page 1327			Title: Pediatric Emergencies			Feedback: See Poisoning Emergencies and Management			Taxonomy: Recall			Objective: 35-22 Describe the emergency care of a pediatric patient who is dehydrated, including how to gauge the severity of dehydration based on key signs and symptoms.",
+NewQuestion,MC,
+Title,,
+QuestionText,"A 6-month-old male presents with 2 days of vomiting and diarrhea. He is conscious, but his level of activity is decreased. The infant’s mother tells you that he has not had a soiled diaper in over 12 hours. The infant’s heart rate is 140 beats/min, and his anterior fontanelle appears to be slightly sunken. You should suspect:",
+Points,1,
+Difficulty,1,
+Option,0,a) mild dehydration.
+Option,100,b) moderate dehydration.
+Option,0,c) severe dehydration.
+Option,0,d) hypovolemic shock.
+Hint,"Complexity: Difficult			Ahead: Poisoning Emergencies and Management			Subject:Pediatric Emergencies, Page 1327			Title: Pediatric Emergencies			Feedback: See Poisoning Emergencies and Management			Taxonomy: Application			Objective: 35-22 Describe the emergency care of a pediatric patient who is dehydrated, including how to gauge the severity of dehydration based on key signs and symptoms.",
+NewQuestion,MC,
+Title,,
+QuestionText,The EMT should be most concerned when a child presents with fever and:,
+Points,1,
+Difficulty,1,
+Option,0,a) chills.
+Option,100,b) a rash.
+Option,0,c) ear pain.
+Option,0,d) a headache.
+Hint,"Complexity: Moderate			Ahead: Fever Emergencies and Management			Subject:Pediatric Emergencies, Page 1328			Title: Pediatric Emergencies			Feedback: See Fever Emergencies and Management			Taxonomy: Application			Objective: 35-23 Describe the emergency care of a pediatric patient who is experiencing a fever emergency, including common causes.",
+NewQuestion,MC,
+Title,,
+QuestionText,Hyperthermia differs from fever in that it is an increase in body temperature:,
+Points,1,
+Difficulty,1,
+Option,0,a) of more than 2°F to 3°F per hour.
+Option,0,b) secondary to a severe bacterial infection.
+Option,0,c) caused by inflammation of the spinal cord.
+Option,100,d) caused by the inability of the body to cool itself.
+Hint,"Complexity: Moderate			Ahead: Fever Emergencies and Management			Subject:Pediatric Emergencies, Page 1327			Title: Pediatric Emergencies			Feedback: See Fever Emergencies and Management			Taxonomy: Recall			Objective: 35-23 Describe the emergency care of a pediatric patient who is experiencing a fever emergency, including common causes.",
+NewQuestion,MC,
+Title,,
+QuestionText,Submersion injuries in the adolescent age group are most commonly associated with:,
+Points,1,
+Difficulty,1,
+Option,100,a) alcohol.
+Option,0,b) child abuse.
+Option,0,c) hyperthermia.
+Option,0,d) swimming pools.
+Hint,"Complexity: Easy			Ahead: Drowning Emergencies and Management			Subject:Pediatric Emergencies, Page 1327			Title: Pediatric Emergencies			Feedback: See Drowning Emergencies and Management			Taxonomy: Recall			Objective: 35-24 Describe the emergency care of a pediatric patient who has experienced a drowning emergency, including common causes, signs, and symptoms.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following statements regarding pediatric trauma is correct?,
+Points,1,
+Difficulty,1,
+Option,0,a) Children are less likely than adults to be struck by a car.
+Option,0,b) A child’s head is less frequently injured than an adult’s head.
+Option,100,c) Children are more likely to experience diving-related injuries.
+Option,0,d) Inexperience and poor judgment are rare causes of pediatric trauma.
+Hint,"Complexity: Easy			Ahead: Pediatric Trauma Emergencies and Management			Subject:Pediatric Emergencies, Page 1329			Title: Pediatric Emergencies			Feedback: See Pediatric Trauma Emergencies and Management			Taxonomy: Recall			Objective: 35-25 Discuss the common causes of pediatric trauma emergencies; include how to differentiate between injury patterns in adults, infants, and children.",
+NewQuestion,MC,
+Title,,
+QuestionText,"When a child is struck by a car, the area of greatest injury depends mostly on the:",
+Points,1,
+Difficulty,1,
+Option,0,a) speed at which the car was traveling when impact occurred.
+Option,100,b) size of the child and the height of the bumper upon impact.
+Option,0,c) age of the child and the size of the car that struck him or her.
+Option,0,d) height of the child and the speed at which the car was traveling.
+Hint,"Complexity: Moderate			Ahead: Pediatric Trauma Emergencies and Management			Subject:Pediatric Emergencies, Page 1329			Title: Pediatric Emergencies			Feedback: See Pediatric Trauma Emergencies and Management			Taxonomy: Recall			Objective: 35-25 Discuss the common causes of pediatric trauma emergencies; include how to differentiate between injury patterns in adults, infants, and children.",
+NewQuestion,MC,
+Title,,
+QuestionText,"After a head injury, which of the following is more common in children than in adults?",
+Points,1,
+Difficulty,1,
+Option,0,a) Spinal cord injury
+Option,0,b) Loss of consciousness
+Option,0,c) Seizures and hypoxia
+Option,100,d) Nausea and vomiting
+Hint,"Complexity: Moderate			Ahead: Pediatric Trauma Emergencies and Management			Subject:Pediatric Emergencies, Page 1330			Title: Pediatric Emergencies			Feedback: See Pediatric Trauma Emergencies and Management			Taxonomy: Recall			Objective: 35-25 Discuss the common causes of pediatric trauma emergencies; include how to differentiate between injury patterns in adults, infants, and children.",
+NewQuestion,MC,
+Title,,
+QuestionText,"When immobilizing an injured child in a pediatric immobilization device, you should:",
+Points,1,
+Difficulty,1,
+Option,0,a) secure the head before the torso.
+Option,0,b) slide the device under the child.
+Option,0,c) pad underneath the child’s head.
+Option,100,d) secure the torso before the head.
+Hint,"Complexity: Moderate			Ahead: Pediatric Trauma Emergencies and Management			Subject:Pediatric Emergencies, Page 1331			Title: Pediatric Emergencies			Feedback: See Pediatric Trauma Emergencies and Management			Taxonomy: Recall			Objective: 35-25 Discuss the common causes of pediatric trauma emergencies; include how to differentiate between injury patterns in adults, infants, and children.",
+NewQuestion,MC,
+Title,,
+QuestionText,Padding underneath the torso when immobilizing an injured child is generally not necessary if he or she is:,
+Points,1,
+Difficulty,1,
+Option,100,a) older than 8 to 10 years of age.
+Option,0,b) complaining of severe back pain.
+Option,0,c) immobilized on a long backboard.
+Option,0,d) experiencing cardiopulmonary arrest.
+Hint,"Complexity: Easy			Ahead: Pediatric Trauma Emergencies and Management			Subject:Pediatric Emergencies, Page 1331			Title: Pediatric Emergencies			Feedback: See Pediatric Trauma Emergencies and Management			Taxonomy: Recall			Objective: 35-25 Discuss the common causes of pediatric trauma emergencies; include how to differentiate between injury patterns in adults, infants, and children.",
+NewQuestion,MC,
+Title,,
+QuestionText,"EMTs are assessing a 2-year-old child who was riding in a car seat when the vehicle struck a tree while traveling at 45 MPH. The child is conscious and appears alert. There are no obvious signs of trauma to the child, and the car seat does not appear to be damaged. The EMTs should:",
+Points,1,
+Difficulty,1,
+Option,100,a) remove the child from the car seat and secure him to a pediatric immobilization device.
+Option,0,"b) leave the child in the car seat, but pad around the child’s head with towels or a pillow."
+Option,0,c) remove the child from the car seat and secure both him and his mother to the stretcher.
+Option,0,d) secure the child in the car seat with straps and apply a pediatric-sized cervical collar.
+Hint,"Complexity: Difficult			Ahead: Pediatric Trauma Emergencies and Management			Subject:Pediatric Emergencies, Page 1331			Title: Pediatric Emergencies			Feedback: See Pediatric Trauma Emergencies and Management			Taxonomy: Application			Objective: 35-25 Discuss the common causes of pediatric trauma emergencies; include how to differentiate between injury patterns in adults, infants, and children.",
+NewQuestion,MC,
+Title,,
+QuestionText,When a child experiences a blunt chest injury:,
+Points,1,
+Difficulty,1,
+Option,0,a) the flexible rib cage protects the vital thoracic organs.
+Option,100,b) the flexible ribs can be compressed without breaking.
+Option,0,c) the sudden force against the ribs causes them to fracture.
+Option,0,d) there is usually obvious injury to the external chest wall.
+Hint,"Complexity: Easy			Ahead: Pediatric Trauma Emergencies and Management			Subject:Pediatric Emergencies, Page 1333			Title: Pediatric Emergencies			Feedback: See Pediatric Trauma Emergencies and Management			Taxonomy: Application			Objective: 35-25 Discuss the common causes of pediatric trauma emergencies; include how to differentiate between injury patterns in adults, infants, and children.",
+NewQuestion,MC,
+Title,,
+QuestionText,When a child experiences a blunt injury to the abdomen:,
+Points,1,
+Difficulty,1,
+Option,100,a) he or she can compensate for blood loss better than adults.
+Option,0,b) his or her blood pressure falls with as little as 5% blood loss.
+Option,0,c) your assessment will most often reveal bruising to the abdomen.
+Option,0,d) delayed capillary refill indicates a state of decompensated shock.
+Hint,"Complexity: Moderate			Ahead: Pediatric Trauma Emergencies and Management			Subject:Pediatric Emergencies, Page 1331			Title: Pediatric Emergencies			Feedback: See Pediatric Trauma Emergencies and Management			Taxonomy: Application			Objective: 35-25 Discuss the common causes of pediatric trauma emergencies; include how to differentiate between injury patterns in adults, infants, and children.",
+NewQuestion,MC,
+Title,,
+QuestionText,"Burns in children are commonly caused by all of the following, except:",
+Points,1,
+Difficulty,1,
+Option,0,a) hot items on a stovetop.
+Option,0,b) scalding water in a bathtub.
+Option,0,c) exposure to caustic chemicals.
+Option,100,d) entrapment in a structural fire.
+Hint,"Complexity: Easy			Ahead: Pediatric Trauma Emergencies and Management			Subject:Pediatric Emergencies, Page 1334			Title: Pediatric Emergencies			Feedback: See Pediatric Trauma Emergencies and Management			Taxonomy: Recall			Objective: 35-26 Discuss the significance of burns in pediatric patients, their most common causes, and general guidelines EMTs should follow when assessing patients who have sustained burns.",
+NewQuestion,MC,
+Title,,
+QuestionText,Severe burns in children include:,
+Points,1,
+Difficulty,1,
+Option,0,a) any superficial or partial-thickness burn that involves the legs or arms.
+Option,100,b) partial-thickness burns covering more than 20% of the body surface.
+Option,0,c) second-degree burns covering more than 10% of the body surface.
+Option,0,d) superficial burns covering more than 10% to 15% of the body surface.
+Hint,"Complexity: Moderate			Ahead: Pediatric Trauma Emergencies and Management			Subject:Pediatric Emergencies, Page 1334			Title: Pediatric Emergencies			Feedback: See Pediatric Trauma Emergencies and Management			Taxonomy: Recall			Objective: 35-26 Discuss the significance of burns in pediatric patients, their most common causes, and general guidelines EMTs should follow when assessing patients who have sustained burns.",
+NewQuestion,MC,
+Title,,
+QuestionText,Greenstick fractures occur in infants and children because:,
+Points,1,
+Difficulty,1,
+Option,0,a) the growth plate is commonly injured.
+Option,0,b) their bones are more brittle than an adult’s bones.
+Option,100,c) their bones bend more easily than an adult’s bones.
+Option,0,d) twisting injuries are more common in children.
+Hint,"Complexity: Easy			Ahead: Pediatric Trauma Emergencies and Management			Subject:Pediatric Emergencies, Page 1335			Title: Pediatric Emergencies			Feedback: See Pediatric Trauma Emergencies and Management			Taxonomy: Application			Objective: 35-25 Discuss the common causes of pediatric trauma emergencies; include how to differentiate between injury patterns in adults, infants, and children.",
+NewQuestion,MC,
+Title,,
+QuestionText,Effective methods for providing pain relief to a child with an extremity injury include:,
+Points,1,
+Difficulty,1,
+Option,0,a) separating the child from his or her parents.
+Option,100,"b) positioning, ice packs, and extremity elevation."
+Option,0,"c) avoiding the placement of a splint, if possible."
+Option,0,d) heat compresses and lowering the injured extremity.
+Hint,"Complexity: Easy			Ahead: Pediatric Trauma Emergencies and Management			Subject:Pediatric Emergencies, Page 1335			Title: Pediatric Emergencies			Feedback: See Pediatric Trauma Emergencies and Management			Taxonomy: Recall			Objective: 35-25 Discuss the common causes of pediatric trauma emergencies; include how to differentiate between injury patterns in adults, infants, and children.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following findings is least suggestive of child abuse?,
+Points,1,
+Difficulty,1,
+Option,0,a) Evidence of alcohol consumption or drug use at the scene
+Option,0,b) Burns to the hands or feet that involve a glove distribution
+Option,100,c) Consistency in the method of injury reported by the caregiver
+Option,0,d) An unexplained delay in seeking medical care after the injury
+Hint,"Complexity: Moderate			Ahead: Child Abuse and Neglect			Subject:Pediatric Emergencies, Page 1336			Title: Pediatric Emergencies			Feedback: See Child Abuse and Neglect			Taxonomy: Recall			Objective: 35-28 Describe child abuse and neglect and its possible indicators, including the medical and legal responsibilities of EMTs when caring for a pediatric patient who is a possible victim of child abuse.",
+NewQuestion,MC,
+Title,,
+QuestionText,Bruising to the _________ is least suggestive of child abuse.,
+Points,1,
+Difficulty,1,
+Option,100,a) shins
+Option,0,b) back
+Option,0,c) face
+Option,0,d) buttocks
+Hint,"Complexity: Easy			Ahead: Child Abuse and Neglect			Subject:Pediatric Emergencies, Page 1336			Title: Pediatric Emergencies			Feedback: See Child Abuse and Neglect			Taxonomy: Recall			Objective: 35-28 Describe child abuse and neglect and its possible indicators, including the medical and legal responsibilities of EMTs when caring for a pediatric patient who is a possible victim of child abuse.",
+NewQuestion,MC,
+Title,,
+QuestionText,Death caused by shaken baby syndrome is usually the result of:,
+Points,1,
+Difficulty,1,
+Option,100,a) bleeding in the brain.
+Option,0,b) multiple open fractures.
+Option,0,c) intra-abdominal hemorrhage.
+Option,0,d) fracture of the cervical spine.
+Hint,"Complexity: Moderate			Ahead: Child Abuse and Neglect			Subject:Pediatric Emergencies, Page 1338			Title: Pediatric Emergencies			Feedback: See Child Abuse and Neglect			Taxonomy: Recall			Objective: 35-28 Describe child abuse and neglect and its possible indicators, including the medical and legal responsibilities of EMTs when caring for a pediatric patient who is a possible victim of child abuse.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following is true regarding the legal implications of child abuse?,
+Points,1,
+Difficulty,1,
+Option,0,a) Child abuse must be reported only if it can be proven.
+Option,100,b) EMTs must report all suspected cases of child abuse.
+Option,0,c) EMTs should document their perceptions on the run form.
+Option,0,d) A supervisor can forbid an EMT from reporting possible abuse.
+Hint,"Complexity: Easy			Ahead: Child Abuse and Neglect			Subject:Pediatric Emergencies, Page 1336			Title: Pediatric Emergencies			Feedback: See Child Abuse and Neglect			Taxonomy: Recall			Objective: 35-28 Describe child abuse and neglect and its possible indicators, including the medical and legal responsibilities of EMTs when caring for a pediatric patient who is a possible victim of child abuse.",
+NewQuestion,MC,
+Title,,
+QuestionText,"When caring for a female child who has possibly been sexually abused, you should:",
+Points,1,
+Difficulty,1,
+Option,0,a) encourage the child to urinate and take a shower.
+Option,100,b) have a female EMT remain with her if possible.
+Option,0,c) carefully examine the genitalia for signs of injury.
+Option,0,d) immediately report your suspicions to the parents.
+Hint,"Complexity: Moderate			Ahead: Child Abuse and Neglect			Subject:Pediatric Emergencies, Page 1339			Title: Pediatric Emergencies			Feedback: See Child Abuse and Neglect			Taxonomy: Recall			Objective: 35-28 Describe child abuse and neglect and its possible indicators, including the medical and legal responsibilities of EMTs when caring for a pediatric patient who is a possible victim of child abuse.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following statements regarding sudden infant death syndrome (SIDS) is correct?,
+Points,1,
+Difficulty,1,
+Option,0,a) Certain cases of SIDS are predictable and therefore preventable.
+Option,0,b) SIDS is most commonly the result of an overwhelming infection.
+Option,100,c) Death as a result of SIDS can occur at any time of the day or night.
+Option,0,d) The cause of death following SIDS can be established by autopsy.
+Hint,"Complexity: Moderate			Ahead: Sudden Infant Death Syndrome			Subject:Pediatric Emergencies, Page 1339			Title: Pediatric Emergencies			Feedback: See Sudden Infant Death Syndrome			Taxonomy: Recall			Objective: 35-29 Discuss brief resolved unexplained event (BRUE), sudden unexpected infant death, and sudden infant death syndrome (SIDS), including its risk factors, patient assessment, and special management considerations related to the death of an infant patient.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following is not a known risk factor of SIDS?,
+Points,1,
+Difficulty,1,
+Option,0,a) Mother younger than 20 years
+Option,0,b) Low birth weight
+Option,100,c) Putting a baby to sleep on his or her back
+Option,0,d) Mother smoked during pregnancy
+Hint,"Complexity: Easy			Ahead: Sudden Infant Death Syndrome			Subject:Pediatric Emergencies, Page 1339			Title: Pediatric Emergencies			Feedback: See Sudden Infant Death Syndrome			Taxonomy: Recall			Objective: 35-29 Discuss brief resolved unexplained event (BRUE), sudden unexpected infant death, and sudden infant death syndrome (SIDS), including its risk factors, patient assessment, and special management considerations related to the death of an infant patient.",
+NewQuestion,MC,
+Title,,
+QuestionText,"Causes of infant death that might be mistaken for SIDS include all of the following, except:",
+Points,1,
+Difficulty,1,
+Option,0,a) child abuse.
+Option,0,b) meningitis.
+Option,0,c) severe infection.
+Option,100,d) hyperglycemia.
+Hint,"Complexity: Moderate			Ahead: Sudden Infant Death Syndrome			Subject:Pediatric Emergencies, Page 1339			Title: Pediatric Emergencies			Feedback: See Sudden Infant Death Syndrome			Taxonomy: Recall			Objective: 35-29 Discuss brief resolved unexplained event (BRUE), sudden unexpected infant death, and sudden infant death syndrome (SIDS), including its risk factors, patient assessment, and special management considerations related to the death of an infant patient.",
+NewQuestion,MC,
+Title,,
+QuestionText,During the attempted resuscitation of an infant with suspected SIDS:,
+Points,1,
+Difficulty,1,
+Option,0,a) discourage the family from observing.
+Option,100,b) allow the family to observe if they wish.
+Option,0,c) a law enforcement officer must be present.
+Option,0,d) give detailed updates to the infant’s parents.
+Hint,"Complexity: Moderate			Ahead: Sudden Infant Death Syndrome			Subject:Pediatric Emergencies, Page 1339			Title: Pediatric Emergencies			Feedback: See Sudden Infant Death Syndrome			Taxonomy: Application			Objective: 35-29 Discuss brief resolved unexplained event (BRUE), sudden unexpected infant death, and sudden infant death syndrome (SIDS), including its risk factors, patient assessment, and special management considerations related to the death of an infant patient.",
+NewQuestion,MC,
+Title,,
+QuestionText,"A 2-month-old infant was found unresponsive in his crib by his mother. When you arrive, you determine that the infant is apneic and pulseless. His skin is pale and cold and his arms are stiff. You should:",
+Points,1,
+Difficulty,1,
+Option,0,a) begin high-quality CPR and transport immediately.
+Option,0,b) request the medical examiner to perform an autopsy.
+Option,100,c) inform the child’s mother that her son is deceased.
+Option,0,d) begin high-quality CPR and request an ALS ambulance.
+Hint,"Complexity: Moderate			Ahead: Sudden Infant Death Syndrome			Subject:Pediatric Emergencies, Page 1339			Title: Pediatric Emergencies			Feedback: See Sudden Infant Death Syndrome			Taxonomy: Application			Objective: 35-30 Discuss the responsibilities of EMTs when communicating with a family or loved ones following the death of a child.",
+NewQuestion,MC,
+Title,,
+QuestionText,"While triaging patients at the scene of a motor-vehicle crash, you encounter a 5-year-old child who is unresponsive and apneic. After positioning his airway, you should:",
+Points,1,
+Difficulty,1,
+Option,0,a) deliver 5 rescue breaths.
+Option,100,b) palpate for a carotid pulse.
+Option,0,c) categorize him as deceased.
+Option,0,d) categorize him as immediate.
+Hint,"Complexity: Moderate			Ahead: Disaster Management			Subject:Pediatric Emergencies, Page 1335			Title: Pediatric Emergencies			Feedback: See Disaster Management			Taxonomy: Application			Objective: 35-27 Explain the four triage categories used in the JumpSTART system for pediatric patients during disaster management.",
+NewQuestion,MC,
+Title,,
+QuestionText,"EMTs are called for an unresponsive infant. When they arrive, they find the mother holding her child. She advises that the child became limp, blue, and stopped breathing. Assessment reveals that the infant is conscious and crying, and has good muscle tone and pink skin color. The mother states that she will take her child to the doctor. The EMTs should:",
+Points,1,
+Difficulty,1,
+Option,0,a) advise the mother that the danger has past and that she can take the child to the pediatrician.
+Option,0,"b) allow the mother to take her child to the doctor, but inform her that the risk for SIDS is high."
+Option,0,c) contact law enforcement personnel and advise them that they are suspicious for child abuse.
+Option,100,"d) inform that mother that, although the event seems to have resolved, transport via EMS is advisable."
+Hint,"Complexity: Difficult			Ahead: Sudden Infant Death Syndrome			Subject:Pediatric Emergencies, Page 1342			Title: Pediatric Emergencies			Feedback: See Sudden Infant Death Syndrome			Taxonomy: Application			Objective: 35-29 Discuss brief resolved unexplained event (BRUE), sudden unexpected infant death, and sudden infant death syndrome (SIDS), including its risk factors, patient assessment, and special management considerations related to the death of an infant patient.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following signs or symptoms would most likely cause the EMT to mistake a head injury for an abdominal injury in a child?,
+Points,1,
+Difficulty,1,
+Option,100,a) Vomiting
+Option,0,b) Restlessness
+Option,0,c) Lethargy
+Option,0,d) Tachycardia
+Hint,"Complexity: Moderate			Ahead: Pediatric Trauma Emergencies and Management			Subject:Pediatric Emergencies, Page 1330			Title: Pediatric Emergencies			Feedback: See Pediatric Trauma Emergencies and Management			Taxonomy: Analysis			Objective: 35-25 Discuss the common causes of pediatric trauma emergencies; include how to differentiate between injury patterns in adults, infants, and children.",
+NewQuestion,MC,
+Title,,
+QuestionText,Which of the following assessment findings should concern the EMT the most when assessing a child who experienced a seizure?,
+Points,1,
+Difficulty,1,
+Option,0,a) High fever
+Option,0,b) Tachycardia
+Option,100,c) Neck stiffness
+Option,0,d) Short postictal phase
+Hint,"Complexity: Difficult			Ahead: Neurologic Emergencies and Management			Subject:Pediatric Emergencies, Page 1324			Title: Pediatric Emergencies			Feedback: See Neurologic Emergencies and Management			Taxonomy: Analysis			Objective: 35-25 Discuss the common causes of pediatric trauma emergencies; include how to differentiate between injury patterns in adults, infants, and children.",
